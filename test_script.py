@@ -1,4 +1,4 @@
-from rdflib import Graph, Namespace, Literal
+from rdflib import Graph, Namespace, Literal, BNode
 from rdflib.namespace import OWL, RDF, RDFS, NamespaceManager
 from SPARQLWrapper import SPARQLWrapper, JSON
 import csv, random, string, json, urllib
@@ -91,6 +91,22 @@ def check_pids_csv(input_literal):
                     break
     return pid_value
 
+def find_old_pid(ng_number):
+    #json_data = get_json('https://scientific.ng-london.org.uk/export/ngpidexport_00A.json')
+    if ng_number.startswith('https'):
+        ng_number = str(ng_number.rsplit('/',1)[-1])
+    else:
+        ng_number
+    old_pid = 'None'
+    with open('ngpidexport/ngpidexport_00A.json') as f:
+        json_data = json.load(f)
+        for x in json_data:
+            for y in json_data[x]["objects"]:
+                if json_data[x]["objects"][y] == ng_number:
+                    old_pid = y
+                    break
+    return old_pid
+
 def generate_placeholder_PID(input_literal):
     N = 4
     placeholder_PID = ""
@@ -102,10 +118,14 @@ def generate_placeholder_PID(input_literal):
     input_list = [input_literal, placeholder_PID]
     fields = ['Literal value','Placeholder PID']
     existing_pid = check_pids_csv(input_literal)
+    old_pid = find_old_pid(input_literal)
 
     if existing_pid != 'None':
         print('Already in there!')
         return existing_pid
+    elif old_pid != 'None':
+        print('Old PID exists')
+        return old_pid
     elif os.path.isfile('outputs/placeholder_pids.csv') == True:      
         with open('outputs/placeholder_pids.csv', 'a', newline='') as f:
             write = csv.writer(f)
@@ -120,16 +140,14 @@ def generate_placeholder_PID(input_literal):
 
     return placeholder_PID
 
-def find_old_pid(ng_number):
-    json_data = get_json('https://scientific.ng-london.org.uk/export/ngpidexport_00A.json')
-    for x in json_data:
-        for y in json_data[x]["objects"]:
-            if json_data[x]["objects"][y] == ng_number:
-                return y
-
-def find_aat_value(material):
+def find_aat_value(material,material_type):
     wb = load_workbook(filename = 'inputs/NG_Meduim_and_Support_AAT.xlsx', read_only=True)
-    ws = wb['Medium Material']
+    if material_type == getattr(RRO,'RP20.has_medium'):
+        ws = wb['Medium Material']
+    elif material_type == getattr(RRO,'RP32.has_support'):
+        ws = wb['Support Materials']
+        #temporary placeholder until spreadsheet is fixed
+        material = 'poplar'
     for row in ws.iter_rows(values_only=True):
         if material in row:
             aat_number_string = str(row[1])
@@ -152,35 +170,94 @@ def create_title_triples(obj_PID,title_PID,title_literal,full_title=True):
     
     return new_graph
 
-def create_medium_triples(object_PID,medium_PID,aat_number,aat_type):
-    new_graph.add((getattr(NGO,object_PID),CRM.P46_is_composed_of,getattr(NGO,medium_PID)))
-    new_graph.add((getattr(NGO,medium_PID),CRM.P46_consists_of,getattr(AAT,aat_number)))
+def create_medium_triples(object_PID,medium_PID,aat_number,aat_type,medium_type):
+    new_graph.add((getattr(NGO,object_PID),CRM.P45_consists_of,getattr(NGO,medium_PID)))
+    new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,aat_number)))
     new_graph.add(((getattr(AAT,aat_number)),CRM.P1_is_identified_by,Literal(aat_type)))
     new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,CRM.E57_Material))
-    new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,'300163343')))
-    new_graph.add(((getattr(AAT,'300163343')),CRM.P1_is_identified_by,Literal('media (artists\' material)@en')))
+
+    if medium_type == 'medium':
+        new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,'300163343')))
+        new_graph.add(((getattr(AAT,'300163343')),CRM.P1_is_identified_by,Literal('media (artists\' material)@en')))
+    elif medium_type == 'support':
+        new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,'300014844')))
+        new_graph.add(((getattr(AAT,'300014844')),CRM.P1_is_identified_by,Literal('supports (artists\' materials)@en')))
+
+    return new_graph
+
+def create_collection_triples(object_PID,collection_PID,collection_title):
+    new_graph.add((getattr(NGO,object_PID),CRM.P46_forms_part_of,getattr(NGO,collection_PID)))
+    new_graph.add((getattr(NGO,collection_PID),CRM.P2_has_type,CRM.E78_Curated_Holding))
+    new_graph.add((getattr(NGO,collection_PID),CRM.P1_is_identified_by,Literal(collection_title)))
+
+    return new_graph
+
+def create_dimension_triples(object_PID,dimension_PID,dimension_value,dimension_type):
+    new_graph.add((getattr(NGO,object_PID),CRM.P43_has_dimension,getattr(NGO,dimension_PID)))
+    new_graph.add((getattr(NGO,dimension_PID),CRM.P2_has_type,CRM.E54_Dimension))
+    new_graph.add((getattr(NGO,dimension_PID),CRM.P90_has_value,Literal(dimension_value)))
+    new_graph.add((getattr(NGO,dimension_PID),CRM.P91_has_unit,getattr(AAT,'300379098')))
+    new_graph.add((getattr(AAT,'300379098'),CRM.P1_is_identified_by,Literal('centimeters@en')))
+
+    if dimension_type == 'width':
+        new_graph.add((getattr(NGO,dimension_PID),CRM.P2_has_type,getattr(AAT,'300055647')))
+        new_graph.add((getattr(AAT,'300055647'),CRM.P1_is_identified_by,Literal('width@en')))
+    elif dimension_type == 'height':
+        new_graph.add((getattr(NGO,dimension_PID),CRM.P2_has_type,getattr(AAT,'300055644')))
+        new_graph.add((getattr(AAT,'300055644'),CRM.P1_is_identified_by,Literal('height@en')))
+
+    return new_graph
+
+def create_identifier_triples(object_PID,accession_number):
+    new_graph.add((getattr(NGO,object_PID),CRM.P48_has_preferred_identifier,BNode()))
+    new_graph.add((BNode(),CRM.P2_has_type,CRM.E42_Identifier))
+    new_graph.add((BNode(),CRM.P2_has_type,getattr(AAT,'300312355')))
+    new_graph.add((getattr(AAT,'300312355'),CRM.P1_is_identified_by,Literal('accession numbers@en')))
+    new_graph.add((BNode(),CRM.P1_is_identified_by,getattr(NGO,accession_number)))
 
     return new_graph
     
 def map_object(old_graph,new_graph):
-    object_PID = find_old_pid("NG1171")
-    for x,y,z in old_graph.triples((RRI.NG1171,None,None)):
-        if y == getattr(RRO,'RP34.has_title'):
-            title_string = 'title of ' + x
-            title_PID = generate_placeholder_PID(title_string)
-            new_graph = create_title_triples(object_PID,title_PID,z,full_title=True)
-        elif y == getattr(RRO,'RP31.has_short_title'):
-            short_title_string = 'short title of ' + x
-            short_title_PID = generate_placeholder_PID(short_title_string)
-            new_graph = create_title_triples(object_PID,short_title_PID,z,full_title=False)
-        elif y == getattr(RRO,'RP98.is_in_project_category'):
-            new_graph.add((getattr(NGO,object_PID),CRM.P2_has_type,CRM.E22_Man_Made_Object))
-        elif y == getattr(RRO,'RP20.has_medium'):
-            z = str(get_property(z))
-            medium_string = 'medium of ' + x
-            medium_PID = generate_placeholder_PID(medium_string)
-            aat_number, aat_type = find_aat_value(z)
-            new_graph = create_medium_triples(object_PID,medium_PID,aat_number,aat_type)
+    for painting_id,b,c in old_graph.triples((None,RDF.type,getattr(RRO,'RC12.Painting'))):
+        for x,y,z in old_graph.triples((painting_id,None,None)):
+            object_PID = generate_placeholder_PID(x)
+            if y == getattr(RRO,'RP34.has_title'):
+                title_string = 'title of ' + x
+                title_PID = generate_placeholder_PID(title_string)
+                new_graph = create_title_triples(object_PID,title_PID,z,full_title=True)
+            elif y == getattr(RRO,'RP31.has_short_title'):
+                short_title_string = 'short title of ' + x
+                short_title_PID = generate_placeholder_PID(short_title_string)
+                new_graph = create_title_triples(object_PID,short_title_PID,z,full_title=False)
+            elif y == getattr(RRO,'RP17.has_identifier'):
+                new_graph = create_identifier_triples(object_PID,z)
+            elif y == getattr(RRO,'RP98.is_in_project_category'):
+                new_graph.add((getattr(NGO,object_PID),CRM.P2_has_type,CRM.E22_Man_Made_Object))
+            elif (y == getattr(RRO,'RP20.has_medium') or y == getattr(RRO,'RP32.has_support')):
+                z = str(get_property(z))
+                if y == getattr(RRO,'RP20.has_medium'):
+                    medium_string = 'medium of ' + x
+                    medium_type = 'medium'
+                elif y == getattr(RRO,'RP32.has_support'):
+                    medium_string = 'support medium of ' + x
+                    medium_type = 'support'
+                medium_PID = generate_placeholder_PID(medium_string)
+                aat_number, aat_type = find_aat_value(z,y)
+                new_graph = create_medium_triples(object_PID,medium_PID,aat_number,aat_type,medium_type)
+            elif y == getattr(RRO,'RP99.is_part_of'):
+                z = str(get_property(z))
+                collection_PID = generate_placeholder_PID(z)
+                new_graph = create_collection_triples(object_PID,collection_PID,collection_title=z)
+            elif (y == getattr(RRO,'RP36.has_width_in_cm') or y == getattr(RRO,'RP16.has_height_in_cm')):
+                z = str(get_property(z))
+                if y == getattr(RRO,'RP36.has_width_in_cm'):
+                    dimension_string = 'width of ' + x
+                    dimension_type = 'width'
+                elif y == getattr(RRO,'RP16.has_height_in_cm'):
+                    dimension_string = 'height of ' + x
+                    dimension_type = 'height'
+                dimension_PID = generate_placeholder_PID(dimension_string)
+                new_graph = create_dimension_triples(object_PID,dimension_PID,z,dimension_type)
     return new_graph
 
 #new_graph = map_property(g, RDF.type, RDFS.subClassOf)
@@ -199,5 +276,6 @@ def map_object(old_graph,new_graph):
 #triples_to_csv(new_graph,'crm_mapping_draft')
 
 new_mapping = map_object(g,new_graph)
-for x,y,z in new_mapping:
-    print(x,y,z)
+#for x,y,z in new_mapping:
+#    print(x,y,z)
+triples_to_csv(new_mapping,'painting_triples')
