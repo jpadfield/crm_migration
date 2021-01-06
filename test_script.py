@@ -140,7 +140,17 @@ def generate_placeholder_PID(input_literal):
 
     return placeholder_PID
 
+def create_PID_from_triple(pid_type, subj):
+    if pid_type == 'object':
+        pid_name = subj
+    else:
+        pid_name = pid_type + ' of ' + subj
+    output_pid = generate_placeholder_PID(pid_name)
+
+    return output_pid
+
 def find_aat_value(material,material_type):
+    material = str(get_property(material))
     wb = load_workbook(filename = 'inputs/NG_Meduim_and_Support_AAT.xlsx', read_only=True)
     if material_type == getattr(RRO,'RP20.has_medium'):
         ws = wb['Medium Material']
@@ -156,108 +166,113 @@ def find_aat_value(material,material_type):
             return aat_number, aat_type
     wb.close()
 
-def create_title_triples(obj_PID,title_PID,title_literal,full_title=True):
-    new_graph.add((getattr(NGO,obj_PID),CRM.P102_has_title,getattr(NGO,title_PID)))
-    new_graph.add((getattr(NGO,title_PID),CRM.P1_is_identified_by,Literal(title_literal)))
-    new_graph.add((getattr(NGO,title_PID),CRM.P2_has_type,CRM.E35_Title))
+def create_title_triples(PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP34.has_title'):
+        title_PID = create_PID_from_triple('title', subj)
 
-    if full_title == True:
-        new_graph.add((getattr(NGO,title_PID),CRM.P2_has_type,getattr(AAT,'300417209')))
-        new_graph.add((getattr(AAT,'300417209'),CRM.P1_is_identified_by,Literal('full title@en')))
-    elif full_title == False:
-        new_graph.add((getattr(NGO,title_PID),CRM.P2_has_type,getattr(AAT,'300417208')))
-        new_graph.add((getattr(AAT,'300417208'),CRM.P1_is_identified_by,Literal('brief title@en')))
+        new_graph.add((getattr(NGO,PID), CRM.P102_has_title, getattr(NGO,title_PID)))
+        new_graph.add((getattr(NGO,title_PID), CRM.P1_is_identified_by, Literal(obj)))
+        new_graph.add((getattr(NGO,title_PID), CRM.P2_has_type, CRM.E35_Title))
+        new_graph.add((getattr(NGO,title_PID), CRM.P2_has_type, getattr(AAT,'300417209')))
+        new_graph.add((getattr(AAT,'300417209'), CRM.P1_is_identified_by, Literal('full title@en')))
+
+    elif pred == getattr(RRO, 'RP31.has_short_title'):
+        title_PID = create_PID_from_triple('short title', subj)
+
+        new_graph.add((getattr(NGO,PID), CRM.P102_has_title, getattr(NGO,title_PID)))
+        new_graph.add((getattr(NGO,title_PID), CRM.P1_is_identified_by, Literal(obj)))
+        new_graph.add((getattr(NGO,title_PID), CRM.P2_has_type, CRM.E35_Title))
+        new_graph.add((getattr(NGO,title_PID), CRM.P2_has_type, getattr(AAT,'300417208')))
+        new_graph.add((getattr(AAT,'300417208'), CRM.P1_is_identified_by, Literal('brief title@en')))
+
+    return new_graph
+
+def create_medium_triples(subject_PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP20.has_medium'):
+        medium_PID = create_PID_from_triple('medium', subj)
+        aat_number, aat_type = find_aat_value(obj, pred)
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P45_consists_of, getattr(NGO,medium_PID)))
+        new_graph.add((getattr(NGO,medium_PID), CRM.P2_has_type, getattr(AAT,aat_number)))
+        new_graph.add(((getattr(AAT,aat_number)), CRM.P1_is_identified_by, Literal(aat_type)))
+        new_graph.add((getattr(NGO,medium_PID), CRM.P2_has_type, CRM.E57_Material))
+        new_graph.add((getattr(NGO,medium_PID), CRM.P2_has_type, getattr(AAT,'300163343')))
+        new_graph.add(((getattr(AAT,'300163343')), CRM.P1_is_identified_by, Literal('media (artists\' material)@en')))
+
+    elif pred == getattr(RRO, 'RP32.has_support'):
+        medium_PID = create_PID_from_triple('support material', subj)
+        aat_number, aat_type = find_aat_value(obj, pred)
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P45_consists_of, getattr(NGO,medium_PID)))
+        new_graph.add((getattr(NGO,medium_PID), CRM.P2_has_type, getattr(AAT,aat_number)))
+        new_graph.add(((getattr(AAT,aat_number)), CRM.P1_is_identified_by, Literal(aat_type)))
+        new_graph.add((getattr(NGO,medium_PID), CRM.P2_has_type, CRM.E57_Material))
+        new_graph.add((getattr(NGO,medium_PID), CRM.P2_has_type, getattr(AAT,'300014844')))
+        new_graph.add(((getattr(AAT,'300014844')), CRM.P1_is_identified_by, Literal('supports (artists\' materials)@en')))
+
+    return new_graph
+
+def create_collection_triples(subject_PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP99.is_part_of'):
+        collection_PID = create_PID_from_triple('object', subj)
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P46_forms_part_of, getattr(NGO,collection_PID)))
+        new_graph.add((getattr(NGO,collection_PID), CRM.P2_has_type, CRM.E78_Curated_Holding))
+        new_graph.add((getattr(NGO,collection_PID), CRM.P1_is_identified_by, Literal(obj)))
+
+    return new_graph
+
+def create_dimension_triples(subject_PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP36.has_width_in_cm'):
+        dimension_PID = create_PID_from_triple('width', subj)
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P43_has_dimension, getattr(NGO,dimension_PID)))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P2_has_type, CRM.E54_Dimension))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P90_has_value, Literal(obj)))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P91_has_unit, getattr(AAT,'300379098')))
+        new_graph.add((getattr(AAT,'300379098'), CRM.P1_is_identified_by, Literal('centimeters@en')))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P2_has_type, getattr(AAT,'300055647')))
+        new_graph.add((getattr(AAT,'300055647'), CRM.P1_is_identified_by, Literal('width@en')))
+
+    elif pred == getattr(RRO, 'RP16.has_height_in_cm'): 
+        dimension_PID = create_PID_from_triple('height', subj)
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P43_has_dimension, getattr(NGO,dimension_PID)))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P2_has_type, CRM.E54_Dimension))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P90_has_value, Literal(obj)))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P91_has_unit, getattr(AAT,'300379098')))
+        new_graph.add((getattr(AAT,'300379098'), CRM.P1_is_identified_by, Literal('centimeters@en')))
+        new_graph.add((getattr(NGO,dimension_PID), CRM.P2_has_type, getattr(AAT,'300055644')))
+        new_graph.add((getattr(AAT,'300055644'), CRM.P1_is_identified_by, Literal('height@en')))
+
+    return new_graph
+
+def create_identifier_triples(subject_PID, pred, obj):
+    if pred == getattr(RRO, 'RP17.has_identifier'):
+        new_graph.add((getattr(NGO, subject_PID), CRM.P48_has_preferred_identifier, BNode()))
+        new_graph.add((BNode(), CRM.P2_has_type, CRM.E42_Identifier))
+        new_graph.add((BNode(), CRM.P2_has_type, getattr(AAT, '300312355')))
+        new_graph.add((getattr(AAT, '300312355'), CRM.P1_is_identified_by, Literal('accession numbers@en')))
+        new_graph.add((BNode(), CRM.P1_is_identified_by, getattr(NGO, obj)))
+
+    return new_graph
+
+def create_type_triples(subject_PID, pred, obj):
+    if pred == getattr(RRO, 'RP98.is_in_project_category'):
+        new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, obj))
+
+    return new_graph
     
-    return new_graph
-
-def create_medium_triples(object_PID,medium_PID,aat_number,aat_type,medium_type):
-    new_graph.add((getattr(NGO,object_PID),CRM.P45_consists_of,getattr(NGO,medium_PID)))
-    new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,aat_number)))
-    new_graph.add(((getattr(AAT,aat_number)),CRM.P1_is_identified_by,Literal(aat_type)))
-    new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,CRM.E57_Material))
-
-    if medium_type == 'medium':
-        new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,'300163343')))
-        new_graph.add(((getattr(AAT,'300163343')),CRM.P1_is_identified_by,Literal('media (artists\' material)@en')))
-    elif medium_type == 'support':
-        new_graph.add((getattr(NGO,medium_PID),CRM.P2_has_type,getattr(AAT,'300014844')))
-        new_graph.add(((getattr(AAT,'300014844')),CRM.P1_is_identified_by,Literal('supports (artists\' materials)@en')))
-
-    return new_graph
-
-def create_collection_triples(object_PID,collection_PID,collection_title):
-    new_graph.add((getattr(NGO,object_PID),CRM.P46_forms_part_of,getattr(NGO,collection_PID)))
-    new_graph.add((getattr(NGO,collection_PID),CRM.P2_has_type,CRM.E78_Curated_Holding))
-    new_graph.add((getattr(NGO,collection_PID),CRM.P1_is_identified_by,Literal(collection_title)))
-
-    return new_graph
-
-def create_dimension_triples(object_PID,dimension_PID,dimension_value,dimension_type):
-    new_graph.add((getattr(NGO,object_PID),CRM.P43_has_dimension,getattr(NGO,dimension_PID)))
-    new_graph.add((getattr(NGO,dimension_PID),CRM.P2_has_type,CRM.E54_Dimension))
-    new_graph.add((getattr(NGO,dimension_PID),CRM.P90_has_value,Literal(dimension_value)))
-    new_graph.add((getattr(NGO,dimension_PID),CRM.P91_has_unit,getattr(AAT,'300379098')))
-    new_graph.add((getattr(AAT,'300379098'),CRM.P1_is_identified_by,Literal('centimeters@en')))
-
-    if dimension_type == 'width':
-        new_graph.add((getattr(NGO,dimension_PID),CRM.P2_has_type,getattr(AAT,'300055647')))
-        new_graph.add((getattr(AAT,'300055647'),CRM.P1_is_identified_by,Literal('width@en')))
-    elif dimension_type == 'height':
-        new_graph.add((getattr(NGO,dimension_PID),CRM.P2_has_type,getattr(AAT,'300055644')))
-        new_graph.add((getattr(AAT,'300055644'),CRM.P1_is_identified_by,Literal('height@en')))
-
-    return new_graph
-
-def create_identifier_triples(object_PID,accession_number):
-    new_graph.add((getattr(NGO,object_PID),CRM.P48_has_preferred_identifier,BNode()))
-    new_graph.add((BNode(),CRM.P2_has_type,CRM.E42_Identifier))
-    new_graph.add((BNode(),CRM.P2_has_type,getattr(AAT,'300312355')))
-    new_graph.add((getattr(AAT,'300312355'),CRM.P1_is_identified_by,Literal('accession numbers@en')))
-    new_graph.add((BNode(),CRM.P1_is_identified_by,getattr(NGO,accession_number)))
-
-    return new_graph
-    
-def map_object(old_graph,new_graph):
-    for painting_id,b,c in old_graph.triples((None,RDF.type,getattr(RRO,'RC12.Painting'))):
-        for x,y,z in old_graph.triples((painting_id,None,None)):
-            object_PID = generate_placeholder_PID(x)
-            if y == getattr(RRO,'RP34.has_title'):
-                title_string = 'title of ' + x
-                title_PID = generate_placeholder_PID(title_string)
-                new_graph = create_title_triples(object_PID,title_PID,z,full_title=True)
-            elif y == getattr(RRO,'RP31.has_short_title'):
-                short_title_string = 'short title of ' + x
-                short_title_PID = generate_placeholder_PID(short_title_string)
-                new_graph = create_title_triples(object_PID,short_title_PID,z,full_title=False)
-            elif y == getattr(RRO,'RP17.has_identifier'):
-                new_graph = create_identifier_triples(object_PID,z)
-            elif y == getattr(RRO,'RP98.is_in_project_category'):
-                new_graph.add((getattr(NGO,object_PID),CRM.P2_has_type,CRM.E22_Man_Made_Object))
-            elif (y == getattr(RRO,'RP20.has_medium') or y == getattr(RRO,'RP32.has_support')):
-                z = str(get_property(z))
-                if y == getattr(RRO,'RP20.has_medium'):
-                    medium_string = 'medium of ' + x
-                    medium_type = 'medium'
-                elif y == getattr(RRO,'RP32.has_support'):
-                    medium_string = 'support medium of ' + x
-                    medium_type = 'support'
-                medium_PID = generate_placeholder_PID(medium_string)
-                aat_number, aat_type = find_aat_value(z,y)
-                new_graph = create_medium_triples(object_PID,medium_PID,aat_number,aat_type,medium_type)
-            elif y == getattr(RRO,'RP99.is_part_of'):
-                z = str(get_property(z))
-                collection_PID = generate_placeholder_PID(z)
-                new_graph = create_collection_triples(object_PID,collection_PID,collection_title=z)
-            elif (y == getattr(RRO,'RP36.has_width_in_cm') or y == getattr(RRO,'RP16.has_height_in_cm')):
-                z = str(get_property(z))
-                if y == getattr(RRO,'RP36.has_width_in_cm'):
-                    dimension_string = 'width of ' + x
-                    dimension_type = 'width'
-                elif y == getattr(RRO,'RP16.has_height_in_cm'):
-                    dimension_string = 'height of ' + x
-                    dimension_type = 'height'
-                dimension_PID = generate_placeholder_PID(dimension_string)
-                new_graph = create_dimension_triples(object_PID,dimension_PID,z,dimension_type)
+def map_object(old_graph, new_graph):
+    for painting_id, _, _ in old_graph.triples((None, RDF.type, getattr(RRO,'RC12.Painting'))):
+        for subj, pred, obj in old_graph.triples((painting_id, None, None)):
+            subject_PID = generate_placeholder_PID(subj)
+            new_graph = create_title_triples(subject_PID, subj, pred, obj)
+            new_graph = create_medium_triples(subject_PID, subj, pred, obj)
+            new_graph = create_collection_triples(subject_PID, subj, pred, obj)
+            new_graph = create_dimension_triples(subject_PID, subj, pred, obj)
+            new_graph = create_identifier_triples(subject_PID, pred, obj)
+            new_graph = create_type_triples(subject_PID, pred, obj)
     return new_graph
 
 #new_graph = map_property(g, RDF.type, RDFS.subClassOf)
