@@ -262,6 +262,19 @@ def create_type_triples(subject_PID, pred, obj):
         new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, obj))
 
     return new_graph
+
+def create_event_triples(subject_PID, subj, pred):
+    if pred == getattr(RRO, 'RP68.was_acquired'):
+        acquisition_event_PID = create_PID_from_triple('acquisition', subj)
+
+        new_graph.add((getattr(NGO, subject_PID), CRM.P12_was_present_at, getattr(NGO, acquisition_event_PID)))
+
+    elif pred == getattr(RRO, 'RP72.was_produced'):
+        production_event_PID = create_PID_from_triple('production', subj)
+
+        new_graph.add((getattr(NGO, subject_PID), CRM.P12_was_present_at, getattr(NGO, production_event_PID)))
+
+    return new_graph
     
 def map_object(old_graph, new_graph):
     for painting_id, _, _ in old_graph.triples((None, RDF.type, getattr(RRO,'RC12.Painting'))):
@@ -273,6 +286,8 @@ def map_object(old_graph, new_graph):
             new_graph = create_dimension_triples(subject_PID, subj, pred, obj)
             new_graph = create_identifier_triples(subject_PID, pred, obj)
             new_graph = create_type_triples(subject_PID, pred, obj)
+            new_graph = create_event_triples(subject_PID, subj, pred)
+
     return new_graph
 
 #new_graph = map_property(g, RDF.type, RDFS.subClassOf)
