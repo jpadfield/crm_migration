@@ -1,9 +1,12 @@
 from rdflib import Graph, Namespace, Literal, BNode
-from rdflib.namespace import OWL, RDF, RDFS, NamespaceManager
+from rdflib.namespace import OWL, RDF, RDFS, NamespaceManager, XSD
 from SPARQLWrapper import SPARQLWrapper, JSON
 import csv, random, string, json, urllib
 import os.path
 from openpyxl import load_workbook
+from elasticsearch import Elasticsearch
+from alive_progress import alive_bar
+import requests
 
 from pdb import set_trace as st
 #exit this with c
@@ -13,6 +16,8 @@ RRI = Namespace("https://rdf.ng-london.org.uk/raphael/resource/")
 CRM = Namespace("http://www.cidoc-crm.org/cidoc-crm/")
 NGO = Namespace("https://round4.ng-london.org.uk/ex/lcd/")
 AAT = Namespace("http://vocab.getty.edu/page/aat/")
+TGN = Namespace("http://vocab.getty.edu/page/tgn/")
+WD = Namespace("http://www.wikidata.org/entity/")
 
 g = Graph()
 g.parse("inputs/rrr_i_v0.5.xml", format="xml")
@@ -23,6 +28,8 @@ new_graph = Graph()
 new_graph.bind('crm',CRM)
 new_graph.bind('ngo',NGO)
 new_graph.bind('aat',AAT)
+new_graph.bind('tgn',TGN)
+new_graph.bind('wd',WD)
 
 #print(len(g)) # prints 2
 
@@ -91,6 +98,20 @@ def check_pids_csv(input_literal):
                     break
     return pid_value
 
+def check_pids_elasticsearch(search_term): 
+    es = Elasticsearch(
+        cloud_id = 'crm-migration:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbyQ3ZjcwZDQ5YWQyNTQ0MWFmOTM1ZDJmYTRmZGYwYmI0MCQ0ZWRlZmYwZjM2YWE0MDA2OWNlNTExYmVlNmI1NjQ4OA==',
+        http_auth = ('elastic','QsS2wTPlUsjTQNlrvlQbnkzG'),
+    )     
+
+    pid_value = 'None'
+    res = es.search(index='pids',body={'query':{'match':{'column1':search_term}}})
+
+    for hit in res['hits']['hits']:
+        pid_value = hit['_source']['column2']
+    
+    return pid_value
+
 def find_old_pid(ng_number):
     #json_data = get_json('https://scientific.ng-london.org.uk/export/ngpidexport_00A.json')
     if ng_number.startswith('https'):
@@ -98,7 +119,7 @@ def find_old_pid(ng_number):
     else:
         ng_number
     old_pid = 'None'
-    with open('ngpidexport/ngpidexport_00A.json') as f:
+    with open('ngpidexports/ngpidexport_00A.json') as f:
         json_data = json.load(f)
         for x in json_data:
             for y in json_data[x]["objects"]:
@@ -115,28 +136,38 @@ def generate_placeholder_PID(input_literal):
         placeholder_PID += str(res)
         placeholder_PID += '-'
     placeholder_PID = placeholder_PID[:-1]
-    input_list = [input_literal, placeholder_PID]
-    fields = ['Literal value','Placeholder PID']
-    existing_pid = check_pids_csv(input_literal)
+    #input_list = [input_literal, placeholder_PID]
+    #fields = ['Literal value','Placeholder PID']
+    existing_pid = check_pids_elasticsearch(input_literal)
     old_pid = find_old_pid(input_literal)
 
     if existing_pid != 'None':
-        print('Already in there!')
         return existing_pid
     elif old_pid != 'None':
-        print('Old PID exists')
         return old_pid
+        '''
     elif os.path.isfile('outputs/placeholder_pids.csv') == True:      
         with open('outputs/placeholder_pids.csv', 'a', newline='') as f:
             write = csv.writer(f)
             write.writerow(input_list)
-            print('New records added!')
     else:
         with open('outputs/placeholder_pids.csv','w',newline='') as f:
             write = csv.writer(f)
             write.writerow(fields)
             write.writerow(input_list)
-            print('New csv created!')
+            '''
+    else:
+        es = Elasticsearch(
+            cloud_id = 'crm-migration:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbyQ3ZjcwZDQ5YWQyNTQ0MWFmOTM1ZDJmYTRmZGYwYmI0MCQ0ZWRlZmYwZjM2YWE0MDA2OWNlNTExYmVlNmI1NjQ4OA==',
+            http_auth = ('elastic','QsS2wTPlUsjTQNlrvlQbnkzG'),
+        )  
+
+        body = {
+                'column1' : input_literal,
+                'column2' : placeholder_PID
+                }
+        es.index(index = 'pids',doc_type='_doc',body=body)
+        print('new thing added to elasticsearch')
 
     return placeholder_PID
 
@@ -165,6 +196,31 @@ def find_aat_value(material,material_type):
             aat_type = row[2]
             return aat_number, aat_type
     wb.close()
+
+def wikidata_query(literal):
+    sparql = SPARQLWrapper('https://query.wikidata.org/sparql')
+    string_literal = str(literal)
+
+    query = ('''
+    SELECT DISTINCT ?year
+    WHERE
+    {
+    ?year  wdt:P31 wd:Q577 .
+            ?year rdfs:label ?yearLabel .
+    FILTER( str(?yearLabel) = "''' + string_literal + '''" ) .
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+    }
+    ''')
+
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+
+    ret = sparql.query().convert()
+    st()
+    for result in ret["results"]["bindings"]:
+        wikidata_value = result["year"]["value"]
+
+    return wikidata_value
 
 def create_title_triples(PID, subj, pred, obj):
     if pred == getattr(RRO, 'RP34.has_title'):
@@ -249,11 +305,12 @@ def create_dimension_triples(subject_PID, subj, pred, obj):
 
 def create_identifier_triples(subject_PID, pred, obj):
     if pred == getattr(RRO, 'RP17.has_identifier'):
-        new_graph.add((getattr(NGO, subject_PID), CRM.P48_has_preferred_identifier, BNode()))
-        new_graph.add((BNode(), CRM.P2_has_type, CRM.E42_Identifier))
-        new_graph.add((BNode(), CRM.P2_has_type, getattr(AAT, '300312355')))
+        blank_node = BNode()
+        new_graph.add((getattr(NGO, subject_PID), CRM.P48_has_preferred_identifier, blank_node))
+        new_graph.add((blank_node, CRM.P2_has_type, CRM.E42_Identifier))
+        new_graph.add((blank_node, CRM.P2_has_type, getattr(AAT, '300312355')))
         new_graph.add((getattr(AAT, '300312355'), CRM.P1_is_identified_by, Literal('accession numbers@en')))
-        new_graph.add((BNode(), CRM.P1_is_identified_by, getattr(NGO, obj)))
+        new_graph.add((blank_node, CRM.P1_is_identified_by, getattr(NGO, obj)))
 
     return new_graph
 
@@ -263,16 +320,39 @@ def create_type_triples(subject_PID, pred, obj):
 
     return new_graph
 
+def create_time_span_triples(subject_PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP209.has_time_span'):
+        time_span_PID = create_PID_from_triple('time span', subj)
+        wikidata_year = wikidata_query(obj)
+
+        #will need to change this logic if we encounter a time span that isn't a year
+        new_graph.add((getattr(NGO, subject_PID), CRM.P4_has_time_span, time_span_PID))
+        new_graph.add((time_span_PID, CRM.P2_has_type, CRM.E52_Time_span))
+        new_graph.add((time_span_PID, CRM.P2_has_type, getattr(AAT, '300379244')))
+        new_graph.add((getattr(AAT, '300379244', CRM.P1_is_identified_by, Literal('years@en'))))
+        new_graph.add((time_span_PID, CRM.P1_is_identified_by, Literal(obj)))
+        new_graph.add((time_span_PID, CRM.P82_at_some_time_within, Literal(obj, datatype=XSD.gYear)))
+        new_graph.add((time_span_PID, OWL.sameAs, wikidata_year))
+
+    return new_graph
+
 def create_event_triples(subject_PID, subj, pred):
     if pred == getattr(RRO, 'RP68.was_acquired'):
-        acquisition_event_PID = create_PID_from_triple('acquisition', subj)
-
-        new_graph.add((getattr(NGO, subject_PID), CRM.P12_was_present_at, getattr(NGO, acquisition_event_PID)))
-
+        event_PID = create_PID_from_triple('acquisition', subj)
     elif pred == getattr(RRO, 'RP72.was_produced'):
-        production_event_PID = create_PID_from_triple('production', subj)
+        event_PID = create_PID_from_triple('production', subj)
+        event_type = CRM.E12_Production
+        aat_event_id = getattr(AAT, '300404387')
+        aat_event_type = Literal('creating (artistic activity)@en')
+    elif pred == getattr(RRO, 'RP34.was_born_in'):
+        event_PID = create_PID_from_triple('birth', subj)
+    elif pred == getattr(RRO, 'RP4.died_in'):
+        event_PID = create_PID_from_triple('death', subj)
 
-        new_graph.add((getattr(NGO, subject_PID), CRM.P12_was_present_at, getattr(NGO, production_event_PID)))
+    new_graph.add((getattr(NGO, subject_PID), CRM.P12_was_present_at, getattr(NGO, event_PID)))
+    new_graph.add((getattr(NGO, event_PID), CRM.P2_has_type, event_type))
+    new_graph.add((getattr(NGO, event_PID), CRM.P2_has_type, aat_event_id))
+    new_graph.add((aat_event_id, CRM.P1_is_identified_by, aat_event_type))
 
     return new_graph
     
@@ -287,8 +367,19 @@ def map_object(old_graph, new_graph):
             new_graph = create_identifier_triples(subject_PID, pred, obj)
             new_graph = create_type_triples(subject_PID, pred, obj)
             new_graph = create_event_triples(subject_PID, subj, pred)
+            #or would it be wiser to call map_event from inside this function? not sure if that makes everything
+            #too messy or if it's workable
 
     return new_graph
+
+'''
+def map_event(old_graph, new_graph):
+    for event_id, _, _ in old_graph.triples((None, getattr(RRO, 'RP72.was_produced'))):
+        for subj, pred, obj in old_graph.triples((event_id, None, None)):
+            subject_PID = generate_placeholder_PID(subj)
+
+    return new_graph
+'''
 
 #new_graph = map_property(g, RDF.type, RDFS.subClassOf)
 #query_graph(new_graph,None,RDFS.subClassOf,None)
@@ -302,7 +393,7 @@ def map_object(old_graph, new_graph):
 
 #query_graph(g, None, getattr(RRO,'RP34.has_title'), None)
 #map_property(g, new_graph, getattr(RRO,'RP34.has_title'), getattr(CRM,'P102_Has_Title'))
-#query_graph(new_graph, None, getattr(CRM,'P102_Has_Title'), None)
+#query_graph(g, None, None, getattr(RRI, 'RC239.Exhibition'))
 #triples_to_csv(new_graph,'crm_mapping_draft')
 
 new_mapping = map_object(g,new_graph)
