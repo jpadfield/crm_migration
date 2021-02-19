@@ -1,0 +1,12 @@
+Subject	Predicate	Object
+aat:300025103	crm:P1i_identifies	artists (visual artists)
+ngo:OLKK-HOJ5-OJW9-ZX70	crm:P2_has_type	crm:E41_Appellation
+ngo:X49G-D5FL-LLD5-L23X	crm:P1_is_identified_by	ngo:OLKK-HOJ5-OJW9-ZX70
+ngo:OLKK-HOJ5-OJW9-ZX70	crm:P1i_identifies	Raffaello Sanzio
+ngo:OLKK-HOJ5-OJW9-ZX70	crm:P1i_identifies	Raphael
+ngo:X49G-D5FL-LLD5-L23X	crm:P2_has_type	aat:300025103
+ngo:X49G-D5FL-LLD5-L23X	crm:P3_has_note	"Italian painter, draughtsman and architect. He has always been acknowledged as one of the greatest European artists. With Leonardo da Vinci, Michelangelo and Titian, he was one of the most famous painters working in Italy in the period from 1500 to 1520, often identified as the High Renaissance, and in this period he was perhaps the most important figure. His early altarpieces (of 1500�07) were made for Citt� di Castello and Perugia; in Florence between 1504 and 1508 he created some of his finest portraits and a series of devotional paintings of the Holy Family. In 1508 he moved to Rome, where he decorated in fresco the <i>Stanze</i> of the papal apartments in the Vatican Palace�perhaps his most celebrated works�as well as executing smaller paintings in oil (including portraits) and a series of major altarpieces, some of which were sent from Rome to other centres. In Rome, Raphael came to run a large workshop. He also diversified, working as an architect and designer of prints.
+<a href='http://www.oxfordartonline.com/subscriber/article/grove/art/T070770?goto=raphael&_start=1&type=biography&pos=1' alt=''>N. Penny, �Raphael�, in Grove Art Online. Oxford Art Online</a>
+By permission of Oxford University Press, Inc.
+Raphael, 'Self Portrait', Florence, Galleria degli Uffizi. � The Art Archive/Galleria degli Uffizi, Florence/Alfredo Dagli Orti."
+ngo:X49G-D5FL-LLD5-L23X	crm:P2_has_type	crm:E21_Person

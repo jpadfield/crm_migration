@@ -50,3 +50,49 @@ def sparql_query_pythonic(subject,csv_format=True):
         return new_dataframe
     else:
         return qres
+
+
+def aat_endpoint_query(literal):
+    sparql = SPARQLWrapper('http://vocab.getty.edu/')
+
+    query = ('''
+        select ?Subject ?Term ?Parents ?Descr ?ScopeNote ?Type (coalesce(?Type1,?Type2) as ?ExtraType) {
+
+        ?Subject luc:term "fishing* AND vessel*"; a ?typ.
+
+        ?typ rdfs:subClassOf gvp:Subject; rdfs:label ?Type.
+
+        filter (?typ != gvp:Subject)
+
+        optional {?Subject gvp:placeTypePreferred [gvp:prefLabelGVP [xl:literalForm ?Type1]]}
+
+        optional {?Subject gvp:agentTypePreferred [gvp:prefLabelGVP [xl:literalForm ?Type2]]}
+
+        optional {?Subject gvp:prefLabelGVP [xl:literalForm ?Term]}
+
+        optional {?Subject gvp:parentStringAbbrev ?Parents}
+
+        optional {?Subject foaf:focus/gvp:biographyPreferred/schema:description ?Descr}
+
+        optional {?Subject skos:scopeNote [dct:language gvp_lang:en; rdf:value ?ScopeNote]}}
+        '''
+    )
+
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+
+    ret = sparql.query().convert()
+
+    for result in ret["results"]["bindings"]:
+        print(result)
+
+
+    else:
+        es = Elasticsearch([{'host':'localhost','port':9200}])  
+
+        body = {
+                'column1' : input_literal,
+                'column2' : placeholder_PID
+                }
+        es.index(index = 'pids',doc_type='_doc',body=body)
+        print('new thing added to elasticsearch')

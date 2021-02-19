@@ -1,0 +1,14 @@
+Subject	Predicate	Object
+ngo:8OUW-09TL-0XQC-TW7H	crm:P82b_end_of_the_end	1505-12-31
+ngo:Y4N0-JNGT-MOPV-GWNH	crm:P4_has_time_span	ngo:8OUW-09TL-0XQC-TW7H
+ngo:Y4N0-JNGT-MOPV-GWNH	crm:P14_carried_out_by	ngo:X49G-D5FL-LLD5-L23X
+ngo:X49G-D5FL-LLD5-L23X	crm:P2_has_type	crm:E39_Actor
+aat:300379244	crm:P1i_identifies	years@en
+ngo:8OUW-09TL-0XQC-TW7H	crm:P82a_begin_of_the_begin	1505-01-01
+aat:300404387	crm:P1i_identifies	creating (artistic activity)@en
+ngo:Y4N0-JNGT-MOPV-GWNH	crm:P108i_was_produced_by	ngo:QWNH-VGS9-9M2H-7ZQC
+ngo:QWNH-VGS9-9M2H-7ZQC	crm:P2_has_type	aat:300404387
+ngo:8OUW-09TL-0XQC-TW7H	crm:P1i_identifies	ngo:RRR_1505
+ngo:8OUW-09TL-0XQC-TW7H	crm:P2_has_type	aat:300379244
+ngo:8OUW-09TL-0XQC-TW7H	crm:P2_has_type	crm:E52_Time_span
+ngo:QWNH-VGS9-9M2H-7ZQC	crm:P2_has_type	crm:E12_Production
