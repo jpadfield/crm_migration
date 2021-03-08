@@ -44,7 +44,44 @@ new_graph.namespace_manager.bind('rri',RRI)
 
 def query_graph(graph,subj,pred,obj):
     for s,p,o in graph.triples((subj,pred,obj)):
-        print(s.n3(new_graph.namespace_manager),p.n3(new_graph.namespace_manager),o.n3(new_graph.namespace_manager))
+        #print(s.n3(new_graph.namespace_manager),p.n3(new_graph.namespace_manager),o.n3(new_graph.namespace_manager))
+        return s, p, o
+
+def query_objects(graph, subj, pred, obj):
+    objects_list = []
+    for s, p, o in graph.triples((subj, pred, obj)):
+        o = str(get_property(o))
+        objects_list.append(o)
+    return objects_list
+
+def sparql_query_pythonic(csv_format=True):
+    qres = g.query(
+        """
+        PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX owl:<http://www.w3.org/2002/07/owl#>
+        PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX crm:<http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.2_english_label.rdfs#>
+        PREFIX rro:<https://rdf.ng-london.org.uk/raphael/ontology/>
+        PREFIX rri:<https://rdf.ng-london.org.uk/raphael/resource/>
+
+        SELECT 
+        DISTINCT ?o
+        WHERE { ?s rro:RP98.is_in_project_category ?o . }
+        """
+    )
+
+    if csv_format == True: 
+        new_dataframe = []
+        for row in qres:
+            triples = '%s' % row
+            innerlist = []
+            if 1 == 1:
+                innerlist = triples.split(',')
+            new_dataframe.append(innerlist)
+        new_dataframe = [x for x in new_dataframe if x]
+        return new_dataframe
+    else:
+        return qres
 
 def map_property(graph,new_graph, old_property, new_property):
     for x, old_property, z in graph.triples((None, old_property, None)):
@@ -169,13 +206,11 @@ def find_old_pid(ng_number):
         ng_number
     old_pid = None
 
-    with open('ngpidexports/ngpidexport_00A.json') as f:
-        json_data = json.load(f)
-        for x in json_data:
-            for y in json_data[x]["objects"]:
-                if json_data[x]["objects"][y] == ng_number:
-                    old_pid = y
-                    break
+    export_url = 'https://collectiondata.ng-london.org.uk/es/ng-public/_search?q=identifier.object_number:' + ng_number
+    json = get_json(export_url)
+    if json['hits']['total'] > 0:
+        old_pid = json['hits']['hits'][0]['_id']
+
     return old_pid
 
 def generate_placeholder_PID(input_literal):
@@ -392,6 +427,28 @@ def create_dimension_triples(subject_PID, subj, pred, obj):
         new_graph.add((dimension_PID, CRM.P2_has_type, getattr(AAT,'300055644')))
         new_graph.add((getattr(AAT,'300055644'), CRM.P1i_identifies, Literal('height@en')))
 
+    elif pred == getattr(RRO, 'RP225.has_width_in_pixels'):
+        dimension_PID = BNode()
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P43_has_dimension, dimension_PID))
+        new_graph.add((dimension_PID, CRM.P2_has_type, CRM.E54_Dimension))
+        new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.double)))
+        new_graph.add((dimension_PID, CRM.P91_has_unit, getattr(AAT,'300266190')))
+        new_graph.add((getattr(AAT,'300266190'), CRM.P1i_identifies, Literal('pixels@en')))
+        new_graph.add((dimension_PID, CRM.P2_has_type, getattr(AAT,'300055647')))
+        new_graph.add((getattr(AAT,'300055647'), CRM.P1i_identifies, Literal('width@en')))
+
+    elif pred == getattr(RRO, 'RP227.has_height_in_pixels'):
+        dimension_PID = BNode()
+
+        new_graph.add((getattr(NGO,subject_PID), CRM.P43_has_dimension, dimension_PID))
+        new_graph.add((dimension_PID, CRM.P2_has_type, CRM.E54_Dimension))
+        new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.double)))
+        new_graph.add((dimension_PID, CRM.P91_has_unit, getattr(AAT,'300266190')))
+        new_graph.add((getattr(AAT,'300266190'), CRM.P1i_identifies, Literal('pixels@en')))
+        new_graph.add((dimension_PID, CRM.P2_has_type, getattr(AAT,'300055644')))
+        new_graph.add((getattr(AAT,'300055644'), CRM.P1i_identifies, Literal('height@en')))
+
     return new_graph
 
 def create_identifier_triples(subject_PID, pred, obj):
@@ -406,9 +463,7 @@ def create_identifier_triples(subject_PID, pred, obj):
     return new_graph
 
 def create_type_triples(subject_PID, pred, obj):
-    if pred == getattr(RRO, 'RP98.is_in_project_category'):
-        new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, obj))
-    elif pred == RDF.type and obj == getattr(RRO, 'RC12.Painting'):
+    if pred == RDF.type and obj == getattr(RRO, 'RC12.Painting'):
         new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, CRM.E22_Human_Made_Object))
     elif pred == RDF.type and obj == getattr(RRO, 'RC40.Person'):
         new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, CRM.E21_Person))
@@ -417,7 +472,7 @@ def create_type_triples(subject_PID, pred, obj):
     elif pred == RDF.type and obj == getattr(RRO, 'RC10.Building'):
         new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, CRM.E53_Place))
     elif pred == RDF.type and obj == getattr(RRO, 'RC26.Digital_Document'):
-        new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, CRM.E31_Document))
+        new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, CRM.E73_Information_Object))
 
     return new_graph
 
@@ -610,7 +665,7 @@ def create_reference_triples(subject_PID, subj, pred, obj):
         new_graph.add((getattr(NGO, subject_PID), CRM.P94i_was_created_by, creation_event))
         new_graph.add((creation_event, CRM.P2_has_type, CRM.E65_Creation))
 
-        new_graph.add((getattr(NGO, subject_PID), CRM.P4_has_time_span, time_span_PID))
+        new_graph.add((creation_event, CRM.P4_has_time_span, time_span_PID))
         new_graph.add((time_span_PID, CRM.P2_has_type, CRM.E52_Time_span))
         new_graph.add((time_span_PID, CRM.P2_has_type, getattr(AAT, '300379244')))
         new_graph.add((getattr(AAT, '300379244'), CRM.P1i_identifies, Literal('years@en')))
@@ -632,12 +687,12 @@ def create_file_triples(subject_PID, pred, obj):
         new_graph.add((file_name, CRM.P1i_identifies, Literal(obj)))
         new_graph.add((getattr(WD, 'Q1144928'), CRM.P1i_identifies, Literal('filename@en')))
     elif pred == getattr(RRO, 'RP15.has_format'):
-        file_format = BNode()
-
-        new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, file_format))
         if obj == getattr(RRI, 'RCL88.PDF'):
-            new_graph.add((file_format, CRM.P2_has_type, getattr(AAT, '300266022')))
+            new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, getattr(AAT, '300266022')))
             new_graph.add((getattr(AAT, '300266022'), CRM.P1i_identifies, Literal('PDF@en')))
+        elif obj == getattr(RRI, 'RCL90.Jpeg'):
+            new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, getattr(AAT, '300266224')))
+            new_graph.add((getattr(AAT, '300266224'), CRM.P1i_identifies, Literal('JPEG@en')))
 
     elif pred == getattr(RRO, 'RP14.has_file_size'):
         file_size = BNode()
@@ -649,6 +704,112 @@ def create_file_triples(subject_PID, pred, obj):
         new_graph.add((getattr(AAT,'300265869'), CRM.P1i_identifies, Literal('bytes@en')))
         new_graph.add((file_size, CRM.P2_has_type, getattr(AAT,'300265863')))
         new_graph.add((getattr(AAT,'300265863'), CRM.P1i_identifies, Literal('size for computer files@en')))
+
+    return new_graph
+
+def create_examination_event_triples(old_graph, subject_PID, subj, pred, obj):
+    if obj == getattr(RRI, 'RCL211.X-Ray_Images') or obj == getattr(RRI, 'RCL210.X-Ray_Examination'):
+        technique_name = 'x-ray'
+        technique_event_title = 'X-Ray Examination of '
+        aat_value = '300419323'
+        aat_title = 'x-radiography@en'
+    elif obj == getattr(RRI, 'RCL212.UV_Examination') or obj == getattr(RRI, 'RCL213.UV_Images'):
+        technique_name = 'UV'
+        technique_event_title = 'UV Examination of '
+        aat_value = '300053465'
+        aat_title = 'ultraviolet photography@en'
+    elif obj == getattr(RRI, 'RCL209.Infrared_Reflectography'):
+        technique_name = 'infrared reflectography'
+        technique_event_title = 'Infrared Reflectography of '
+        aat_value = '300379538'
+        aat_title = 'infrared reflectography@en'
+    elif obj == getattr(RRI, 'RCL208.Infrared_Photography') or obj == getattr(RRI, 'RCL207.Infrared_Examination'):
+        technique_name = 'infrared photography'
+        technique_event_title = 'Infrared Photography of '
+        aat_value = '300053463'
+        aat_title = 'infrared photography@en'
+    elif obj == getattr(RRI, 'RCL284.Photomicrographs'):
+        technique_name = 'photomicrography'
+        technique_event_title = 'Photomicrography of '
+        aat_value = '300053550'
+        aat_title = 'microphotography@en'
+    elif obj == getattr(RRI, 'RCL215.Visible_Light_Images') or obj == getattr(RRI, 'RCL196.Images_of_Frames') or obj == getattr(RRI, 'RCL214.Visible_Light_Examination'):
+        technique_name = 'visible light imaging'
+        technique_event_title = 'Visible Light Image of '
+        aat_value = '300054225'
+        aat_title = 'photography (process)@en'
+    elif obj == getattr(RRI, 'RCL204.Cross_Sections'):
+        technique_name = 'cross section sampling'
+        technique_event_title = 'Cross Section Sampling of '
+        aat_value = '300034254'
+        aat_title = 'cross sections@en'
+    elif obj == getattr(RRI, 'RCL197.Frame_Archive') or obj == getattr(RRI, 'RCL195.Framing'):
+        technique_name = 'framing'
+        technique_event_title = 'Framing of '
+        aat_value = '300240903'
+        aat_title = 'framing (processes)@en'
+    elif obj == getattr(RRI, 'RCL201.Paint_Binding_Medium') or obj == getattr(RRI, 'RCL266.Unmounted_Samples'):
+        technique_name = 'sampling'
+        technique_event_title = 'Sampling of '
+        aat_value = '300379429'
+        aat_title = 'sampling@en'
+    elif obj == getattr(RRI, 'RCL203.Microscopy'):
+        technique_name = 'microscopic examination'
+        technique_event_title = 'Microscopic Examination of '
+        aat_value = '300054100'
+        aat_title = 'microscopy@en'
+    elif obj == getattr(RRI, 'RCL267.SEM_Examination'):
+        technique_name = 'SEM examination'
+        technique_event_title = 'SEM Examination of '
+        aat_value = '300224955'
+        aat_title = 'electron microscopy@en'
+
+    related_works = query_objects(old_graph, subj, getattr(RRO, 'RP40.is_related_to'), None)
+    for work in related_works:
+        related_painting_PID = generate_placeholder_PID(work)
+        xray_event = create_PID_from_triple(technique_name, work)
+        xray_event_title = technique_event_title + work
+
+        new_graph.add((getattr(NGO, subject_PID), CRM.P70_documents, getattr(NGO, xray_event)))
+        new_graph.add((getattr(NGO, xray_event), CRM.P1i_identifies, Literal(xray_event_title)))
+        new_graph.add((getattr(NGO, xray_event), CRM.P2_has_type, CRM.E7_Activity))
+        new_graph.add((getattr(NGO, xray_event), CRM.P12_occurred_in_the_presence_of, getattr(NGO, related_painting_PID)))
+        new_graph.add((getattr(NGO, xray_event), CRM.P33_used_specific_technique, getattr(AAT, aat_value)))
+        new_graph.add((getattr(AAT, aat_value), CRM.P1i_identifies, Literal(aat_title)))
+
+    return new_graph
+
+def create_provenance_event_triples(old_graph, subject_PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP98.is_in_project_category'):
+        if obj == getattr(RRI, 'RCL192.Conservation'):
+            related_works = query_objects(old_graph, subj, getattr(RRO, 'RP40.is_related_to'), None)
+            for work in related_works:
+                related_painting_PID = generate_placeholder_PID(work)
+                conservation_event = create_PID_from_triple('conservation', work)
+                conservation_event_title = 'Conservation of ' + work
+
+                new_graph.add((getattr(NGO, subject_PID), CRM.P70_documents, getattr(NGO, conservation_event)))
+                new_graph.add((getattr(NGO, conservation_event), CRM.P1i_identifies, Literal(conservation_event_title)))
+                new_graph.add((getattr(NGO, conservation_event), CRM.P2_has_type, CRM.E11_Modification))
+                new_graph.add((getattr(NGO, conservation_event), CRM.P31_has_modified, getattr(NGO, related_painting_PID)))
+
+    return new_graph   
+
+def image_production_event_triples(old_graph, subject_PID, subj, pred, obj):
+    if pred == getattr(RRO, 'RP98.is_in_project_category'):
+        if obj == getattr(RRI, 'RCL187.Drawings') or obj == getattr(RRI, 'RCL188.Copies') or obj == getattr(RRI, 'RCL189.Prints') or obj == getattr(RRI, 'RCL271.Study_Images'):
+            related_works = query_objects(old_graph, subj, getattr(RRO, 'RP40.is_related_to'), None)
+            creation_event_PID = create_PID_from_triple('creation', obj)
+
+            new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, CRM.E24_Physical_Human_Made_Thing))
+            new_graph.add((getattr(NGO, subject_PID), CRM.P108i_was_produced_by, getattr(NGO, creation_event_PID)))
+            new_graph.add((getattr(NGO, creation_event_PID), CRM.P2_has_type, CRM.E12_Production))
+            new_graph.add((getattr(NGO, creation_event_PID), CRM.P2_has_type, getattr(AAT, '300404387')))
+            new_graph.add((getattr(AAT, '300404387'), CRM.P1i_identifies, Literal('creating (artistic activity)@en')))
+
+            for work in related_works:
+                related_painting_PID = generate_placeholder_PID(work)
+                new_graph.add((getattr(NGO, subject_PID), CRM.P62_depicts, getattr(NGO, related_painting_PID)))
 
     return new_graph
     
@@ -701,7 +862,7 @@ def map_person(old_graph, new_graph):
     return new_graph
 
 def map_institution(old_graph, new_graph):
-    for institution_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC41.Institution'))):
+    for institution_name, _, _ in old_graph.triples((getattr(RRI, 'The_National_Gallery'), RDF.type, getattr(RRO, 'RC41.Institution'))):
         subject_PID = generate_placeholder_PID(institution_name)
         
         wikidata_name = wikidata_query(institution_name, 'institution')
@@ -710,12 +871,12 @@ def map_institution(old_graph, new_graph):
         
         new_graph = create_institution_triples(old_graph, new_graph, subject_PID, institution_name)
     
-    for building_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC10.Building'))):
+    for building_name, _, _ in old_graph.triples((getattr(RRI, 'The_National_Gallery'), RDF.type, getattr(RRO, 'RC10.Building'))):
         subject_PID = create_PID_from_triple('building', building_name)
 
         new_graph = create_building_triples(old_graph, new_graph, subject_PID, building_name)
 
-    for room_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC11.Room'))):
+    for room_name, _, _ in old_graph.triples((getattr(RRI, 'Room_8'), RDF.type, getattr(RRO, 'RC11.Room'))):
         subject_PID = generate_placeholder_PID(room_name)
 
         for subj, pred, obj in old_graph.triples((room_name, None, None)):
@@ -726,17 +887,33 @@ def map_institution(old_graph, new_graph):
 def map_document(old_graph, new_graph):
     for doc_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC26.Digital_Document'))):
         subject_PID = generate_placeholder_PID(doc_name)
+        conceptual_subject_PID = create_PID_from_triple('content', doc_name)
+
+        new_graph.add((getattr(NGO, subject_PID), CRM.P165_incorporates, getattr(NGO, conceptual_subject_PID)))
+        new_graph.add((getattr(NGO, conceptual_subject_PID), CRM.P2_has_type, CRM.E90_Symbolic_Object))
 
         for subj, pred, obj in old_graph.triples((doc_name, None, None)):
             new_graph = create_type_triples(subject_PID, pred, obj)
-            new_graph = create_reference_triples(subject_PID, subj, pred, obj)
+            new_graph = create_reference_triples(conceptual_subject_PID, subj, pred, obj)
             new_graph = create_file_triples(subject_PID, pred, obj)
+            new_graph = create_examination_event_triples(g, subject_PID, subj, pred, obj)
             new_graph = create_actor_event_relationship_triples(subject_PID, pred, obj)
 
     return new_graph
 
-#def output_example_for_visualisation(new_graph):
+def map_image(old_graph, new_graph):
+    for image_name, _, _ in old_graph.triples((getattr(RRI, 'Raphael_W029'), RDF.type, getattr(RRO, 'RC25.Image'))):
+        subject_PID = generate_placeholder_PID(image_name)
 
+        for subj, pred, obj in old_graph.triples((image_name, None, None)):
+            new_graph = create_file_triples(subject_PID, pred, obj)
+            new_graph = create_dimension_triples(subject_PID, subj, pred, obj)
+            new_graph = create_provenance_event_triples(g, subject_PID, subj, pred, obj)
+
+    return new_graph
+
+#def output_example_for_visualisation(new_graph):
+#print(sparql_query_pythonic())
 
 #new_graph = map_property(g, RDF.type, RDFS.subClassOf)
 #query_graph(new_graph,None,RDFS.subClassOf,None)
@@ -750,16 +927,17 @@ def map_document(old_graph, new_graph):
 
 #query_graph(g, None, getattr(RRO,'RP34.has_title'), None)
 #map_property(g, new_graph, getattr(RRO,'RP34.has_title'), getattr(CRM,'P102_Has_Title'))
-#query_graph(g, None, getattr(RRO, 'RP15.has_format'), None)
+#query_graph(g, None, getattr(RRO, 'RP98.is_in_project_category'), None)
 #triples_to_csv(new_graph,'crm_mapping_draft')
 
 #map_event(g, new_graph)
 #map_object(g, new_graph)
 #map_institution(g, new_graph)
 #map_person(g, new_graph)
-map_document(g, new_graph)
-for x,y,z in new_graph:
-    print(x.n3(new_graph.namespace_manager), y.n3(new_graph.namespace_manager), z.n3(new_graph.namespace_manager))
-triples_to_tsv(new_graph,'document')
+#map_document(g, new_graph)
+#map_image(g, new_graph)
+#for x,y,z in new_graph:
+#    print(x.n3(new_graph.namespace_manager), y.n3(new_graph.namespace_manager), z.n3(new_graph.namespace_manager))
+#triples_to_tsv(new_graph,'image_test')
 #new_graph.serialize(destination='outputs/new_graph.xml', format='xml')
 #print('Serialized to RDF')
