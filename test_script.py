@@ -435,7 +435,10 @@ def create_dimension_triples(subject_PID, subj, pred, obj):
 
         new_graph.add((getattr(NGO,subject_PID), CRM.P43_has_dimension, dimension_PID))
         new_graph.add((dimension_PID, CRM.P2_has_type, CRM.E54_Dimension))
-        new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.double)))
+        if ';' in obj:
+            new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.string)))
+        else:
+            new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.double)))
         new_graph.add((dimension_PID, CRM.P91_has_unit, getattr(AAT,'300379098')))
         new_graph.add((getattr(AAT,'300379098'), CRM.P1i_identifies, Literal('centimeters@en')))
         new_graph.add((dimension_PID, CRM.P2_has_type, getattr(AAT,'300055647')))
@@ -446,7 +449,10 @@ def create_dimension_triples(subject_PID, subj, pred, obj):
 
         new_graph.add((getattr(NGO,subject_PID), CRM.P43_has_dimension, dimension_PID))
         new_graph.add((dimension_PID, CRM.P2_has_type, CRM.E54_Dimension))
-        new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.double)))
+        if ';' in obj:
+            new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.string)))
+        else:
+            new_graph.add((dimension_PID, CRM.P90_has_value, Literal(obj, datatype=XSD.double)))
         new_graph.add((dimension_PID, CRM.P91_has_unit, getattr(AAT,'300379098')))
         new_graph.add((getattr(AAT,'300379098'), CRM.P1i_identifies, Literal('centimeters@en')))
         new_graph.add((dimension_PID, CRM.P2_has_type, getattr(AAT,'300055644')))
@@ -1100,7 +1106,7 @@ def map_document(old_graph, new_graph):
     return new_graph
 
 def map_image(old_graph, new_graph):
-    for image_name, _, _ in old_graph.triples((getattr(RRI, 'N-0168-00-000048'), RDF.type, getattr(RRO, 'RC25.Image'))):
+    for image_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC25.Image'))):
         subject_PID = generate_placeholder_PID(image_name)
         conceptual_subject_PID = create_PID_from_triple('content', image_name)
 
