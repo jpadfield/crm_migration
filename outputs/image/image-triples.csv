@@ -1,0 +1,56 @@
+Subject	Predicate	Object
+N0b1f193440c54e8db2503d00b9aee60e	crm:P2_has_type	wd:Q873806
+aat:300055644	crm:P1i_identifies	height@en
+Nb7cbd2a08f7141528eeec282db401923	crm:P2_has_type	crm:E54_Dimension
+ngo:4BG8-TEE8-5WON-PR4C	crm:P2_has_type	aat:300266224
+Nb7cbd2a08f7141528eeec282db401923	crm:P91_has_unit	aat:300266190
+N83f0deb1ca824974a6cb5a463c7c7f07	crm:P2_has_type	crm:E54_Dimension
+N28ecddd354404de880479a056afa2cb9	crm:P90_has_value	4.0
+aat:300410392	crm:P1i_identifies	bit depth@en
+ngo:4BG8-TEE8-5WON-PR4C	crm:P149_is_identified_by	Nde928af4ed674963915f1097cbf5feee
+aat:300265866	crm:P1i_identifies	bits (computing)@en
+aat:300055863	crm:P1i_identifies	provenance (history of ownership)@en
+ngo:4BG8-TEE8-5WON-PR4C	crm:P70_documents	ngo:8NFU-N1Z6-FWK3-B9RR
+N648e20c3301b4cb6b8ed7382d9bff680	crm:P2_has_type	crm:E54_Dimension
+N62638b59e43e4ef99421e0519cc58e57	crm:P2_has_type	wd:Q3411251
+aat:300265869	crm:P1i_identifies	bytes@en
+ngo:4BG8-TEE8-5WON-PR4C	crm:P2_has_type	crm:E31_Document
+aat:300265863	crm:P1i_identifies	size for computer files@en
+Nb7cbd2a08f7141528eeec282db401923	crm:P90_has_value	1701
+wd:Q1144928	crm:P1i_identifies	filename@en
+N28ecddd354404de880479a056afa2cb9	crm:P2_has_type	crm:E54_Dimension
+N28ecddd354404de880479a056afa2cb9	crm:P1_has_identifier	Number of pyramidal levels
+Nb7cbd2a08f7141528eeec282db401923	crm:P2_has_type	aat:300055647
+N9ed0c43da80a41ce9bbe7222660ea0ee	crm:P2_has_type	aat:300055644
+ngo:8NFU-N1Z6-FWK3-B9RR	crm:P2_has_type	aat:300055863
+N0b1f193440c54e8db2503d00b9aee60e	crm:P138_represents	ngo:4BG8-TEE8-5WON-PR4C
+aat:300266224	crm:P1i_identifies	JPEG@en
+N62638b59e43e4ef99421e0519cc58e57	crm:P43_has_dimension	N28ecddd354404de880479a056afa2cb9
+aat:300055647	crm:P1i_identifies	width@en
+ngo:4BG8-TEE8-5WON-PR4C	crm:P43_has_dimension	N9ed0c43da80a41ce9bbe7222660ea0ee
+N83f0deb1ca824974a6cb5a463c7c7f07	crm:P91_has_unit	aat:300265866
+Nde928af4ed674963915f1097cbf5feee	crm:P1i_identifies	2033-20-240v-241r.jpg
+aat:300266190	crm:P1i_identifies	pixels@en
+N9ed0c43da80a41ce9bbe7222660ea0ee	crm:P90_has_value	1270
+N648e20c3301b4cb6b8ed7382d9bff680	crm:P90_has_value	905518
+wd:Q873806	crm:P1i_identifies	thumbnail@en
+N0b1f193440c54e8db2503d00b9aee60e	crm:P1_has_identifier	http://cima.ng-london.org.uk/fcgi-bin/iipsrv.fcgi?FIF=/pics/tmp/blank/N-0000-00-0000SM-PYR.tif&QLT=75&cnt=1&WID=256&CVT=JPEG
+N62638b59e43e4ef99421e0519cc58e57	crm:P1_has_identifier	Not Public
+ngo:4BG8-TEE8-5WON-PR4C	crm:P43_has_dimension	N83f0deb1ca824974a6cb5a463c7c7f07
+N0b1f193440c54e8db2503d00b9aee60e	crm:P2_has_type	crm:E38_Image
+N648e20c3301b4cb6b8ed7382d9bff680	crm:P91_has_unit	aat:300265869
+N83f0deb1ca824974a6cb5a463c7c7f07	crm:P90_has_value	rrr:RCL243.8-bit
+N62638b59e43e4ef99421e0519cc58e57	crm:P138_represents	ngo:4BG8-TEE8-5WON-PR4C
+N83f0deb1ca824974a6cb5a463c7c7f07	crm:P2_has_type	aat:300410392
+N648e20c3301b4cb6b8ed7382d9bff680	crm:P2_has_type	aat:300265863
+N9ed0c43da80a41ce9bbe7222660ea0ee	crm:P2_has_type	crm:E54_Dimension
+Nde928af4ed674963915f1097cbf5feee	crm:P2_has_type	wd:Q1144928
+ngo:8NFU-N1Z6-FWK3-B9RR	crm:P1i_identifies	History of NG6596
+ngo:4BG8-TEE8-5WON-PR4C	crm:P43_has_dimension	Nb7cbd2a08f7141528eeec282db401923
+wd:Q3411251	crm:P1i_identifies	pyramid@en
+Nde928af4ed674963915f1097cbf5feee	crm:P2_has_type	crm:E42_Identifier
+N62638b59e43e4ef99421e0519cc58e57	crm:P149_is_identified_by	Not Public
+N62638b59e43e4ef99421e0519cc58e57	crm:P2_has_type	crm:E38_Image
+ngo:4BG8-TEE8-5WON-PR4C	crm:P43_has_dimension	N648e20c3301b4cb6b8ed7382d9bff680
+ngo:8NFU-N1Z6-FWK3-B9RR	crm:P2_has_type	crm:E5_Event
+N9ed0c43da80a41ce9bbe7222660ea0ee	crm:P91_has_unit	aat:300266190

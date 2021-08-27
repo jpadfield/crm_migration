@@ -1,0 +1,57 @@
+Subject	Predicate	Object
+aat:300241583	rdfs:label	components (object part)
+ngo:VDF0-IDKO-TJDE-CDAV	crm:P2_has_type	aat:300034254
+aat:300034254	rdfs:label	cross sections (orthographic projections)
+ngo:VDF0-IDKO-TJDE-CDAV	crm:P2_has_type	aat:300028875
+ngo:0LDL-Q812-ZT6N-AQJB	rdf:type	sci:S22_Segment_of_Matter
+ngo:WLTN-O3MV-PTQH-4CHX	rdf:type	crm:E21_Person
+ngo:WLTN-O3MV-PTQH-4CHX	rdfs:label	Example NG Staff Member
+N034348fba7774ec185e55b29307d6b68	crm:P2_has_type	wd:Q1200750
+aat:300028875	rdfs:label	samples
+aat:300025820	rdfs:label	conservation scientist
+ngo:KJ5N-N4HU-WDJS-QGPO	crm:P148_has_component	ngo:0LDL-Q812-ZT6N-AQJB
+Ncc853590650141afbac27aa3b8f940b2	crm:P2_has_type	crm:E31_Document
+N034348fba7774ec185e55b29307d6b68	rdf:type	crm:E31_Document
+ngo:WLTN-O3MV-PTQH-4CHX	crm:P2_has_type	aat:300025820
+ngo:KJ5N-N4HU-WDJS-QGPO	crm:P2_has_type	aat:300226788
+ngo:VDF0-IDKO-TJDE-CDAV	crm:P2_has_type	sci:S13_Sample
+Nf43163b1a47e443ab3f04ce4059e11be	rdf:type	sci:S2_Sample_Taking
+ngo:KJ5N-N4HU-WDJS-QGPO	crm:P1_is_identified_by	Layer 10 of NDKB-1IVB-QX9Q-08J2
+ngo:NDKB-1IVB-QX9Q-08J2	crm:P59_has_section	ngo:027H-QOCL-OHOD-EBHK
+Nf43163b1a47e443ab3f04ce4059e11be	sci:O5_removed	ngo:VDF0-IDKO-TJDE-CDAV
+aat:300198990	rdfs:label	micrometers
+ngo:027H-QOCL-OHOD-EBHK	crm:P2_has_type	crm:E53_Place
+ngo:KJ5N-N4HU-WDJS-QGPO	crm:P48_has_preferred_identifier	Layer L1 of VDF0-IDKO-TJDE-CDAV
+Nf43163b1a47e443ab3f04ce4059e11be	crm:P14_carried_out_by	ngo:WLTN-O3MV-PTQH-4CHX
+ngo:KJ5N-N4HU-WDJS-QGPO	crm:P43_has_dimension	Nf8174df836d8432ea1200eba19296351
+aat:300055646	rdfs:label	thickness
+Nf8174df836d8432ea1200eba19296351	rdf:type	aat:300055646
+ngo:027H-QOCL-OHOD-EBHK	crm:P2_has_type	aat:300241583
+Nf43163b1a47e443ab3f04ce4059e11be	crm:P2_has_type	sci:S2_Sample_Taking
+wd:Q1200750	rdfs:label	description
+Ncc853590650141afbac27aa3b8f940b2	rdf:type	crm:E31_Document
+ngo:VDF0-IDKO-TJDE-CDAV	sci:O25i_is_contained_in	ngo:NDKB-1IVB-QX9Q-08J2
+ngo:027H-QOCL-OHOD-EBHK	rdf:type	crm:E53_Place
+Nf8174df836d8432ea1200eba19296351	rdf:type	crm:E54_Dimension
+ngo:WLTN-O3MV-PTQH-4CHX	crm:P2_has_type	crm:E21_Person
+aat:300226788	rdfs:label	layers (components)
+ngo:VDF0-IDKO-TJDE-CDAV	rdf:type	sci:S13_Sample
+wd:Q1710397	rdfs:label	reason
+ngo:0LDL-Q812-ZT6N-AQJB	rdfs:label	Component C5 of VDF0-IDKO-TJDE-CDAV
+N034348fba7774ec185e55b29307d6b68	rdfs:comment	Actual textual content describing the sampling process
+ngo:KJ5N-N4HU-WDJS-QGPO	rdf:type	sci:S22_Segment_of_Matter
+ngo:KJ5N-N4HU-WDJS-QGPO	crm:P2_has_type	sci:S22_Segment_of_Matter
+Nf43163b1a47e443ab3f04ce4059e11be	crm:P70_is_documented_in	Ncc853590650141afbac27aa3b8f940b2
+ngo:0LDL-Q812-ZT6N-AQJB	crm:P2_has_type	sci:S22_Segment_of_Matter
+Nf43163b1a47e443ab3f04ce4059e11be	sci:O4_sampled_at	ngo:027H-QOCL-OHOD-EBHK
+Nf8174df836d8432ea1200eba19296351	crm:P90_has_value	
+Ncc853590650141afbac27aa3b8f940b2	rdfs:comment	Actual textual content detailing the reason or purpose of the annotation
+Ncc853590650141afbac27aa3b8f940b2	crm:P2_has_type	wd:Q1710397
+Nf43163b1a47e443ab3f04ce4059e11be	crm:P70_is_documented_in	N034348fba7774ec185e55b29307d6b68
+Nf43163b1a47e443ab3f04ce4059e11be	sci:O3_sampled_from	ngo:NDKB-1IVB-QX9Q-08J2
+ngo:KJ5N-N4HU-WDJS-QGPO	rdfs:label	Layer L1 of VDF0-IDKO-TJDE-CDAV
+ngo:VDF0-IDKO-TJDE-CDAV	crm:P148_has_component	ngo:KJ5N-N4HU-WDJS-QGPO
+Nf8174df836d8432ea1200eba19296351	crm:P91_has_unit	aat:300198990
+ngo:027H-QOCL-OHOD-EBHK	rdfs:label	original support
+N034348fba7774ec185e55b29307d6b68	crm:P2_has_type	crm:E31_Document
+ngo:VDF0-IDKO-TJDE-CDAV	rdfs:label	Sample from NG0060

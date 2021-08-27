@@ -1,0 +1,64 @@
+Subject	Predicate	Object
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300443858
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P102_has_title	https://round4.ng-london.org.uk/ex/lcd/01CE-1F84-PVN2-I0KB
+Nefffc9dd5ae34180803188cb65b48f2f	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E54_Dimension
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P46_forms_part_of	https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8
+Nefffc9dd5ae34180803188cb65b48f2f	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E54_Dimension
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension	N7cd8f0c612d44edeb638af60be5eb739
+Nefffc9dd5ae34180803188cb65b48f2f	http://www.cidoc-crm.org/cidoc-crm/P90_has_value	81.00
+https://round4.ng-london.org.uk/ex/lcd/EKIQ-ZJ5P-V90O-7W9G	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing
+http://vocab.getty.edu/page/aat/300404626	http://www.w3.org/2000/01/rdf-schema#label	identification numbers
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+http://vocab.getty.edu/page/aat/300163343	http://www.w3.org/2000/01/rdf-schema#label	media (artists' material)
+http://vocab.getty.edu/page/aat/300417208	http://www.w3.org/2000/01/rdf-schema#label	brief title
+https://round4.ng-london.org.uk/ex/lcd/01CE-1F84-PVN2-I0KB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300417208
+http://vocab.getty.edu/page/aat/300033799	http://www.w3.org/2000/01/rdf-schema#label	oil paintings (visual works)@en
+https://round4.ng-london.org.uk/ex/lcd/92X1-C8TT-C1MA-RNRN	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing
+https://round4.ng-london.org.uk/ex/lcd/EKIQ-ZJ5P-V90O-7W9G	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing
+Ncaabeab156824185a559491556d60f09	http://www.w3.org/2000/01/rdf-schema#label	NG27
+https://round4.ng-london.org.uk/ex/lcd/92X1-C8TT-C1MA-RNRN	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location	https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR
+https://round4.ng-london.org.uk/ex/lcd/92X1-C8TT-C1MA-RNRN	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300014844
+http://vocab.getty.edu/page/aat/300015050	http://www.w3.org/2000/01/rdf-schema#label	oil paint (paint)@en
+https://round4.ng-london.org.uk/ex/lcd/EKIQ-ZJ5P-V90O-7W9G	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300163343
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300033656
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.w3.org/2000/01/rdf-schema#label	Room 8
+N7cd8f0c612d44edeb638af60be5eb739	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300055644
+https://round4.ng-london.org.uk/ex/lcd/01CE-1F84-PVN2-I0KB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300417209
+http://vocab.getty.edu/page/aat/300055644	http://www.w3.org/2000/01/rdf-schema#label	height
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension	Nefffc9dd5ae34180803188cb65b48f2f
+N7cd8f0c612d44edeb638af60be5eb739	http://www.cidoc-crm.org/cidoc-crm/P91_has_unit	http://vocab.getty.edu/page/aat/300379098
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding
+Ncaabeab156824185a559491556d60f09	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E42_Identifier
+https://round4.ng-london.org.uk/ex/lcd/92X1-C8TT-C1MA-RNRN	http://www.cidoc-crm.org/cidoc-crm/P45_consists_of	Nd5c7bc654772490093aefc990ee13425
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding
+Nd5c7bc654772490093aefc990ee13425	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300012363
+N7cd8f0c612d44edeb638af60be5eb739	http://www.cidoc-crm.org/cidoc-crm/P90_has_value	108.70
+http://vocab.getty.edu/page/aat/300014844	http://www.w3.org/2000/01/rdf-schema#label	supports (artists' materials)
+http://vocab.getty.edu/page/aat/300417209	http://www.w3.org/2000/01/rdf-schema#label	full title
+http://vocab.getty.edu/page/aat/300379098	http://www.w3.org/2000/01/rdf-schema#label	centimeters
+http://vocab.getty.edu/page/aat/300033656	http://www.w3.org/2000/01/rdf-schema#label	panel paintings (paintings by form)@en
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300033618
+http://vocab.getty.edu/page/aat/300012363	http://www.w3.org/2000/01/rdf-schema#label	poplar (wood)@en
+Nefffc9dd5ae34180803188cb65b48f2f	http://www.cidoc-crm.org/cidoc-crm/P91_has_unit	http://vocab.getty.edu/page/aat/300379098
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier	Ncaabeab156824185a559491556d60f09
+N7cd8f0c612d44edeb638af60be5eb739	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E54_Dimension
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of	https://round4.ng-london.org.uk/ex/lcd/92X1-C8TT-C1MA-RNRN
+Ncaabeab156824185a559491556d60f09	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300404626
+http://vocab.getty.edu/page/aat/300055647	http://www.w3.org/2000/01/rdf-schema#label	width
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing
+N7cd8f0c612d44edeb638af60be5eb739	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E54_Dimension
+https://round4.ng-london.org.uk/ex/lcd/01CE-1F84-PVN2-I0KB	http://www.w3.org/2000/01/rdf-schema#label	Portrait of Pope Julius II
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of	https://round4.ng-london.org.uk/ex/lcd/EKIQ-ZJ5P-V90O-7W9G
+https://round4.ng-london.org.uk/ex/lcd/01CE-1F84-PVN2-I0KB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E35_Title
+http://vocab.getty.edu/page/aat/300443858	http://www.w3.org/2000/01/rdf-schema#label	collections (repositories)
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300033799
+https://round4.ng-london.org.uk/ex/lcd/01CE-1F84-PVN2-I0KB	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E35_Title
+Ncaabeab156824185a559491556d60f09	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E42_Identifier
+http://vocab.getty.edu/page/aat/300033618	http://www.w3.org/2000/01/rdf-schema#label	paintings (visual works)
+Na77e2f1bbfec47babd50fa019cb9d860	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300015050
+https://round4.ng-london.org.uk/ex/lcd/EKIQ-ZJ5P-V90O-7W9G	http://www.cidoc-crm.org/cidoc-crm/P45_consists_of	Na77e2f1bbfec47babd50fa019cb9d860
+Nefffc9dd5ae34180803188cb65b48f2f	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300055647
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.w3.org/2000/01/rdf-schema#label	The National Gallery Collection

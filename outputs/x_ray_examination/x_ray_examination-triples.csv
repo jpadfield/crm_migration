@@ -1,0 +1,61 @@
+Subject	Predicate	Object
+ngo:NFF9-T124-Z0GM-2YSB	crm:P43_has_dimension	N8e8c9725bbfe4b7a8c80612d4fc3975a
+aat:300266226	crm:P1i_identifies	TIFF@en
+ngo:NFF9-T124-Z0GM-2YSB	crm:P108i_was_produced_by	ngo:9JBM-UYCS-9BQK-RRQI
+N8e8c9725bbfe4b7a8c80612d4fc3975a	crm:P90_has_value	116215212
+N05ddd96ad18d4d4b850dee51c8791947	crm:P91_has_unit	aat:300266190
+aat:300265866	crm:P1i_identifies	bits (computing)@en
+N61e97da6c97844298f2ea268a4174b52	crm:P43_has_dimension	N3b2fa24cc809460eadc8cdfa1879c8e0
+Nc0937c473911445c89f941a9561ae5fd	crm:P2_has_type	aat:300410392
+N-0168-00-000048.tif	crm:P2_has_type	wd:Q1144928
+ngo:PJBV-W6MB-YZB0-I4RX	crm:P2_has_type	wd:Q873806
+ngo:NFF9-T124-Z0GM-2YSB	crm:P138_represents	ngo:0EXM-0001-0000-0000
+aat:300410392	crm:P1i_identifies	bit depth@en
+N61e97da6c97844298f2ea268a4174b52	crm:P1_has_identifier	ng-london/1 X-Ray Images/N-0168-00-000048-PYR
+N05ddd96ad18d4d4b850dee51c8791947	crm:P2_has_type	crm:E54_Dimension
+N6647c96861cb4bd38b0022ff50ccfc69	crm:P2_has_type	aat:300055647
+N-0168-00-000048.tif	crm:P2_has_type	crm:E42_Identifier
+wd:Q873806	crm:P1i_identifies	thumbnail@en
+N8e8c9725bbfe4b7a8c80612d4fc3975a	crm:P91_has_unit	aat:300265869
+ngo:9JBM-UYCS-9BQK-RRQI	crm:P1i_identifies	X-Ray Examination of NG168
+N3b2fa24cc809460eadc8cdfa1879c8e0	crm:P1_has_identifier	Number of pyramidal levels
+N6647c96861cb4bd38b0022ff50ccfc69	crm:P90_has_value	6661
+ngo:9JBM-UYCS-9BQK-RRQI	crm:P33_used_specific_technique	aat:300419323
+N05ddd96ad18d4d4b850dee51c8791947	crm:P90_has_value	8722
+ngo:NFF9-T124-Z0GM-2YSB	crm:P165_incorporates	ngo:FCRS-JH1C-V40U-G3UJ
+ngo:9JBM-UYCS-9BQK-RRQI	crm:P39_measured	ngo:0EXM-0001-0000-0000
+ngo:NFF9-T124-Z0GM-2YSB	crm:P2i_is_type_of	N61e97da6c97844298f2ea268a4174b52
+N61e97da6c97844298f2ea268a4174b52	crm:P2_has_type	wd:Q3411251
+ngo:NFF9-T124-Z0GM-2YSB	crm:P43_has_dimension	Nc0937c473911445c89f941a9561ae5fd
+ngo:NFF9-T124-Z0GM-2YSB	crm:P2_has_type	aat:300266226
+Nc0937c473911445c89f941a9561ae5fd	crm:P2_has_type	crm:E54_Dimension
+Nc0937c473911445c89f941a9561ae5fd	crm:P90_has_value	wd:Q270159
+N05ddd96ad18d4d4b850dee51c8791947	crm:P2_has_type	aat:300055644
+N6647c96861cb4bd38b0022ff50ccfc69	crm:P2_has_type	crm:E54_Dimension
+aat:300379861	crm:P1i_identifies	imaging (image making process)@en
+aat:300266190	crm:P1i_identifies	pixels@en
+N61e97da6c97844298f2ea268a4174b52	crm:P2_has_type	crm:E73_Information_Object
+N3b2fa24cc809460eadc8cdfa1879c8e0	crm:P90_has_value	7.0
+aat:300419323	crm:P1i_identifies	x-radiography@en
+Nc0937c473911445c89f941a9561ae5fd	crm:P91_has_unit	aat:300265866
+aat:300055644	crm:P1i_identifies	height@en
+ngo:PJBV-W6MB-YZB0-I4RX	crm:P1_has_identifier	http://cima.ng-london.org.uk/fcgi-bin/iipsrv.fcgi?FIF=/pics/tmp/raphael_pyr/N-0168/16.1_X-Ray_Images/N-0168-00-000048-PYR.tif&QLT=75&cnt=1&WID=256&CVT=JPEG
+ngo:NFF9-T124-Z0GM-2YSB	crm:P43_has_dimension	N05ddd96ad18d4d4b850dee51c8791947
+ngo:9JBM-UYCS-9BQK-RRQI	crm:P2_has_type	crm:E16_Measurement
+N8e8c9725bbfe4b7a8c80612d4fc3975a	crm:P2_has_type	crm:E54_Dimension
+ngo:NFF9-T124-Z0GM-2YSB	crm:P43_has_dimension	N6647c96861cb4bd38b0022ff50ccfc69
+ngo:NFF9-T124-Z0GM-2YSB	crm:P62i_is_depicted_by	ngo:PJBV-W6MB-YZB0-I4RX
+N6647c96861cb4bd38b0022ff50ccfc69	crm:P91_has_unit	aat:300266190
+N8e8c9725bbfe4b7a8c80612d4fc3975a	crm:P2_has_type	aat:300265863
+N3b2fa24cc809460eadc8cdfa1879c8e0	crm:P2_has_type	crm:E54_Dimension
+wd:Q270159	crm:P1i_identifies	8-bit
+ngo:9JBM-UYCS-9BQK-RRQI	crm:P2_has_type	aat:300379861
+aat:300055647	crm:P1i_identifies	width@en
+ngo:PJBV-W6MB-YZB0-I4RX	crm:P2_has_type	crm:E38_Image
+aat:300265863	crm:P1i_identifies	size for computer files@en
+ngo:FCRS-JH1C-V40U-G3UJ	crm:P2_has_type	crm:E90_Symbolic_Object
+wd:Q3411251	crm:P1i_identifies	pyramid@en
+ngo:NFF9-T124-Z0GM-2YSB	crm:P149_is_identified_by	N-0168-00-000048.tif
+N61e97da6c97844298f2ea268a4174b52	crm:P149_is_identified_by	/pics/tmp/raphael_pyr/N-0168/16.1_X-Ray_Images/N-0168-00-000048-PYR.tif
+wd:Q1144928	crm:P1i_identifies	filename@en
+aat:300265869	crm:P1i_identifies	bytes@en

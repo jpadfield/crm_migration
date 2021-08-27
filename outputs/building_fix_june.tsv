@@ -1,0 +1,47 @@
+Subject	Predicate	Object
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+http://vocab.getty.edu/page/aat/300026004	http://www.w3.org/2000/01/rdf-schema#label	institutions (organizations)
+http://vocab.getty.edu/page/aat/300404626	http://www.w3.org/2000/01/rdf-schema#label	identification numbers
+http://www.wikidata.org/entity/Q84	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+N515f67fff8014ce29f8ca6f800acd5e8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E42_Identifier
+https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T	http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location	http://www.wikidata.org/entity/Q84
+N1cbe4f5dbb4e493b95c0017d35fc440a	http://www.w3.org/2000/01/rdf-schema#label	http://www.nationalgallery.org.uk/
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.w3.org/2002/07/owl#sameAs	http://www.wikidata.org/entity/Q180788
+N9a87be4a03a141f4928b814470abec8c	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E42_Identifier
+N1cbe4f5dbb4e493b95c0017d35fc440a	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300265431
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300025231
+https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+http://vocab.getty.edu/page/aat/300025231	http://www.w3.org/2000/01/rdf-schema#label	partners
+http://vocab.getty.edu/page/aat/300443858	http://www.w3.org/2000/01/rdf-schema#label	collections (repositories)
+http://vocab.getty.edu/page/aat/300403974	http://www.w3.org/2000/01/rdf-schema#label	contributors
+https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T	http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier	N515f67fff8014ce29f8ca6f800acd5e8
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E74_Group
+N9a87be4a03a141f4928b814470abec8c	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300404626
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier	N9a87be4a03a141f4928b814470abec8c
+N1cbe4f5dbb4e493b95c0017d35fc440a	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.w3.org/2000/01/rdf-schema#label	The National Gallery Collection
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300026004
+http://vocab.getty.edu/page/aat/300312292	http://www.w3.org/2000/01/rdf-schema#label	institutions (buildings)
+N515f67fff8014ce29f8ca6f800acd5e8	http://www.w3.org/2000/01/rdf-schema#label	The National Gallery
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in	N1cbe4f5dbb4e493b95c0017d35fc440a
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300443858
+N9a87be4a03a141f4928b814470abec8c	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E42_Identifier
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.w3.org/2000/01/rdf-schema#label	Room 8
+https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/86O6-Z6YG-YL6M-10CR	http://www.cidoc-crm.org/cidoc-crm/P89_falls_within	https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T
+http://www.wikidata.org/entity/Q84	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P3_has_note	The National Gallery in London, founded in 1824, houses a rich collection of over 2,500 paintings dating from the mid-13th century to 1900 in its home on Trafalgar Square.
+N515f67fff8014ce29f8ca6f800acd5e8	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E42_Identifier
+https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300312292
+N1cbe4f5dbb4e493b95c0017d35fc440a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P50i_is_current_keeper_of	https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300403974
+N515f67fff8014ce29f8ca6f800acd5e8	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300404626
+http://www.wikidata.org/entity/Q84	http://www.w3.org/2000/01/rdf-schema#label	London
+http://vocab.getty.edu/page/aat/300265431	http://www.w3.org/2000/01/rdf-schema#label	Web sites
+N9a87be4a03a141f4928b814470abec8c	http://www.w3.org/2000/01/rdf-schema#label	The National Gallery
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E74_Group
+https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding
+https://round4.ng-london.org.uk/ex/lcd/3HNU-DJRH-U3CC-2VTB	http://www.cidoc-crm.org/cidoc-crm/P156_occupies	https://round4.ng-london.org.uk/ex/lcd/S780-8SSR-HNF5-KW5T

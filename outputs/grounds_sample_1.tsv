@@ -1,0 +1,38 @@
+Subject	Predicate	Object
+https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300028875
+N2c2b1015d48b4e24ac8f3bff57787a24	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E31_Document
+Nc5fa8b52ed2d4f79a425422ac66458bd	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E31_Document
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/crmsci/O5_removed	https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI
+Nc5fa8b52ed2d4f79a425422ac66458bd	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.wikidata.org/entity/Q1710397
+https://round4.ng-london.org.uk/ex/lcd/P2Y8-3BFP-1NVR-0RKQ	http://www.cidoc-crm.org/cidoc-crm/P59_has_section	https://round4.ng-london.org.uk/ex/lcd/GU7X-XNIQ-HZ5A-UAX5
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/crmsci/O3_sampled_from	https://round4.ng-london.org.uk/ex/lcd/P2Y8-3BFP-1NVR-0RKQ
+https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI	http://www.w3.org/2000/01/rdf-schema#label	Sample from NG0023
+https://round4.ng-london.org.uk/ex/lcd/GU7X-XNIQ-HZ5A-UAX5	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300241583
+https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300034254
+N2c2b1015d48b4e24ac8f3bff57787a24	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E31_Document
+https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/crmsci/S13_Sample
+http://www.wikidata.org/entity/Q1200750	http://www.w3.org/2000/01/rdf-schema#label	description
+https://round4.ng-london.org.uk/ex/lcd/GU7X-XNIQ-HZ5A-UAX5	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/GU7X-XNIQ-HZ5A-UAX5	http://www.w3.org/2000/01/rdf-schema#label	original support
+http://vocab.getty.edu/page/aat/300034254	http://www.w3.org/2000/01/rdf-schema#label	cross sections (orthographic projections)
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/crmsci/S2_Sample_Taking
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/cidoc-crm/P70_is_documented_in	Nc5fa8b52ed2d4f79a425422ac66458bd
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E21_Person
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E21_Person
+http://vocab.getty.edu/page/aat/300241583	http://www.w3.org/2000/01/rdf-schema#label	components (object part)
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300025820
+N2c2b1015d48b4e24ac8f3bff57787a24	http://www.w3.org/2000/01/rdf-schema#comment	Actual textual content describing the sampling process
+http://vocab.getty.edu/page/aat/300028875	http://www.w3.org/2000/01/rdf-schema#label	samples
+N2c2b1015d48b4e24ac8f3bff57787a24	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.wikidata.org/entity/Q1200750
+https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/crmsci/S13_Sample
+Nc5fa8b52ed2d4f79a425422ac66458bd	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E31_Document
+http://www.wikidata.org/entity/Q1710397	http://www.w3.org/2000/01/rdf-schema#label	reason
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/crmsci/O4_sampled_at	https://round4.ng-london.org.uk/ex/lcd/GU7X-XNIQ-HZ5A-UAX5
+Nc5fa8b52ed2d4f79a425422ac66458bd	http://www.w3.org/2000/01/rdf-schema#comment	Actual textual content detailing the reason or purpose of the annotation
+https://round4.ng-london.org.uk/ex/lcd/GU7X-XNIQ-HZ5A-UAX5	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+http://vocab.getty.edu/page/aat/300025820	http://www.w3.org/2000/01/rdf-schema#label	conservation scientist
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.w3.org/2000/01/rdf-schema#label	Example NG Staff Member
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/crmsci/S2_Sample_Taking
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by	https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX
+N6f9d81301d4847f4a302cf42fcbf2b1d	http://www.cidoc-crm.org/cidoc-crm/P70_is_documented_in	N2c2b1015d48b4e24ac8f3bff57787a24
+https://round4.ng-london.org.uk/ex/lcd/D71K-UNYP-654I-BDCI	http://www.cidoc-crm.org/crmsci/O25i_is_contained_in	https://round4.ng-london.org.uk/ex/lcd/P2Y8-3BFP-1NVR-0RKQ

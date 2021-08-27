@@ -1,0 +1,95 @@
+Subject	Predicate	Object
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P108i_was_produced_by	ngo:1ZFX-UT2V-87KR-N3EY
+N256cc5005ca64c55ad70b0f7a84ba046	crm:P2_has_type	aat:300404629
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P43_has_dimension	N35acaf74c9a848eaaa6bd3a17be7ffe8
+ngo:5R05-39L3-Z08G-BAMO	rdf:type	dig:D3_Formal_Derivation
+N02f1971b0b564dc6bf800010b96f9289	rdfs:label	Number of pyramidal levels
+N5337eb7a43994acfaae78e2d1571df56	crm:P90_has_value	31093772
+N6d994ff4ca1146d28ccd4f895688b4fa	crm:P2_has_type	crm:E42_Identifier
+ngo:5R05-39L3-Z08G-BAMO	dig:L23_used_software_or_firmware	ngo:XE06-LC28-SMX0-OTVO
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P2_has_type	aat:300215302
+N5337eb7a43994acfaae78e2d1571df56	crm:P2_has_type	aat:300265863
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P65_shows_visual_item	ngo:IKPB-MY0O-IQRM-Q1YS
+Ne8f17a1df46640308fed855c957f84cd	crm:P43_has_dimension	N02f1971b0b564dc6bf800010b96f9289
+aat:300266226	rdfs:label	TIFF
+Nacb7e7b2294043598d642b35c199fe06	crm:P2_has_type	crm:E42_Identifier
+Ne8f17a1df46640308fed855c957f84cd	crm:P48_has_preferred_identifier	Nacb7e7b2294043598d642b35c199fe06
+Nc61a3e9bcd094264ada9250dc99a5d6c	crm:P2_has_type	wd:Q1144928
+ngo:62NG-RN57-CLEB-AMSM	rdf:type	crm:E24_Physical_Human_Made_Thing
+aat:300056058	rdfs:label	x-ray (radiation)
+N5337eb7a43994acfaae78e2d1571df56	crm:P2_has_type	crm:E54_Dimension
+ngo:5R05-39L3-Z08G-BAMO	crm:P2_has_type	dig:D3_Formal_Derivation
+N256cc5005ca64c55ad70b0f7a84ba046	rdf:type	crm:E42_Identifier
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P149_is_identified_by	Nc61a3e9bcd094264ada9250dc99a5d6c
+Ne8f17a1df46640308fed855c957f84cd	crm:P2_has_type	wd:Q3411251
+N256cc5005ca64c55ad70b0f7a84ba046	crm:P2_has_type	crm:E42_Identifier
+ngo:5R05-39L3-Z08G-BAMO	dig:L21_used_as_derivation_source	ngo:5TGX-GBZ4-XV2A-XQGC
+wd:Q270159	rdfs:label	8-bit
+N02f1971b0b564dc6bf800010b96f9289	crm:P90_has_value	6.0
+N35acaf74c9a848eaaa6bd3a17be7ffe8	crm:P2_has_type	wd:Q270159
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P70i_is_documented_in	ngo:4CBT-XTB5-GIHR-D7JO
+ngo:62NG-RN57-CLEB-AMSM	crm:P2_has_type	crm:E24_Physical_Human_Made_Thing
+ngo:62NG-RN57-CLEB-AMSM	crm:P48_has_preferred_identifier	N256cc5005ca64c55ad70b0f7a84ba046
+ngo:62NG-RN57-CLEB-AMSM	crm:P2_has_type	wd:Q873806
+ngo:1ZFX-UT2V-87KR-N3EY	rdf:type	crm:E16_Measurement
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P43_has_dimension	N5337eb7a43994acfaae78e2d1571df56
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P2_has_type	dig:D1_Digital_Object
+aat:300265863	rdfs:label	size for computer files
+ngo:XE06-LC28-SMX0-OTVO	rdf:type	dig:D14_Software
+aat:300265866	rdfs:label	bits (computing)
+N35acaf74c9a848eaaa6bd3a17be7ffe8	rdf:type	crm:E54_Dimension
+Nacb7e7b2294043598d642b35c199fe06	crm:P2_has_type	aat:300404629
+aat:300266043	rdfs:label	servers (computer)
+ngo:3UFH-4E94-4ZCU-VSYE	crm:P2_has_type	Ne8f17a1df46640308fed855c957f84cd
+ngo:1ZFX-UT2V-87KR-N3EY	crm:P2_has_type	crm:E16_Measurement
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P2_has_type	aat:300266226
+aat:300410392	rdfs:label	bit depth
+N02f1971b0b564dc6bf800010b96f9289	crm:P2_has_type	crm:E54_Dimension
+N35acaf74c9a848eaaa6bd3a17be7ffe8	crm:P2_has_type	aat:300410392
+aat:300404629	rdfs:label	uniform resource identifiers
+wd:Q1144928	rdfs:label	filename
+ngo:1ZFX-UT2V-87KR-N3EY	crm:P2_has_type	aat:300379861
+ngo:XE06-LC28-SMX0-OTVO	crm:P2_has_type	aat:300266043
+wd:Q3411251	rdfs:label	pyramid
+ngo:1ZFX-UT2V-87KR-N3EY	crm:P32_used_general_technique	aat:300419323
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P138_represents	ngo:0D0E-0001-0000-0000
+Nc61a3e9bcd094264ada9250dc99a5d6c	crm:P2_has_type	crm:E42_Identifier
+N5337eb7a43994acfaae78e2d1571df56	rdf:type	crm:E54_Dimension
+Nc61a3e9bcd094264ada9250dc99a5d6c	rdf:type	crm:E42_Identifier
+ngo:IKPB-MY0O-IQRM-Q1YS	crm:P138_represents	ngo:0D0E-0001-0000-0000
+ngo:1ZFX-UT2V-87KR-N3EY	rdfs:label	X-Ray Examination of NG27
+ngo:5TGX-GBZ4-XV2A-XQGC	dig:L56_has_pixel_width	3502
+ngo:62NG-RN57-CLEB-AMSM	crm:P62_depicts	ngo:0D0E-0001-0000-0000
+N256cc5005ca64c55ad70b0f7a84ba046	rdf:value	http://cima.ng-london.org.uk/fcgi-bin/iipsrv.fcgi?FIF=/pics/tmp/raphael_pyr/N-0027/16.1_X-Ray_Images/N-0027-00-000060-PYR.tif&QLT=75&cnt=1&WID=256&CVT=JPEG
+aat:300215302	rdfs:label	digital images
+ngo:5TGX-GBZ4-XV2A-XQGC	dig:L57_has_pixel_height	4435
+ngo:1ZFX-UT2V-87KR-N3EY	crm:P39_measured	ngo:0D0E-0001-0000-0000
+wd:Q873806	rdfs:label	thumbnail
+ngo:IKPB-MY0O-IQRM-Q1YS	crm:P1i_is_identified_by	Visual image of NG27
+ngo:HCRP-VJHU-Q4NR-Q31R	rdf:type	dig:D3_Formal_Derivation
+Nacb7e7b2294043598d642b35c199fe06	rdf:value	ng-london/1 X-Ray Images/N-0027-00-000060-PYR
+aat:300379861	rdfs:label	imaging (image making process)
+N6d994ff4ca1146d28ccd4f895688b4fa	rdf:value	https://research.ng-london.org.uk/iiif
+ngo:IKPB-MY0O-IQRM-Q1YS	rdf:type	crm:E36_Visual_Item
+ngo:5TGX-GBZ4-XV2A-XQGC	crm:P62_depicts	ngo:0D0E-0001-0000-0000
+ngo:HCRP-VJHU-Q4NR-Q31R	dig:L23_used_software_or_firmware	ngo:XE06-LC28-SMX0-OTVO
+aat:300265869	rdfs:label	bytes
+ngo:HCRP-VJHU-Q4NR-Q31R	dig:L22_created_derivative	ngo:3UFH-4E94-4ZCU-VSYE
+ngo:5TGX-GBZ4-XV2A-XQGC	rdf:type	dig:D1_Digital_Object
+ngo:HCRP-VJHU-Q4NR-Q31R	crm:P2_has_type	dig:D3_Formal_Derivation
+aat:300419323	rdfs:label	x-radiography
+ngo:IKPB-MY0O-IQRM-Q1YS	crm:P2_has_type	crm:E36_Visual_Item
+ngo:HCRP-VJHU-Q4NR-Q31R	dig:L21_used_as_derivation_source	ngo:5TGX-GBZ4-XV2A-XQGC
+N02f1971b0b564dc6bf800010b96f9289	rdf:type	crm:E54_Dimension
+Nc61a3e9bcd094264ada9250dc99a5d6c	rdfs:label	N-0027-00-000060.tif
+N5337eb7a43994acfaae78e2d1571df56	crm:P91_has_unit	aat:300265869
+ngo:1ZFX-UT2V-87KR-N3EY	crm:P125_used_object_of_type	aat:300056058
+ngo:XE06-LC28-SMX0-OTVO	crm:P2_has_type	dig:D14_Software
+N35acaf74c9a848eaaa6bd3a17be7ffe8	crm:P91_has_unit	aat:300265866
+ngo:4CBT-XTB5-GIHR-D7JO	rdfs:label	The National Gallery Collection Image Database
+ngo:5R05-39L3-Z08G-BAMO	dig:L22_created_derivative	ngo:62NG-RN57-CLEB-AMSM
+ngo:XE06-LC28-SMX0-OTVO	crm:P48_has_preferred_identifier	N6d994ff4ca1146d28ccd4f895688b4fa
+N6d994ff4ca1146d28ccd4f895688b4fa	rdf:type	crm:E42_Identifier
+N35acaf74c9a848eaaa6bd3a17be7ffe8	crm:P2_has_type	crm:E54_Dimension
+Nacb7e7b2294043598d642b35c199fe06	rdf:type	crm:E42_Identifier
+ngo:62NG-RN57-CLEB-AMSM	crm:P65_shows_visual_item	ngo:IKPB-MY0O-IQRM-Q1YS

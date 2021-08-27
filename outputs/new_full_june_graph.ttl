@@ -1,0 +1,90 @@
+@prefix aat: <http://vocab.getty.edu/page/aat/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ngo: <https://round4.ng-london.org.uk/ex/lcd/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ngo:0FJS-0001-0000-0000 a crm:E22_Human_Made_Object ;
+    crm:P102_has_title ngo:03RH-0009-0000-0000,
+        ngo:S6N2-9YPY-XFDA-OUZ6 ;
+    crm:P2_has_type aat:300386957,
+        crm:E22_Human_Made_Object ;
+    crm:P43_has_dimension [ a crm:E54_Dimension ;
+            crm:P2_has_type aat:300055644,
+                crm:E54_Dimension ;
+            crm:P90_has_value 2.168e+02 ;
+            crm:P91_has_unit aat:300379098 ],
+        [ a crm:E54_Dimension ;
+            crm:P2_has_type aat:300055647,
+                crm:E54_Dimension ;
+            crm:P90_has_value 1.476e+02 ;
+            crm:P91_has_unit aat:300379098 ] ;
+    crm:P46_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+    crm:P46_is_composed_of ngo:9H0K-1B15-6Z3B-UJY0,
+        ngo:UY42-MIGM-QTBQ-AFY3 ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "NG1171"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location wd:No_WD_value .
+
+aat:300012363 rdfs:label "poplar (wood)@en" .
+
+aat:300014844 rdfs:label "supports (artists' materials)"@en .
+
+aat:300015050 rdfs:label "oil paint (paint)@en" .
+
+aat:300033656 rdfs:label "panel paintings (paintings by form)@en" .
+
+aat:300033799 rdfs:label "oil paintings (visual works)@en" .
+
+aat:300055644 rdfs:label "height"@en .
+
+aat:300055647 rdfs:label "width"@en .
+
+aat:300163343 rdfs:label "media (artists' material)"@en .
+
+aat:300386957 rdfs:label "man-made objects"@en .
+
+aat:300404626 rdfs:label "identification numbers"@en .
+
+aat:300417208 rdfs:label "brief title"@en .
+
+aat:300417209 rdfs:label "full title"@en .
+
+aat:300443858 rdfs:label "collections (repositories)"@en .
+
+wd:No_WD_value a crm:E53_Place ;
+    rdfs:label "Room 8"@en ;
+    crm:P2_has_type crm:E53_Place .
+
+ngo:03RH-0009-0000-0000 a crm:E35_Title ;
+    rdfs:label "The Madonna and Child with Saint John the Baptist and Saint Nicholas of Bari (The Ansidei Madonna)"@en ;
+    crm:P2_has_type aat:300417209,
+        crm:E35_Title .
+
+ngo:9H0K-1B15-6Z3B-UJY0 a crm:E24_Physical_Human_Made_Thing ;
+    crm:P2_has_type aat:300014844,
+        crm:E24_Physical_Human_Made_Thing ;
+    crm:P45_consists_of [ crm:P2_has_type aat:300033656 ;
+            crm:P45_consists_of aat:300012363 ] .
+
+ngo:S6N2-9YPY-XFDA-OUZ6 a crm:E35_Title ;
+    rdfs:label "The Ansidei Madonna"@en ;
+    crm:P2_has_type aat:300417208,
+        crm:E35_Title .
+
+ngo:UY42-MIGM-QTBQ-AFY3 a crm:E24_Physical_Human_Made_Thing ;
+    crm:P2_has_type aat:300163343,
+        crm:E24_Physical_Human_Made_Thing ;
+    crm:P45_consists_of [ crm:P2_has_type aat:300033799 ;
+            crm:P45_consists_of aat:300015050 ] .
+
+ngo:ZGSO-VAD2-9Z05-06C8 a crm:E78_Curated_Holding ;
+    rdfs:label "The National Gallery Collection"@en ;
+    crm:P2_has_type aat:300443858,
+        crm:E78_Curated_Holding .
+
+aat:300379098 rdfs:label "centimeters"@en .
+
