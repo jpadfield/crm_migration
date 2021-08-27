@@ -1,0 +1,40 @@
+////////////////////////////////////////////////////////////////////////
+// Model: tng // The National Gallery [OD]
+// D8.5 Figure 4
+////////////////////////////////////////////////////////////////////////
+
+N3ef4b7b252d04c8abeaf25e22ad7eb90	crm:P2_has_type	crm:E42_Identifier	|type
+N5c317aaed74741319b43da9531389acb	crm:P2_has_type	crm:E53_Place	|type
+N69cde0ae3c3c47f0a895195b63d653d2	crm:P1i_identifies	rro:London	|place
+N3ef4b7b252d04c8abeaf25e22ad7eb90	crm:P1i_identifies	The National Gallery	|literal
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P2_has_type	crm:E74_Group	|type
+ngo:86O6-Z6YG-YL6M-10CR	crm:P1i_identifies	rro:Room_8	|place
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P50i_is_current_keeper_of	ngo:ZGSO-VAD2-9Z05-06C8	|object
+N273d99a240b94ed280d7ccd9894b13f8	crm:P2_has_type	crm:E53_Place	|type
+N0175f617151f475cb970e3ce6712a8a8	crm:P1i_identifies	rro:London	|place
+aat:300403974	crm:P1i_identifies	contributors	|actor
+Nfadf511a01ad4efea30b79a80d40eb2e	crm:P2_has_type	crm:E42_Identifier	|type
+ngo:86O6-Z6YG-YL6M-10CR	crm:P89_falls_within	ngo:S780-8SSR-HNF5-KW5T	|object
+ngo:ZGSO-VAD2-9Z05-06C8	crm:P2_has_type	crm:E78_Curated_Holding	|type
+Nfadf511a01ad4efea30b79a80d40eb2e	crm:P1i_identifies	The National Gallery	|literal
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P2_has_type	aat:300403974		|type
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P156_occupies	ngo:S780-8SSR-HNF5-KW5T		|place
+N69cde0ae3c3c47f0a895195b63d653d2	crm:P2_has_type	crm:E53_Place		|type
+ngo:3HNU-DJRH-U3CC-2VTB	http://www.w3.org/2002/07/owl#sameAs	wd:Q180788	|place
+ngo:S780-8SSR-HNF5-KW5T	crm:P2_has_type	crm:E74_Group	|type
+ngo:S780-8SSR-HNF5-KW5T	crm:P48_has_preferred_identifier	Nfadf511a01ad4efea30b79a80d40eb2e		|name
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P3_has_note	The National Gallery in London, founded in 1824, houses a rich collection of over 2,500 paintings dating from the mid-13th century to 1900 in its home on Trafalgar Square.	|note
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P48_has_preferred_identifier	N3ef4b7b252d04c8abeaf25e22ad7eb90	|name
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P2_has_type	crm:E53_Place	|type
+N0175f617151f475cb970e3ce6712a8a8	crm:P2_has_type	crm:E53_Place	|type
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P70i_is_documented_in	Nacf62d88125942c9949d2bfbfe71aad5	|object_bn
+ngo:S780-8SSR-HNF5-KW5T	crm:P53_has_former_or_current_location	N5c317aaed74741319b43da9531389acb	|place_bn
+N273d99a240b94ed280d7ccd9894b13f8	crm:P1i_identifies	rro:London	|place
+Nacf62d88125942c9949d2bfbfe71aad5	crm:P2_has_type	crm:E73_Information_Object	|type
+ngo:ZGSO-VAD2-9Z05-06C8	crm:P1i_identifies	rro:The_National_Gallery_Collection	|object
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P53_has_former_or_current_location	N0175f617151f475cb970e3ce6712a8a8	|place_bn
+N5c317aaed74741319b43da9531389acb	crm:P1i_identifies	rro:London	|place
+Nacf62d88125942c9949d2bfbfe71aad5	crm:P1i_identifies	http://www.nationalgallery.org.uk/	|url
+ngo:S780-8SSR-HNF5-KW5T	crm:P2_has_type	crm:E53_Place	|type
+ngo:S780-8SSR-HNF5-KW5T	crm:P53_has_former_or_current_location	N69cde0ae3c3c47f0a895195b63d653d2	|place_bn
+ngo:3HNU-DJRH-U3CC-2VTB	crm:P53_has_former_or_current_location	N273d99a240b94ed280d7ccd9894b13f8	|place_bn

@@ -1,0 +1,14 @@
+Subject	Predicate	Object
+ngo:BD23-XEYX-17QF-ZHBE	crm:E73_refers_to	ngo:RD04-VPE3-SU5Y-71NX
+ngo:BD23-XEYX-17QF-ZHBE	crm:E73_refers_to	ngo:0E50-0001-0000-0000
+ngo:BD23-XEYX-17QF-ZHBE	crm:E73_refers_to	ngo:F7JA-EWI2-CC2X-S0H8
+ngo:BD23-XEYX-17QF-ZHBE	rdf:type	dig:D1_Digital_Object
+ngo:BD23-XEYX-17QF-ZHBE	rdf:type	crm:E90_Symbolic_Object
+ngo:BD23-XEYX-17QF-ZHBE	crm:P70i_is_documented_in	ngo:AYRO-6FZX-SUBA-G90J
+aat:300424602	rdfs:label	digital document
+ngo:BD23-XEYX-17QF-ZHBE	crm:P2_has_type	dig:D1_Digital_Object
+ngo:BD23-XEYX-17QF-ZHBE	crm:P2_has_type	crm:E90_Symbolic_Object
+ngo:BD23-XEYX-17QF-ZHBE	crm:P3_has_note	"The yew panel is in very good condition. It has a slight convex warp. There is a fine crack in the wood at the centre in the lower part of the panel. This appears on the front of the painting, running up through the Child�s right calf. Another fine crack is evident to the right of this and there are further cracks running up from the lower edge of the panel towards the left end.
+The discoloured varnish present when the painting was rediscovered in 1991 was removed in a restoration undertaken shortly afterwards, revealing the exceptionally well preserved paint surface. There are a few small retouchings along the cracks and to some of the very small paint losses, for example on the Virgin�s neck and the back of her right hand, the Child�s forehead and the area of the Virgin�s draperies between his cheek and outstretched arm. Many of the losses are so small that they have not needed to be retouched. There has also been some retouching of the most disturbing of the minute pitted depressions on the right leg and lower torso of the Child. This pitted surface to the paint seems to originate from the process of painting rather than a later conservation treatment. Initially it would not have been visible but the depressions are now filled with dirt and varnish residues."
+ngo:BD23-XEYX-17QF-ZHBE	crm:P2_has_type	aat:300424602
+ngo:AYRO-6FZX-SUBA-G90J	rdfs:label	The National Gallery Database

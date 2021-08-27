@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:ns1="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#base64Binary">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#base64Binary"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N76b7b7f0192a413c9b32e3266b78f15a">
+    <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">216.8</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300379098"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055644"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <ns1:sameAs rdf:nodeID="N76b7b7f0192a413c9b32e3266b78f15a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300055647">
+    <rdfs:label xml:lang="en">width</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300055647"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#time">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://round4.ng-london.org.uk/ex/lcd/S6N2-9YPY-XFDA-OUZ6">
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300417208"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+    <ns1:sameAs rdf:resource="https://round4.ng-london.org.uk/ex/lcd/S6N2-9YPY-XFDA-OUZ6"/>
+    <rdfs:label xml:lang="en">The Ansidei Madonna</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#date">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://round4.ng-london.org.uk/ex/lcd/0FJS-0001-0000-0000">
+    <crm:P53_has_former_or_current_location rdf:resource="http://www.wikidata.org/entity/No_WD_value"/>
+    <crm:P43_has_dimension rdf:nodeID="N76b7b7f0192a413c9b32e3266b78f15a"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nb696b6d71b4748e0850b4ecd9ccf455a"/>
+    <crm:P102_has_title rdf:resource="https://round4.ng-london.org.uk/ex/lcd/03RH-0009-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="Nd247dd8579dd4e3e8b555e95d32307ab"/>
+    <crm:P46_is_composed_of rdf:resource="https://round4.ng-london.org.uk/ex/lcd/9H0K-1B15-6Z3B-UJY0"/>
+    <ns1:sameAs rdf:resource="https://round4.ng-london.org.uk/ex/lcd/0FJS-0001-0000-0000"/>
+    <crm:P46_is_composed_of rdf:resource="https://round4.ng-london.org.uk/ex/lcd/UY42-MIGM-QTBQ-AFY3"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300386957"/>
+    <crm:P102_has_title rdf:resource="https://round4.ng-london.org.uk/ex/lcd/S6N2-9YPY-XFDA-OUZ6"/>
+    <crm:P46_forms_part_of rdf:resource="https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#unsignedLong">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#unsignedLong"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#dateTimeStamp">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#dateTimeStamp"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#anyURI">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne8cc9638ed8945d68c99e793019ddb88">
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300033656"/>
+    <ns1:sameAs rdf:nodeID="Ne8cc9638ed8945d68c99e793019ddb88"/>
+    <crm:P45_consists_of rdf:resource="http://vocab.getty.edu/page/aat/300012363"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300417209">
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300417209"/>
+    <rdfs:label xml:lang="en">full title</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014844">
+    <rdfs:label xml:lang="en">supports (artists' materials)</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300014844"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#Name">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#Name"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#LangString">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#LangString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://round4.ng-london.org.uk/ex/lcd/03RH-0009-0000-0000">
+    <rdfs:label xml:lang="en">The Madonna and Child with Saint John the Baptist and Saint Nicholas of Bari (The Ansidei Madonna)</rdfs:label>
+    <ns1:sameAs rdf:resource="https://round4.ng-london.org.uk/ex/lcd/03RH-0009-0000-0000"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300417209"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P53_has_former_or_current_location"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8">
+    <rdfs:label xml:lang="en">The National Gallery Collection</rdfs:label>
+    <ns1:sameAs rdf:resource="https://round4.ng-london.org.uk/ex/lcd/ZGSO-VAD2-9Z05-06C8"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300443858"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#positiveInteger">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300033799">
+    <rdfs:label>oil paintings (visual works)@en</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300033799"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://round4.ng-london.org.uk/ex/lcd/UY42-MIGM-QTBQ-AFY3">
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300163343"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing"/>
+    <crm:P45_consists_of rdf:nodeID="N5bcdb312f84b4faf9e73c72f8f1f8c33"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing"/>
+    <ns1:sameAs rdf:resource="https://round4.ng-london.org.uk/ex/lcd/UY42-MIGM-QTBQ-AFY3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#HTML">
+    <ns1:sameAs rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#HTML"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#token">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#token"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#priorVersion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#priorVersion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#short">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#short"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://round4.ng-london.org.uk/ex/lcd/9H0K-1B15-6Z3B-UJY0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing"/>
+    <crm:P45_consists_of rdf:nodeID="Ne8cc9638ed8945d68c99e793019ddb88"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300014844"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E24_Physical_Human_Made_Thing"/>
+    <ns1:sameAs rdf:resource="https://round4.ng-london.org.uk/ex/lcd/9H0K-1B15-6Z3B-UJY0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#backwardCompatibleWith">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#backwardCompatibleWith"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#unsignedByte">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#unsignedByte"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#NMTOKEN">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#NMTOKEN"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#incompatibleWith">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#incompatibleWith"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300012363">
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300012363"/>
+    <rdfs:label>poplar (wood)@en</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#unsignedInt">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#unsignedInt"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#hexBinary">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#hexBinary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#deprecated">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#deprecated"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#negativeInteger">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#negativeInteger"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb696b6d71b4748e0850b4ecd9ccf455a">
+    <ns1:sameAs rdf:nodeID="Nb696b6d71b4748e0850b4ecd9ccf455a"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <rdfs:label xml:lang="en">NG1171</rdfs:label>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300443858">
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300443858"/>
+    <rdfs:label xml:lang="en">collections (repositories)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300055644">
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300055644"/>
+    <rdfs:label xml:lang="en">height</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#normalizedString">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#normalizedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd247dd8579dd4e3e8b555e95d32307ab">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">147.6</crm:P90_has_value>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055647"/>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300379098"/>
+    <ns1:sameAs rdf:nodeID="Nd247dd8579dd4e3e8b555e95d32307ab"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#AnnotationProperty">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+    <ns1:equivalentClass rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300163343">
+    <rdfs:label xml:lang="en">media (artists' material)</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300163343"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5bcdb312f84b4faf9e73c72f8f1f8c33">
+    <crm:P45_consists_of rdf:resource="http://vocab.getty.edu/page/aat/300015050"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300033799"/>
+    <ns1:sameAs rdf:nodeID="N5bcdb312f84b4faf9e73c72f8f1f8c33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/No_WD_value">
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Room 8</rdfs:label>
+    <ns1:sameAs rdf:resource="http://www.wikidata.org/entity/No_WD_value"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300386957">
+    <rdfs:label xml:lang="en">man-made objects</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300386957"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#double">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P90_has_value">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P90_has_value"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#subClassOf">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#subClassOf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#versionInfo">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#versionInfo"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P46_forms_part_of">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P46_forms_part_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P91_has_unit">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P91_has_unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#integer">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P2_has_type">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P2_has_type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300015050">
+    <rdfs:label>oil paint (paint)@en</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300015050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300033656">
+    <rdfs:label>panel paintings (paintings by form)@en</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300033656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P45_consists_of">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P45_consists_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Human_Made_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300417208">
+    <rdfs:label xml:lang="en">brief title</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300417208"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#string">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379098">
+    <rdfs:label xml:lang="en">centimeters</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300379098"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E35_Title">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Nothing">
+    <ns1:equivalentClass rdf:resource="http://www.w3.org/2002/07/owl#Nothing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#Nothing"/>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Nothing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#decimal">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404626">
+    <rdfs:label xml:lang="en">identification numbers</rdfs:label>
+    <ns1:sameAs rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#unsignedShort">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#unsignedShort"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#dateTime">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#NCName">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#NCName"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#Datatype">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#Literal">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E53_Place">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#byte">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#byte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P102_has_title">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P102_has_title"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#boolean">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#sameAs">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#long">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">
+    <ns1:sameAs rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#language">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier">
+    <ns1:sameAs rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#int">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#float">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#nonPositiveInteger">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Datatype"/>
+    <ns1:sameAs rdf:resource="http://www.w3.org/2001/XMLSchema#nonPositiveInteger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Class">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#equivalentClass">
+    <ns1:sameAs rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+  </rdf:Description>
+</rdf:RDF>

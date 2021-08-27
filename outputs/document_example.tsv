@@ -1,0 +1,87 @@
+Subject	Predicate	Object
+ngo:54RC-O42D-D7V1-FMGF	crm:P138_represents	ngo:8GX8-OJTH-8C5Z-BP3S
+ngo:54RC-O42D-D7V1-FMGF	crm:P2_has_type	aat:300266022
+N9335b72315094b74bbda879ec39d86ff	rdfs:label	Le Mus�e Cond�
+ngo:8NPG-IBO9-1MXJ-9LHR	crm:P2_has_type	crm:E16_Measurement
+N29e09dafe9e6410daa552307ba4758a1	crm:P2_has_type	crm:E39_Actor
+ngo:Y9EW-3LA6-2FMU-MRA2	crm:P125_used_object_of_type	aat:300182292
+N2b815155ec4d4371bc4ba869641422da	crm:P2_has_type	wd:Q1144928
+ngo:8NPG-IBO9-1MXJ-9LHR	crm:P39_measured	ngo:GS0L-Q2X4-EIPR-ORP3
+ngo:54RC-O42D-D7V1-FMGF	crm:P94i_was_created_by	N6fc887718b5b4e74828cd078bf77e26d
+ngo:8NPG-IBO9-1MXJ-9LHR	rdfs:label	Infrared Photography of PE38
+ngo:OLMD-QFTD-B3AJ-K8U7	crm:P39_measured	ngo:0F8W-0001-0000-0000
+ngo:TPCT-LZC5-FXG4-23SD	crm:P2_has_type	crm:E16_Measurement
+ngo:TPCT-LZC5-FXG4-23SD	crm:P39_measured	ngo:XBIP-IEU5-0HBT-0ZCC
+ngo:54RC-O42D-D7V1-FMGF	crm:P138_represents	ngo:0F8W-0001-0000-0000
+ngo:54RC-O42D-D7V1-FMGF	crm:E73_refers_to	ngo:7BSG-MIHX-WMN9-H39Q
+ngo:8NPG-IBO9-1MXJ-9LHR	crm:P32_used_general_technique	aat:300053463
+Ne81dbd987aca413389ef74574b91ff4d	crm:P2_has_type	aat:300379244
+Ne81dbd987aca413389ef74574b91ff4d	crm:P2_has_type	crm:E52_Time_span
+ngo:54RC-O42D-D7V1-FMGF	crm:E73_refers_to	ngo:P9B9-ZU5Y-MJPJ-29GH
+aat:300379861	rdfs:label	imaging (image making process)
+Nffaa904c5ca1446d8bf93f71cd93f9cb	crm:P106i_forms_part_of	N9335b72315094b74bbda879ec39d86ff
+ngo:TPCT-LZC5-FXG4-23SD	crm:P32_used_general_technique	aat:300053463
+ngo:Y9EW-3LA6-2FMU-MRA2	crm:P39_measured	ngo:8GX8-OJTH-8C5Z-BP3S
+ngo:TPCT-LZC5-FXG4-23SD	crm:P2_has_type	aat:300379861
+ngo:54RC-O42D-D7V1-FMGF	crm:P70i_is_documented_in	ngo:AYRO-6FZX-SUBA-G90J
+ngo:54RC-O42D-D7V1-FMGF	rdf:type	dig:D1_Digital_Object
+ngo:8NPG-IBO9-1MXJ-9LHR	crm:P125_used_object_of_type	aat:300182292
+N2b815155ec4d4371bc4ba869641422da	rdfs:label	Mottin_in_Musee_Conde_no_62_2005.pdf
+aat:300053463	rdfs:label	infrared photography
+ngo:TPCT-LZC5-FXG4-23SD	crm:P125_used_object_of_type	aat:300182292
+ngo:54RC-O42D-D7V1-FMGF	crm:P149_is_identified_by	N2b815155ec4d4371bc4ba869641422da
+ngo:Y9EW-3LA6-2FMU-MRA2	crm:P32_used_general_technique	aat:300053463
+ngo:8NPG-IBO9-1MXJ-9LHR	rdf:type	crm:E16_Measurement
+ngo:TPCT-LZC5-FXG4-23SD	rdf:type	crm:E16_Measurement
+ngo:54RC-O42D-D7V1-FMGF	crm:P2_has_type	dig:D1_Digital_Object
+Nf6fd3533238c42969f83722d8afaee7e	rdf:type	crm:E54_Dimension
+ngo:54RC-O42D-D7V1-FMGF	crm:P108i_was_produced_by	ngo:OLMD-QFTD-B3AJ-K8U7
+ngo:OLMD-QFTD-B3AJ-K8U7	crm:P2_has_type	crm:E16_Measurement
+N29e09dafe9e6410daa552307ba4758a1	rdfs:label	Bruno Mottin
+Nf6fd3533238c42969f83722d8afaee7e	crm:P91_has_unit	aat:300265869
+N2b815155ec4d4371bc4ba869641422da	rdf:type	crm:E42_Identifier
+ngo:Y9EW-3LA6-2FMU-MRA2	rdfs:label	Infrared Photography of PE39
+aat:300424602	rdfs:label	digital document
+wd:Q1144928	rdfs:label	filename
+ngo:54RC-O42D-D7V1-FMGF	crm:E73_refers_to	ngo:K9HN-ZRAI-ZGQK-SY5P
+ngo:54RC-O42D-D7V1-FMGF	crm:P108i_was_produced_by	ngo:TPCT-LZC5-FXG4-23SD
+ngo:RCGP-H2VH-JHQU-SGRJ	crm:P2_has_type	crm:E90_Symbolic_Object
+aat:300379244	rdfs:label	years
+ngo:54RC-O42D-D7V1-FMGF	crm:P138_represents	ngo:GS0L-Q2X4-EIPR-ORP3
+ngo:Y9EW-3LA6-2FMU-MRA2	rdf:type	crm:E16_Measurement
+ngo:54RC-O42D-D7V1-FMGF	crm:E73_refers_to	ngo:0F8W-0001-0000-0000
+ngo:54RC-O42D-D7V1-FMGF	crm:P2_has_type	aat:300424602
+ngo:54RC-O42D-D7V1-FMGF	crm:P138_represents	ngo:XBIP-IEU5-0HBT-0ZCC
+ngo:54RC-O42D-D7V1-FMGF	crm:P102_has_title	Nffaa904c5ca1446d8bf93f71cd93f9cb
+Nf6fd3533238c42969f83722d8afaee7e	crm:P2_has_type	aat:300265863
+ngo:OLMD-QFTD-B3AJ-K8U7	crm:P32_used_general_technique	aat:300053463
+ngo:OLMD-QFTD-B3AJ-K8U7	crm:P2_has_type	aat:300379861
+N6fc887718b5b4e74828cd078bf77e26d	crm:P2_has_type	crm:E65_Creation
+Nf6fd3533238c42969f83722d8afaee7e	crm:P2_has_type	crm:E54_Dimension
+ngo:8NPG-IBO9-1MXJ-9LHR	crm:P2_has_type	aat:300379861
+N6fc887718b5b4e74828cd078bf77e26d	crm:P14_carried_out_by	N29e09dafe9e6410daa552307ba4758a1
+aat:300182292	rdfs:label	infrared lamps
+ngo:54RC-O42D-D7V1-FMGF	crm:P43_has_dimension	Nf6fd3533238c42969f83722d8afaee7e
+ngo:OLMD-QFTD-B3AJ-K8U7	crm:P125_used_object_of_type	aat:300182292
+ngo:54RC-O42D-D7V1-FMGF	crm:P165_incorporates	ngo:RCGP-H2VH-JHQU-SGRJ
+N2b815155ec4d4371bc4ba869641422da	crm:P2_has_type	crm:E42_Identifier
+Ne81dbd987aca413389ef74574b91ff4d	crm:P82a_begin_of_the_begin	2005-01-01T00:00:00
+N6fc887718b5b4e74828cd078bf77e26d	crm:P4_has_time_span	Ne81dbd987aca413389ef74574b91ff4d
+ngo:OLMD-QFTD-B3AJ-K8U7	rdf:type	crm:E16_Measurement
+ngo:54RC-O42D-D7V1-FMGF	crm:P108i_was_produced_by	ngo:8NPG-IBO9-1MXJ-9LHR
+Nf6fd3533238c42969f83722d8afaee7e	crm:P90_has_value	2648839
+aat:300266022	rdfs:label	PDF
+ngo:Y9EW-3LA6-2FMU-MRA2	crm:P2_has_type	crm:E16_Measurement
+N29e09dafe9e6410daa552307ba4758a1	rdf:type	crm:E39_Actor
+ngo:OLMD-QFTD-B3AJ-K8U7	rdfs:label	Infrared Photography of NG213
+N6fc887718b5b4e74828cd078bf77e26d	rdf:type	crm:E65_Creation
+aat:300265863	rdfs:label	size for computer files
+Ne81dbd987aca413389ef74574b91ff4d	crm:P82b_end_of_the_end	2005-12-31T00:00:00
+aat:300265869	rdfs:label	bytes
+ngo:AYRO-6FZX-SUBA-G90J	rdfs:label	The National Gallery Database
+Nffaa904c5ca1446d8bf93f71cd93f9cb	rdfs:label	Rapha�l au Mus�e Cond�: quelques resultats d�un examen sous l�angle du laboratoire�
+ngo:RCGP-H2VH-JHQU-SGRJ	rdf:type	crm:E90_Symbolic_Object
+ngo:TPCT-LZC5-FXG4-23SD	rdfs:label	Infrared Photography of PE40
+ngo:Y9EW-3LA6-2FMU-MRA2	crm:P2_has_type	aat:300379861
+Ne81dbd987aca413389ef74574b91ff4d	rdf:type	crm:E52_Time_span
+ngo:54RC-O42D-D7V1-FMGF	crm:P108i_was_produced_by	ngo:Y9EW-3LA6-2FMU-MRA2

@@ -1,0 +1,52 @@
+Subject	Predicate	Object
+http://vocab.getty.edu/page/aat/300241583	http://www.w3.org/2000/01/rdf-schema#label	components (object part)
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/crmsci/O25i_is_contained_in	https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000
+https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S	http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique	http://vocab.getty.edu/page/aat/300034254
+https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E16_Measurement
+N32891880872a4035b4c57c522d2d0776	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/crmsci/S18_Alteration
+N7b0211020834425687180a6dce7a510e	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000	http://www.cidoc-crm.org/cidoc-crm/P59_has_section	N7b0211020834425687180a6dce7a510e
+http://vocab.getty.edu/page/aat/300443464	http://www.w3.org/2000/01/rdf-schema#label	embedding
+https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S	http://www.w3.org/2000/01/rdf-schema#label	Cross Section Sampling of NG27
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/crmsci/S13_Sample
+Nee6d6cf38de94da4b90878e212f49044	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E31_Document
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.cidoc-crm.org/crmsci/O4_sampled_at	N7b0211020834425687180a6dce7a510e
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/crmsci/O18i_was_altered_by	N32891880872a4035b4c57c522d2d0776
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300025820
+https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300379861
+http://www.wikidata.org/entity/Q1710397	http://www.w3.org/2000/01/rdf-schema#label	reason
+http://vocab.getty.edu/page/aat/300014533	http://www.w3.org/2000/01/rdf-schema#label	epoxy resin
+http://vocab.getty.edu/page/aat/300028875	http://www.w3.org/2000/01/rdf-schema#label	samples
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.w3.org/2000/01/rdf-schema#comment	Actual textual content describing the sampling process
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300028875
+Nee6d6cf38de94da4b90878e212f49044	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E31_Document
+https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S	http://www.cidoc-crm.org/cidoc-crm/P39_measured	https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/cidoc-crm/P138_represents	https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000
+Nee6d6cf38de94da4b90878e212f49044	http://www.w3.org/2000/01/rdf-schema#comment	As part of a general technical examination of the painting - documenting the material and techniques used in its production.
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.w3.org/2000/01/rdf-schema#label	Example NG Staff Member
+N32891880872a4035b4c57c522d2d0776	http://www.cidoc-crm.org/cidoc-crm/P140_assigned_attribute_to	https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300034254
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by	https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/crmsci/S2_Sample_Taking
+N32891880872a4035b4c57c522d2d0776	http://www.cidoc-crm.org/cidoc-crm/P177_assigned_property_of_type	http://vocab.getty.edu/page/aat/300034254
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.w3.org/2000/01/rdf-schema#label	https://rdf.ng-london.org.uk/raphael/resource/N-0027-00_inorganic_sample_012
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.cidoc-crm.org/crmsci/O3_sampled_from	https://round4.ng-london.org.uk/ex/lcd/0D0E-0001-0000-0000
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E21_Person
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.cidoc-crm.org/cidoc-crm/P70_is_documented_in	Nee6d6cf38de94da4b90878e212f49044
+http://vocab.getty.edu/page/aat/300025820	http://www.w3.org/2000/01/rdf-schema#label	conservation scientist
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/crmsci/S2_Sample_Taking
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by	https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S
+N32891880872a4035b4c57c522d2d0776	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment
+Na34db3d34d5a4d00bbcee4a3349105e5	http://www.cidoc-crm.org/crmsci/O5_removed	https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP
+https://round4.ng-london.org.uk/ex/lcd/MNEA-GXYR-WR13-5W4S	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E16_Measurement
+N32891880872a4035b4c57c522d2d0776	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/crmsci/S18_Alteration
+N7b0211020834425687180a6dce7a510e	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300241583
+https://round4.ng-london.org.uk/ex/lcd/Y4M5-2P4X-GYFR-9WJP	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/crmsci/S13_Sample
+Nee6d6cf38de94da4b90878e212f49044	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.wikidata.org/entity/Q1710397
+N32891880872a4035b4c57c522d2d0776	http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object	http://vocab.getty.edu/page/aat/300014533
+http://vocab.getty.edu/page/aat/300379861	http://www.w3.org/2000/01/rdf-schema#label	imaging (image making process)
+N7b0211020834425687180a6dce7a510e	http://www.w3.org/2000/01/rdf-schema#label	Crimson of cope shadow above right hand 110x
+N32891880872a4035b4c57c522d2d0776	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300443464
+http://vocab.getty.edu/page/aat/300034254	http://www.w3.org/2000/01/rdf-schema#label	cross sections
+N7b0211020834425687180a6dce7a510e	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E53_Place
+https://round4.ng-london.org.uk/ex/lcd/WLTN-O3MV-PTQH-4CHX	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.cidoc-crm.org/cidoc-crm/E21_Person

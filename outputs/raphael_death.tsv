@@ -1,0 +1,12 @@
+Subject	Predicate	Object
+N90be303066cc4726b892d9791c151a09	http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end	1520-12-31
+N90be303066cc4726b892d9791c151a09	http://www.cidoc-crm.org/cidoc-crm/P1i_identifies	https://rdf.ng-london.org.uk/raphael/resource/RRR_1520
+https://round4.ng-london.org.uk/ex/lcd/JZ6Q-2KJ4-ADE6-E9WE	http://www.cidoc-crm.org/cidoc-crm/P4_has_time_span	N90be303066cc4726b892d9791c151a09
+https://round4.ng-london.org.uk/ex/lcd/X49G-D5FL-LLD5-L23X	http://www.cidoc-crm.org/cidoc-crm/P100i_died_in	https://round4.ng-london.org.uk/ex/lcd/JZ6Q-2KJ4-ADE6-E9WE
+http://vocab.getty.edu/page/aat/300379244	http://www.cidoc-crm.org/cidoc-crm/P1i_identifies	years@en
+N90be303066cc4726b892d9791c151a09	http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin	1520-01-01
+https://round4.ng-london.org.uk/ex/lcd/JZ6Q-2KJ4-ADE6-E9WE	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300151836
+N90be303066cc4726b892d9791c151a09	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E52_Time_span
+N90be303066cc4726b892d9791c151a09	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://vocab.getty.edu/page/aat/300379244
+http://vocab.getty.edu/page/aat/300151836	http://www.cidoc-crm.org/cidoc-crm/P1i_identifies	deaths@en
+https://round4.ng-london.org.uk/ex/lcd/JZ6Q-2KJ4-ADE6-E9WE	http://www.cidoc-crm.org/cidoc-crm/P2_has_type	http://www.cidoc-crm.org/cidoc-crm/E69_Death

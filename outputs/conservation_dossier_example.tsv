@@ -1,0 +1,81 @@
+Subject	Predicate	Object
+ngo:1D35-MR2V-XAHY-IMLF	rdfs:label	Volume II of Conservation Dossier of NG1171
+Nb9e2e12c469e4c49a14b4e3b990798d1	crm:P2_has_type	crm:E54_Dimension
+ngo:5WM9-D812-7NR6-B6SU	crm:P43_has_dimension	Nf5507b369a7f4caa843c14c353bb79da
+N17b35cc48d174f79aa2aee3cf40a38ab	crm:P90_has_value	37483096
+Nc648ef397d2c4336a2ff5c70f0578da5	crm:P2_has_type	crm:E54_Dimension
+ngo:5WM9-D812-7NR6-B6SU	crm:P2_has_type	aat:300215302
+ngo:BECN-6TJY-JP06-6GOL	crm:P138_represents	ngo:0FJS-0001-0000-0000
+Nb9e2e12c469e4c49a14b4e3b990798d1	rdf:type	crm:E54_Dimension
+aat:300266226	rdfs:label	TIFF
+ngo:5WM9-D812-7NR6-B6SU	crm:P165_incorporates	ngo:BECN-6TJY-JP06-6GOL
+N54ad9aef95c1436a8864d3b56bb4d3ce	crm:P2_has_type	aat:300055647
+ngo:Z2KZ-XVDB-TS8W-17IC	crm:P2_has_type	crm:E89_Propositional_Object
+ngo:7NMH-9WVK-SWHC-DD92	owl:sameAs	ngo:MUPA-LQ3X-YL4Z-W0TR
+aat:300265866	rdfs:label	bits (computing)
+Nedb1226350eb401ca7cc68a342497044	rdf:type	crm:E42_Identifier
+aat:300266190	rdfs:label	pixels
+ngo:Z2KZ-XVDB-TS8W-17IC	rdfs:label	Conservation Dossier of NG1171
+aat:300410392	rdfs:label	bit depth
+N17b35cc48d174f79aa2aee3cf40a38ab	crm:P91_has_unit	aat:300265869
+Nedb1226350eb401ca7cc68a342497044	crm:P2_has_type	wd:Q1144928
+aat:300265869	rdfs:label	bytes
+ngo:5WM9-D812-7NR6-B6SU	crm:P43_has_dimension	Nc648ef397d2c4336a2ff5c70f0578da5
+ngo:1D35-MR2V-XAHY-IMLF	rdf:type	crm:E89_Propositional_Object
+ngo:5WM9-D812-7NR6-B6SU	crm:P43_has_dimension	N17b35cc48d174f79aa2aee3cf40a38ab
+N840dce2193d348a2b88578a70713b64d	rdf:type	crm:E36_Visual_Item
+N54ad9aef95c1436a8864d3b56bb4d3ce	rdf:type	crm:E54_Dimension
+Nc648ef397d2c4336a2ff5c70f0578da5	crm:P2_has_type	aat:300055644
+Nf5507b369a7f4caa843c14c353bb79da	crm:P91_has_unit	aat:300265866
+ngo:5WM9-D812-7NR6-B6SU	crm:P130i_features_are_also_found_on	N840dce2193d348a2b88578a70713b64d
+wd:Q3411251	rdfs:label	pyramid
+ngo:AYRO-6FZX-SUBA-G90J	rdfs:label	The National Gallery Database
+ngo:BECN-6TJY-JP06-6GOL	crm:P2_has_type	crm:E36_Visual_Item
+Nf5507b369a7f4caa843c14c353bb79da	crm:P2_has_type	wd:Q270159
+aat:300265863	rdfs:label	size for computer files
+ngo:5WM9-D812-7NR6-B6SU	dig:L57_has_pixel_height	4316
+ngo:5WM9-D812-7NR6-B6SU	dig:L56_has_pixel_width	2893
+N840dce2193d348a2b88578a70713b64d	rdfs:label	http://cima.ng-london.org.uk/fcgi-bin/iipsrv.fcgi?FIF=/pics/tmp/raphael_pyr/N-1171/06_Conservation_Dossiers/N-1171-00-000063-047-PYR.tif&QLT=75&cnt=1&WID=256&CVT=JPEG
+ngo:BECN-6TJY-JP06-6GOL	rdf:type	crm:E36_Visual_Item
+wd:Q873806	rdfs:label	thumbnail
+Nb9e2e12c469e4c49a14b4e3b990798d1	rdfs:label	Number of pyramidal levels
+ngo:7NMH-9WVK-SWHC-DD92	crm:P67_refers_to	ngo:0FJS-0001-0000-0000
+ngo:5WM9-D812-7NR6-B6SU	crm:P2_has_type	dig:D1_Digital_Object
+ngo:Z2KZ-XVDB-TS8W-17IC	rdf:type	crm:E89_Propositional_Object
+Nc648ef397d2c4336a2ff5c70f0578da5	rdf:type	crm:E54_Dimension
+ngo:5WM9-D812-7NR6-B6SU	crm:P2_has_type	aat:300266226
+N840dce2193d348a2b88578a70713b64d	crm:P2_has_type	wd:Q873806
+ngo:5WM9-D812-7NR6-B6SU	crm:P70i_is_documented_in	ngo:AYRO-6FZX-SUBA-G90J
+N17b35cc48d174f79aa2aee3cf40a38ab	crm:P2_has_type	aat:300265863
+Nb30003736db946729c50365147adb6bc	crm:P43_has_dimension	Nb9e2e12c469e4c49a14b4e3b990798d1
+Nf5507b369a7f4caa843c14c353bb79da	crm:P2_has_type	aat:300410392
+ngo:5WM9-D812-7NR6-B6SU	crm:P62_depicts	ngo:0FJS-0001-0000-0000
+Nb9e2e12c469e4c49a14b4e3b990798d1	crm:P90_has_value	6.0
+ngo:Z2KZ-XVDB-TS8W-17IC	crm:P70_documents	ngo:U8M9-RLLI-IVXO-EX7V
+Nedb1226350eb401ca7cc68a342497044	crm:P2_has_type	crm:E42_Identifier
+ngo:Z2KZ-XVDB-TS8W-17IC	crm:P148_has_component	ngo:1D35-MR2V-XAHY-IMLF
+ngo:5WM9-D812-7NR6-B6SU	crm:P2i_is_type_of	Nb30003736db946729c50365147adb6bc
+aat:300215302	rdfs:label	digital images
+ngo:5WM9-D812-7NR6-B6SU	crm:P149_is_identified_by	Nedb1226350eb401ca7cc68a342497044
+Nc648ef397d2c4336a2ff5c70f0578da5	crm:P91_has_unit	aat:300266190
+N54ad9aef95c1436a8864d3b56bb4d3ce	crm:P2_has_type	crm:E54_Dimension
+ngo:1D35-MR2V-XAHY-IMLF	crm:P2_has_type	crm:E89_Propositional_Object
+Nb30003736db946729c50365147adb6bc	rdfs:label	ng-london/tif
+ngo:BECN-6TJY-JP06-6GOL	crm:P1i_is_identified_by	Visual image of NG1171
+Nedb1226350eb401ca7cc68a342497044	rdfs:label	N-1171-00-000063-047.tif
+N840dce2193d348a2b88578a70713b64d	crm:P2_has_type	crm:E36_Visual_Item
+wd:Q1144928	rdfs:label	filename
+aat:300055644	rdfs:label	height
+ngo:5WM9-D812-7NR6-B6SU	crm:P43_has_dimension	N54ad9aef95c1436a8864d3b56bb4d3ce
+ngo:1D35-MR2V-XAHY-IMLF	crm:P148_has_component	ngo:7NMH-9WVK-SWHC-DD92
+wd:Q270159	rdfs:label	8-bit
+N17b35cc48d174f79aa2aee3cf40a38ab	rdf:type	crm:E54_Dimension
+ngo:7NMH-9WVK-SWHC-DD92	rdfs:label	Page 23 of Volume II of Conservation Dossier of NG1171
+Nf5507b369a7f4caa843c14c353bb79da	rdf:type	crm:E54_Dimension
+N54ad9aef95c1436a8864d3b56bb4d3ce	crm:P91_has_unit	aat:300266190
+aat:300055647	rdfs:label	width
+ngo:MUPA-LQ3X-YL4Z-W0TR	rdfs:label	Page 45 of Conservation Dossier of NG1171
+Nf5507b369a7f4caa843c14c353bb79da	crm:P2_has_type	crm:E54_Dimension
+Nb30003736db946729c50365147adb6bc	crm:P2_has_type	wd:Q3411251
+N17b35cc48d174f79aa2aee3cf40a38ab	crm:P2_has_type	crm:E54_Dimension
+ngo:5WM9-D812-7NR6-B6SU	rdf:type	dig:D1_Digital_Object
