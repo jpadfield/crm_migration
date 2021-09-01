@@ -113,7 +113,7 @@ def map_document(old_graph, new_graph):
     
     for doc_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC220.Digital_Text'))):
         subject_PID = generate_placeholder_PID(doc_name)
-        database_PID = generate_placeholder_PID('The Raohael Research Resource')
+        database_PID = generate_placeholder_PID('The Raphael Research Resource')
 
         new_graph.add((getattr(NGO, subject_PID), CRM.P70i_is_documented_in, getattr(NGO, database_PID)))
         new_graph.add((getattr(NGO, database_PID), RDFS.label, Literal('The Raphael Research Resource', lang="en")))
