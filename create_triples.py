@@ -4,6 +4,7 @@ from rdflib.serializer import Serializer
 from SPARQLWrapper import SPARQLWrapper, JSON
 from common_functions import generate_placeholder_PID, create_PID_from_triple, find_aat_value, wikidata_query, get_property, create_year_dates, query_objects, run_ruby_program
 import requests
+from pdb import set_trace as st
 
 RRO = Namespace("https://rdf.ng-london.org.uk/raphael/ontology/")
 RRI = Namespace("https://rdf.ng-london.org.uk/raphael/resource/")
@@ -668,6 +669,7 @@ def create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
     return new_graph
 
 def create_examination_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj, doc_type):
+
     if pred == getattr(RRO, 'RP98.is_in_project_category'):
         if obj == getattr(RRI, 'RCL211.X-Ray_Images') or obj == getattr(RRI, 'RCL210.X-Ray_Examination'):
             technique_name = 'x-ray'
@@ -772,7 +774,7 @@ def create_examination_event_triples(new_graph, old_graph, subject_PID, subj, pr
                 new_graph.add((getattr(NGO, xray_event), CRM.P125_used_object_of_type, getattr(AAT, object_type_ref)))
                 new_graph.add((getattr(AAT, object_type_ref), RDFS.label, Literal(object_type, lang="en")))
 
-        return new_graph
+    return new_graph
 
 def create_modification_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
     if pred == getattr(RRO, 'RP98.is_in_project_category'):
