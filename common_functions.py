@@ -4,18 +4,120 @@ import random, urllib, json, string, csv
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
 import numpy as np
-
+from rdflib import Graph, Namespace, Literal, BNode
+from rdflib.namespace import RDF, RDFS, NamespaceManager, XSD
+import os
 from pdb import set_trace as st
 
-def connect_to_sql(db="grounds_sshoc"):
+RRO = Namespace("https://rdf.ng-london.org.uk/raphael/ontology/")
+RRI = Namespace("https://rdf.ng-london.org.uk/raphael/resource/")
+CRM = Namespace("http://www.cidoc-crm.org/cidoc-crm/")
+NGO = Namespace("https://data.ng-london.org.uk/")
+AAT = Namespace("http://vocab.getty.edu/page/aat/")
+TGN = Namespace("http://vocab.getty.edu/page/tgn/")
+WD = Namespace("http://www.wikidata.org/entity/")
+DIG = Namespace("http://www.cidoc-crm.org/crmdig/")
+SCI = Namespace("http://www.cidoc-crm.org/crmsci/")
+OWL = Namespace("http://www.w3.org/2002/07/owl#")
+
+def query_graph(graph,subj,pred,obj):
+    for s,p,o in graph.triples((subj,pred,obj)):
+        print(s.n3(new_graph.namespace_manager),p.n3(new_graph.namespace_manager),o.n3(new_graph.namespace_manager))
+
+def query_objects(graph, subj, pred, obj):
+        objects_list = []
+        for s, p, o in graph.triples((subj, pred, obj)):
+            o = str(get_property(o))
+            objects_list.append(o)
+        return objects_list
+
+def sparql_query_pythonic(csv_format=True):
+    qres = g.query(
+        """
+        PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX owl:<http://www.w3.org/2002/07/owl#>
+        PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX crm:<http://www.cidoc-crm.org/rdfs/cidoc_crm_v5.0.2_english_label.rdfs#>
+        PREFIX rro:<https://rdf.ng-london.org.uk/raphael/ontology/>
+        PREFIX rri:<https://rdf.ng-london.org.uk/raphael/resource/>
+
+        SELECT 
+        DISTINCT ?image ?server ?pyramid ?category
+        WHERE { ?image rro:RP30.has_pyramid ?pyramid .
+                ?image rro:RP243.has_pyramid_server ?server . 
+                ?image rro:RP98.is_in_project_category ?category }
+        """
+    )
+
+    if csv_format == True: 
+        new_dataframe = []
+        for row in qres:
+            triples = '%s| %s| %s |%s' % row
+            innerlist = []
+            if 1 == 1:
+                innerlist = triples.split('|')
+            new_dataframe.append(innerlist)
+        new_dataframe = [x for x in new_dataframe if x]
+        return new_dataframe
+    else:
+        return qres
+
+def map_property(graph,new_graph, old_property, new_property):
+    for x, old_property, z in graph.triples((None, old_property, None)):
+        #graph.remove((x,y,z))
+        new_graph.add((x, new_property, z))
+    return graph, new_graph
+
+def map_class(graph,new_graph,old_class,new_class):
+    for x,y,z in graph.subjects((old_class,None,None)):
+        #graph.remove((x,y,z))
+        new_graph.add((new_class,y,z))
+
+    for x,y,z in graph.objects((None,None,old_class)):
+        #graph.remove((x,y,z))
+        new_graph.add((x,y,new_class))
+
+    return graph, new_graph
+
+def triples_to_csv(triples, filename):
+    fields = ['Subject','Predicate','Object']
+
+    with open('outputs/' + filename + '.csv','w',newline='') as f:
+        write = csv.writer(f)
+
+        write.writerow(fields)
+        write.writerows(triples)
+
+    print('CSV created!')
+
+def triples_to_tsv(triples, filename):
+    fields = ['Subject','Predicate','Object']
+
+    with open('outputs/' + filename + '.tsv','w',newline='') as f:
+        write = csv.writer(f, delimiter = '\t')
+
+        write.writerow(fields)
+        write.writerows(triples)
+
+    print('TSV created!')
+
+def connect_to_sql():
     mydb = mysql.connector.connect(
         host="round4",
         user="sshoc",
-        password="IqazZuKaXMmSEqUl",
-        database=db
+        password="IqazZuKaXMmSEqUl"
     )
 
     return mydb
+
+def get_property(uri):
+    remove_uri = uri.replace('https://rdf.ng-london.org.uk/raphael/resource/','')
+    final_property = remove_uri.replace('_',' ')
+    if '.' in final_property:
+        final_property = str(final_property.split('.')[1])
+    if 'RRR' in final_property:
+        final_property = final_property.replace('RRR','')
+    return final_property
 
 def get_json(url):
     operUrl = urllib.request.urlopen(url)
@@ -26,24 +128,20 @@ def get_json(url):
        print("Error receiving data", operUrl.getcode())
     return json_data
 
-def find_gallery_PID(ng_number):
-    ng_number = str(ng_number)
-    if ng_number.startswith('https'):
-        ng_number = str(ng_number.rsplit('/',1)[-1])
-    else:
-        ng_number = ng_number.replace(' ','_')
-
-    gallery_PID = None
-
-    try:
-        export_url = 'https://collectiondata.ng-london.org.uk/es/ng-public/_search?q=identifier.object_number:' + ng_number
-        json = get_json(export_url)
-        if json['hits']['total'] > 0:
-            gallery_PID = json['hits']['hits'][0]['_id']
-    except:
-        gallery_PID = None
-
-    return gallery_PID
+def check_pids_csv(input_literal):
+    pid_value = 'None'
+    if os.path.isfile('outputs/placeholder_pids.csv') == True:
+        with open('outputs/placeholder_pids.csv','r') as f:
+            reader = csv.DictReader(f, delimiter=',')
+            dict_list = []
+            for row in reader:
+                dict_list.append(row)
+            for value in range(len(dict_list)):
+                csv_literal = str(dict_list[value]['Literal value'])
+                if csv_literal == str(input_literal):
+                    pid_value = str(dict_list[value]['Placeholder PID'])
+                    break
+    return pid_value
 
 def check_db(input_literal, table_name):
     db = connect_to_sql()
@@ -57,8 +155,8 @@ def check_db(input_literal, table_name):
         val = 'wd_value'
         str_input = 'string_literal'
 
-    query = "SELECT " + val + " FROM sshoc." + table_name + " WHERE " + str_input + " = %s"
-    cursor.execute(query, (input_literal,))
+    query = "SELECT " + val + " FROM sshoc." + table_name + " WHERE " + str_input + " = '" + input_literal + "'"
+    cursor.execute(query)
     result = cursor.fetchall()
     
     if len(result) > 0:
@@ -66,7 +164,39 @@ def check_db(input_literal, table_name):
 
     return pid_value
 
+def check_elasticsearch(search_term, index_name): 
+    es = Elasticsearch([{'host':'localhost','port':9200}]) 
+    search_term = str(search_term)
+
+    pid_value = None
+    body_query = {'query':{'match':{'column1':{'query':search_term, 'fuzziness':0}}}}
+    res = es.search(index=index_name,body=body_query)
+
+    for hit in res['hits']['hits']:
+        pid_value = hit['_source']['column2']
+    
+    return pid_value
+
+def find_old_pid(ng_number):
+    #json_data = get_json('https://scientific.ng-london.org.uk/export/ngpidexport_00A.json')
+    if ng_number.startswith('https'):
+        ng_number = str(ng_number.rsplit('/',1)[-1])
+    else:
+        ng_number = ng_number.replace(' ','_')
+    old_pid = None
+
+    try:
+        export_url = 'https://collectiondata.ng-london.org.uk/es/ng-public/_search?q=identifier.object_number:' + ng_number
+        json = get_json(export_url)
+        if json['hits']['total'] > 0:
+            old_pid = json['hits']['hits'][0]['_id']
+    except:
+        old_pid = None
+
+    return old_pid
+
 def generate_placeholder_PID(input_literal):
+    db = connect_to_sql()
     N = 4
     placeholder_PID = ""
     for number in range(N):
@@ -77,14 +207,14 @@ def generate_placeholder_PID(input_literal):
     #input_list = [input_literal, placeholder_PID]
     #fields = ['Literal value','Placeholder PID']
     existing_pid = check_db(input_literal, table_name = 'temp_pids')
-    old_pid = find_gallery_PID(input_literal)
+    old_pid = find_old_pid(input_literal)
     
     if existing_pid is not None:
         return existing_pid
     elif old_pid is not None:
         return old_pid
     else:
-        db = connect_to_sql()
+        #db = connect_to_sql()
         cursor = db.cursor()
         input_literal = str(input_literal)
         query = 'INSERT INTO sshoc.temp_pids (literal_value, pid_value) VALUES (%s, %s)'
@@ -104,95 +234,32 @@ def create_PID_from_triple(pid_type, subj):
 
     return output_pid
 
-def triples_to_csv(triples, filename):
-    fields = ['Subject','Predicate','Object']
-
-    with open('outputs/' + filename + '.csv','w',newline='') as f:
-        write = csv.writer(f)
-
-        write.writerow(fields)
-        write.writerows(triples)
-
-    print('CSV created!')
-    
-def triples_to_tsv(triples, filename):
-    fields = ['Subject','Predicate','Object']
-
-    with open('outputs/' + filename + '.tsv','w',newline='') as f:
-        write = csv.writer(f, delimiter = '\t')
-
-        write.writerow(fields)
-        write.writerows(triples)
-
-    print('TSV created!')
-
-def get_property(uri):
-    remove_uri = uri.replace('https://rdf.ng-london.org.uk/raphael/resource/','')
-    final_property = remove_uri.replace('_',' ')
-    if '.' in final_property:
-        final_property = str(final_property.split('.')[1])
-    if 'RRR' in final_property:
-        final_property = final_property.replace('RRR','')
-    return final_property
-
 def find_aat_value(material,material_type):
-    if 'https://rdf.ng-london.org.uk/raphael/resource/' in material:
-        material = str(get_property(material))
-    else:
-        material = str(material)
-    
-    if material_type == 'medium':
-        wb = load_workbook(filename = 'inputs/NG_Meduim_and_Support_AAT.xlsx', read_only=True)
+    material = str(get_property(material))
+    if material_type == getattr(RRO,'RP20.has_medium'):
+        wb = load_workbook(filename = 'inputs/NG_Medium_and_Support_AAT.xlsx', read_only=True)
         ws = wb['Medium Material']
-    elif material_type == 'support':
-        wb = load_workbook(filename = 'inputs/NG_Meduim_and_Support_AAT.xlsx', read_only=True)
+    elif material_type == getattr(RRO,'RP32.has_support'):
+        wb = load_workbook(filename = 'inputs/NG_Medium_and_Support_AAT.xlsx', read_only=True)
         ws = wb['Support Materials']
-    elif material_type == 'roles':
+    elif material_type == 'medium type':
+        wb = load_workbook(filename = 'inputs/NG_Medium_and_Support_AAT.xlsx', read_only=True)
+        ws = wb['Medium Type']
+    elif material_type == 'support type':
+        wb = load_workbook(filename = 'inputs/NG_Medium_and_Support_AAT.xlsx', read_only=True)
+        ws = wb['Support Type']
+    elif material_type == getattr(RRO, 'RP215.has_acted_in_the_role_of_an'):
         wb = load_workbook(filename = 'inputs/NG_Roles_AAT.xlsx', read_only=True)
         ws = wb['AAT_Roles']
-    elif material_type == 'material_grounds':
-        wb = load_workbook(filename = 'inputs/NG_Meduim_and_Support_AAT.xlsx', read_only=True)
-        ws = wb['GROUNDS materials']
-    elif material_type == 'protocols':
-        wb = load_workbook(filename = 'inputs/Protocol_AAT.xlsx', read_only=True)
-        ws = wb['Protocol']
-    elif material_type == 'techniques':
-        wb = load_workbook(filename = 'inputs/Protocol_AAT.xlsx', read_only=True)
-        ws = wb['Techniques']
     for row in ws.iter_rows(values_only=True):
         if material in row:
-            aat_dict = {}
             aat_number_string = str(row[1])
             aat_number = aat_number_string.replace('aat:','')
             aat_type = row[2]
-            aat_dict.update({aat_number:aat_type})
-            for x in range(3, 9, 2):
-                try:
-                    aat_number_string = str(row[x])
-                    aat_number = aat_number_string.replace('aat:','')
-                    aat_type = row[x+1]
-                    aat_dict.update({aat_number:aat_type})
-                except:
-                    pass
-            return aat_dict
+            return aat_number, aat_type
     wb.close()
 
-def run_ruby_program(input_string):
-    import subprocess
-
-    ruby_var = 'ruby citation_parser.rb \'' + input_string + '\''
-    output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    out, error = output.communicate()
-
-    try:
-        string_output = out.decode("utf-8")
-        json_output = json.loads(string_output)
-    except:
-        return
-
-    return json_output
-
-def wikidata_query(literal, literal_type, db):
+def wikidata_query(literal, literal_type):
     sparql = SPARQLWrapper('https://query.wikidata.org/sparql')
     print('Trying a query with input ' + literal)
     remove_uri = literal.replace('https://rdf.ng-london.org.uk/raphael/resource/','')
@@ -218,7 +285,10 @@ def wikidata_query(literal, literal_type, db):
         thing_type = 'Q34770'
         string_literal = str(literal)
     
-    result = check_db(string_literal, 'wikidata')
+    if string_literal is not None:
+        result = check_db(string_literal, 'wikidata')
+    else:
+        result is None
     
     if result is not None:
         result = result.replace('http://www.wikidata.org/entity/','')
@@ -243,7 +313,7 @@ def wikidata_query(literal, literal_type, db):
         
         if ret["results"]["bindings"] != []:
             for result in ret["results"]["bindings"]:
-                #db = connect_to_sql()
+                db = connect_to_sql()
                 cursor = db.cursor()
                 result = result["year"]["value"]
                 query = 'INSERT INTO sshoc.wikidata (string_literal, wd_value) VALUES (%s, %s)'
@@ -251,14 +321,27 @@ def wikidata_query(literal, literal_type, db):
                 cursor.execute(query, val)
                 db.commit()
         else:
-            #db = connect_to_sql()
-            cursor = db.cursor()
-            query = 'INSERT INTO sshoc.wikidata (string_literal, wd_value) VALUES (%s, %s)'
-            val = (string_literal, 'No WD value')
-            cursor.execute(query, val)
-            db.commit()
-        result = result.replace('http://www.wikidata.org/entity/','')
+            result is None
+        
+        if result is not None:
+            result = result.replace('http://www.wikidata.org/entity/','')
+
         return result
+
+def run_ruby_program(input_string):
+    import subprocess
+
+    ruby_var = 'ruby citation_parser.rb \'' + input_string + '\''
+    output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    out, error = output.communicate()
+
+    try:
+        string_output = out.decode("utf-8")
+        json_output = json.loads(string_output)
+    except:
+        return
+
+    return json_output
 
 def create_year_dates(year):
     import datetime
@@ -268,23 +351,3 @@ def create_year_dates(year):
     end = datetime.datetime(year, 12, 31)
 
     return start, end
-
-def check_aat_values(col_name):
-    aat_db = connect_to_sql(db="sshoc")
-    cursor = aat_db.cursor()
-    query = "SELECT aat_title, aat_value, aat_unit_title, aat_unit_value FROM aat_refs_grounds WHERE aat_refs_grounds.dimension_column_ref = '" + col_name + "'"
-    cursor.execute(query)
-    result = cursor.fetchall()
-
-    aat_title, aat_value, aat_unit_title, aat_unit_value = [x for x in result[0]]
-
-    return aat_title, aat_value, aat_unit_title, aat_unit_value
-
-def process_name_prefixes(row):
-
-    if row["person_prefix_name"] is not np.nan:
-        value = str(row["person_prefix_name"]) + " " + row["person_name"]
-    else:
-        value = row["person_name"]
-
-    return value
