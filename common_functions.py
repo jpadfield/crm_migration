@@ -331,15 +331,9 @@ def wikidata_query(literal, literal_type):
 def run_ruby_program(input_string):
     import subprocess
 
-    ruby_var = 'ruby citation_parser.rb \'' + input_string + '\''
-    if 'The Bridgewater Madonna' in input_string:
-        return
-    else:
-        st()
-        output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    # try: output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    # except: st()
-        out, error = output.communicate()
+    ruby_var = 'ruby crm_migration/citation_parser.rb \'' + input_string + '\''
+    output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    out, error = output.communicate()
 
     try:
         string_output = out.decode("utf-8")
