@@ -331,9 +331,9 @@ def wikidata_query(literal, literal_type):
 def run_ruby_program(input_string):
     import subprocess
 
-    try: ruby_var = 'ruby citation_parser.rb \'' + input_string + '\''
+    ruby_var = 'ruby citation_parser.rb \'' + input_string + '\''
+    try: output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     except: st()
-    output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     out, error = output.communicate()
 
     try:
