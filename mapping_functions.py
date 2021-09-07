@@ -3,7 +3,8 @@ from rdflib.namespace import RDF, RDFS, NamespaceManager, XSD
 from rdflib.serializer import Serializer
 from SPARQLWrapper import SPARQLWrapper, JSON
 from create_triples import create_time_span_triples, create_role_triples, create_dimension_triples, create_event_triples, create_institution_triples, create_location_triples, create_medium_triples, create_reference_triples, create_collection_triples, create_title_triples, create_identifier_triples, create_type_triples, create_time_span_triples, create_actor_event_relationship_triples, create_name_triples, create_comment_triples, create_room_triples, create_area_of_room_triples, create_file_triples, create_examination_event_triples, create_triples_from_reference_string, create_modification_event_triples, create_image_production_event_triples, create_provenance_triples, create_sampling_triples
-from common_functions import generate_placeholder_PID, wikidata_query, create_PID_from_triple, query_objects
+from common_functions import generate_placeholder_PID, wikidata_query, create_PID_from_triple, query_objects, get_property
+from pdb import set_trace as st
 
 RRO = Namespace("https://rdf.ng-london.org.uk/raphael/ontology/")
 RRI = Namespace("https://rdf.ng-london.org.uk/raphael/resource/")
@@ -189,14 +190,23 @@ def map_sample(old_graph, new_graph):
 def map_leftover_categories(old_graph, new_graph):
     
     for file_path, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC223.Computer_Path'))):
-        new_graph.add((Literal(file_path), RDF.type, CRM.E73_Information_Object))
-        new_graph.add((Literal(file_path), CRM.P2_has_type, CRM.E73_Information_Object))
+        file_path_bn = BNode()
+        file_path = get_property(file_path, keep_underscores=True)
+        new_graph.add((file_path_bn, RDF.type, CRM.E73_Information_Object))
+        new_graph.add((file_path_bn, CRM.P2_has_type, CRM.E73_Information_Object))
+        new_graph.add((file_path_bn, RDFS.label, Literal(file_path)))
     for file_path, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC280.IIPImage_Server'))):
-        new_graph.add((Literal(file_path), RDF.type, CRM.E73_Information_Object))
-        new_graph.add((Literal(file_path), CRM.P2_has_type, CRM.E73_Information_Object))
+        file_path_bn = BNode()
+        file_path = get_property(file_path, keep_underscores=True)
+        new_graph.add((file_path_bn, RDF.type, CRM.E73_Information_Object))
+        new_graph.add((file_path_bn, CRM.P2_has_type, CRM.E73_Information_Object))
+        new_graph.add((file_path_bn, RDFS.label, Literal(file_path)))
     for file_path, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC287.Commercial_Link'))):
-        new_graph.add((Literal(file_path), RDF.type, CRM.E73_Information_Object))
-        new_graph.add((Literal(file_path), CRM.P2_has_type, CRM.E73_Information_Object))
+        file_path_bn = BNode()
+        file_path = get_property(file_path, keep_underscores=True)
+        new_graph.add((file_path_bn, RDF.type, CRM.E73_Information_Object))
+        new_graph.add((file_path_bn, CRM.P2_has_type, CRM.E73_Information_Object))
+        new_graph.add((file_path_bn, RDFS.label, Literal(file_path)))
     
     for boolean_obj, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC227.Boolean'))):
         if boolean_obj == getattr(RRI, 'RCL228.Yes'):
@@ -213,7 +223,7 @@ def map_leftover_categories(old_graph, new_graph):
             if pred == RDF.type:
                 new_graph.add((language_bn, RDF.type, CRM.E56_Language))
                 new_graph.add((language_bn, CRM.P2_has_type, CRM.E56_Language))
-                new_graph.add((language_bn, RDFS.label, Literal(subj, lang="en")))
+                new_graph.add((language_bn, RDFS.label, Literal(get_property(subj), lang="en")))
             elif pred == getattr(RRO, 'RP56.has_name'):
                 wd_result = wikidata_query(obj, 'language')
                 new_graph.add((language_bn, CRM.P72_has_language, Literal(obj, lang="en")))

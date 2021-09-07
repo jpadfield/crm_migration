@@ -110,9 +110,10 @@ def connect_to_sql():
 
     return mydb
 
-def get_property(uri):
+def get_property(uri, keep_underscores=False):
     remove_uri = uri.replace('https://rdf.ng-london.org.uk/raphael/resource/','')
-    final_property = remove_uri.replace('_',' ')
+    if keep_underscores is False:
+        final_property = remove_uri.replace('_',' ')
     if '.' in final_property:
         final_property = str(final_property.split('.')[1])
     if 'RRR' in final_property:

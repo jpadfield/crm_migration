@@ -206,7 +206,6 @@ def create_time_span_triples(new_graph, subject_PID, subj, pred, obj):
         new_graph.add((time_span_PID, CRM.P2_has_type, CRM.E52_Time_span))
         new_graph.add((time_span_PID, CRM.P2_has_type, getattr(AAT, '300379244')))
         new_graph.add((getattr(AAT, '300379244'), RDFS.label, Literal('years', lang="en")))
-        new_graph.add((time_span_PID, RDFS.label, Literal(obj, lang="en")))
 
         obj_year = get_property(obj)
         api_link = 'https://scientific.ng-london.org.uk/api/api-tms-v.2.3.0.php?format=json&what=timespan&which=' + obj_year
@@ -216,6 +215,7 @@ def create_time_span_triples(new_graph, subject_PID, subj, pred, obj):
         end_date = response_json[1][1]
         
         wikidata_year = wikidata_query(obj_year, 'year')
+        new_graph.add((time_span_PID, RDFS.label, Literal(obj, lang="en")))
         new_graph.add((time_span_PID, CRM.P82a_begin_of_the_begin, Literal(start_date, datatype=XSD.dateTime)))
         new_graph.add((time_span_PID, CRM.P82b_end_of_the_end, Literal(end_date, datatype=XSD.dateTime)))
         if wikidata_year != None and wikidata_year != 'No WD value':
@@ -245,7 +245,7 @@ def create_event_triples(new_graph, subject_PID, obj_PID, subj, pred):
         aat_event_id = getattr(AAT, '300151836')
         aat_event_type = Literal('deaths', lang="en")
 
-    related_painting_history_event = 'History of ' + subj
+    related_painting_history_event = 'History of ' + get_property(subj)
     related_painting_history_event_PID = create_PID_from_triple('history', subj)
 
     new_graph.add((getattr(NGO, subject_PID), event_property, getattr(NGO, obj_PID)))
@@ -327,7 +327,7 @@ def create_actor_event_relationship_triples(new_graph, subject_PID, pred, obj):
         new_graph.add((getattr(NGO, subject_PID), CRM.P14_carried_out_by, getattr(NGO, actor_PID)))
         new_graph.add((getattr(NGO, actor_PID), RDF.type, CRM.E39_Actor))
         new_graph.add((getattr(NGO, actor_PID), CRM.P2_has_type, CRM.E39_Actor))
-        new_graph.add((getattr(NGO, actor_PID), RDFS.label, Literal(obj, lang="en")))
+        new_graph.add((getattr(NGO, actor_PID), RDFS.label, Literal(get_property(obj), lang="en")))
         new_graph.add((getattr(NGO, actor_PID), CRM.P2_has_type, getattr(AAT, '300024979')))
         new_graph.add((getattr(AAT, '300024979'), RDFS.label, Literal('people (agents)', lang="en")))
     if pred == getattr(RRO, 'RP9.has_curator'):
@@ -336,7 +336,7 @@ def create_actor_event_relationship_triples(new_graph, subject_PID, pred, obj):
         new_graph.add((getattr(NGO, subject_PID), CRM.P109_has_current_or_former_curator, getattr(NGO, curator_PID)))
         new_graph.add((getattr(NGO, curator_PID), RDF.type, CRM.E39_Actor))
         new_graph.add((getattr(NGO, curator_PID), CRM.P2_has_type, CRM.E39_Actor))
-        new_graph.add((getattr(NGO, curator_PID), RDFS.label, Literal(obj, lang="en")))
+        new_graph.add((getattr(NGO, curator_PID), RDFS.label, Literal(get_property(obj), lang="en")))
         new_graph.add((getattr(NGO, curator_PID), CRM.P2_has_type, getattr(AAT, '300024979')))
         new_graph.add((getattr(AAT, '300024979'), RDFS.label, Literal('people (agents)', lang="en")))
     if pred == getattr(RRO, 'RP201.is_current_keeper_of'):
@@ -900,7 +900,7 @@ def create_sampling_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
         new_graph.add((doc_BN, RDFS.comment, Literal('As part of a general technical examination of the painting - documenting the material and techniques used in its production.', lang="en")))
         new_graph.add((sampling_event, RDFS.comment, Literal('Actual textual content describing the sampling process', lang="en")))
         new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, getattr(AAT, '300034254')))
-        new_graph.add((getattr(NGO, subject_PID), RDFS.label, Literal(subj, lang="en")))
+        new_graph.add((getattr(NGO, subject_PID), RDFS.label, Literal(get_property(subj, keep_underscores=True), lang="en")))
 
         for work in sampled_works:
             sampled_work_PID = generate_placeholder_PID(work)
