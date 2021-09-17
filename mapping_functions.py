@@ -67,7 +67,7 @@ def map_person(old_graph, new_graph):
     return new_graph
 
 def map_institution(old_graph, new_graph):
-    for institution_name, _, _ in old_graph.triples((getattr(RRI, 'The_National_Gallery'), RDF.type, getattr(RRO, 'RC41.Institution'))):
+    for institution_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC41.Institution'))):
         subject_PID = generate_placeholder_PID(institution_name)
         
         wikidata_name = wikidata_query(institution_name, 'institution')

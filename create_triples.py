@@ -373,13 +373,13 @@ def create_institution_triples(new_graph, old_graph, subject_PID, institution_na
     for subj, pred, obj in old_graph.triples((institution_name, None, None)):
         
         if obj != getattr(RRO, 'RC10.Building'):
-            new_graph = create_type_triples(subject_PID, pred, obj)
-            new_graph = create_comment_triples(subject_PID, pred, obj)
-            new_graph = create_actor_event_relationship_triples(subject_PID, pred, obj)
-            new_graph = create_role_triples(subject_PID, pred, obj)
-            new_graph = create_documentation_triples(subject_PID, pred, obj)
-            new_graph = create_collection_triples(subject_PID, subj, pred, obj)
-            new_graph = create_identifier_triples(subject_PID, pred, obj)
+            new_graph = create_type_triples(new_graph, subject_PID, pred, obj)
+            new_graph = create_comment_triples(new_graph, subject_PID, pred, obj)
+            new_graph = create_actor_event_relationship_triples(new_graph, subject_PID, pred, obj)
+            new_graph = create_role_triples(new_graph, subject_PID, pred, obj)
+            new_graph = create_documentation_triples(new_graph, subject_PID, pred, obj)
+            new_graph = create_collection_triples(new_graph, subject_PID, subj, pred, obj)
+            new_graph = create_identifier_triples(new_graph, subject_PID, pred, obj)
 
         elif obj == getattr(RRO, 'RC10.Building'):
             object_PID = create_PID_from_triple('building', subj)
@@ -564,54 +564,51 @@ def create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
 
     elif pred == getattr(RRO, 'RP30.has_pyramid'):
         if obj == 'Not Public':
-            return new_graph
+            full_file_path = 'https://research.ng-london.org.uk/iiif/blank/info.json'
         else:
             pyramid = BNode()
             no_of_levels = BNode()
             no_of_levels_value = query_objects(old_graph, subj, getattr(RRO, 'RP86.has_no_of_pyramidal_levels'), None)[0]
-            try:
-                server_url = query_objects(old_graph, subj, getattr(RRO, 'RP243.has_pyramid_server'), None)[0]
-            except:
-                server_url = None
+            server_url = 'https://research.ng-london.org.uk/iiif/pics/tmp'
             file_path = query_objects(old_graph, subj, getattr(RRO, 'RP30.has_pyramid'), None)[0]
             if server_url is not None:
                 full_file_path = server_url + "/" + file_path
             else:
                 full_file_path = file_path
 
-            file_path_bnode = BNode()
+        file_path_bnode = BNode()
 
-            derivation_event = create_PID_from_triple('pyramid creation for', subj)
-            pyramid_PID = create_PID_from_triple('pyramid of', subj)
-            pyramid_ID = BNode()
-            server_PID = generate_placeholder_PID('IIIF Server')
+        derivation_event = create_PID_from_triple('pyramid creation for', subj)
+        pyramid_PID = create_PID_from_triple('pyramid of', subj)
+        pyramid_ID = BNode()
+        server_PID = generate_placeholder_PID('IIIF Server')
 
-            new_graph.add((getattr(NGO, derivation_event), RDF.type, DIG.D3_Formal_Derivation))
-            new_graph.add((getattr(NGO, derivation_event), CRM.P2_has_type, DIG.D3_Formal_Derivation))
-            new_graph.add((getattr(NGO, derivation_event), DIG.L21_used_as_derivation_source, getattr(NGO, subject_PID)))
-            new_graph.add((getattr(NGO, derivation_event), DIG.L22_created_derivative, getattr(NGO, pyramid_PID)))
-            new_graph.add((getattr(NGO, pyramid_PID), CRM.P2_has_type, pyramid))
-            new_graph.add((pyramid, CRM.P2_has_type, getattr(WD, 'Q3411251')))
-            new_graph.add((getattr(WD, 'Q3411251'), RDFS.label, Literal('pyramid', lang="en")))
-            new_graph.add((pyramid, CRM.P43_has_dimension, no_of_levels))
-            new_graph.add((no_of_levels, RDF.type, CRM.E54_Dimension))
-            new_graph.add((no_of_levels, CRM.P2_has_type, CRM.E54_Dimension))
-            new_graph.add((no_of_levels, CRM.P90_has_value, Literal(no_of_levels_value, datatype=XSD.double)))
-            new_graph.add((no_of_levels, RDFS.label, Literal('Number of pyramidal levels')))
-            new_graph.add((getattr(NGO, derivation_event), DIG.L23_used_software_or_firmware, getattr(NGO, server_PID)))
-            new_graph.add((getattr(NGO, server_PID), RDF.type, DIG.D14_Software))
-            new_graph.add((getattr(NGO, server_PID), CRM.P2_has_type, DIG.D14_Software))
-            new_graph.add((getattr(NGO, server_PID), CRM.P2_has_type, getattr(AAT, '300266043')))
-            new_graph.add((getattr(AAT, '300266043'), RDFS.label, Literal('servers (computer)', lang="en")))
+        new_graph.add((getattr(NGO, derivation_event), RDF.type, DIG.D3_Formal_Derivation))
+        new_graph.add((getattr(NGO, derivation_event), CRM.P2_has_type, DIG.D3_Formal_Derivation))
+        new_graph.add((getattr(NGO, derivation_event), DIG.L21_used_as_derivation_source, getattr(NGO, subject_PID)))
+        new_graph.add((getattr(NGO, derivation_event), DIG.L22_created_derivative, getattr(NGO, pyramid_PID)))
+        new_graph.add((getattr(NGO, pyramid_PID), CRM.P2_has_type, pyramid))
+        new_graph.add((pyramid, CRM.P2_has_type, getattr(WD, 'Q3411251')))
+        new_graph.add((getattr(WD, 'Q3411251'), RDFS.label, Literal('pyramid', lang="en")))
+        new_graph.add((pyramid, CRM.P43_has_dimension, no_of_levels))
+        new_graph.add((no_of_levels, RDF.type, CRM.E54_Dimension))
+        new_graph.add((no_of_levels, CRM.P2_has_type, CRM.E54_Dimension))
+        new_graph.add((no_of_levels, CRM.P90_has_value, Literal(no_of_levels_value, datatype=XSD.double)))
+        new_graph.add((no_of_levels, RDFS.label, Literal('Number of pyramidal levels')))
+        new_graph.add((getattr(NGO, derivation_event), DIG.L23_used_software_or_firmware, getattr(NGO, server_PID)))
+        new_graph.add((getattr(NGO, server_PID), RDF.type, DIG.D14_Software))
+        new_graph.add((getattr(NGO, server_PID), CRM.P2_has_type, DIG.D14_Software))
+        new_graph.add((getattr(NGO, server_PID), CRM.P2_has_type, getattr(AAT, '300266043')))
+        new_graph.add((getattr(AAT, '300266043'), RDFS.label, Literal('servers (computer)', lang="en")))
 
-            new_graph.add((getattr(NGO, pyramid_PID), CRM.P149_is_identified_by, file_path_bnode))
-            new_graph.add((file_path_bnode, RDF.type, CRM.E42_Identifier))
-            new_graph.add((file_path_bnode, CRM.P2_has_type, CRM.E42_Identifier))
-            new_graph.add((file_path_bnode, CRM.P2_has_type, getattr(WD, 'Q1144928')))
-            new_graph.add((getattr(WD, 'Q1144928'), RDFS.label, Literal('filename', lang="en")))
-            new_graph.add((file_path_bnode, RDFS.label, Literal(full_file_path, lang="en")))
-            new_graph.add((getattr(NGO, subject_PID), RDF.type, DIG.D1_Digital_Object))
-            new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, DIG.D1_Digital_Object))
+        new_graph.add((getattr(NGO, pyramid_PID), CRM.P149_is_identified_by, file_path_bnode))
+        new_graph.add((file_path_bnode, RDF.type, CRM.E42_Identifier))
+        new_graph.add((file_path_bnode, CRM.P2_has_type, CRM.E42_Identifier))
+        new_graph.add((file_path_bnode, CRM.P2_has_type, getattr(WD, 'Q1144928')))
+        new_graph.add((getattr(WD, 'Q1144928'), RDFS.label, Literal('filename', lang="en")))
+        new_graph.add((file_path_bnode, RDFS.label, Literal(full_file_path, lang="en")))
+        new_graph.add((getattr(NGO, subject_PID), RDF.type, DIG.D1_Digital_Object))
+        new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, DIG.D1_Digital_Object))
 
     elif pred == getattr(RRO, 'RP259.has_thumbnail'):
         thumbnail_PID = create_PID_from_triple('thumbnail of', subj)

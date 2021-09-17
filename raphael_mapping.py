@@ -46,9 +46,9 @@ def main():
     db = connect_to_sql() 
 
     #map_object(g, new_graph)
-    map_event(g, new_graph)
+    #map_event(g, new_graph)
     #map_image(g, new_graph)
-    #map_institution(g, new_graph)
+    map_institution(g, new_graph)
     #map_person(g, new_graph)
     #map_document(g, new_graph)
     #map_sample(g, new_graph)
