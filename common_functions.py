@@ -332,7 +332,7 @@ def wikidata_query(literal, literal_type):
 def run_ruby_program(input_string):
     import subprocess
 
-    ruby_var = 'ruby crm_migration/citation_parser.rb \'' + input_string + '\''
+    ruby_var = 'ruby crm_migration/citation_parser.rb \"' + input_string + '\"'
     output = subprocess.Popen(ruby_var, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     out, error = output.communicate()
 
