@@ -515,12 +515,12 @@ def create_reference_triples(new_graph, subject_PID, subj, pred, obj):
                     new_graph.add((page_number_value, RDF.value, Literal(vol_page_no)))
                     new_graph.add((getattr(NGO, volume_PID), CRM.P148_has_component, getattr(NGO, page_PID)))
         else:
-            dossier_PID = generate_placeholder_PID(obj)
+            dossier_PID = BNode()
 
-            new_graph.add((getattr(NGO, subject_PID), CRM.P70_is_documented_in, getattr(NGO, dossier_PID)))
-            new_graph.add((getattr(NGO, dossier_PID), RDF.type, CRM.E31_Document))
-            new_graph.add((getattr(NGO, dossier_PID), CRM.P2_has_type, CRM.E31_Document))
-            new_graph.add((getattr(NGO, dossier_PID), RDFS.label, Literal(obj, lang="en")))
+            new_graph.add((getattr(NGO, subject_PID), CRM.P70_is_documented_in, dossier_PID))
+            new_graph.add((dossier_PID, RDF.type, CRM.E31_Document))
+            new_graph.add((dossier_PID, CRM.P2_has_type, CRM.E31_Document))
+            new_graph.add((dossier_PID, RDFS.label, Literal(obj, lang="en")))
 
 #Leaving the below code here - it will parse references if the ruby setup is correct but doesn't run on the server
         '''
