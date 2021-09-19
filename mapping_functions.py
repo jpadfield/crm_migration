@@ -17,7 +17,7 @@ DIG = Namespace("http://www.cidoc-crm.org/crmdig/")
 SCI = Namespace("http://www.cidoc-crm.org/crmsci/")
 OWL = Namespace("http://www.w3.org/2002/07/owl#")
 
-def map_object(old_graph, new_graph):
+def map_object(new_graph, old_graph):
     for painting_id, _, _ in old_graph.triples((None, RDF.type, getattr(RRO,'RC12.Painting'))):
         for subj, pred, obj in old_graph.triples((painting_id, None, None)):
             subject_PID = generate_placeholder_PID(subj)
@@ -31,7 +31,7 @@ def map_object(old_graph, new_graph):
 
     return new_graph
 
-def map_event(old_graph, new_graph):
+def map_event(new_graph, old_graph):
     event_properties_list = [
         'RP72.was_produced',
         'RP68.was_acquired',
@@ -54,7 +54,7 @@ def map_event(old_graph, new_graph):
 
     return new_graph
 
-def map_person(old_graph, new_graph):
+def map_person(new_graph, old_graph):
     for person_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC40.Person'))):
         for subj, pred, obj in old_graph.triples((person_name, None, None)):
             subject_PID = generate_placeholder_PID(subj)
@@ -66,7 +66,7 @@ def map_person(old_graph, new_graph):
 
     return new_graph
 
-def map_institution(old_graph, new_graph):
+def map_institution(new_graph, old_graph):
     for institution_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC41.Institution'))):
         subject_PID = generate_placeholder_PID(institution_name)
         
@@ -90,7 +90,7 @@ def map_institution(old_graph, new_graph):
     
     return new_graph
 
-def map_document(old_graph, new_graph):
+def map_document(new_graph, old_graph):
     
     for doc_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC26.Digital_Document'))):
         subject_PID = generate_placeholder_PID(doc_name)
@@ -132,11 +132,11 @@ def map_document(old_graph, new_graph):
                 painting_id = query_objects(old_graph, subj, getattr(RRO, 'RP40.is_related_to'), None)[0]
                 for _,_,o in old_graph.triples((subj, getattr(RRO, 'RP237.has_content'), None)):
                     references_list = o.split('\n')
-                    create_triples_from_reference_string(references_list, painting_id)
+                    create_triples_from_reference_string(new_graph, references_list, painting_id)
     
     return new_graph
 
-def map_image(old_graph, new_graph):
+def map_image(new_graph, old_graph):
     for image_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC25.Image'))):
         subject_PID = generate_placeholder_PID(image_name)
         related_works = query_objects(old_graph, image_name, getattr(RRO, 'RP40.is_related_to'), None)
@@ -177,7 +177,7 @@ def map_image(old_graph, new_graph):
 
     return new_graph
 
-def map_sample(old_graph, new_graph):
+def map_sample(new_graph, old_graph):
     for sample_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC23.Sample'))):
         subject_PID = generate_placeholder_PID(sample_name)
 
@@ -187,7 +187,7 @@ def map_sample(old_graph, new_graph):
 
     return new_graph
 
-def map_leftover_categories(old_graph, new_graph):
+def map_leftover_categories(new_graph, old_graph):
     
     for file_path, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC223.Computer_Path'))):
         file_path_bn = BNode()
