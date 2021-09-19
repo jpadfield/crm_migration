@@ -114,6 +114,8 @@ def get_property(uri, keep_underscores=False):
     remove_uri = uri.replace('https://rdf.ng-london.org.uk/raphael/resource/','')
     if keep_underscores is False:
         final_property = remove_uri.replace('_',' ')
+    else:
+        final_property = remove_uri
     if '.' in final_property:
         final_property = str(final_property.split('.')[1])
     if 'RRR' in final_property:
