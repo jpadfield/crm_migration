@@ -391,9 +391,9 @@ def create_institution_triples(new_graph, old_graph, subject_PID, institution_na
 def create_building_triples(new_graph, old_graph, subject_PID, building_name):
     for subj, pred, obj in old_graph.triples((building_name, None, None)):
         if obj != getattr(RRO, 'RC41.Institution'):
-            new_graph = create_location_triples(subject_PID, subj, pred, obj)
-            new_graph = create_type_triples(subject_PID, pred, obj)
-            new_graph = create_identifier_triples(subject_PID, pred, obj)
+            new_graph = create_location_triples(new_graph, subject_PID, subj, pred, obj)
+            new_graph = create_type_triples(new_graph, subject_PID, pred, obj)
+            new_graph = create_identifier_triples(new_graph, subject_PID, pred, obj)
 
     return new_graph
 
