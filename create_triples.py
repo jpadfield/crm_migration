@@ -514,14 +514,24 @@ def create_reference_triples(new_graph, subject_PID, subj, pred, obj):
                     new_graph.add((getattr(NGO, page_PID), CRM.P138i_has_representation, getattr(NGO, file_PID)))
                     new_graph.add((page_number_value, RDF.value, Literal(vol_page_no)))
                     new_graph.add((getattr(NGO, volume_PID), CRM.P148_has_component, getattr(NGO, page_PID)))
+        else:
+            dossier_PID = generate_placeholder_PID(obj)
 
+            new_graph.add((getattr(NGO, dossier_PID), RDF.type, CRM.E31_Document))
+            new_graph.add((getattr(NGO, dossier_PID), CRM.P2_has_type, CRM.E31_Document))
+            new_graph.add((getattr(NGO, dossier_PID), RDFS.label, Literal(obj, lang="en")))
+            new_graph.add((getattr(NGO, dossier_PID), CRM.P70_documents, getattr(NGO, related_painting_history_event_PID)))
+            new_graph.add((getattr(NGO, related_painting_history_event_PID), RDFS.label, Literal(related_painting_history_event, lang="en")))
+
+#Leaving the below code here - it will parse references if the ruby setup is correct but doesn't run on the server
+        '''
         else: 
             reference_json = run_ruby_program(obj)
             try:
                 parse_reference_json(reference_json, subject_PID)
             except:
                 return new_graph
-        
+        '''        
     return new_graph
 
 def create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
