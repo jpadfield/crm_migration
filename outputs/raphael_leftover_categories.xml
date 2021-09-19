@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:nodeID="Nba2c020a03434d17bb83671383de8e4b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd8b4a5b107a3454b8d7f87acb2d74a18">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_03_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf1443ca82a7d43218bcfb8d2b78b12dc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne3a3e53040f1466aa93ecd3e5674be3e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_New_Oxford_Guide_1778_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0519423a9466493f8b4b7711e4d8fd91">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1839_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N473b60159bca489ba7f29ad854a54bfb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_348%2C_ff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N906c1540131544d8903ec995e0f2ac43">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N37735f51218643b4af1ef2e4a174d3d1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_06_26_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na8f0ad2e880943fba93fd1cfc84c4e89">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_B_5%2C_f</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N48d57525ac3a4a05b3a5990d6fd32206">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_British_Institution_1819_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d07c03e8eb749c08ccdf6d29dbb71b4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_10_Support_and_Preparatory_Layers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne926d82d74aa45b4978ca86562bed59b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_10_06_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncd80d3454af449eba948f70a4728db9b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4975c603676046938bbc7a5e7d27e121">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbcd395187ace4476be394570912de593">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1836_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf9d542b71d8a4dc498f71081a050f363">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N840e1b18fe314415af8bbfe815fc6b1d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8ae8c90e13d940fbbd148c90b3f7e4ee">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label xml:lang="en">en</rdfs:label>
+    <crm:P72_has_language xml:lang="en">English</crm:P72_has_language>
+    <crm:P72_has_language rdf:resource="http://www.wikidata.org/entity/Q1860"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncfb987f196af4b39a64bc501afdf7f5d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf0b34d0deda14cfe8f7e1c34bac479e7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne6518045d20e43b9b09f50aa567d751b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N60b213d43bcf40c6926e12fac5f97edd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_04_Exhibition_and_Loan_History_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb2637cac68b04c119034ef90ebba79b3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Biography_Vasari_engl_1912-14_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neca0e75cf08345449b2a01893c8ea2f4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Santi_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd436ef9ebf324b318f019cda4448deaf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd3c74d00846c489aad52082789231f7c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N75158b4585f046639f5cff47ffeeae26">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N55d41fca53a44a439e8b0fa428cacf44">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc0938a91827347108a9e240267adffb7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3aa444048f554b8e9e8c22bbd1724cc4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label xml:lang="en">lt</rdfs:label>
+    <crm:P72_has_language xml:lang="en">Latin</crm:P72_has_language>
+    <crm:P72_has_language rdf:resource="http://www.wikidata.org/entity/Q397"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N367ec8e1e25f4c3d804b319930a5e3d2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_04_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a3bcc8852454e08bc86d1dc002cdc21">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_30_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3b1f19f226bd411faf6d495bb1b3b8cd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_FTIR_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nffec6932af894c8f9a042c78cd5d37df">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Waagen_1838_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9492ea7b636a4bf38867c309da32d9e0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-6596_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne736ed85fbef4b619ae6e99057c589ee">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N83929f07384f4eadb35f9a9cd337f81e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1b29669c2ea14cc9949ceb91fa66ff52">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_not</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nda26c3d3d0cd477d9725eb6640df0131">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_02_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6af7486ea7ce4e8abbabece139047d0a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd29e6872b1254fad8c7855db43cc8ad2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_About_Us_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6d3045ca092e4fa4a5cdb123ccb68311">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6c71a3e2569d48f2bfb5d6fa29af38e9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1157f9e75997459f9a4c3ad58a9f2bb5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N67072bc656214b4abbb692d443c4d216">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_1%2C_315v%2C_316%2C_317_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N49d92294310a411b9b533560e70fe4a3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_3%2C_ff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N234bf336465c4390823d057d54206b20">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a5519a95c8e441b8b8b02e1afb1c721">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2b2667fa24ca4d038650b7395fb6b840">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_09_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc958b0f3a60a421eaa8e232470c3c3c8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd01b333e44f542feb35ca68e519c15a1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Prints_Raphael_Invenit_1985_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N826cbc5815dd49669209df29926c780d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Borghini_1584_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd789b47708d94e5b8cfe67d4020a0913">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Kunstblatt_1847_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb5b59315a91f4063a4c104bf26f0b036">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_18_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N648ff989cee5413aaab7c283e52c647f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_British_Institution_1845_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc5853936015041c7a7ae958aadab3fca">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N739388c273964d92953a9d715f6c8120">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Eastlake_Diaries_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nae06d7c3df904f06a6ca0dc2b25c0865">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Eastlake_Diaries_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1306a9381e5c49ff851b0d519be2a044">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1836_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5de2f3242f154104911439defbfbfc43">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfbd54863cb764fd39b5ad9b218762eaf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc067f488a9d34e748d963791f7690aa6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Rome%2C_AS%2C_Odescalchi%2C_VII_E_10%2C_1st_page_r-v%2C_last_page_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9b6435c13d2f4f23a8e23fec5487f77e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nea836a3e717547e7ad2b9e2c7241be4d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Institutions_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1904a63abee54f748a789d457336cacc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Catalogue_Pall_Mall_1816_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndaed1e0f66914cdfa44fafbe557f2fe8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_NG1171_Scientific_Organic_FTIR_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc07455fe31b048e8a7de326cec2b6cc3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_not</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N64230c7f728f4e65b4a0a86c6c89bbac">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N35863a99cd1744f7b8633fd2ed5560c9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_22_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N49b6d0e533684f67a8e2457e8c20752d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7a67e6ca9bfb45f49b7805b5e69e8afb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Young_Angerstein_1823_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N03231ce9e1534f9da955af58aa4a6ddb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd81d167f5dc54e46b0279eaa8cf8e64f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_81%2C_p</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N973b9d7f690647aead4810b13ee08ec5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Prints_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N385692408e224fe894fe1f15750b41d8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0ee51fcb11d6497584261b3189ea6b60">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_07_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6225b5e74cbe4dc1a8437e26b0d8c87c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3570ec906c374067b90f032a2cf6c2d9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0ff441e87ef341d7b37a579293a6c45d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_13_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N394f6b8513c048848c0ed687c38e3789">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Letter_Books_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N67a4b5d919fd49759cc96df2d5ed8699">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1839_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naf11a04a4ba0419ba27d64626b5be1ea">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3805603c43224f6b8b63673200eeaf5f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N07e74c9eee4847af8f93db1a5c5cbffc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_30_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naa4dee4a23134c6f8948f663836b8686">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nebd1a5d0a2214153a66963188f68aea1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc00f338bdb1c4b1ebb98c60f464bd1e9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f027673af074be88fa1b31d3beea9e0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_22_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7beeab997530463a99ab6086f8079553">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Longhena_1829_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N51900a9e6add45dea9df3cfae96bb04b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_24_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N52e5e1f687454f0f81368cf58ca9ff5e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_NG744_IRRs_handbuilt_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb2368fc02fee4c16bd2d181ebd4f5ab9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Ramdohr_1787_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N111db821d3584a96b0ed311480443713">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Letter_Books_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8b2a1fec2f9649e4ad0bbe39aaf10358">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N008b2de8609b40b6a879aa5e612e4eb2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Dubois_De_Saint_Gelais_1727_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N12f9be8f4dc44c08bb6ce4ef1dcd6cb2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbabf324a8bcf40f6a136866122639381">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_07_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9ab55f960742458db0dc05d781baec2c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nff703bcbf93f41fa8347c5af092e9a0a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Couche_1786_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1c624e74c6d34f7590a663ae7339a2f7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfac4a777983146138951812c89c85345">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfcdf63e29d2c438696369f95bafd3eca">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N425186dc846141eb914daf0d0a96f2c1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfa92b5b682ea4eecab810263c2e40108">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N659457ece9eb4690a5e6f35e796d1567">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2eb53f67aff4402a9189b9ae93093310">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1836_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6fb74996be5948d5b72d99b5cfdd3582">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_2009_10_01_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N45cc0cba3757454faa97aa54d4f0ae4b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neddd91221db744108ec11b95a4a5d799">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_08_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N587762e29e4a440590654535afb716a7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1839_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfee7859fffdf4887b44b05c62bf85d83">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>3_Tracings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1924760108d34d28ba04720b088fcec6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_18_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N78f400523eb548dba39ccc11d8d2d077">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N11301ede131942a2bfd2c5bad9b4f117">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_1151%2C_ff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N42ce9a35d45e4be88f955efc98d24229">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Prints_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0ae304b92a634045b74e17c7e682838d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N245ce1fe9d2a48949c1d434006a915b0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_02_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8029e6cc42864c78b4a3db1080c935a8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_08_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nded10bf3fee14acabdce15361fd9e98a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6e429bebf23442d6918a2033766d98f7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbeb851ad73e7404b8aaf2b2469635b59">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_Waagen_1838_III_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1a07ee2af02b4d3dbc60f92ca50e78b6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3cf95b5db50f469e848b8c600d7c8cfc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_10_02_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf0d193f27b794e11a3e71e4580fe7fc9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb2a57abc03804f05a71258936bad0274">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Prints_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1302c8b7692c4b92b9078c1398ace7ca">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne17496e1bbe946f7ae7f718be8545657">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_22_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfed7a91cc7cc48df8ed1b2b16325d398">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb5131c60ff6d42a288d48441abcfe7bd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_not</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nffe1ed821f834b24a5f91ada5c618918">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Tresham_1818_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na0617abebeb949b69d6eb18d8a8a80a0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>burlington</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na62e55f83c35463986a18a94760f97d4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-1171_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd0b56eafef61462981f7c88d1fb2724d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>external</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N07adffc2603a4ade88af84336ffe44a6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG213_Scientific_Inorganic_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7bad8675ea85442d9b02e11230c45e72">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5b2c926b386d45ea876f84f0a26186b2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Vasi_1797_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc314d31d83a742bc8c5b3384eafa6340">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5873ba54d1c14fc18f4b0004693c011f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_25_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d0958b7a007448ca2cae8012e196b8c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_17%2C_ff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N147cd54a6f7d408a83fe3b2a22d0af58">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_81%2C_p</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4a8b8090c2074e1bb99180cac7778d2d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N701f6be9683f40eba657900b5c00ed77">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_03_Bibliography_Couche_1786_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N07a3bfb1c57042c2a9d2bc30fb8c4ae1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0f6d65301a1949be8016e3a9f5617bd3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_not</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne792e4d1be314cd88a4a34a0daab76ae">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne80514b83d66461dba4da213adf7f690">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0c94ecc94c2a4fefbbae4fd9913abc23">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Lomazzo_1591_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc0249fdc63aa4fd8adc6c6539032becb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Catalogue_Bryan%27s_Gallery_1798_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N603db12027934cf69847f6625c4031a2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Catalogue_Fesch_1845_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N318717d52c2b43d58b1b043fd6c9df06">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_not</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbdf77225af62460299e406aee41895f5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_01_Art_History_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N26a4f3dd6cae481f9488fe0e6a86e9d8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_17_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd504c1463f98431a9c740b0017a289ea">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1e0ec139f9c8402b98c62aeb95542efe">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncc0251ccd04c4eb5b2446cbcb41e06ed">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>4_Drawings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb441525f3e7f4cf19c131acd9cf81bb7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Vasari_1807-11_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9561b0a5b08244d590244b7ca17e57a5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N21b59680eb0d4b389f814a039ad69db1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Vasi_1794_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7177b0f24cc14e6e911708afed6ca254">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_08_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N30c2fb9b809f4e70a653daabaad23d98">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N731bd47441514636b7b41d4f38a30ada">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_01_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44380e25c065404fa4e5542e6882a680">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na6574d32c594465ea9964ade1274a277">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Inorganic_FTIR_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N73ec474b3f90465cac9e34635652a56b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Biography_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N51c3df62895646a3b8f284e1f17a04d2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>4_Drawings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naa34fb8eeee342988e4f76ce69884fad">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1836_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5e2cc35dcba7470fa63a975b3854569b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>nardinieditore</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc1bff6aae2114a579d7481c1d4cdf45b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Biography_Vasari_it_1976_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf60f458f8c854b4e91abab28d891220c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nab26071fe11240868610cda3bc5287b0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne7c1a913ec37452f9f14ed5b1cab9137">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_10_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na3da317c7fe144aea26c0bfb058b42e8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na7a26cfa358244aba26c177a88163768">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_10_13_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbb045051249648de8ff64cddb1709419">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2dd4259c8b304b4a98b35bb7e2998e4e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82840602fa304c078a983f0a0c4a09ed">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_12_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N66941e92b5764da0992061aadbb83abd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_322%2C_f</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N92804936101a483385d94bb7f2c7201f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label xml:lang="en">fr</rdfs:label>
+    <crm:P72_has_language xml:lang="en">French</crm:P72_has_language>
+    <crm:P72_has_language rdf:resource="http://www.wikidata.org/entity/Q150"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2f5c7dce10744c70a988aed9cfcfd51a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbd79b1902c4742b8b6d82e8d81cb0c83">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Crozat_1729_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb548e6e427604ef7bc3cde45df438273">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7f25ec676e134b9cb308eaa87a7f7252">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S17_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6516e571e372437f9c3064a6c2e7bdd9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_04_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb56898ef4687426eb9470d50fb46664e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_21_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na1c50eadd9114d0cacbedf1d4b337396">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Leeds_1868_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc798daff375c4b65b5468aaac4004b5b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9943c89c24de43d7b649a451e584c1d5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_16_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbe93074d51094e4a9f25074511300b22">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbb3bad2d0dfd4dde84e86e4ff90b1e5a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Vasi_1797_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0d53e6661ae241e493018f7ee96e9f5f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndf01d7ac31734d659b6341a49a38eb1e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_NG1171_Scientific_Inorganic_GC_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N791a4084b9a141a19b7dc0b620341ce8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0ed828a71d2c4e15aeaa7006d3beaaef">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Longhena_1829_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4c40892094634a50ab38468fe627ea40">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N109146df582344fdbe6b7c79719d8d15">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Manilli_1650_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nafa70bd2cae544e69f5f4f37d732e366">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_02_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7437853a534841b9aafed69bc6fd676e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Vasi_1794_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3db807bcc4a142bfad82c93d38b853ae">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc868f38a7c82479fa5bdc298aa9ae804">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_26_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0418776166a843509d6e8064f28a1715">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3c45726f3979430ba7fdff6e8e108d3d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_10_Support_and_Preparatory_Layers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd3c35ac7ebc048808da46374f375c4ff">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1836_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3b0921bcfcfa4b3e8437b4fbd4c55a43">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2bbcc9c8e7b643db997feffc34dc3fd1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>C</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd3a80d4803904d5aaf5945e5e94ac36f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc9eee398794b43b0b119f57373b5cba0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1a201d4835974d8eb2037f31910b2888">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Letters_Wills_Bequests_NG68_letters_from_dossiers_not_integrated_yet_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na58536d22964488f92c1fbf45bd3f1a1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_17_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8e64c2426ddc48ed8d90333d99cdbf8e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_29_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2c87d5be5ea943e78cc56eefdd21bce9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3e8b5904c7df42099ed4b0093f4f847f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label xml:lang="en">de</rdfs:label>
+    <crm:P72_has_language xml:lang="en">German</crm:P72_has_language>
+    <crm:P72_has_language rdf:resource="http://www.wikidata.org/entity/Q188"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5d0f69a098874b6d90431d01a555ea5b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb38d7679fea44c3ba13aacab4c1107a9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf41cbbed3e7f434eaadebd0dd90a80e7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_02_Provenance_Couche_1786_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3be9dc3070154e6bbf64392ea5e35adc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N386c674e4a26459fb9d76e537cf0e25f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na2e8879c2e684794b4610dcad7785b8d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4560e6fb11914832b37f657446bbcc06">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4e7cd4e520644000a731d30935dbee19">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_1%2C_4%2C_5%2C_5v%2C_38v_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na2994ebcbf5c4eada16354bbe04b2555">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncc1ac878cc2f4f58b669327cba13e11a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Ramdohr_1787_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82c12563a46448b1a2d1a45c70f46eae">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Jameson_1844_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne0b87b60df3b48659bebff45f2ba43df">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_14_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a23b060cde14726aadda2452d622b6d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb564bc4a66974884a35761b168c0d706">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8bfff07f161e48c6be776ead0cfa8718">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_162%2C_ff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2ec8f6fd6f1747fe8aa330644cd1b2bd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N85ed688ba78e47adb7f64ca2d38f8247">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1858_III_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N722209a2eaea43e8ab1ffae77430bdf1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_17_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nca9c93f295684ba28d6c5e760d817893">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_26_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8ee71ca443ed4bbc9287e0b1dc49d2bd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_09_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2c7b5b2a72124ff1a003376711dc089c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>3_Tracings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndd607ee00d264f668e8e53d7343849db">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a4b276e2003424385af7f44cd15def7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N226fc5301a394828bfae982189c8b289">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_Passavant_1836_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf251b4a0ee074efeaec661271c86acaf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na094fa63dbbf47399a7ef2912cddd16a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_GM_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N39141a2173ee4fa5ab19ebce9d0dac63">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_09_Framing_Dossier_F20338_NG213_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb04cfab82d144b558700b9c32c95815f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N858c6a39b99e4c36a80d569ac7680721">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne059d4bfc14742179a4255288e18c69c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_24_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nce4afd3216c049e8ad28b86c71e54d75">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_10_01_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb35b62ff3d594232b3237aaddfc43bcb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N876cf5cac4ef4dcd8eb70ca966bdac31">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Letter_Books_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne9b155d81420478ab879d47307621f36">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4feb73837b954a9fa9d5d6fe8a7f057b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf4b06a23e7914fae985bd773b2d3b999">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Waagen_1838_III_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne88f87c41b5548ebb3955fdfe0ce7980">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_27_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N09bfca80a91d4a55a9019a16d902fccb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_09_Framing_Dossier_F20495_NG6596_no_file_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N72c634aa4908499ea890dd65b69c776f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N10f55526938e4a0c961d8f24a5bcac55">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Manilli_1650_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf5f112ebf7a5438baf7b053c6bcf8d80">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb57da9efb7344d11817532e46973104a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbf0e9d80729d4837a4119e13f7c9389e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7af7a0dafadc40e09c3960fc8541daf2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb9f3b5aa9ca64952b1bae14adb52384c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N63fedab3d3ce4cd2829c77704ec863a2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1836_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncb127733a4804f21838e56a753058a77">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_23_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd3e2051e37da42efb444cdbd11088a45">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0055fe45697149f7b142bf8d7cb09f2a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Buchanan_24-05-1808_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nce7497f062b3482596798a55a2c1405d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_08_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N06454bf95a794672861f9840f3d46a54">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Catalogue_Bryan%27s_Gallery_1800_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na51f3f89361a4a1d970acf46d0106cab">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9a7bd934969d4c618e7d3a5cba6535df">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Chantilly_Musee_Conde_ok_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N701db3c05c87469dae5def90407e2611">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Raphael_Catalogue_2004_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N33ee0d6319194d148ef9e7a71043780a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Organic_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbb587a53cb27478c92201a54c5a03cf7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0ac61ded625a4ceaa72b718199d05997">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Crozat_1729_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndaa8e81609e74d1c94614a66c9bb4e96">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7c3550cb971249eb9831a3f5ac2d3db2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_05_14_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9d68598ecd334e118449a9381bde6e07">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_14_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na39fc6299b784a988faa85286bf456f7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5aba798c3e644f9d9d71374d65648304">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Eastlake_Diaries_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N667f47b775ad475a88b9c645cb57727d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_14_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne0f0fc72374f4d9faccbb46d7e122f18">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_06_30_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3be43f987d3447188b26a03c9cbcd7c5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label xml:lang="en">es</rdfs:label>
+    <crm:P72_has_language xml:lang="en">Spanish</crm:P72_has_language>
+    <crm:P72_has_language rdf:resource="http://www.wikidata.org/entity/Q1321"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1c7477a8e7c64b608c7046d6b96ca4e7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N312872332df04e94827ee11e8f31cad4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc46d8a8fc42845c6bc07edc8eeeb4052">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2ba2238c4e994b039e04f04078b913ca">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2a54f2cc047f420885afd6c049aa33f4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_01_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N56e67f16fa2849b6ad7da700d6278329">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Xenophon_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nedb4dd86466f449681f77b637631df7e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>4_Drawings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne98bf341601449e38d97ee0d827438e9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Ramdohr_1787_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N80809657596446a19509c6231b75b767">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Board_Papers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb60fde219c84460fb21862dab0df6dfc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5839a24e1ccd43b694849a88b8edd56a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N56b456bacb80405e99dd9e5fe29315b9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N486b1a9b89fc43dab0f541fdac3c782d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N33c782616d3e4e0fbb7d45621f1fcdaf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44f509b076e94cb1b2a096e1c417b42c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd0d81e6d0ba74f299a7390a81e468224">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Waagen_1838_III_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N69028a4ef42e416ea9bf9829b78d720a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Christie_Manson_28-04-1856_lot_727_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne214977d26264d14b9a7e779046ea4ff">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_01_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1900cdb0e0de4d02b9dcdc5824ddb0c7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na20e1a602eaa43d0b7a95f676f17b597">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_NG6596_IRRs_handbuilt_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne9762b0e2c7f4e7cbc3d0862d4ebf67c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Christie%27s_25-6-1892_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N59fc82ce33d042cab98ea3eb4728bcf5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N08dd309a73a94f09b7057e8b853e3008">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_27_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd546d206204143d5ae5ac37ac4e034d1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Dubois_De_Saint_Gelais_1727_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5cd9a40382f04b2ea0b0a4a1f8868106">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Eastlake_Diaries_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5a95b40734b44d9995093624205c1ab3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_10_28_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N76ee1af04be9437db90f434eaffba91a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Inorganic_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44a2005a7c054bd7810cddbb053d73c0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_1%2C_3v%2C_4_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9171e5fda85149428ce1144c839f7edf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N08306566c1ae41128fb8403fbd1faccf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Eastlake_Diaries_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb702a5ecd1b646f5a97296f9eaf95ece">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N02a9d66dfe7845c28c17f04b68b1ae36">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N096831f5b2414e7ab2d72041e36fc1c2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_11_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na3acf89123614b49b666af4214f3e58c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_15_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N76aa15b918e342c999cb6459cf2e46fe">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Ramdohr_1787_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6761eacd1a944164a72eaf33eea4e832">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N47b7257a049f4139b078a7826f6fce64">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_2010_01_27_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1068841143d44475b1067998ebe0bb27">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_12_Paint_Binding_Medium_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb89f6e9063d045899008383ed2dacad7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_more_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2e1471be10524f5daa630b5ae7692e31">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf84d474df6ad4139a7548d687581e68e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_06_Conservation_Dossiers_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N65fc26ee52454d74a3a1a4393b8f44c6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1bfaca2635b941e0a38a61c098c372b0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Vasi_1797_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2821de70e586463b8e2cb680f3d321b0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_15_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2761e3de8ca5430ab60c17ef02b90785">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_11_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndeac562a1bf54a80bc241be8b4a6eb97">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9fd17d5b6bb442ae85b24d0196c64f47">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_6%2C_ff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4577c84e16834b8595afe00a8a192d89">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Lazzari_1693_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N45cef04eef85409ea9228321d352cd68">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfd3489915ed94520ae4df58131aaeed1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_01_Art_History_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4a78b98e6f18456c8c318e5b56e9d1c7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_25_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb58b5010e43e47beb69aab79777e81d2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N383d532d84924558bd57f949ebe97a7b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd204d82fda2049348821ed1caabc37e3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf49e3eabb0e74d32a4be17668cefa008">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6402b605cb4341febcf186df343ac0d4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nca01448ad6a14d9c9acb9639067b8773">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-3943_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc6f8ca6aeead46c4a88c29fc7658c1c5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Young_1822_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N424d46b1b2c5448fa0c49bd6d125e1b3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf9c6dd0f0ff74c64bec5c91106958305">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_13_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N42e71c3898d848a4971f5662b5ec427c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_24_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1f0e3b1591714e0aa8b08a4862cda063">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_12_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N33915ea6e15f416a834dd0c13626255d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_05_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N181d06bd7bfa4b12a9edee505150783f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6480_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na4d101ec4c01447e98709d4b05c7316a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_19%2C_busta_769_for_the_year_1833%2C_f</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N88eaa17720e049929660a648f05fb66c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3efd0ce191ec49858155863ff2103558">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>nationalgallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4a903d52115f4d21a806f67ef26499d3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Borghini_1584_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na36a798b66294280810f394b18ad5a88">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_21_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naccab9a0f72d472196c2114649964e58">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_15_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N062a3482a0064e8a9ef99c6c16709d39">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N306696df0b0f476b9976def66fa1a7f4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N05356581886744869b030c5347530de1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N67d1d41787c84ae796424ccfee32b417">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf1ddb5210c4542aaa298235060d0b329">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne9c68d7af64442c599b31d305e360017">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Vasi_1794_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N976cce3e18124f368ce973b317f099bc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_23_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N05ba1e3f85d14e769b59edddfb28be7f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncc51415272514f458060a26d4cbc6bf5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Couche_1786_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82cc89e8c4534f17a36f34d358ff544a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-0027_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N52f71bb5988b40c898b0e27164216f2a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0047b1ed8e914ba29aec904a5e2bbd36">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N628da8da22e44b97a6edbb6711259972">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_05_12_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6afff4347e024077a8c184655fc872d9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_19_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N964942d4f161423fa363902b97296a6e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N90709d9e89314f9588ae706ae5b497f1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Buchanan_1824_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5dad3044b46249b29cdec8ace6472dec">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_10_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N91b93e3364bd4e11be59d31295aa04ce">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Prints_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8c37c21bab7e48039acfabddae46362f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_19_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44c36597278449968f15176cd0906d95">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_26_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N237cd4dcd0fe4925a40693a587b19331">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_4%2C_busta_679_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7140e248452845058df21b6fe5f45ed6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_24_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2b3af7c8144a45f2b945bf24246be213">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_19_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne92b3750e54e489a8bb901e8cf918d24">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N95a7a6cd9e73480d996b9258c5a02561">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd5c3a7c901864539bd46782cc0ab1326">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4616e4d1511f4ef285d958817391af21">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82fe6d08f58946f0aea3f1c11101786f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1cce183c649c4c5c8e51716fdb92ac26">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_03_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne3ed52e862a740e1ad6c4aa0dffc3be0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_Manuscript_Catalogue_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0347c2994a1e41e98d4e5a0f9c1577a1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_Pesaro%2C_Biblioteca_Oliveriana_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5ab1647daf8146d3a34f08a0fc1d235f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Couche_1786_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9d0aba1c9b79421f9d25a7290d3ffb64">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1f1dafd90de54c21b6231f85b8282b37">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc554cf22594e4ac8b523551a3661d1ee">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>nationalgallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd08175757aff47778f4ae2a68f59eec7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_01_Art_Historical_Information_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N31d6112d01144db2a4c047e9dfc669bc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Letters_Wills_Bequests_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4ff69299e94942ebbf3a1eb5f51bc045">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N173ebdbde1f944cea60b34808c34f56c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1839_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8bcafe2ed2d04ac79597a7afb1f28d15">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0a595006455e4cf18422e8a0b203fe96">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_2009_10_02_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd81f6dd488c24e3c9ba48cb00d25c984">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Copies_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9924cf48e25145b9ba07a531a73e2acd">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S9_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbc541393d5f54c869bccadbdd54f9aeb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>4_Drawings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb4e3f49b9b0b4df1aaa41f3093c97b6d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S16_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7c370aeea55e412e83e0a84051d69611">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Borghini_1584_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3b42f4d2f94346c8b990269597e48433">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_11_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2ddb98997ea14057b16f338bd8d94bbb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_14_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nef8e06d7ee5f4ff9a77b3a9c171f4eef">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndf3a39a0fe36416599c7271caf5415b2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_D%27Agincourt_1823_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N48809d32770a438a8050d64148e5e6f8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Rossini_1693_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8cf43fa16cc9465aa115dabd79ba6c5d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N69f7a30bf9274f568933f38c9de20aeb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_35mm_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N75c922108c284f59a9a0bf57c81fc791">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-0744_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1d703fa791ca47eca63d5ac8754492c7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Catalogue_Bryan%27s_Gallery_1798_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N951ce4084a5c4e95838070f107494a21">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_08_Images_of_Frames_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7ad37d90498940d1abd3018fe6c79f6a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3857209102ef40a58db3902acc3dba45">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Christie_25_May_1811_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82efff90b0ce4c0788ba8fa82dada78f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>ng-london</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb092ac32771742ecb36f8b4b2963bcbb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_Silius_Punica_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5c03f743dfd748d090901c57a8b475d0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1839_I_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0cf429f006814483b289750b0c3ca2d3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_07_01_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N85f9b803e19b47ea8e04647af09cb539">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Catalogue_Bryans_Gallery_1798_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N24e18297ceea44189646129e4a9a6aa9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_08_20_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N77309b6e7eea404590c0cb5f2100cff9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1839_II_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N09908f8e200c4167a7d0ccb91dbe2862">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_Microscope_Details_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2ce951f76f2047388aa8960dd9e30e18">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_02_16_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N19409cc4e73a48759de1474d32e33836">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0027_01_Art_Historical_Information_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf1c4befd366d48dfaef36a73bed07257">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N61bce682bef748299f67c4d8435f17cf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_11_13_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9ab61c0da64945949446b910bc66596a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-3943_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6261de1d6fac410e85007edf848438e4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf560a64f71aa4e20a3f9e9ed1039743b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_1256%2C_f</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8ceeab5346554445b35c05a863150296">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Aretino_1609_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne0da2d43373a4ccb9c16d5f488e12147">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na34f58820c2a4344a55d2650d4daf1d6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Wornum_Diary_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3d3db9b663ae4ca0a961dd476ce1fc89">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-0213_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6dbd6a8fc2a54776a61f06543d8ec006">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+    <rdfs:label xml:lang="en">it</rdfs:label>
+    <crm:P72_has_language xml:lang="en">Italian</crm:P72_has_language>
+    <crm:P72_has_language rdf:resource="http://www.wikidata.org/entity/Q652"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0dba9926b4ad49a88ee83746a2bceaa8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4f7820ed9fd34b9f83df5b2cc286b1a8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0168_02_Provenance_Inventory_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne056c0fe66454f908a85e518990769d1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Letter_Books_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf36e0295f845428f9f5c924f2a06bb8d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Visible_Light_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N921d6571b6a3455bb1bb4cb226d1ee1e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_03_Bibliography_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfd1b64393b054886b3b5b944e8d30fb9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N27205d3fa5014e04b6c154ac083881a8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Manilli_1650_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N59b39c5c26224ea1b3157a9e038af44b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7b6f27900b6d4a7dbaca67a3a98a972d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>c2rmf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd37ac1fde16c446890e0c77bb864ff67">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_09_Framing_Dossier_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N52017071b07646e286a0a4ef667b15a2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_06_29_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne51a6097bd34447798470af6fb98ad2d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_09_09_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9a9d48882799469d8f6e57fc6f78235b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1833_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N542a8ec572114a7288b2f8c4616b5467">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-1171_02_Provenance_Letter_Books_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1ecff25d79654afdb0c893d3cd875e5a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_IR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N017a333a0f9b47149b2e7bc6ae8870c6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0213_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N558673efdf514c7db923ea5cad8c5748">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>nationalgallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8760c9e6f021400eacb02a15e44f76fc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_UV_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f670925dfbe4f2a91e0c362b1d5fc56">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Passavant_1872_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d1935b7dc014b2099d47fe53de91f83">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc5de451ccedb4cc295998a84cd85e0bf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Buchanan_1824_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc210c869ea9c4d33a7755847b989655d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_01_12_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nad1dbb2aea1c4ceb84554a8e082d2c5f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2009_12_16_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f525366fed94858a8651789cf19f524">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_1%2C_4v_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neacfbd44f9594e1f821a39ed82766930">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_04_26_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N840c327e3b024867bb09c9d3de20e706">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-2069_02_Provenance_Venice_Cavalcaselle_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N69ce03c5e3ad4e58b9717c4b644ef461">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_25%2C_fasc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7a65a6a52a3b4538b9b4332ce6fb48fa">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>3_Tracings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N721ae988a7264afebbfd2f34ceb59acc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_X-Ray_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N265f5be6ff4d467e9e53620b863d2a7d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>1_Cross_Sections_Microscope_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4527189fb5654df1b65929474af26b99">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-6596_02_Provenance_Longhena_1829_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N65fdfa30d26341caa88a80019e9c8723">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_Studying_Raphael_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N439d3ac7b00a4ff6a29cc09eae96c317">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>3_Tracings_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N26033bdffcfb443c99c814867b47dc3a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_N-0744_02_Provenance_Letter_Books_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N91fe8323135f41f396bf894019347da6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>2_IRR_Images_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne4cdebb977ae4190afe9cb2ac3929972">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_pics_tmp_raphael_files_2010_03_25_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N93dd039a2488486e8107a04d129e002c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_files_N-6480_02_Provenance_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf9508bcec7014cc79af1eab9914dd3ed">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_322%2C_f</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N992cbddeb9fe43bd8d53f6b2c8764e34">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <rdfs:label>_not</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

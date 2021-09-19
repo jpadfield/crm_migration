@@ -1,0 +1,750 @@
+@prefix aat: <http://vocab.getty.edu/page/aat/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ngo: <https://data.ng-london.org.uk/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rro: <https://rdf.ng-london.org.uk/raphael/ontology/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ngo:65RH-7PJ1-60MW-OBOL crm:P108i_was_produced_by ngo:R191-RPFB-P5G5-BF5B ;
+    crm:P24i_changed_ownership_through ngo:MPXD-AI0Y-TM5J-1JDZ .
+
+ngo:6MSN-3J0E-B9F3-C0FG crm:P108i_was_produced_by ngo:S840-E79A-YH1X-TKKC ;
+    crm:P24i_changed_ownership_through ngo:XDQK-4ZXO-BGBA-DHN5 .
+
+ngo:7BSG-MIHX-WMN9-H39Q crm:P108i_was_produced_by ngo:XCX1-9TNR-SC2L-48DY ;
+    crm:P24i_changed_ownership_through ngo:XU3M-YNP8-PQRZ-GJ5A .
+
+ngo:8JSO-Z4S8-HJ74-FZEX crm:P108i_was_produced_by ngo:DJ9F-LXKX-NTH7-YN0D ;
+    crm:P24i_changed_ownership_through ngo:WS5O-FH2N-Y10M-B769 .
+
+ngo:AVFS-5H52-QRSG-1LVU crm:P108i_was_produced_by ngo:VDYT-G4YQ-YV4W-MQDV ;
+    crm:P24i_changed_ownership_through ngo:AK56-DUMB-6IPO-X1DA .
+
+ngo:CMCI-96U6-2X1P-VG1U crm:P108i_was_produced_by ngo:Y4N0-JNGT-MOPV-GWNH ;
+    crm:P24i_changed_ownership_through ngo:4QR2-SB2I-E094-5BC0 .
+
+ngo:FTVM-IDDL-BRDW-1AOQ crm:P108i_was_produced_by ngo:GHPB-BM2B-FT4T-K3I2 ;
+    crm:P24i_changed_ownership_through ngo:NEYC-8I5J-SMH2-UFJ2 .
+
+ngo:G0LR-XHYZ-4YC6-X3UX crm:P108i_was_produced_by ngo:BLJ4-BDW3-FTFS-FKL8 ;
+    crm:P24i_changed_ownership_through ngo:9AQD-8IXW-25SV-2LP1 .
+
+ngo:IQVW-UOUD-32BX-7J8N crm:P108i_was_produced_by ngo:T51D-X6Y0-L4WN-LLUM .
+
+ngo:JC8J-UFQU-2GIZ-JOG0 crm:P108i_was_produced_by ngo:KR38-ZFKM-V7KS-ASGI ;
+    crm:P24i_changed_ownership_through ngo:FP10-I6DO-XXBL-JRE5 .
+
+ngo:K6YP-L33T-W97H-NZNL crm:P108i_was_produced_by ngo:87H8-J9S1-E9UF-PEJ1 ;
+    crm:P24i_changed_ownership_through ngo:QAH0-ORLK-OOLK-KU1R .
+
+ngo:K9HN-ZRAI-ZGQK-SY5P crm:P108i_was_produced_by ngo:YE3U-OQOB-ORPB-MYEJ ;
+    crm:P24i_changed_ownership_through ngo:SZ1I-C3Z4-1VQ0-3IDI .
+
+ngo:LXIR-E3NQ-5DOK-56EP crm:P108i_was_produced_by ngo:Z307-ZGR2-60S7-2S6A ;
+    crm:P24i_changed_ownership_through ngo:G6MC-HEEI-YJCP-MR8A .
+
+ngo:LYJC-L3IG-5P45-589S crm:P108i_was_produced_by ngo:LB58-56JV-IYIY-MC6X ;
+    crm:P24i_changed_ownership_through ngo:X8ZB-4D4Q-A7VI-K8VZ .
+
+ngo:MG2W-ZZL2-6SQU-44F1 crm:P108i_was_produced_by ngo:FVJC-XNPZ-Y4XB-S323 ;
+    crm:P24i_changed_ownership_through ngo:NW7R-BDW0-HWG9-KGKE .
+
+ngo:MK2M-BEY1-E9MA-WALT crm:P108i_was_produced_by ngo:2E5J-KRCI-DM1Y-CAP6 ;
+    crm:P24i_changed_ownership_through ngo:DVJT-SFM1-Y0P0-Q336 .
+
+ngo:N0XM-FXBG-NVXJ-ZEUW crm:P108i_was_produced_by ngo:K9W2-1ZI2-NCRA-XFPU ;
+    crm:P24i_changed_ownership_through ngo:V5T8-69D0-S9YN-VHZM .
+
+ngo:O2QN-OI2F-22QD-XV6U crm:P108i_was_produced_by ngo:Q5M0-Z0IQ-QJCL-MBO8 ;
+    crm:P24i_changed_ownership_through ngo:A9X7-ETDM-7N2Y-O4ZB .
+
+ngo:P9B9-ZU5Y-MJPJ-29GH crm:P108i_was_produced_by ngo:BA6F-FC59-7UDZ-B1D6 ;
+    crm:P24i_changed_ownership_through ngo:THG6-BX76-RMRR-6HOE .
+
+ngo:QNK4-AQFQ-RG01-KQ23 crm:P108i_was_produced_by ngo:KTLH-ISYC-U6P7-0IUZ ;
+    crm:P24i_changed_ownership_through ngo:MY9Z-KAX2-NRMI-9T94 .
+
+ngo:SAAW-70N9-H32V-LL5Q crm:P108i_was_produced_by ngo:PIHO-U8IM-TGOT-KACI ;
+    crm:P24i_changed_ownership_through ngo:ENKG-G0G3-QFON-H39S .
+
+ngo:TY1I-CQ3Y-3A4P-8VUD crm:P108i_was_produced_by ngo:0YE9-C8EC-5I83-C7ZW ;
+    crm:P24i_changed_ownership_through ngo:A82O-66G2-NVRU-2TEL .
+
+ngo:U5OQ-JW5V-6YL6-DXB3 crm:P108i_was_produced_by ngo:QUTN-OYIF-UEHY-A3Y8 ;
+    crm:P24i_changed_ownership_through ngo:ZGNL-63SI-L5PX-TC7T .
+
+ngo:WKJ3-SNDQ-YEBV-1L13 crm:P108i_was_produced_by ngo:W9D4-918U-GG28-X44I ;
+    crm:P24i_changed_ownership_through ngo:F5N5-4GGP-MJES-CN3J .
+
+ngo:XUUK-SFAU-GWHQ-6JLH crm:P108i_was_produced_by ngo:7ZUD-PS4A-CP45-VPV9 ;
+    crm:P24i_changed_ownership_through ngo:XZG6-XHAQ-LDRI-TPVS .
+
+ngo:YILI-R5M8-IKLV-P9FT crm:P108i_was_produced_by ngo:0EW9-8C5R-LM2A-6W8D ;
+    crm:P24i_changed_ownership_through ngo:IUIR-5HBB-XWM3-0R7O .
+
+ngo:ZXF8-VELL-I9MC-DY8H crm:P108i_was_produced_by ngo:A9OV-9DH7-25GD-C61F ;
+    crm:P24i_changed_ownership_through ngo:OJ3O-WKCU-IRKH-7QVE .
+
+rro:0FOH-OLYS-PF9K-S7H1 a crm:E5_Event ;
+    rdfs:label "History of PE38"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:1927-BU6F-R9TT-5SGB a crm:E5_Event ;
+    rdfs:label "History of 65"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:353Y-U9QL-LS6J-JSEI a crm:E5_Event ;
+    rdfs:label "History of MNdAA568"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:36OL-5Q0W-QTR3-F2JK a crm:E5_Event ;
+    rdfs:label "History of NG2069"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:44V7-VJ3Q-WXCX-5C28 a crm:E5_Event ;
+    rdfs:label "History of 130"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:4NKX-VD0G-UEG7-LJMW a crm:E5_Event ;
+    rdfs:label "History of 30ab"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:4ROG-OPQS-R2CG-4PPV a crm:E5_Event ;
+    rdfs:label "History of NG2919"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:4ZXR-FA88-8COK-PSQ9 a crm:E5_Event ;
+    rdfs:label "History of NG6480"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:6MR2-7LZN-WEMB-FEHK a crm:E5_Event ;
+    rdfs:label "History of Raphael"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:7BVD-2J47-EM53-OQCD a crm:E5_Event ;
+    rdfs:label "History of 1972"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:7OE0-H9SK-RDUW-YPGK a crm:E5_Event ;
+    rdfs:label "History of NG213"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:8QKM-QG12-BS77-IXBP a crm:E5_Event ;
+    rdfs:label "History of 9"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:AZAH-V6QG-7EBZ-RO3G a crm:E5_Event ;
+    rdfs:label "History of DPG241"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:BGEJ-COJP-RXY8-Z67H a crm:E5_Event ;
+    rdfs:label "History of 1958"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:BKPI-VK2T-W9FZ-ARU3 a crm:E5_Event ;
+    rdfs:label "History of 1"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:DB2X-5CAB-NQH2-PTL1 a crm:E5_Event ;
+    rdfs:label "History of NG27"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:DOYZ-3DH8-NINK-FKT6 a crm:E5_Event ;
+    rdfs:label "History of PE39"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:EWEV-YA6H-AMT9-20L5 a crm:E5_Event ;
+    rdfs:label "History of 46"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:M1IG-8GJR-O5AX-L14A a crm:E5_Event ;
+    rdfs:label "History of NG744"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:MVQ7-BOIO-PKF4-RY14 a crm:E5_Event ;
+    rdfs:label "History of P16e3"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:NTIB-HVOV-JCZ8-SJVP a crm:E5_Event ;
+    rdfs:label "History of 4"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:PHR3-Y9VM-221F-5XVL a crm:E5_Event ;
+    rdfs:label "History of PE40"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:RIMX-RO14-JJF4-2NYN a crm:E5_Event ;
+    rdfs:label "History of NG6596"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:STPC-EL4T-GD7T-VLA9 a crm:E5_Event ;
+    rdfs:label "History of NG3943"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:WSDW-JIQU-YP85-S975 a crm:E5_Event ;
+    rdfs:label "History of NG929"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:XICE-YQUE-QBWW-XEIF a crm:E5_Event ;
+    rdfs:label "History of NG168"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:XR3C-8QBO-W434-WBCL a crm:E5_Event ;
+    rdfs:label "History of DPG243"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:XWFJ-FNGX-ODGU-ZWC6 a crm:E5_Event ;
+    rdfs:label "History of NG1171"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+aat:300069672 rdfs:label "births"@en .
+
+aat:300151836 rdfs:label "deaths"@en .
+
+ngo:0EW9-8C5R-LM2A-6W8D a crm:E12_Production ;
+    crm:P10_falls_within ngo:4ZXR-FA88-8COK-PSQ9 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ] .
+
+ngo:0YE9-C8EC-5I83-C7ZW a crm:E12_Production ;
+    crm:P10_falls_within ngo:36OL-5Q0W-QTR3-F2JK ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1509-1511"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1513-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6188 ] .
+
+ngo:2E5J-KRCI-DM1Y-CAP6 a crm:E12_Production ;
+    crm:P10_falls_within ngo:4NKX-VD0G-UEG7-LJMW ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:4QR2-SB2I-E094-5BC0 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:XWFJ-FNGX-ODGU-ZWC6 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1885"@en .
+
+ngo:7ZUD-PS4A-CP45-VPV9 a crm:E12_Production ;
+    crm:P10_falls_within ngo:BKPI-VK2T-W9FZ-ARU3 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1506"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1508-12-31"^^xsd:dateTime ] .
+
+ngo:87H8-J9S1-E9UF-PEJ1 a crm:E12_Production ;
+    crm:P10_falls_within ngo:WSDW-JIQU-YP85-S975 ;
+    crm:P14_carried_out_by ngo:C59B-469X-U8RF-IDKD ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production .
+
+ngo:9AQD-8IXW-25SV-2LP1 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:MVQ7-BOIO-PKF4-RY14 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:A82O-66G2-NVRU-2TEL a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:36OL-5Q0W-QTR3-F2JK ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Presented by Mrs Eve Mackintosh, 1906"@en .
+
+ngo:A9OV-9DH7-25GD-C61F a crm:E12_Production ;
+    crm:P10_falls_within ngo:RIMX-RO14-JJF4-2NYN ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1506-1507"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1509-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6161 ] .
+
+ngo:A9X7-ETDM-7N2Y-O4ZB a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:4ROG-OPQS-R2CG-4PPV ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1913"@en .
+
+ngo:AK56-DUMB-6IPO-X1DA a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:STPC-EL4T-GD7T-VLA9 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Mond Bequest, 1924"@en .
+
+ngo:BA6F-FC59-7UDZ-B1D6 a crm:E12_Production ;
+    crm:P10_falls_within ngo:PHR3-Y9VM-221F-5XVL ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1509-1510"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1509-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1510-12-31"^^xsd:dateTime ] .
+
+ngo:BLJ4-BDW3-FTFS-FKL8 a crm:E12_Production ;
+    crm:P10_falls_within ngo:MVQ7-BOIO-PKF4-RY14 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:C59B-469X-U8RF-IDKD a crm:E39_Actor ;
+    rdfs:label "After Raphael"@en ;
+    crm:P2_has_type aat:300024979,
+        crm:E39_Actor .
+
+ngo:DJ9F-LXKX-NTH7-YN0D a crm:E12_Production ;
+    crm:P10_falls_within ngo:NTIB-HVOV-JCZ8-SJVP ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1515"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1517-12-31"^^xsd:dateTime ] .
+
+ngo:DVJT-SFM1-Y0P0-Q336 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:4NKX-VD0G-UEG7-LJMW ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:ENKG-G0G3-QFON-H39S a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:44V7-VJ3Q-WXCX-5C28 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:F5N5-4GGP-MJES-CN3J a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:AZAH-V6QG-7EBZ-RO3G ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:FP10-I6DO-XXBL-JRE5 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:XICE-YQUE-QBWW-XEIF ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1839"@en .
+
+ngo:FVJC-XNPZ-Y4XB-S323 a crm:E12_Production ;
+    crm:P10_falls_within ngo:8QKM-QG12-BS77-IXBP ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1503-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ] .
+
+ngo:G6MC-HEEI-YJCP-MR8A a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:DB2X-5CAB-NQH2-PTL1 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1824"@en .
+
+ngo:GHPB-BM2B-FT4T-K3I2 a crm:E12_Production ;
+    crm:P10_falls_within ngo:1927-BU6F-R9TT-5SGB ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
+
+ngo:IUIR-5HBB-XWM3-0R7O a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:4ZXR-FA88-8COK-PSQ9 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1983"@en .
+
+ngo:JZ6Q-2KJ4-ADE6-E9WE a crm:E69_Death ;
+    crm:P10_falls_within ngo:6MR2-7LZN-WEMB-FEHK ;
+    crm:P2_has_type aat:300151836,
+        crm:E69_Death ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1520"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1520-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1520-12-31"^^xsd:dateTime ] .
+
+ngo:K9W2-1ZI2-NCRA-XFPU a crm:E12_Production ;
+    crm:P10_falls_within ngo:BGEJ-COJP-RXY8-Z67H ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1501-1502"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1499-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1504-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6137 ] .
+
+ngo:KR38-ZFKM-V7KS-ASGI a crm:E12_Production ;
+    crm:P10_falls_within ngo:XICE-YQUE-QBWW-XEIF ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1507"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1509-12-31"^^xsd:dateTime ] .
+
+ngo:KTLH-ISYC-U6P7-0IUZ a crm:E12_Production ;
+    crm:P10_falls_within ngo:7BVD-2J47-EM53-OQCD ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
+
+ngo:LB58-56JV-IYIY-MC6X a crm:E12_Production ;
+    crm:P10_falls_within ngo:7OE0-H9SK-RDUW-YPGK ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1506-12-31"^^xsd:dateTime ] .
+
+ngo:MPXD-AI0Y-TM5J-1JDZ a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:M1IG-8GJR-O5AX-L14A ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1865"@en .
+
+ngo:MY9Z-KAX2-NRMI-9T94 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:7BVD-2J47-EM53-OQCD ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:NEYC-8I5J-SMH2-UFJ2 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:1927-BU6F-R9TT-5SGB ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:NW7R-BDW0-HWG9-KGKE a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:8QKM-QG12-BS77-IXBP ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:OJ3O-WKCU-IRKH-7QVE a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:RIMX-RO14-JJF4-2NYN ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought with the assistance of the Heritage Lottery Fund, The Art Fund (with a contribution from the Wolfson Foundation), the American Friends of the National Gallery, the George Beaumont Group, Sir Christopher Ondaatje and through public appeal, 2004"@en .
+
+ngo:PIHO-U8IM-TGOT-KACI a crm:E12_Production ;
+    crm:P10_falls_within ngo:44V7-VJ3Q-WXCX-5C28 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:Q5M0-Z0IQ-QJCL-MBO8 a crm:E12_Production ;
+    crm:P10_falls_within ngo:4ROG-OPQS-R2CG-4PPV ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:QAH0-ORLK-OOLK-KU1R a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:WSDW-JIQU-YP85-S975 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Wynn Ellis Bequest, 1876"@en .
+
+ngo:QUTN-OYIF-UEHY-A3Y8 a crm:E12_Production ;
+    crm:P10_falls_within ngo:353Y-U9QL-LS6J-JSEI ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
+
+ngo:R191-RPFB-P5G5-BF5B a crm:E12_Production ;
+    crm:P10_falls_within ngo:M1IG-8GJR-O5AX-L14A ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1509-1510"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1512-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6182 ] .
+
+ngo:S840-E79A-YH1X-TKKC a crm:E12_Production ;
+    crm:P10_falls_within ngo:XR3C-8QBO-W434-WBCL ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:SZ1I-C3Z4-1VQ0-3IDI a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:0FOH-OLYS-PF9K-S7H1 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:T51D-X6Y0-L4WN-LLUM a crm:E12_Production ;
+    crm:P10_falls_within ngo:EWEV-YA6H-AMT9-20L5 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1507-1508"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1508-12-31"^^xsd:dateTime ] .
+
+ngo:THG6-BX76-RMRR-6HOE a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:PHR3-Y9VM-221F-5XVL ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:V5T8-69D0-S9YN-VHZM a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:BGEJ-COJP-RXY8-Z67H ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:VDYT-G4YQ-YV4W-MQDV a crm:E12_Production ;
+    crm:P10_falls_within ngo:STPC-EL4T-GD7T-VLA9 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
+
+ngo:VRGA-ZW28-95PS-6JTM a crm:E67_Birth ;
+    crm:P10_falls_within ngo:6MR2-7LZN-WEMB-FEHK ;
+    crm:P2_has_type aat:300069672,
+        crm:E67_Birth ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1483"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1483-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1483-12-31"^^xsd:dateTime ] .
+
+ngo:W9D4-918U-GG28-X44I a crm:E12_Production ;
+    crm:P10_falls_within ngo:AZAH-V6QG-7EBZ-RO3G ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:WS5O-FH2N-Y10M-B769 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:NTIB-HVOV-JCZ8-SJVP ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:X8ZB-4D4Q-A7VI-K8VZ a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:7OE0-H9SK-RDUW-YPGK ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1847"@en .
+
+ngo:XCX1-9TNR-SC2L-48DY a crm:E12_Production ;
+    crm:P10_falls_within ngo:DOYZ-3DH8-NINK-FKT6 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1506"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1506-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1506-12-31"^^xsd:dateTime ] .
+
+ngo:XDQK-4ZXO-BGBA-DHN5 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:XR3C-8QBO-W434-WBCL ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:XU3M-YNP8-PQRZ-GJ5A a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:DOYZ-3DH8-NINK-FKT6 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:XZG6-XHAQ-LDRI-TPVS a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:BKPI-VK2T-W9FZ-ARU3 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:Y4N0-JNGT-MOPV-GWNH a crm:E12_Production ;
+    crm:P10_falls_within ngo:XWFJ-FNGX-ODGU-ZWC6 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ] .
+
+ngo:YE3U-OQOB-ORPB-MYEJ a crm:E12_Production ;
+    crm:P10_falls_within ngo:0FOH-OLYS-PF9K-S7H1 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1515"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1517-12-31"^^xsd:dateTime ] .
+
+ngo:Z307-ZGR2-60S7-2S6A a crm:E12_Production ;
+    crm:P10_falls_within ngo:DB2X-5CAB-NQH2-PTL1 ;
+    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1511"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1511-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1511-12-31"^^xsd:dateTime ] .
+
+ngo:ZGNL-63SI-L5PX-TC7T a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:353Y-U9QL-LS6J-JSEI ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+aat:300024979 rdfs:label "people (agents)"@en .
+
+aat:300157782 rdfs:label "acquisition (collections management)"@en .
+
+ngo:X49G-D5FL-LLD5-L23X a crm:E39_Actor ;
+    rdfs:label "Raphael"@en ;
+    crm:P100i_died_in ngo:JZ6Q-2KJ4-ADE6-E9WE ;
+    crm:P2_has_type aat:300024979,
+        crm:E39_Actor ;
+    crm:P98i_was_born ngo:VRGA-ZW28-95PS-6JTM .
+
+aat:300404387 rdfs:label "creating (artistic activity)"@en .
+
+aat:300055863 rdfs:label "provenance (history of ownership)"@en .
+
+aat:300379244 rdfs:label "years"@en .
+
