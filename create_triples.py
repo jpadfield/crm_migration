@@ -384,7 +384,7 @@ def create_institution_triples(new_graph, old_graph, subject_PID, institution_na
         elif obj == getattr(RRO, 'RC10.Building'):
             object_PID = create_PID_from_triple('building', subj)
             new_graph.add((getattr(NGO, subject_PID), CRM.P156_occupies, getattr(NGO, object_PID)))
-            new_graph = create_building_triples(old_graph, new_graph, object_PID, subj)
+            new_graph = create_building_triples(new_graph, old_graph, object_PID, subj)
 
     return new_graph
 
@@ -536,7 +536,7 @@ def create_reference_triples(new_graph, subject_PID, subj, pred, obj):
 def create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
     file_PID = subject_PID
     related_work = query_objects(old_graph, subj, getattr(RRO, 'RP40.is_related_to'), None)
-    
+
     if pred == getattr(RRO, 'RP95.has_file_name'):
         file_name = BNode()
         new_graph.add((getattr(NGO, subject_PID), CRM.P149_is_identified_by, file_name))
