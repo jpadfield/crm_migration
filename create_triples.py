@@ -215,7 +215,7 @@ def create_time_span_triples(new_graph, subject_PID, subj, pred, obj):
         end_date = response_json[1][1]
         
         wikidata_year = wikidata_query(obj_year, 'year')
-        new_graph.add((time_span_PID, RDFS.label, Literal(obj, lang="en")))
+        new_graph.add((time_span_PID, RDFS.label, Literal(obj_year, lang="en")))
         new_graph.add((time_span_PID, CRM.P82a_begin_of_the_begin, Literal(start_date, datatype=XSD.dateTime)))
         new_graph.add((time_span_PID, CRM.P82b_end_of_the_end, Literal(end_date, datatype=XSD.dateTime)))
         if wikidata_year != None and wikidata_year != 'No WD value':
@@ -536,7 +536,7 @@ def create_reference_triples(new_graph, subject_PID, subj, pred, obj):
 def create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
     file_PID = subject_PID
     related_work = query_objects(old_graph, subj, getattr(RRO, 'RP40.is_related_to'), None)
-
+    
     if pred == getattr(RRO, 'RP95.has_file_name'):
         file_name = BNode()
         new_graph.add((getattr(NGO, subject_PID), CRM.P149_is_identified_by, file_name))

@@ -44,7 +44,7 @@ def create_graph():
     return new_graph
 
 def map_db_to_triples(old_graph, full_rebuild=False): 
-
+    
     # Checking whether specific sections have already been mapped and pulling them in or building them
     if path.exists('outputs/raphael_object.xml') == False or full_rebuild == True:
         object_graph = create_graph()
@@ -100,7 +100,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_document_graph = Graph()
         new_document_graph = new_document_graph.parse('outputs/raphael_document.xml')
     print('documents mapped!')
-
+    
     if path.exists('outputs/raphael_sample.xml') == False or full_rebuild == True:
         sample_graph = create_graph()
         new_sample_graph = map_sample(sample_graph, old_graph)
@@ -111,7 +111,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_sample_graph = Graph()
         new_sample_graph = new_sample_graph.parse('outputs/raphael_sample.xml')
     print('samples mapped!')
-
+    
     if path.exists('outputs/raphael_image.xml') == False or full_rebuild == True:
         image_graph = create_graph()
         new_image_graph = map_image(image_graph, old_graph)
@@ -122,7 +122,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_image_graph = Graph()
         new_image_graph = new_image_graph.parse('outputs/raphael_image.xml')
     print('images mapped!')
-
+    
     if path.exists('outputs/raphael_leftover_categories.xml') == False or full_rebuild == True:
         leftovers_graph = create_graph()
         new_leftovers_graph = map_leftover_categories(leftovers_graph, old_graph)
@@ -133,7 +133,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_leftovers_graph = Graph()
         new_leftovers_graph = new_leftovers_graph.parse('outputs/raphael_leftover_categories.xml')
     print('leftover categories mapped!')
-    
+      
     full_graph = Graph()
     full_graph.parse('outputs/raphael_object.xml')
     full_graph.parse('outputs/raphael_event.xml')

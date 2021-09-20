@@ -22,7 +22,11 @@ OWL = Namespace("http://www.w3.org/2002/07/owl#")
 
 def query_graph(graph,subj,pred,obj):
     for s,p,o in graph.triples((subj,pred,obj)):
-        print(s.n3(new_graph.namespace_manager),p.n3(new_graph.namespace_manager),o.n3(new_graph.namespace_manager))
+        print(s.n3(graph.namespace_manager),p.n3(graph.namespace_manager),o.n3(graph.namespace_manager))
+
+def pretty_print_triples(new_graph):
+    for x,y,z in new_graph:
+        print(x.n3(new_graph.namespace_manager), y.n3(new_graph.namespace_manager), z.n3(new_graph.namespace_manager))
 
 def query_objects(graph, subj, pred, obj):
         objects_list = []

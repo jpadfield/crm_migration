@@ -3,7 +3,7 @@ from rdflib.namespace import RDF, RDFS, NamespaceManager, XSD
 from rdflib.serializer import Serializer
 from SPARQLWrapper import SPARQLWrapper, JSON
 from create_triples import create_time_span_triples, create_role_triples, create_dimension_triples, create_event_triples, create_institution_triples, create_location_triples, create_medium_triples, create_reference_triples, create_collection_triples, create_title_triples, create_identifier_triples, create_type_triples, create_time_span_triples, create_actor_event_relationship_triples, create_name_triples, create_comment_triples, create_room_triples, create_area_of_room_triples, create_file_triples, create_examination_event_triples, create_triples_from_reference_string, create_modification_event_triples, create_image_production_event_triples, create_provenance_triples, create_sampling_triples
-from common_functions import generate_placeholder_PID, wikidata_query, create_PID_from_triple, query_objects, get_property
+from common_functions import generate_placeholder_PID, wikidata_query, create_PID_from_triple, query_objects, get_property, pretty_print_triples
 from pdb import set_trace as st
 
 RRO = Namespace("https://rdf.ng-london.org.uk/raphael/ontology/")
@@ -138,6 +138,7 @@ def map_document(new_graph, old_graph):
 
 def map_image(new_graph, old_graph):
     for image_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC25.Image'))):
+        st()
         subject_PID = generate_placeholder_PID(image_name)
         related_works = query_objects(old_graph, image_name, getattr(RRO, 'RP40.is_related_to'), None)
         database_PID = generate_placeholder_PID('The National Gallery Collection Image Database')
@@ -167,6 +168,7 @@ def map_image(new_graph, old_graph):
 
         for subj, pred, obj in old_graph.triples((image_name, None, None)):
             new_graph = create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
+            st()
             new_graph = create_dimension_triples(new_graph, subject_PID, subj, pred, obj)
             new_graph = create_type_triples(new_graph, subject_PID, pred, obj)
             new_graph = create_modification_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
@@ -174,11 +176,12 @@ def map_image(new_graph, old_graph):
             new_graph = create_image_production_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
             new_graph = create_provenance_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
             new_graph = create_reference_triples(new_graph, subject_PID, subj, pred, obj)
-
+    st()
     return new_graph
 
 def map_sample(new_graph, old_graph):
     for sample_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC23.Sample'))):
+
         subject_PID = generate_placeholder_PID(sample_name)
 
         for subj, pred, obj in old_graph.triples((sample_name, None, None)):
