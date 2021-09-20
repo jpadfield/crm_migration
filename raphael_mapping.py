@@ -44,7 +44,7 @@ def create_graph():
     return new_graph
 
 def map_db_to_triples(old_graph, full_rebuild=False): 
-    '''
+    
     # Checking whether specific sections have already been mapped and pulling them in or building them
     if path.exists('outputs/raphael_object.xml') == False or full_rebuild == True:
         object_graph = create_graph()
@@ -78,7 +78,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_person_graph = Graph()
         new_person_graph = new_person_graph.parse('outputs/raphael_person.xml')
     print('people mapped!')
-    '''
+    
     if path.exists('outputs/raphael_place.xml') == False or full_rebuild == True:
         place_graph = create_graph()
         new_place_graph = map_institution(place_graph, old_graph)
@@ -89,7 +89,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_place_graph = Graph()
         new_place_graph = new_place_graph.parse('outputs/raphael_place.xml')
     print('places mapped!')
-    '''
+    
     if path.exists('outputs/raphael_document.xml') == False or full_rebuild == True:
         document_graph = create_graph()
         new_document_graph = map_document(document_graph, old_graph)
@@ -133,7 +133,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_leftovers_graph = Graph()
         new_leftovers_graph = new_leftovers_graph.parse('outputs/raphael_leftover_categories.xml')
     print('leftover categories mapped!')
-    '''  
+    
     full_graph = create_graph()
     full_graph.parse('outputs/raphael_object.xml')
     full_graph.parse('outputs/raphael_event.xml')
