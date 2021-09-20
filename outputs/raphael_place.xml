@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:nodeID="N77e53900af8d46d6be481651aa382252">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The Morgan Library and Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/52RG-059M-9CMS-937V">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/MP0G-67SW-UOJ7-WC22"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N7c6a590ab22d48e180806e7edd0c80ae"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N88bdf56dcf0e40c396a2ff66c77b357e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/7Y54-U9HP-FRG1-S0P6">
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/BH7A-TVI4-Z00Q-T8LB"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N6728f99edd7543919120f987fb7df805"/>
+    <crm:P70i_is_documented_in rdf:nodeID="N618f58a6d98d45059997302e12d0cb10"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9662d6f2fff247b2826cb5e47ed0cb23">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Archivio di Stato di Modena</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/7T2J-YLBO-N3BR-IN0H">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Naab7e37dc92f40bbbc74e12d4e86dc6e"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N20a3e4b90a654a9da1fead878fce5773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/WZEG-17YO-SIWI-1UXO">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nacee5dbbab4042cea15e5820634111ec"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nd6b79d01221c438ca6ec48813305304d"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne1fe6d580c134ba28438b245d708a8e4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.cdcnet.net/infocitta/cultura/archiviocomune.asp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/3HNU-DJRH-U3CC-2VTB">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q180788"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/S780-8SSR-HNF5-KW5T"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Na00bb569bcc54b9faff1d1462d9ad3f5"/>
+    <crm:P3_has_note xml:lang="en">The National Gallery in London, founded in 1824, houses a rich collection of over 2,500 paintings dating from the mid-13th century to 1900 in its home on Trafalgar Square.</crm:P3_has_note>
+    <crm:P50i_is_current_keeper_of rdf:resource="https://data.ng-london.org.uk/ZGSO-VAD2-9Z05-06C8"/>
+    <crm:P70i_is_documented_in rdf:nodeID="N074ad521aaf84d48a7cad4729412301b"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naab7e37dc92f40bbbc74e12d4e86dc6e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Réunion des musées nationaux</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/87EY-BE26-OO80-RDDA">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q182955"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nf65a1608c9a84d069a13b7d5a9b37c8f"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N71012d7da7024a409fc7479e1821d2f2"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5c2a48fac4294841bc20b40b39e3f2f3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.gardnermuseum.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/LHV7-5QHT-FZMQ-H8P7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N384cb59d3ddb4179a19c7307d01c0826"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Ne1fe6d580c134ba28438b245d708a8e4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7564ff9356644f6aa23d3e0bb47ccc0e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Norton Simon Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/7XCV-A3G4-2F2J-O4HE">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/2AWX-BPDG-2H2T-K6BM"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nfe36d324d5394d75b0f743bfb27f242a"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N36650d361e1441b58ed401ee4bd7e9ab">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The Devonshire Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc67ceb500b2d4b7d8b22ae5b74a97a90">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.accademiacarrara.bergamo.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/GHUR-TVW3-9WLY-U5KN">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nbc8d2b3ad0b441bd86a4ade420489677"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N7cfde20bd54f4202ab44a68d507d9d9c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/O9OE-UF06-XA9E-GX4C">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1459878"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/35U3-OXQ9-JFEN-QVCO"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nb5e94895739344e0940b7ca1eab9602c"/>
+    <crm:P3_has_note xml:lang="en">When the Museum's new 127,000-square-foot building opens in April 2010, it will create a beautiful home for the permanent collection with dramatically expanded exhibition space highlighted by daylit galleries. The aluminum-clad exterior will be surrounded by exquisite outdoor gardens showcasing large-scale sculpture. Dozens of new art acquisitions will be on view for the first time as North Carolinians come together to celebrate her greatest cultural gem—the transformed North Carolina Museum of Art.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nf4f44df9ca3f48a3809ebfecdb360018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/TM4B-5A4R-8I8V-XRTG">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nf204a578a0704fbc9ac80b4bbff3338c"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/Q23436"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbc8d2b3ad0b441bd86a4ade420489677">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Brighton Museum &amp; Art Gallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfc09f80477b343f2aadd92075af54594">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Szepmuveszeti Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N689bcc1ed86947d4928bab491a5d13c4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.palazzoducaleurbino.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N872b2c8d4196400896d1d1c5c589512c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Dulwich Picture Gallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/LIO8-A0GR-M7WV-88MN">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P70i_is_documented_in rdf:nodeID="Nfc02dbfc5e64484a8061ef1a39a1e6f2"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N05ee5bdafac446b589cb82cc36fd4356"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/9FOI-JCWE-2DLS-PIC3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N9d49a0c547b546bb8764873bf3fafe33"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N0475db63121f445c9e553bae5b91067d"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3dac3bb1d827430588f5b58489bd69a0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.wiltonhouse.com/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/34EP-C96Y-QPQR-FIYX">
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/TM4B-5A4R-8I8V-XRTG"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nebb10da6b04a48198d962f90d8719b22"/>
+    <crm:P3_has_note xml:lang="en">The National Gallery of Scotland in Edinburgh, founded in 1850, houses the national collection of fine art from the early Renaissance to the end of the nineteenth century.</crm:P3_has_note>
+    <crm:P50i_is_current_keeper_of rdf:resource="https://data.ng-london.org.uk/Z6NC-405S-9QVG-QCTP"/>
+    <crm:P70i_is_documented_in rdf:nodeID="Neade6790fd4946c8a0fe2d08cb4f48ad"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/35U3-OXQ9-JFEN-QVCO">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N022c02788e564b3aac5ce16fceefbd69"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/I3YF-1ZQR-WT19-RYG4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf4f44df9ca3f48a3809ebfecdb360018">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.ncartmuseum.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/VIZZ-JLTK-JX3Y-H47Q">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q212459"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/FA4Z-KOWC-RP1C-90XZ"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Ncf900138df3f4a5fad07b7959f50e1c6"/>
+    <crm:P3_has_note xml:lang="en">A Exposição permanente do MNAA está instalada em 70 salas distribuídas por três pisos do museu, edifício que é constituído pelo palácio Alvor-Pombal, a edificação primitiva, e o Anexo, como tradicionalmente é designada a parte construída nos anos 40 do século XX.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N42803779785e44d99e614abb13b3e5ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf751e8668e244c788f009e18d208c7da">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.pba-lille.fr/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfafbe6d0307d4efa9069e8c2df4cbf62">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.bncf.firenze.sbn.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/OKFG-C966-YI2I-A5VX">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N36650d361e1441b58ed401ee4bd7e9ab"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nc99de5437b434b4b99168bd26aef2ab0"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb2e4354cae204318b9e1b0c2b8962983">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.skd-dresden.de/en/museen/alte_meister.html</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/4QF4-T19K-7UZI-YUY1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P70i_is_documented_in rdf:nodeID="N1bded74739734318ab54be5bd5dbb32f"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N10cc9806041a4e608e54b8b9426c035e"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N20a3e4b90a654a9da1fead878fce5773">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.photo.rmn.fr/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N79f08a92de514343b51091f6936125fe">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Musée des Beaux-Arts de Lille</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RHMU-ORYO-NQ20-79KG">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nbe769e60ac454ac39f56190f1155b9d3"/>
+    <crm:P3_has_note xml:lang="en">Drawings, Watercolours and Prints: The Royal Collection contains around 40,000 drawings and watercolours, and 150,000 prints. The collection is particularly strong in Old Master drawings, especially by Italian artists, and Victorian watercolours.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N7d1a0411615b425ea716ff001af62766"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf97154edac7347e58dd6bc253b5afd7a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Galleria Nazionale delle Marche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9751794fc8454dbb810b0acacabfc85d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Accademia Carrara di Belle Arti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d1a0411615b425ea716ff001af62766">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.royalcollection.org.uk/default.asp?action=article&amp;ID=34</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/LQ2D-NHAY-W7S5-3FLC">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Ne1419ec1f421452d93a7492bfa9ec628"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/XOF6-4XHQ-VCM1-5AZE"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N71012d7da7024a409fc7479e1821d2f2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://mv.vatican.va/3_EN/pages/MV_Home.html</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncc93a7f66a0547a4ab3a4eec4acf2a8a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.sothebys.com/picture-library/index.html</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nacee5dbbab4042cea15e5820634111ec">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museum Boijmans Van Beuningen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/N58G-02CX-OYEW-RBHK">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N79f08a92de514343b51091f6936125fe"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nf751e8668e244c788f009e18d208c7da"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N441f6b6ea34046608b550495d3cd7531">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museo Nazionale di Capodimonte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3686e5a504e1437ea1fa8dd56571422e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museo e Galleria di Villa Borghese</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZCZ4-3J9V-7PO3-USGD">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1241163"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/2O3J-EAVR-TJNK-8J3B"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Na1ecfc68dc6045fa948ddb446e6ac23c"/>
+    <crm:P3_has_note xml:lang="en">Dulwich Picture Gallery, founded in 1811, is the oldest public art gallery in England. It houses a collection of more than 650 Old Master paintings.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nbb8482b5b09641588daf66d2ca7cce92"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7debc158d19e40309bdc25f273ce4f81">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Biblioteca Oliveriana di Pesaro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N25e7cbed3f804a029210999e0da823e5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.getty.edu/museum/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6729ed58b1174a73be903617093ad73d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Royal Academy of Arts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7fbb1a145cb647ecbe05946601577fd7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.brera.beniculturali.it/HomePage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne4f9105c884e41e6a42ac0cc729dda9c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Biblioteca Comunale Augusta di Perugia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncfbd148303864e30a6092a1e3d8bfadc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://biblioweb.comune.perugia.it/home.php</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6cfd9b1beabc44429a07646e0f216d2b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Staatliche Kunstsammlungen Dresden, Gemäldegalerie Alte Meister</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2f9c8e1a250c46059774813bd7d823eb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.staedelmuseum.de/sm/index.php?StoryID=11</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2821c4246d3d4eee8ddd2d5424e5e4bc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Pinacoteca di Brera</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/CZFU-GGSJ-CSNR-HY4N">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N4f1277a782ff4d97b9c5dcaa5d55864c"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N3dac3bb1d827430588f5b58489bd69a0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/CNO9-76SR-JEVK-W1H0">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3388589"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Na225ce7e5309488296b17f0cddbb9854"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N8c9709259a904a689b6dd2ced4d9897b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/MWEP-WG5M-088C-I0MF">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N03b38efa2c0f4c2bb4286afb956541a2"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/5ZZ6-QSTL-S56V-2DNJ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Z8VP-QLSL-RS11-YCXJ">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1080108"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nf97154edac7347e58dd6bc253b5afd7a"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N689bcc1ed86947d4928bab491a5d13c4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/OEL2-UN6F-XT14-VLTB">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/SOSF-35Y1-RWG5-A69H"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N247088fda93f4ed585af1d8fcced4a5b"/>
+    <crm:P3_has_note xml:lang="en">The Metropolitan Museum of Art, New York, founded in 1870, houses a permanent collection containing more than two million works of art, divided into nineteen curatorial departments. The museum's collection of Old Masters numbers approximately 1,700 paintings.</crm:P3_has_note>
+    <crm:P50i_is_current_keeper_of rdf:resource="https://data.ng-london.org.uk/V6MF-ZNCH-6AGY-ZA71"/>
+    <crm:P70i_is_documented_in rdf:nodeID="Nad1ed0e0ff7e4c6b8def7ed306a74aa9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nccf3cf6cef0045cb9e9e403642145009">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">C2RMF</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/KAFP-8DKA-XWLW-A1TX">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N46db0c5b19d942d78660a2e01f70f130"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nee6e08e2bf814157b07ea8fc84982fbb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/A3D3-JY2E-RHEN-TN44">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N0b7128b94b6945219829025bc71307bf"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N2371dd78d3a743559c67aa226dfff3d7"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N384cb59d3ddb4179a19c7307d01c0826">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Biblioteca Comunale di Città di Castello</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9d49a0c547b546bb8764873bf3fafe33">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Pinacoteca Comunale di Città di Castello</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9793c451b986454eb37cacb2c2ae6c14">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The Metropolitan Museum of Art</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/4L0C-3SRW-SZ57-SFCY">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Ne43817bce9ca4230b258ae79c708b8df"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N2f9c8e1a250c46059774813bd7d823eb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/XBQJ-R2AU-5YRY-MJA8">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q270920"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N6729ed58b1174a73be903617093ad73d"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nefd66b3e3ebe438fa1b96dd0bd6c4f8b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/8SZ7-JWL0-IM66-MLOE">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/MWEP-WG5M-088C-I0MF"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N2f02c0b465b6412ba475b9a3c60b0d65"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nf5130edeb2e942608530f18a53bfc419"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N074ad521aaf84d48a7cad4729412301b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.nationalgallery.org.uk/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N77af194bf236466bb13ca6d382a1c6d4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.museo-capodimonte.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6728f99edd7543919120f987fb7df805">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Musée Condé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RY80-A5FJ-YM4A-8OJV">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N4dee4ec63c6945e787d58afb95a820ba"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Ncc93a7f66a0547a4ab3a4eec4acf2a8a"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N03cfea4995054155b7b764fb9b9523b3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.nga.gov/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/MY20-RA4A-14PB-7JDR">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P70i_is_documented_in rdf:nodeID="N7268990e0ff842a08e1f020c45d0f241"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nf98f65c700c645759aedfba264a3d892"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb120da3516b542dcb45758c41a6831fc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.szepmuveszeti.hu/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0b7128b94b6945219829025bc71307bf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Archivio di Stato di Roma</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/5ZZ6-QSTL-S56V-2DNJ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">S%C3%A3o Paulo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/VHEA-S3MW-F1QQ-S58T">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N3686e5a504e1437ea1fa8dd56571422e"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N9efa9008d31d46669e0bcb14a501d4f9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/GSW3-9GXF-TOO3-MVOS">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q95569"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nee36d7b0ad634eb588de297b6637f7f9"/>
+    <crm:P3_has_note xml:lang="en">Das Kunsthistorische Museum in Wien zählt zu den größten und bedeutendsten Museen der Welt. In den reichen Sammlungen befinden sich Objekte aus sieben Jahrtausenden, von der Zeit des Alten Ägypten bis zum Ende des 18. Jahrhunderts. Besondere Schwerpunkte liegen in der Kunst der Renaissance und des Barock.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nf1c3bb92d2484fa088efcd208ab8b788"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N46db0c5b19d942d78660a2e01f70f130">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">State Hermitage Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7bf75cbb85254e1baf72751484bff90b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.smb.spk-berlin.de/smb/standorte/index.php?lang=en&amp;p=2&amp;objID=35&amp;n=5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N946e877967d44617b5f17e239c5c287e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Biblioteca Nazionale Centrale di Firenza</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/3P8S-HHZN-LH41-SGZ8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P70i_is_documented_in rdf:nodeID="Nfafbe6d0307d4efa9069e8c2df4cbf62"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N946e877967d44617b5f17e239c5c287e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/MP0G-67SW-UOJ7-WC22">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N289e7077734c48d99feb0836bb5ae085"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/Q84"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/NXNZ-EA7U-3APS-NC2Y">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N4c793e516e4f42e891aa4b891c17ee96"/>
+    <crm:P3_has_note xml:lang="en">The J. Paul Getty Museum at the Getty Center in Los Angeles houses European paintings, drawings, sculpture, illuminated manuscripts, decorative arts, and European and American photographs.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N25e7cbed3f804a029210999e0da823e5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Y448-X8EV-4JG5-EZ8Z">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N738f50c3e9654b83a98c3076f79b5a0a"/>
+    <crm:P3_has_note xml:lang="en">The Gemäldegalerie possesses one of the world's finest collections of European art from the 13th to 18th century. After the collection was founded in 1830, it was systematically built up and perfected. The exhibition includes masterpieces by artists from every age of art history such as van Eyck, Bruegel, Dürer, Raphael, Tizian, Caravaggio, Rubens, Vermeer and Rembrandt.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N7bf75cbb85254e1baf72751484bff90b"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncf900138df3f4a5fad07b7959f50e1c6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museu Nacional de Arte Antiga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd6b79d01221c438ca6ec48813305304d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.boijmans.nl/nl/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/CPWL-BE87-2C5A-T9EH">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nb553329de3754b11955eb8a19ba96219"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N6b6b12f400484279ac6e8977cb56b70b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/XOF6-4XHQ-VCM1-5AZE">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Washington</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Z9YZ-NJ41-38PV-IMGT">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nfc09f80477b343f2aadd92075af54594"/>
+    <crm:P3_has_note xml:lang="en">Old Master Paintings: The 3000 paintings offer an almost uninterrupted survey of the development of European painting from the 13th to the late 18th centuries.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nb120da3516b542dcb45758c41a6831fc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/FZ0W-46N8-A3F1-2LHK">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N7debc158d19e40309bdc25f273ce4f81"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N585792ad581543a5bc03d610f02ef79f"/>
+    <crm:P70i_is_documented_in rdf:nodeID="N3947b0a193db4f8a964415e5cc2d88ab"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N618f58a6d98d45059997302e12d0cb10">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.musee-conde.fr/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/5T1F-ZPSH-M1DP-43PJ">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q49135"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/7XCV-A3G4-2F2J-O4HE"/>
+    <crm:P70i_is_documented_in rdf:nodeID="N5c2a48fac4294841bc20b40b39e3f2f3"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N0910f9153a114b69985f7c2cdbbf3c10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/JKNL-8RG6-6OTL-GRWS">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N6cfd9b1beabc44429a07646e0f216d2b"/>
+    <crm:P3_has_note xml:lang="en">The world renown of the Gemäldegalerie Alte Meister (Old Masters Picture Gallery) in Dresden is founded in its outstanding collection of high-ranking masterpieces. Among the primary focuses of its holdings are Italian painting of the Renaissance - as exemplified by major works of Raphael, Giorgione and Titian - as well as works in the Mannerist and Baroque styles. Of equal significance is the inventory of Dutch and Flemish paintings of the seventeenth century. Not only are Rembrandt and his followers represented with a large number of works of superb quality, but the collection also comprises paintings by Vermeer and Ruysdael and the great Flemish artists Rubens, Jordaens and Van Dyck.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nb2e4354cae204318b9e1b0c2b8962983"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd043607318924153840c9a6e2b827227">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The National Gallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N88bdf56dcf0e40c396a2ff66c77b357e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.britishmuseum.org/default.aspx</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SOSF-35Y1-RWG5-A69H">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N9793c451b986454eb37cacb2c2ae6c14"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/Q60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/3ABD-ZISB-CPPI-T3SM">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N0013b01ae5e3493d818350f241a92535"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N251211d96bb2492ab6c80ced047c2f85"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbb8482b5b09641588daf66d2ca7cce92">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.dulwichpicturegallery.org.uk/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Q84">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">London</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc99de5437b434b4b99168bd26aef2ab0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.chatsworth.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N289e7077734c48d99feb0836bb5ae085">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The British Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/VZ9H-P2A5-2UCU-UWIV">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Lisbon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Z6NC-405S-9QVG-QCTP">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300443858"/>
+    <rdfs:label xml:lang="en">The National Gallery of Scotland Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na1ecfc68dc6045fa948ddb446e6ac23c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Dulwich Picture Gallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2371dd78d3a743559c67aa226dfff3d7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.archiviodistatoroma.beniculturali.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nee36d7b0ad634eb588de297b6637f7f9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Kunsthistorisches Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4c793e516e4f42e891aa4b891c17ee96">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The J. Paul Getty Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N738f50c3e9654b83a98c3076f79b5a0a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Gemäldegalerie, Staatliche Museen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/E23B-U6P5-HEVJ-KY5E">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N77e53900af8d46d6be481651aa382252"/>
+    <crm:P3_has_note xml:lang="en">Located in midtown Manhattan at Madison Avenue and 36th Street, the Morgan houses one of the world's greatest collections of artistic, literary, and musical works, from ancient times to the medieval and Renaissance periods to the present day.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N99e2252b0b7e4c3bbe6c43bb09b708a7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/I3YF-1ZQR-WT19-RYG4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Raleigh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/P6RO-E82F-F8HK-ETNE">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q214867"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P156_occupies rdf:resource="https://data.ng-london.org.uk/LQ2D-NHAY-W7S5-3FLC"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N69255b1990f6434aa9d26ee83e00b086"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N03cfea4995054155b7b764fb9b9523b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N10cc9806041a4e608e54b8b9426c035e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Victoria &amp; Albert Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/S780-8SSR-HNF5-KW5T">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nd043607318924153840c9a6e2b827227"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/Q84"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N99e2252b0b7e4c3bbe6c43bb09b708a7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.themorgan.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfc02dbfc5e64484a8061ef1a39a1e6f2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.galleriaborghese.it/borghese/it/default.htm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/FA4Z-KOWC-RP1C-90XZ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N80542ca0e5f44252a335b5d721a41d53"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/VZ9H-P2A5-2UCU-UWIV"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N69255b1990f6434aa9d26ee83e00b086">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">National Gallery of Art</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300265431">
+    <rdfs:label xml:lang="en">Web sites</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/NYEW-BWRG-48OL-3FP3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Nccf3cf6cef0045cb9e9e403642145009"/>
+    <crm:P3_has_note xml:lang="fr">Né de la fusion du Laboratoire de recherche des musées de France, fondé en 1931, et du Service de restauration des musées de France, le Centre de recherche et de restauration des musées de France (C2RMF), à Paris, met en oeuvre la politique de la Direction des musées de France en matière de recherche, de conservation préventive et de restauration. Constituées dans le cadre de ses missions, les archives scientifiques du C2RMF comprennent aujourd'hui 40 000 rapports de laboratoire et 34 000 dossiers de restauration, concernant plus de 60 000 oeuvres des musées de France.</crm:P3_has_note>
+    <crm:P3_has_note xml:lang="en">The ‘Centre de recherche et de restauration des musées de France’, abbreviated as ‘C2RMF’ (Centre of Research and Conservation of Museums in France), is located in Paris and has been created through the fusion of the ‘Laboratoire de recherche des musées de France’ (Laboratory of Research of Museums in France), founded in 1931, and the ‘Service de restauration des musées de France’ (Service of Conservation of Museums in France). It applies the policy concerning research, preventive conservation and restoration determined by the Governing board of the Museums of France . The Centre's archives comprise today 40.000 laboratory reports and 34.000 restoration dossiers, concerning more than 60.000 works of art in museums in France.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N8c6400a46d9345d894e6b6097a252b94"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na225ce7e5309488296b17f0cddbb9854">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Pinacoteca Tosio Martinengo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Q23436">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Edinburgh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N05ee5bdafac446b589cb82cc36fd4356">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Archivio della Galleria Borghese</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/I9OH-WZXR-JF55-1PWB">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P70i_is_documented_in rdf:nodeID="Ncfbd148303864e30a6092a1e3d8bfadc"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P48_has_preferred_identifier rdf:nodeID="Ne4f9105c884e41e6a42ac0cc729dda9c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb541639890c148ba863b7fcdc886786b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.nortonsimon.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/2AWX-BPDG-2H2T-K6BM">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Boston</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N08ae8c3ef390442da28bf98f8696b7bf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.archivi.beniculturali.it/ASMO/index.html</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3947b0a193db4f8a964415e5cc2d88ab">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">© Biblioteca Oliveriana di Pesaro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/YUKZ-FX80-6I3V-UPVU">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1752085"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N7564ff9356644f6aa23d3e0bb47ccc0e"/>
+    <crm:P3_has_note xml:lang="en">The Norton Simon Museum is known around the world as one of the most remarkable private art collections ever assembled. Over a 30-year period, 20th-century industrialist Norton Simon (1907–1993) amassed an astonishing collection of European art from the Renaissance to the 20th century and a stellar collection of South and Southeast Asian art spanning 2,000 years. Modern and Contemporary Art from Europe and the United States, acquired by the former Pasadena Art Museum, also occupies an important place in the Museum’s collections.</crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nb541639890c148ba863b7fcdc886786b"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N585792ad581543a5bc03d610f02ef79f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.oliveriana.pu.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N247088fda93f4ed585af1d8fcced4a5b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The Metropolitan Museum of Art</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/JV2E-YABU-TYRW-I4TT">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N9751794fc8454dbb810b0acacabfc85d"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="Nc67ceb500b2d4b7d8b22ae5b74a97a90"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300403974">
+    <rdfs:label>contributors</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N856a18c618394a38861e13c767495fb2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.archiviocapitolino.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0475db63121f445c9e553bae5b91067d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.cdcnet.net/pinacoteca/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N70e78b5b9ec5494f87a0e256b38b2f8e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Musée Condé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb5e94895739344e0940b7ca1eab9602c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">North Carolina Museum of Art</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf5130edeb2e942608530f18a53bfc419">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.masp.art.br/teaser/index.html</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne43817bce9ca4230b258ae79c708b8df">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Graphische Sammlung, Städel Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZSLE-X5DH-A1ZD-AEG4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">Chantilly</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N03b38efa2c0f4c2bb4286afb956541a2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museu de Arte de São Paulo Assis Chateaubriand</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8c6400a46d9345d894e6b6097a252b94">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.c2rmf.fr/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/62IM-I66E-XKKH-TAG4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N4d5ba8e9f65f4431a1722e446260e4f3"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N856a18c618394a38861e13c767495fb2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZGSO-VAD2-9Z05-06C8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300443858"/>
+    <rdfs:label xml:lang="en">The National Gallery Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/V6MF-ZNCH-6AGY-ZA71">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300443858"/>
+    <rdfs:label xml:lang="en">The Metropolitan Museum Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1bded74739734318ab54be5bd5dbb32f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.vam.ac.uk/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne1419ec1f421452d93a7492bfa9ec628">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">National Gallery of Art</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300025231">
+    <rdfs:label>partners</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6b6b12f400484279ac6e8977cb56b70b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.gallerianazionaleumbria.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/86O6-Z6YG-YL6M-10CR">
+    <rdfs:label xml:lang="en">Room 8</rdfs:label>
+    <crm:P89_falls_within rdf:resource="https://data.ng-london.org.uk/S780-8SSR-HNF5-KW5T"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N251211d96bb2492ab6c80ced047c2f85">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.archiviodistato.firenze.it/nuovosito/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4d5ba8e9f65f4431a1722e446260e4f3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Archivio Capitolino di Roma</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/JXNZ-CS2Q-DC44-VT44">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N9662d6f2fff247b2826cb5e47ed0cb23"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N08ae8c3ef390442da28bf98f8696b7bf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/2O3J-EAVR-TJNK-8J3B">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N872b2c8d4196400896d1d1c5c589512c"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/Q84"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf1c3bb92d2484fa088efcd208ab8b788">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.khm.at/de/kunsthistorisches-museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfe36d324d5394d75b0f743bfb27f242a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Isabella Stewart Gardner Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/4E1V-7ODI-B07Y-UCE2">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q150066"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300025231"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N2821c4246d3d4eee8ddd2d5424e5e4bc"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N7fbb1a145cb647ecbe05946601577fd7"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7cfde20bd54f4202ab44a68d507d9d9c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.virtualmuseum.info/collections/cHome_fineart.asp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf204a578a0704fbc9ac80b4bbff3338c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The National Gallery of Scotland</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N42803779785e44d99e614abb13b3e5ff">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.mnarteantiga-ipmuseus.pt/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2f02c0b465b6412ba475b9a3c60b0d65">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museu de Arte de São Paulo Assis Chateaubriand</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nad1ed0e0ff7e4c6b8def7ed306a74aa9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.metmuseum.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7268990e0ff842a08e1f020c45d0f241">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.archivi.beniculturali.it/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbe769e60ac454ac39f56190f1155b9d3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The Royal Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nebb10da6b04a48198d962f90d8719b22">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The National Gallery of Scotland</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4f1277a782ff4d97b9c5dcaa5d55864c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Wilton House</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na00bb569bcc54b9faff1d1462d9ad3f5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The National Gallery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Q60">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <rdfs:label xml:lang="en">New York</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/BH7A-TVI4-Z00Q-T8LB">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300312292"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N70e78b5b9ec5494f87a0e256b38b2f8e"/>
+    <crm:P53_has_former_or_current_location rdf:resource="https://data.ng-london.org.uk/ZSLE-X5DH-A1ZD-AEG4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf98f65c700c645759aedfba264a3d892">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Archivio di Stato di Perugia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N022c02788e564b3aac5ce16fceefbd69">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">North Carolina Museum of Art</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9efa9008d31d46669e0bcb14a501d4f9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.galleriaborghese.it/borghese/it/default.htm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300312292">
+    <rdfs:label xml:lang="en">institutions (buildings)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nefd66b3e3ebe438fa1b96dd0bd6c4f8b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.royalacademy.org.uk/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf65a1608c9a84d069a13b7d5a9b37c8f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Musei Vaticani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0910f9153a114b69985f7c2cdbbf3c10">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Isabella Stewart Gardner Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N80542ca0e5f44252a335b5d721a41d53">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Museu Nacional de Arte Antiga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nee6e08e2bf814157b07ea8fc84982fbb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.hermitagemuseum.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0013b01ae5e3493d818350f241a92535">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Archivio di Stato di Firenze</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7c6a590ab22d48e180806e7edd0c80ae">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">The British Museum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neade6790fd4946c8a0fe2d08cb4f48ad">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.nationalgalleries.org/</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb553329de3754b11955eb8a19ba96219">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Galleria Nazionale dell'Umbria</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/1VBK-ZKOD-0I61-VJH4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300026004"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300403974"/>
+    <crm:P48_has_preferred_identifier rdf:nodeID="N441f6b6ea34046608b550495d3cd7531"/>
+    <crm:P3_has_note xml:lang="en"></crm:P3_has_note>
+    <crm:P70i_is_documented_in rdf:nodeID="N77af194bf236466bb13ca6d382a1c6d4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4dee4ec63c6945e787d58afb95a820ba">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404626"/>
+    <rdfs:label xml:lang="en">Sotheby's Picture Library</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8c9709259a904a689b6dd2ced4d9897b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265431"/>
+    <rdfs:label xml:lang="en">http://www.bresciamusei.com/pages/page_template_page.aspx?zone_id=15</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300443858">
+    <rdfs:label xml:lang="en">collections (repositories)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026004">
+    <rdfs:label xml:lang="en">institutions (organizations)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404626">
+    <rdfs:label xml:lang="en">identification numbers</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
