@@ -134,7 +134,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_leftovers_graph = new_leftovers_graph.parse('outputs/raphael_leftover_categories.xml')
     print('leftover categories mapped!')
       
-    full_graph = Graph()
+    full_graph = create_graph()
     full_graph.parse('outputs/raphael_object.xml')
     full_graph.parse('outputs/raphael_event.xml')
     full_graph.parse('outputs/raphael_person.xml')

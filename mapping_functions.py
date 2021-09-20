@@ -138,7 +138,7 @@ def map_document(new_graph, old_graph):
 
 def map_image(new_graph, old_graph):
     for image_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC25.Image'))):
-        st()
+
         subject_PID = generate_placeholder_PID(image_name)
         related_works = query_objects(old_graph, image_name, getattr(RRO, 'RP40.is_related_to'), None)
         database_PID = generate_placeholder_PID('The National Gallery Collection Image Database')
@@ -168,7 +168,6 @@ def map_image(new_graph, old_graph):
 
         for subj, pred, obj in old_graph.triples((image_name, None, None)):
             new_graph = create_file_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
-            st()
             new_graph = create_dimension_triples(new_graph, subject_PID, subj, pred, obj)
             new_graph = create_type_triples(new_graph, subject_PID, pred, obj)
             new_graph = create_modification_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
@@ -176,7 +175,7 @@ def map_image(new_graph, old_graph):
             new_graph = create_image_production_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
             new_graph = create_provenance_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
             new_graph = create_reference_triples(new_graph, subject_PID, subj, pred, obj)
-    st()
+
     return new_graph
 
 def map_sample(new_graph, old_graph):
