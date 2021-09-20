@@ -74,8 +74,8 @@ def map_institution(new_graph, old_graph):
         if wikidata_name is not None:
             new_graph.add((getattr(NGO, subject_PID), OWL.sameAs, getattr(WD, wikidata_name)))
         
-        new_graph = create_institution_triples(old_graph, new_graph, subject_PID, institution_name)
-    
+        new_graph = create_institution_triples(new_graph, old_graph, subject_PID, institution_name)
+        
     for room_name, _, _ in old_graph.triples((getattr(RRI, 'Room_8'), RDF.type, getattr(RRO, 'RC11.Room'))):
         subject_PID = generate_placeholder_PID(room_name)
 
