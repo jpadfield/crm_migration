@@ -8,6 +8,7 @@ from rdflib import Graph, Namespace, Literal, BNode
 from rdflib.namespace import RDF, RDFS, NamespaceManager, XSD
 import os
 from pdb import set_trace as st
+import requests
 
 RRO = Namespace("https://rdf.ng-london.org.uk/raphael/ontology/")
 RRI = Namespace("https://rdf.ng-london.org.uk/raphael/resource/")
@@ -194,11 +195,20 @@ def find_old_pid(ng_number):
 
     try:
         export_url = 'https://collectiondata.ng-london.org.uk/es/ng-public/_search?q=identifier.object_number:' + ng_number
-        json = get_json(export_url)
-        if json['hits']['total'] > 0:
-            old_pid = json['hits']['hits'][0]['_id']
     except:
-        old_pid = None
+        export_url is None
+        
+    if export_url is not None:
+        data = requests.get(export_url, verify=False)
+        json = data.json()
+        if 'error' not in json:
+            if json['hits']['total'] > 0:
+                try:
+                    json_ng_number = json['hits']['hits'][0]['_source']['identifier'][0]['object_number']
+                except:
+                    json_ng_number = None
+                if json_ng_number == ng_number:
+                    old_pid = json['hits']['hits'][0]['_source']['identifier'][1]['pid_tms']
 
     return old_pid
 
@@ -216,10 +226,10 @@ def generate_placeholder_PID(input_literal):
     existing_pid = check_db(input_literal, table_name = 'temp_pids')
     old_pid = find_old_pid(input_literal)
     
-    if existing_pid is not None:
-        return existing_pid
-    elif old_pid is not None:
+    if old_pid is not None:
         return old_pid
+    elif existing_pid is not None:
+        return existing_pid
     else:
         #db = connect_to_sql()
         cursor = db.cursor()

@@ -56,7 +56,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_object_graph = Graph()
         new_object_graph = new_object_graph.parse('outputs/raphael_object.xml')
     print('objects mapped!')
-
+    
     if path.exists('outputs/raphael_event.xml') == False or full_rebuild == True:
         event_graph = create_graph()
         new_event_graph = map_event(event_graph, old_graph)
@@ -133,7 +133,7 @@ def map_db_to_triples(old_graph, full_rebuild=False):
         new_leftovers_graph = Graph()
         new_leftovers_graph = new_leftovers_graph.parse('outputs/raphael_leftover_categories.xml')
     print('leftover categories mapped!')
-    
+       
     full_graph = create_graph()
     full_graph.parse('outputs/raphael_object.xml')
     full_graph.parse('outputs/raphael_event.xml')

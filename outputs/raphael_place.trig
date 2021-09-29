@@ -5,7 +5,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix wd: <http://www.wikidata.org/entity/> .
 
-_:N5fca7f6b444f4f9a93cb2ade04deff89 {
+_:N91fcdd8b06574fb895facfb48d5d2cdd {
     ngo:1VBK-ZKOD-0I61-VJH4 a crm:E74_Group ;
         crm:P2_has_type aat:300026004,
             aat:300403974,
@@ -340,11 +340,11 @@ _:N5fca7f6b444f4f9a93cb2ade04deff89 {
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
         crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-                rdfs:label "© Biblioteca Oliveriana di Pesaro"@en ;
+                rdfs:label "http://www.oliveriana.pu.it/"@en ;
                 crm:P2_has_type aat:300265431,
                     crm:E73_Information_Object ],
             [ a crm:E73_Information_Object ;
-                rdfs:label "http://www.oliveriana.pu.it/"@en ;
+                rdfs:label "© Biblioteca Oliveriana di Pesaro"@en ;
                 crm:P2_has_type aat:300265431,
                     crm:E73_Information_Object ] .
 

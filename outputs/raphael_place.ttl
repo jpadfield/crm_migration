@@ -339,11 +339,11 @@ ngo:FZ0W-46N8-A3F1-2LHK a crm:E74_Group ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
     crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "© Biblioteca Oliveriana di Pesaro"@en ;
+            rdfs:label "http://www.oliveriana.pu.it/"@en ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ],
         [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.oliveriana.pu.it/"@en ;
+            rdfs:label "© Biblioteca Oliveriana di Pesaro"@en ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ] .
 

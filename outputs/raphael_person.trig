@@ -3,13 +3,13 @@
 @prefix ngo: <https://data.ng-london.org.uk/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-_:Nad4c1cefc97c498082cb49434ed5e952 {
+_:N106d13f7d7ad437d8485e567aaa948a9 {
     ngo:04VV-V72B-CBV7-5DFR a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Marika Spring"@en ;
+                rdfs:label "Senior Scientific Officer"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Senior Scientific Officer"@en ;
+                rdfs:label "Marika Spring"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -20,10 +20,10 @@ _:Nad4c1cefc97c498082cb49434ed5e952 {
 
     ngo:AUT9-EXA2-A5WD-9FS5 a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Assistant Curator (Renaissance Painting)"@en ;
+                rdfs:label "Minna Moore Ede"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Minna Moore Ede"@en ;
+                rdfs:label "Assistant Curator (Renaissance Painting)"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -43,10 +43,10 @@ _:Nad4c1cefc97c498082cb49434ed5e952 {
 
     ngo:CS7P-SSR9-YSDQ-QV6J a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Director Of Scientific Research"@en ;
+                rdfs:label "Ashok Roy"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Ashok Roy"@en ;
+                rdfs:label "Director Of Scientific Research"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -74,10 +74,10 @@ _:Nad4c1cefc97c498082cb49434ed5e952 {
 
     ngo:EHN4-SSYY-PDBZ-OC69 a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Luke Syson"@en ;
+                rdfs:label "Curator Of Italian Paintings 1460-1500"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Curator Of Italian Paintings 1460-1500"@en ;
+                rdfs:label "Luke Syson"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -104,10 +104,10 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
 
     ngo:G7G9-L6G9-SJAY-Y0SM a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Assistant Professor"@en ;
+                rdfs:label "Donal Cooper"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Donal Cooper"@en ;
+                rdfs:label "Assistant Professor"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -122,10 +122,10 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
 
     ngo:I890-3DLO-RZ15-CX4Y a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Hugo Chapman"@en ;
+                rdfs:label "Assistant Keeper Prints & Drawings Department, Curator of Italian drawings before 1800"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Assistant Keeper Prints & Drawings Department, Curator of Italian drawings before 1800"@en ;
+                rdfs:label "Hugo Chapman"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -164,10 +164,10 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
 
     ngo:KH24-DM1U-AUZI-QKVE a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Rachel Billinge"@en ;
+                rdfs:label "Research Associate"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Research Associate"@en ;
+                rdfs:label "Rachel Billinge"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -178,10 +178,10 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
 
     ngo:MYI5-E5PD-HUJ7-14TV a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "John Dick"@en ;
+                rdfs:label "Keeper of Conservation (retired)"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Keeper of Conservation (retired)"@en ;
+                rdfs:label "John Dick"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -190,35 +190,29 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
         crm:P3_has_note ""@en ;
         crm:P53_has_former_or_current_location ngo:34EP-C96Y-QPQR-FIYX .
 
-    ngo:N0b5c868b4ad349debba3edc4672f78dd crm:P2_has_type aat:300263369 .
+    ngo:N05dfccb28d9c402d841ba7ccdb335c2d crm:P2_has_type aat:300263369 .
 
-    ngo:N0c9882ec1c9847219c0fa354db102e62 crm:P2_has_type aat:300404688 .
+    ngo:N0838237f8b00467e99c6cf8167eeaa7f crm:P2_has_type aat:300404688 .
 
-    ngo:N1463612328f74aa78ad069dd00a01e36 crm:P2_has_type aat:300263369 .
+    ngo:N08b4ae51a31d4e1eb9347c5047713a91 crm:P2_has_type aat:300263369 .
 
-    ngo:N1750dc0e72b74a119d44e67f3656be5a crm:P2_has_type aat:300404688 .
+    ngo:N16105ea590014fc5ace9d02e5520b7c3 crm:P2_has_type aat:300404688 .
 
-    ngo:N1f5aa3c8182b41e48f10032b6f762c36 crm:P2_has_type aat:300263369 .
+    ngo:N1943c954ed614e658741b512ad2d5f9e crm:P2_has_type aat:300263369 .
 
-    ngo:N21df11d4b63845d8b8a8588ec3555d7e crm:P2_has_type aat:300404688 .
+    ngo:N1e594df9971d45a9984ef7ff29356bef crm:P2_has_type aat:300404688 .
 
-    ngo:N24a1a24a6b204efbbb0f2513fa18527f crm:P2_has_type aat:300404688 .
+    ngo:N25ec4d7f14654554bc4056ff1c1991ca crm:P2_has_type aat:300404688 .
 
-    ngo:N36d121c11ac348fd9fd7665b09849d29 crm:P2_has_type aat:300263369 .
+    ngo:N28673d44ab9843279756bdc674782baf crm:P2_has_type aat:300404688 .
 
-    ngo:N3e001555df4c4d6abfeaec3b0af21e29 crm:P2_has_type aat:300404688 .
+    ngo:N31dc6260078f4c1a834fabde40bc413d crm:P2_has_type aat:300263369 .
 
-    ngo:N413d9b0da46a4f7d85afdd127f32f495 crm:P2_has_type aat:300263369 .
+    ngo:N4ed220b7a1de405ca82be525f497403f crm:P2_has_type aat:300263369 .
 
-    ngo:N4ecee1adc00f459593c0a9436d227c5f crm:P2_has_type aat:300263369 .
+    ngo:N59dd6f7c3db2422ea07f00075303e9d4 crm:P2_has_type aat:300404688 .
 
-    ngo:N4fbe3f70e88942f2b26d7d735ca2f522 crm:P2_has_type aat:300404688 .
-
-    ngo:N514bf65872464dc7942e73382f20abc4 crm:P2_has_type aat:300404688 .
-
-    ngo:N53f58d37956b4804a092bf78710a2be1 crm:P2_has_type aat:300404688 .
-
-    ngo:N54723a8a70434646b7777f04eb75d51c crm:P2_has_type aat:300263369 .
+    ngo:N59eb6af3cb73466192f628eb90f53d7f crm:P2_has_type aat:300404688 .
 
     ngo:N5Y9-IZL7-QM9F-MRFH a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
@@ -234,60 +228,66 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
         crm:P3_has_note ""@en ;
         crm:P53_has_former_or_current_location ngo:Q180788 .
 
-    ngo:N677f82fc791e46198c7a9ca32fff7a2e crm:P2_has_type aat:300404688 .
+    ngo:N62a5bf377d48494e877768733d5e98ea crm:P2_has_type aat:300263369 .
 
-    ngo:N6f5b7ca2f8d04ce9a5b615df89e4e5fe crm:P2_has_type aat:300263369 .
+    ngo:N6d30d547276f43cda349432e83d4cde1 crm:P2_has_type aat:300263369 .
 
-    ngo:N7188144ec59f4b23a454cd9dc41c6757 crm:P2_has_type aat:300404688 .
+    ngo:N6d570761e69e46488fbaaed6f5fb3cf0 crm:P2_has_type aat:300263369 .
 
-    ngo:N82cc9be6d4a54442b9d64745292dd989 crm:P2_has_type aat:300404688 .
+    ngo:N72471993cfea484a9af1682c65698496 crm:P2_has_type aat:300404688 .
 
-    ngo:N873038b1635b45c7a7242ccf71888b4f crm:P2_has_type aat:300263369 .
+    ngo:N73f61debd4514e28bda4c95176a4dcc7 crm:P2_has_type aat:300404688 .
 
-    ngo:N883332ca4be74bab8fc3e25458a0527e crm:P2_has_type aat:300263369 .
+    ngo:N7716cbd288ec4affb4c6f6e1e0864ff7 crm:P2_has_type aat:300404688 .
 
-    ngo:N8f4c45a7acfe44668a6f6a7546f4b416 crm:P2_has_type aat:300263369 .
+    ngo:N7e916ebc38e3462e927b0847d475231d crm:P2_has_type aat:300263369 .
 
-    ngo:N9ab766a6ac3447259ef9c624a00810f1 crm:P2_has_type aat:300263369 .
+    ngo:N8182b8d3878d449282c27862f1ff75de crm:P2_has_type aat:300404688 .
 
-    ngo:N9f77eb879af94c1d949cd34dd6b381dd crm:P2_has_type aat:300404688 .
+    ngo:N81caa2d9e09a441a80a85876decad585 crm:P2_has_type aat:300263369 .
 
-    ngo:Na2b7c3cc43664fc9a13b40aada281db9 crm:P2_has_type aat:300263369 .
+    ngo:N840419cd95bc42b1929b41afd9df2718 crm:P2_has_type aat:300404688 .
 
-    ngo:Na49a6afe5bff4b009426e107c6505afe crm:P2_has_type aat:300404688 .
+    ngo:N891c79e375c649a9bd1338c2f621e6f2 crm:P2_has_type aat:300263369 .
 
-    ngo:Nab857400b56647ecb1dcedb03d41491c crm:P2_has_type aat:300404688 .
+    ngo:N8cbcdb81e0b644828d2886c635e6e79b crm:P2_has_type aat:300263369 .
 
-    ngo:Nad5f7e92f0ad44a8b9d839c6f1c073c3 crm:P2_has_type aat:300263369 .
+    ngo:N8df9d231ec2b4819858c4866d902f196 crm:P2_has_type aat:300263369 .
 
-    ngo:Nc8e7b2cca4b34002b69db830034be98b crm:P2_has_type aat:300404688 .
+    ngo:N919b1971322d472a9de57c7cb3d0591f crm:P2_has_type aat:300263369 .
 
-    ngo:Ncf58d46647af4d68b38a3f8c59386f2a crm:P2_has_type aat:300263369 .
+    ngo:N99ef4ea73fc64612a70a120e7d0bd2a5 crm:P2_has_type aat:300263369 .
 
-    ngo:Nd26f112aa3c24a79a5102521df6f6b34 crm:P2_has_type aat:300263369 .
+    ngo:Nb8044b9ab3044243bc58b831e673cb92 crm:P2_has_type aat:300404688 .
 
-    ngo:Nd6625686a7cc47e8b8aacf0914ad1ee9 crm:P2_has_type aat:300263369 .
+    ngo:Nbddcd78c388c4f71b169b6fdb8764819 crm:P2_has_type aat:300404688 .
 
-    ngo:Ndd3a5017402b43f792226cc55ae19c21 crm:P2_has_type aat:300404688 .
+    ngo:Nc91317252f53412fad52d9e64144a779 crm:P2_has_type aat:300404688 .
 
-    ngo:Ne5cc50b464f149398637a305f3ce26ac crm:P2_has_type aat:300404688 .
+    ngo:Ncbfaa2dba8284ac78b616924202830fa crm:P2_has_type aat:300404688 .
 
-    ngo:Ne7e62b9460d6467fb1c15b533b6b4981 crm:P2_has_type aat:300263369 .
+    ngo:Ncda1b0b7fa7d4e64b24b6fb93b8688c4 crm:P2_has_type aat:300404688 .
 
-    ngo:Nee066e44d35847549b54933b7fb124cc crm:P2_has_type aat:300404688 .
+    ngo:Nd10425524a2d4e3abcf45aa2c5217e11 crm:P2_has_type aat:300404688 .
 
-    ngo:Nf15a783203aa4f75be9892b7e75e2786 crm:P2_has_type aat:300404688 .
+    ngo:Nd28511256702416ca3ed5eea8de5f253 crm:P2_has_type aat:300263369 .
 
-    ngo:Nf805f3bb16e143c896909f2a5582a170 crm:P2_has_type aat:300404688 .
+    ngo:Nd35941810e1943bf8de53dc20aa412be crm:P2_has_type aat:300404688 .
 
-    ngo:Nff454746b1cd47d9b96e09d8fbb1e9e7 crm:P2_has_type aat:300404688 .
+    ngo:Nd47fb0411cf1443fa678a004d60fc349 crm:P2_has_type aat:300404688 .
+
+    ngo:Nf43967c69e7049faa7cc45753d914f5b crm:P2_has_type aat:300404688 .
+
+    ngo:Nfa0ff902add241afbe214b95629a501a crm:P2_has_type aat:300263369 .
+
+    ngo:Nfb2b00d6174e4e119eee47da4ebd8945 crm:P2_has_type aat:300263369 .
 
     ngo:PRAO-ZGVO-21EQ-RTJO a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Restorer"@en ;
+                rdfs:label "Jill Dunkerton"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Jill Dunkerton"@en ;
+                rdfs:label "Restorer"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025492,
@@ -298,10 +298,10 @@ In 1990 he was appointed Clore Curator of Renaissance Art in the National Galler
 
     ngo:RDO1-E820-TXG4-AA1M a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Senior Scientific Officer"@en ;
+                rdfs:label "Joseph Padfield"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Joseph Padfield"@en ;
+                rdfs:label "Senior Scientific Officer"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025190,
@@ -359,10 +359,10 @@ For further information and publications, see:
 
     ngo:X49G-D5FL-LLD5-L23X a crm:E21_Person ;
         crm:P1_is_identified_by [ a crm:E41_Appellation ;
-                rdfs:label "Raphael"@en ;
+                rdfs:label "Raffaello Sanzio"@en ;
                 crm:P2_has_type crm:E41_Appellation ],
             [ a crm:E41_Appellation ;
-                rdfs:label "Raffaello Sanzio"@en ;
+                rdfs:label "Raphael"@en ;
                 crm:P2_has_type crm:E41_Appellation ] ;
         crm:P2_has_type aat:300024979,
             aat:300025103,

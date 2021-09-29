@@ -237,7 +237,7 @@ ngo:0EW9-8C5R-LM2A-6W8D a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1505"@en ;
+            rdfs:label " 1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
@@ -249,7 +249,7 @@ ngo:0YE9-C8EC-5I83-C7ZW a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1509-1511"@en ;
+            rdfs:label "About 1509-1511"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
@@ -262,7 +262,7 @@ ngo:2E5J-KRCI-DM1Y-CAP6 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            rdfs:label "About 1504-1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -281,7 +281,7 @@ ngo:7ZUD-PS4A-CP45-VPV9 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1506"@en ;
+            rdfs:label "About 1506"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
@@ -310,7 +310,7 @@ ngo:A9OV-9DH7-25GD-C61F a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1506-1507"@en ;
+            rdfs:label "About 1506-1507"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
@@ -335,7 +335,7 @@ ngo:BA6F-FC59-7UDZ-B1D6 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1509-1510"@en ;
+            rdfs:label " 1509-1510"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1509-01-01"^^xsd:dateTime ;
@@ -347,7 +347,7 @@ ngo:BLJ4-BDW3-FTFS-FKL8 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            rdfs:label "About 1504-1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -365,7 +365,7 @@ ngo:DJ9F-LXKX-NTH7-YN0D a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1515"@en ;
+            rdfs:label "About 1515"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
@@ -398,7 +398,7 @@ ngo:FVJC-XNPZ-Y4XB-S323 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1505"@en ;
+            rdfs:label "About 1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1503-01-01"^^xsd:dateTime ;
@@ -416,7 +416,7 @@ ngo:GHPB-BM2B-FT4T-K3I2 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            rdfs:label "About 1502-1503"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
@@ -434,7 +434,7 @@ ngo:JZ6Q-2KJ4-ADE6-E9WE a crm:E69_Death ;
     crm:P2_has_type aat:300151836,
         crm:E69_Death ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1520"@en ;
+            rdfs:label " 1520"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1520-01-01"^^xsd:dateTime ;
@@ -446,7 +446,7 @@ ngo:K9W2-1ZI2-NCRA-XFPU a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1501-1502"@en ;
+            rdfs:label "About 1501-1502"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1499-01-01"^^xsd:dateTime ;
@@ -459,7 +459,7 @@ ngo:KR38-ZFKM-V7KS-ASGI a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1507"@en ;
+            rdfs:label "About 1507"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
@@ -471,7 +471,7 @@ ngo:KTLH-ISYC-U6P7-0IUZ a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            rdfs:label "About 1502-1503"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
@@ -484,7 +484,7 @@ ngo:LB58-56JV-IYIY-MC6X a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504"@en ;
+            rdfs:label "About 1504"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -523,7 +523,7 @@ ngo:PIHO-U8IM-TGOT-KACI a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            rdfs:label "About 1504-1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -536,7 +536,7 @@ ngo:Q5M0-Z0IQ-QJCL-MBO8 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            rdfs:label "About 1504-1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -555,7 +555,7 @@ ngo:QUTN-OYIF-UEHY-A3Y8 a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            rdfs:label "About 1502-1503"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
@@ -568,7 +568,7 @@ ngo:R191-RPFB-P5G5-BF5B a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1509-1510"@en ;
+            rdfs:label "About 1509-1510"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
@@ -581,7 +581,7 @@ ngo:S840-E79A-YH1X-TKKC a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            rdfs:label "About 1504-1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -599,7 +599,7 @@ ngo:T51D-X6Y0-L4WN-LLUM a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1507-1508"@en ;
+            rdfs:label " 1507-1508"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
@@ -621,7 +621,7 @@ ngo:VDYT-G4YQ-YV4W-MQDV a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1502-1503"@en ;
+            rdfs:label "About 1502-1503"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
@@ -633,7 +633,7 @@ ngo:VRGA-ZW28-95PS-6JTM a crm:E67_Birth ;
     crm:P2_has_type aat:300069672,
         crm:E67_Birth ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1483"@en ;
+            rdfs:label " 1483"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1483-01-01"^^xsd:dateTime ;
@@ -645,7 +645,7 @@ ngo:W9D4-918U-GG28-X44I a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1504-1505"@en ;
+            rdfs:label "About 1504-1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
@@ -669,7 +669,7 @@ ngo:XCX1-9TNR-SC2L-48DY a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1506"@en ;
+            rdfs:label " 1506"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1506-01-01"^^xsd:dateTime ;
@@ -696,7 +696,7 @@ ngo:Y4N0-JNGT-MOPV-GWNH a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1505"@en ;
+            rdfs:label " 1505"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
@@ -708,7 +708,7 @@ ngo:YE3U-OQOB-ORPB-MYEJ a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/About_1515"@en ;
+            rdfs:label "About 1515"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
@@ -720,7 +720,7 @@ ngo:Z307-ZGR2-60S7-2S6A a crm:E12_Production ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "https://rdf.ng-london.org.uk/raphael/resource/RRR_1511"@en ;
+            rdfs:label " 1511"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
             crm:P82a_begin_of_the_begin "1511-01-01"^^xsd:dateTime ;
