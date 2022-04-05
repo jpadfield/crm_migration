@@ -4,22 +4,23 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-_:N8551bdb513c840fe8d3453d7cc87ae76 {
+_:Ndefa76e3f20f47a0b6f277553aebd4da {
     ngo:0D0E-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:01CE-1F84-PVN2-I0KB ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 8.1e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 1.087e+02 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 8.1e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:92X1-C8TT-C1MA-RNRN,
             ngo:EKIQ-ZJ5P-V90O-7W9G ;
@@ -32,6 +33,7 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:0E50-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:6Z4N-G5C3-81XL-K4IV ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -58,19 +60,20 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
     ngo:0ECO-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:6JSH-TJEV-2E63-Y9JE,
             ngo:98X5-31X7-KQXV-C5A9 ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.673e+02 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.833e+02 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.673e+02 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:5RYP-HXYJ-72YY-LVGQ,
             ngo:O5TP-TWXA-6BQ6-U5BX ;
@@ -83,6 +86,7 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:0EWJ-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:HX54-TROO-S3O9-KP6P ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -108,19 +112,20 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:0EXM-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:UMF5-I5W7-MK7J-E9CW ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 7.22e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 5.57e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 7.22e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:2Q9F-A5QT-J5NB-7FX1,
             ngo:5K3Y-FTTH-KRIC-9OCD ;
@@ -133,6 +138,7 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:0F1A-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:OA7F-5UU6-B8IC-ZOED ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -158,19 +164,20 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:0F8W-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:8X19-B9QW-EN97-NVSO ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.73e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 1.71e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.73e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:20IM-8BVU-VTJF-MFX5,
             ngo:C4JR-UHPN-N83T-GGN7 ;
@@ -184,6 +191,7 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
     ngo:0FJS-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:S6N2-9YPY-XFDA-OUZ6,
             ngo:Z9J9-LJDR-84N2-1OLS ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -210,6 +218,7 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
     ngo:0FN9-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:1RGI-3I1D-3W8U-QB8X,
             ngo:M1PG-Q48P-7XY9-HK70 ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -236,19 +245,20 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
     ngo:0FVI-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:F0CK-AHAJ-TB3J-ZQSV,
             ngo:K78D-NDNX-ENHG-HXBP ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033799,
             aat:300410350,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 7.88e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 6.42e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 7.88e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:D8QS-L7QL-U077-M62R,
             ngo:EZN5-DLY2-FXH3-P9LB ;
@@ -261,6 +271,7 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:0GE7-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:8OHR-ESUJ-XLGR-CW1K ;
+        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -316,14 +327,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.33e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 3.17e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.33e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:5GS0-F1CB-36EE-9OBT,
             ngo:UHPT-Z1ZO-W0LO-N5E1 ;
@@ -341,14 +352,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.97e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 4.38e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 5.97e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:BKP9-VI2C-JUGX-T1QN,
             ngo:YOFU-16ZX-BQDN-1UIX ;
@@ -360,19 +371,20 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     ngo:FTVM-IDDL-BRDW-1AOQ a crm:E24_Physical_Human_Made_Thing ;
         crm:P102_has_title ngo:9WBM-YRVT-7OVO-FRZC ;
+        crm:P109_has_current_or_former_curator ngo:IVCP-C40J-NGR5-K11V ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.48e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 4.2e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.48e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:8O7F-SH6E-BP3Q-PVYW,
             ngo:LAJK-KY0Q-G4XJ-1PHR ;
@@ -439,14 +451,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.78e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 1.76e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.78e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:DJ6Z-HO20-H00A-CYUX,
             ngo:FCR7-P4YO-R7BT-Z78D ;
@@ -464,14 +476,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.95e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 4.4e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 5.95e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:G0MK-7I15-Y5ZV-P9C4,
             ngo:VNYW-9GM6-4L78-TU9S ;
@@ -513,14 +525,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.2e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 4.4e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 5.2e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:1OQZ-K2BE-V8GH-J18F,
             ngo:TEIK-T8P4-ZOOS-09LE ;
@@ -539,14 +551,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.2e+02 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 9e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.2e+02 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:BOIR-BUXJ-SXV0-EUCH,
             ngo:CRTX-TCBB-JYJI-R916 ;
@@ -565,14 +577,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 4e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 5.52e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 4e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:XIBU-Q9RD-VF85-JUAI,
             ngo:Y9UA-DH78-ZDIQ-A5YG ;
@@ -614,14 +626,14 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.56e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 4.39e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.56e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
         crm:P46_is_composed_of ngo:BHAS-KIKM-7O5W-DB5W,
             ngo:P9K8-A95I-PD7O-Y1NQ ;
@@ -955,6 +967,11 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
 
+    ngo:IVCP-C40J-NGR5-K11V a crm:E39_Actor ;
+        rdfs:label "ng-london"@en ;
+        crm:P2_has_type aat:300024979,
+            crm:E39_Actor .
+
     ngo:J0SL-BSIL-4DFU-FKPK a crm:E35_Title ;
         rdfs:label "The Three Graces"@en ;
         crm:P2_has_type aat:300417208,
@@ -1189,6 +1206,8 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
 
     aat:300014078 rdfs:label "canvas (textile material)@en" .
 
+    aat:300024979 rdfs:label "people (agents)"@en .
+
     aat:300410350 rdfs:label "canvas paintings@en" .
 
     ngo:ISK0-WLRM-5GLT-NN56 a crm:E53_Place ;
@@ -1221,6 +1240,11 @@ _:N8551bdb513c840fe8d3453d7cc87ae76 {
     ngo:86O6-Z6YG-YL6M-10CR a crm:E53_Place ;
         rdfs:label "Room 8"@en ;
         crm:P2_has_type crm:E53_Place .
+
+    ngo:SWDZ-XHEV-BX8N-72HX a crm:E39_Actor ;
+        rdfs:label "Carol Plazzotta"@en ;
+        crm:P2_has_type aat:300024979,
+            crm:E39_Actor .
 
     ngo:ZGSO-VAD2-9Z05-06C8 a crm:E78_Curated_Holding ;
         rdfs:label "The National Gallery Collection"@en ;

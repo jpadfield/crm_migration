@@ -9,6 +9,7 @@ from rdflib.namespace import RDF, RDFS, NamespaceManager, XSD
 import os
 from pdb import set_trace as st
 import requests
+import datetime
 
 RRO = Namespace("https://rdf.ng-london.org.uk/raphael/ontology/")
 RRI = Namespace("https://rdf.ng-london.org.uk/raphael/resource/")
@@ -20,6 +21,8 @@ WD = Namespace("http://www.wikidata.org/entity/")
 DIG = Namespace("http://www.cidoc-crm.org/crmdig/")
 SCI = Namespace("http://www.cidoc-crm.org/crmsci/")
 OWL = Namespace("http://www.w3.org/2002/07/owl#")
+RDF = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
+RDFS = Namespace("http://www.w3.org/2000/01/rdf-schema#")
 
 def query_graph(graph,subj,pred,obj):
     for s,p,o in graph.triples((subj,pred,obj)):
@@ -29,10 +32,13 @@ def pretty_print_triples(new_graph):
     for x,y,z in new_graph:
         print(x.n3(new_graph.namespace_manager), y.n3(new_graph.namespace_manager), z.n3(new_graph.namespace_manager))
 
-def query_objects(graph, subj, pred, obj):
+def query_objects(graph, subj, pred, obj, ugp=True):
         objects_list = []
         for s, p, o in graph.triples((subj, pred, obj)):
-            o = str(get_property(o))
+            if ugp == "full":
+              o = str(get_property(o, True, True))
+            elif ugp:
+              o = str(get_property(o))
             objects_list.append(o)
         return objects_list
 
@@ -115,14 +121,17 @@ def connect_to_sql():
 
     return mydb
 
-def get_property(uri, keep_underscores=False):
+def get_property(uri, keep_underscores=False, keep_periods=False):
     remove_uri = uri.replace('https://rdf.ng-london.org.uk/raphael/resource/','')
     if keep_underscores is False:
         final_property = remove_uri.replace('_',' ')
     else:
         final_property = remove_uri
-    if '.' in final_property:
+        
+    if keep_periods is False:
+      if '.' in final_property:
         final_property = str(final_property.split('.')[1])
+        
     if 'RRR' in final_property:
         final_property = final_property.replace('RRR','')
     return final_property
@@ -192,7 +201,7 @@ def find_old_pid(ng_number):
     else:
         ng_number = ng_number.replace(' ','_')
     old_pid = None
-
+    
     try:
         export_url = 'https://collectiondata.ng-london.org.uk/es/ng-public/_search?q=identifier.object_number:' + ng_number
     except:
@@ -242,13 +251,16 @@ def generate_placeholder_PID(input_literal):
         placeholder_PID = str(placeholder_PID)
         return placeholder_PID
 
+# str() added to subj to avoid errors when combining URLs to strings
 def create_PID_from_triple(pid_type, subj):
-    if pid_type == 'object':
-        pid_name = subj
+    if pid_type == 'object':    
+        pid_name = str(subj)
+    elif pid_type == 'pyramid creation for':
+        pid_name = str(pid_type) + ' ' + str(subj)
     else:
-        pid_name = pid_type + ' of ' + subj
+        pid_name = str(pid_type) + ' of ' + str(subj)
+    #print ("CREATING: " + pid_name)
     output_pid = generate_placeholder_PID(pid_name)
-
     return output_pid
 
 def find_aat_value(material,material_type):
@@ -325,7 +337,17 @@ def wikidata_query(literal, literal_type):
         sparql.setQuery(query)
         sparql.setReturnFormat(JSON)
 
-        ret = sparql.query().convert()
+        try:
+          #ret = sparql.queryAndConvert()
+          ret = sparql.query().convert()          
+        except Exception as e:
+          print("ERROR: " + string_literal + " not found in wikidata" )
+          ret = {}
+          ret["results"] = {}
+          ret["results"]["bindings"] = []          
+          #print(ret)
+          
+        #
         time.sleep(3)
         
         if ret["results"]["bindings"] != []:
@@ -368,3 +390,11 @@ def create_year_dates(year):
     end = datetime.datetime(year, 12, 31)
 
     return start, end
+
+def display_timing (start_time, loop_start_time, str_prefix="\t"):
+  current_time = datetime.datetime.now()
+  total_diff = (current_time - start_time)
+  loop_diff = (current_time - loop_start_time)
+  total_time = (total_diff.total_seconds()) / 60
+  loop_time = loop_diff.total_seconds()
+  print (str_prefix + "Loop time "+ "%.2f" % loop_time +"sec - Total time: "+ "%.2f" % total_time +"mins")

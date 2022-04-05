@@ -13,6 +13,8 @@ TGN = Namespace("http://vocab.getty.edu/page/tgn/")
 WD = Namespace("http://www.wikidata.org/entity/")
 DIG = Namespace("http://www.cidoc-crm.org/crmdig/")
 SCI = Namespace("http://www.cidoc-crm.org/crmsci/")
+RDF = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
+RDFS = Namespace("http://www.w3.org/2000/01/rdf-schema#")
 
 g = Graph()
 g.parse("outputs/raphael_final.xml", format="xml")
@@ -25,6 +27,8 @@ g.namespace_manager.bind('rro',RRO)
 g.namespace_manager.bind('rri',RRI)
 g.namespace_manager.bind('dig', DIG)
 g.namespace_manager.bind('sci', SCI)
+g.namespace_manager.bind('rdf', RDF)
+g.namespace_manager.bind('rdfs', RDFS)
 
 owlrl.DeductiveClosure(owlrl.OWLRL_Semantics).expand(g)
 

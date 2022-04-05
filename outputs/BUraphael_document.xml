@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:nodeID="N2465267fc8b3457da2c52e5fe3673b11">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_ROY.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/4I0S-D1YM-EADW-L03S">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/6S6S-VTSU-PCYT-DU5M"/>
+    <rdfs:label xml:lang="en">Penny_1992</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nce81a8db5bf047b8b63019caf2447ac4"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/SS4H-T3LW-TV0E-WOU6"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N57eb774c4ec249ef8a6bbad7df2af201"/>
+    <crm:P70_is_documented_in rdf:nodeID="Nbd096e57251f4e8f8e7478e06c18a083"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfff2b034e0584dabb5c2bc862e6c9e86">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">316436</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N51e98fad6cd24c4f862e33a927206217">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">289079</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nda38c5f1d8ab4c95a8a701b151bc6433">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Rapport n° 1256d (J.-P. Rioux  1978), Archives du C2RMF, Paris, F4727.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc6b041018cd846738b687a0abe765677">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6403268</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/30DI-70LO-HETP-D06L">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/TLCX-AFH2-PXX9-1CEB"/>
+    <rdfs:label xml:lang="en">Technical_Bulletin_8_1984_15-23</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nc825288d24e84ea8816c84f2a2facfe3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/YDBN-ATMJ-8GJV-KZPX"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N650a772b45194a238a6ff1399b924948"/>
+    <crm:P70_is_documented_in rdf:nodeID="N3c0cc37789ed4074b8e8cd0663a85d8c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Y9EW-3LA6-2FMU-MRA2">
+    <rdfs:label xml:lang="en">Infrared Photography of PE39</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na5c933cbf0e64119bc126263418350fc">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Henry_2002_NG3943_270-74.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb82142ff92e84951bf20b5bffe359ff5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2002: Bomford, David, ed. Art in the making: underdrawings in Renaissance paintings. Exh. cat. National Gallery London 30 October 2002 - 16 February 2003. London: National Gallery Company, 2002, nos 8 and 9.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/3DER-4OTP-BYEX-ZM47">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG6480, NG1171, NG168, NG6596, NG3943, NG213, NG2919</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N43f5adc768134849a2d23d04ca746ec3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53595018</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/LB2M-FW2N-1DSU-866Y">
+    <rdfs:label xml:lang="en">Sampling of NG6480, NG1171, NG168, NG6596, NG3943, NG213, NG2919</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300379429"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8b0ac15c54694fedbcbc92db607b7bd1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31009</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/K6N0-DZQ2-OCMN-R9XF">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/SIKR-UEXI-MRUX-QR7G"/>
+    <rdfs:label xml:lang="en">Dunkerton_Roy_2004</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N204dddbacdfa45e1996505527b55d89b"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/L6OP-5N3N-4C2G-D0OF"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N30081f9f16a04bacbdfe8938334b4287"/>
+    <crm:P70_is_documented_in rdf:nodeID="N64fada7c109a4a4dbb0fe47f525aa096"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/NO0V-SFG0-WXZN-TJXN">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/CVG1-Z7P6-XP8I-XDGX"/>
+    <rdfs:label xml:lang="en">Art_in_the_Making_2002_NG2919_NG744</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N0313ee223aff49ea9db2d93d063f0149"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/IGTH-8WJC-K5KI-B5DF"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/KACU-J93P-V0V9-AODX"/>
+    <crm:P43_has_dimension rdf:nodeID="Na8e5eaaba6c142ec98e50ef2d5fd8ac2"/>
+    <crm:P70_is_documented_in rdf:nodeID="Nb82142ff92e84951bf20b5bffe359ff5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/8NUM-J3IQ-8DYK-N9UF">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/CNZI-ZMFB-X25I-YCSA"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 7399 (E. Laval and B. Mottin 2005), Archives du C2RMF, Paris, F4727</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N9b85649027e54460bbaa43d5dcd3bc30"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/AKKB-OE2W-1RR1-SJK5"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P43_has_dimension rdf:nodeID="N99a56d5856044a29bbd413ade1e84476"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/X8ZB-6O2Y-XCQX-TVXY">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG213, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Q84V-DQOE-WWRJ-EL7V">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/NFVC-S1Y4-TK5N-33G1"/>
+    <rdfs:label xml:lang="en">Technical_Bulletin_25_2004_4-35</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N9361cbaea0bd46ecb46655c15974d759"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/3DER-4OTP-BYEX-ZM47"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/LB2M-FW2N-1DSU-866Y"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N9ea0c507c51f4c72a7483cf7cafe1ed0"/>
+    <crm:P70_is_documented_in rdf:nodeID="Nd7e3675242a54321bd3d1ccdb88c9059"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/X1I9-7ZCT-F5V0-E82K">
+    <rdfs:label xml:lang="en">X-Ray Examination of PE39, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300419323"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300056058"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/54RC-O42D-D7V1-FMGF">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/RCGP-H2VH-JHQU-SGRJ"/>
+    <rdfs:label xml:lang="en">Mottin_in_Musee_Conde_no_62_2005</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nbf6316b28ec74f70b53b28f609958d13"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/ZKV2-D8YD-14DD-HY6I"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/ZB4G-0ZRB-Y5EJ-CAK3"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/7BSG-MIHX-WMN9-H39Q"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P"/>
+    <crm:P43_has_dimension rdf:nodeID="N251df933ad974a538942aa3399be396e"/>
+    <crm:P70_is_documented_in rdf:nodeID="Na95b3fdd5f424c7fba30e44939c818e4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/AKKB-OE2W-1RR1-SJK5">
+    <rdfs:label xml:lang="en">Document Digitisation relating to PE40</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N30081f9f16a04bacbdfe8938334b4287">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">809752</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300022636">
+    <rdfs:label xml:lang="en">cameras (photographic equipment)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/TPCT-LZC5-FXG4-23SD">
+    <rdfs:label xml:lang="en">Infrared Photography of PE40</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/LKO3-YGAS-61AR-VO5N">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/QPM2-Z9MP-U50O-625C"/>
+    <rdfs:label xml:lang="en">Rapport n° 1821 (L. Faillant-Dumas 1983), Archives du C2RMF, Paris, F4738</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N824cd63193614add86df3e4d27190fe0"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/Q24I-GFPQ-0KEZ-SNTL"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/X1I9-7ZCT-F5V0-E82K"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8KPH-CTW7-4N71-GK8B"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/JHBV-P9EI-9TCG-8G37"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/7BSG-MIHX-WMN9-H39Q"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P"/>
+    <crm:P43_has_dimension rdf:nodeID="Nd90b740bac9d4fc1b6440fd4cb566c2c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300134547">
+    <rdfs:label xml:lang="en">documentary photography</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/LN6G-KAJI-BBBB-15I6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/Y6FC-13VB-FXI8-4SIJ"/>
+    <rdfs:label xml:lang="en">Raphael Catalogue Complete</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N1f379ce0df304e8e9fa5edcb322d9554"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FVI-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/IQVW-UOUD-32BX-7J8N"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/MK2M-BEY1-E9MA-WALT"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/SAAW-70N9-H32V-LL5Q"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/U5OQ-JW5V-6YL6-DXB3"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/WKJ3-SNDQ-YEBV-1L13"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/6MSN-3J0E-B9F3-C0FG"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/G0LR-XHYZ-4YC6-X3UX"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/N0XM-FXBG-NVXJ-ZEUW"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/FTVM-IDDL-BRDW-1AOQ"/>
+    <crm:P43_has_dimension rdf:nodeID="N43f5adc768134849a2d23d04ca746ec3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0QHV-T4CT-VFWG-B20G"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FVI-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8UR9-IMT7-BG9S-6X9A"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/3Z32-7QSN-9QYA-LQ21"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/VFED-T2EI-WK8J-4FAZ"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/VXZM-JUS3-TOSM-TIM7"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/5XL1-HI1Q-IZWN-ITD1"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/FWFP-9SDH-2S2Z-E4VO"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/1610-0ZMI-5LVW-07XF"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/POQO-DFA3-MHC1-0RQ0"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/KS6H-0CGR-PHW3-0W4N"/>
+    <crm:P70_is_documented_in rdf:nodeID="Nfdebce11e7e24d46be94ad2a1a7c7f03"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N251df933ad974a538942aa3399be396e">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2648839</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/L9AC-4CRF-VMIE-I82O">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/OLUV-K45F-VM5Z-TZTI"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_BILLINGE</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nac5a092cd3a34ee0bb9cbfa35ea21cb9"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/T8D6-XOTE-YZNG-APG1"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/ZN5D-UQUJ-KWFE-B0N0"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N4d88dcd3c7a84ceaa6d6e5695bb287b8"/>
+    <crm:P70_is_documented_in rdf:nodeID="N8f7a5aebd041433fa6b190924831c231"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na8e5eaaba6c142ec98e50ef2d5fd8ac2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1219663</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0313ee223aff49ea9db2d93d063f0149">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Art_in_the_Making_2002_NG2919_NG744.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/WAZ4-XZ2N-UZCI-0AIW">
+    <rdfs:label xml:lang="en">X-Ray Examination of PE39</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300419323"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300056058"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne2952e9724d64b75a00efd4b564aff3f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">62203</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/UWBF-UBBH-YR8N-LO9R">
+    <rdfs:label xml:lang="en">Infrared Photography of NG213, PE40, PE39, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/XH6U-Q9MO-WB6Y-7UMW">
+    <rdfs:label xml:lang="en">Infrared Reflectography of NG744</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300379538"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N2c20c87e0a2b40e48393a6b2e44b34eb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Rapport n° 1256c (J.-P. Rioux 1977), Archives du C2RMF, Paris, F4727.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/9GQI-PIJY-7E8U-MX4K">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/SBOG-FGZN-EPZ7-SR2R"/>
+    <rdfs:label xml:lang="en">Rapport n° 1256c (J.-P. Rioux 1977), Archives du C2RMF, Paris, F4727</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N2c20c87e0a2b40e48393a6b2e44b34eb"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/AKKB-OE2W-1RR1-SJK5"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P43_has_dimension rdf:nodeID="Nfde47ff8916540edb363bd6b79332252"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/8NPG-IBO9-1MXJ-9LHR">
+    <rdfs:label xml:lang="en">Infrared Photography of PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc825288d24e84ea8816c84f2a2facfe3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Technical_Bulletin_8_1984_15-23.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZKV2-D8YD-14DD-HY6I">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG213, PE39, PE40, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/IGTH-8WJC-K5KI-B5DF">
+    <rdfs:label xml:lang="en">Infrared Photography of NG2919, NG744</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N64fada7c109a4a4dbb0fe47f525aa096">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2004: Dunkerton, Jill, and Ashok Roy. “The altered background of Raphael’s portrait of Pope Julius II in the National Gallery, London”. The Burlington Magazine 146 (2004) 757-759.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/6TQV-X51Z-R4X3-IYR6">
+    <rdfs:label xml:lang="en">Document Digitisation relating to PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/KACU-J93P-V0V9-AODX">
+    <rdfs:label xml:lang="en">Infrared Reflectography of NG2919, NG744</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300379538"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/YUJS-JXCN-KTFI-J4UD">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/D2D6-SJAB-P6WL-VYJ6"/>
+    <rdfs:label xml:lang="en">Henry_2002_NG3943_270-74</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Na5c933cbf0e64119bc126263418350fc"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/RH3C-PAXF-XK9Q-7JPM"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/VXZM-JUS3-TOSM-TIM7"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/KS6H-0CGR-PHW3-0W4N"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/U5OQ-JW5V-6YL6-DXB3"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/FTVM-IDDL-BRDW-1AOQ"/>
+    <crm:P43_has_dimension rdf:nodeID="Nbe92c07a7cb94476840c1497f487b102"/>
+    <crm:P70_is_documented_in rdf:nodeID="N47ffd3a290964470a52872d66555fbe5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/57RY-FZZ9-87MI-Y6I7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/L3Y0-OUVY-N5KO-EO2D"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_MOTTIN</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nfe7344f0bdb143ea8558fd9ee4445a36"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/UWBF-UBBH-YR8N-LO9R"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/7BSG-MIHX-WMN9-H39Q"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P"/>
+    <crm:P43_has_dimension rdf:nodeID="N3a7ed5bd985b4473900e8c98ca2f0ff0"/>
+    <crm:P70_is_documented_in rdf:nodeID="N283f6e4a45c4440db5fa3b640278ac9c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9ea0c507c51f4c72a7483cf7cafe1ed0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7034839</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/2WKA-4Z0H-4OAR-TSBS">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/FHN4-XLMG-KRH4-R16Q"/>
+    <rdfs:label xml:lang="en">Cooper_and_Plazzotta_in_Burlington_Magazine_2004_(B1220-720-731)</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N5d2a28e70baa44929ef13837932213bf"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/YDBN-ATMJ-8GJV-KZPX"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="Nc6b041018cd846738b687a0abe765677"/>
+    <crm:P70_is_documented_in rdf:nodeID="N5ff76dd8465046e197973d83bd1f4203"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9b85649027e54460bbaa43d5dcd3bc30">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 7399 (E. Laval and B. Mottin 2005), Archives du C2RMF, Paris, F4727.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/L6OP-5N3N-4C2G-D0OF">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG27</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/WOZ3-0IFL-FN33-QRR2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/1CAY-TG3S-XQ9L-WZ4C"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_SPRING</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N8cd7169c56d147399e35d83cfee827bb"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/YXVI-B55Q-JMHF-8TJ3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N3d3382074ba541ee98adbb1818853bb4"/>
+    <crm:P70_is_documented_in rdf:nodeID="Nf1dc00b71a3b49c4ab7a554f9035e873"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/WEQN-TDOB-YERZ-88HK">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/CLSB-N4IY-3J3A-4875"/>
+    <rdfs:label xml:lang="en">NG_Cat._Siena_2007_262-267</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N857574a6c2eb42f48b945cdfec0bf49d"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/X8ZB-6O2Y-XCQX-TVXY"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P"/>
+    <crm:P43_has_dimension rdf:nodeID="Nfff2b034e0584dabb5c2bc862e6c9e86"/>
+    <crm:P70_is_documented_in rdf:nodeID="N8541cfdb090740a797c1c90700b39a2c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82c43411b7aa4736ab884ba584d94e26">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Rapport n° 16851 (M. Huot, Melles Males and Bergeon 1977), Archives du C2RMF, Paris, F4727.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N06aafd56512d496d91351ec0c4f697ff">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15838041</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/YDBN-ATMJ-8GJV-KZPX">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG6480, NG1171</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/T5DP-WTUP-4WM0-UVAG">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/38R8-8UQ9-7KS0-XKHX"/>
+    <rdfs:label xml:lang="en">Rapport n° 1256d (J.-P. Rioux  1978), Archives du C2RMF, Paris, F4727</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nda38c5f1d8ab4c95a8a701b151bc6433"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/AKKB-OE2W-1RR1-SJK5"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P43_has_dimension rdf:nodeID="Ne2952e9724d64b75a00efd4b564aff3f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/WBXU-ESX9-DG1A-C9KB">
+    <rdfs:label xml:lang="en">Infrared Photography of NG744</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/CLSB-N4IY-3J3A-4875">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/8KPH-CTW7-4N71-GK8B">
+    <rdfs:label xml:lang="en">Infrared Photography of PE39, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0QHV-T4CT-VFWG-B20G">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG1171, NG168, NG2069, NG213, NG27, NG2919, NG3943, NG6480, NG6596, NG744, 46, PE38, 30ab, 130, MNdAA568, DPG241, DPG243, P16e3, 1958, 65</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FVI-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8UR9-IMT7-BG9S-6X9A"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/3Z32-7QSN-9QYA-LQ21"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/VFED-T2EI-WK8J-4FAZ"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/VXZM-JUS3-TOSM-TIM7"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/5XL1-HI1Q-IZWN-ITD1"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/FWFP-9SDH-2S2Z-E4VO"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/1610-0ZMI-5LVW-07XF"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/POQO-DFA3-MHC1-0RQ0"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/KS6H-0CGR-PHW3-0W4N"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nac5a092cd3a34ee0bb9cbfa35ea21cb9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_BILLINGE.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/YXVI-B55Q-JMHF-8TJ3">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG6480, NG1171, NG168, NG6596, NG3943, NG2919</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EWJ-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0GE7-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N55756910bdb54342adda9165b68dab22">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7517238</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Z1LS-PI2Y-KI0V-3E0L">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/TNAK-I6KM-2WI4-81DS"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 5107 (B. Mottin 2005), Archives du C2RMF, Paris, F4738</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nc55d998ed4644035bc2303ff65f7a397"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/6TQV-X51Z-R4X3-IYR6"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8NPG-IBO9-1MXJ-9LHR"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/MHOS-V106-8MT1-28ZD"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P"/>
+    <crm:P43_has_dimension rdf:nodeID="N06aafd56512d496d91351ec0c4f697ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/YGQ4-IW2C-SKBU-LFWD">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/RD4B-UIWX-DZOA-B3EM"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 5109 (B. Mottin 2004), Archives du C2RMF, Paris, F4727</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="Nc3d573f923dd4d28bf64881382ff033c"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/AKKB-OE2W-1RR1-SJK5"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/TPCT-LZC5-FXG4-23SD"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/RKVH-AS8S-M2DH-EQ2P"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P43_has_dimension rdf:nodeID="N55756910bdb54342adda9165b68dab22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Q24I-GFPQ-0KEZ-SNTL">
+    <rdfs:label xml:lang="en">Document Digitisation relating to PE39, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3d3382074ba541ee98adbb1818853bb4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">431188</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbf6316b28ec74f70b53b28f609958d13">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Mottin_in_Musee_Conde_no_62_2005.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N99a56d5856044a29bbd413ade1e84476">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">606372</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/3TSL-99S2-GUHG-H2SD">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7ab67b171054404ea5754de95e020955">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">1993: Dunkerton, Jill, and Nicholas Penny. “The infra-red examination of Raphael’s Garvagh Madonna”. National Gallery Technical Bulletin 14 (1993): 7-21.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/TLCX-AFH2-PXX9-1CEB">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZB4G-0ZRB-Y5EJ-CAK3">
+    <rdfs:label xml:lang="en">Infrared Photography of NG213, PE39, PE40, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0WJ2-TCVT-ADB1-AXRV">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/3TSL-99S2-GUHG-H2SD"/>
+    <rdfs:label xml:lang="en">Renaissance Faces Raphael</rdfs:label>
+    <crm:P70_is_documented_in rdf:nodeID="Nd7ed7ff474204ba987cbff5a20f6b82a"/>
+    <crm:P149_is_identified_by rdf:nodeID="N7ebd3286f135486194acfb880970bd4f"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/L6OP-5N3N-4C2G-D0OF"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0D0E-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N572b642e6c98451c84c647304d3bacca"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/T8D6-XOTE-YZNG-APG1">
+    <rdfs:label xml:lang="en">Infrared Photography of NG1171, NG168, NG3943, NG213</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053463"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300265863">
+    <rdfs:label xml:lang="en">size for computer files</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RH3C-PAXF-XK9Q-7JPM">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG3943, MNdAA568, 65</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/VXZM-JUS3-TOSM-TIM7"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/KS6H-0CGR-PHW3-0W4N"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SS4H-T3LW-TV0E-WOU6">
+    <rdfs:label xml:lang="en">Document Digitisation relating to NG6596</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfdebce11e7e24d46be94ad2a1a7c7f03">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2004: Chapman, Hugo, Tom Henry, and Carol Plazzotta. Raphael: From Urbino to Rome. Exh. cat., National Gallery London, 20 October 2004 - 16 January 2006. London: National Gallery Company, 2004.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4d88dcd3c7a84ceaa6d6e5695bb287b8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">429997</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N572b642e6c98451c84c647304d3bacca">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">306983</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/D2D6-SJAB-P6WL-VYJ6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N857574a6c2eb42f48b945cdfec0bf49d">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">NG_Cat._Siena_2007_262-267.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbd096e57251f4e8f8e7478e06c18a083">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">1992: Penny, Nicholas. “Raphael’s “Madonna dei garofani” rediscovered”. The Burlington Magazine 134 (1992): 67-81.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/18B5-YXCX-9RCY-PKI8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/RBYF-H503-X8YI-Y51Y"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_ROY</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N2465267fc8b3457da2c52e5fe3673b11"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/SS4H-T3LW-TV0E-WOU6"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0E50-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N51e98fad6cd24c4f862e33a927206217"/>
+    <crm:P70_is_documented_in rdf:nodeID="Nfa3914ab8946454f887b9131701402b5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZN5D-UQUJ-KWFE-B0N0">
+    <rdfs:label xml:lang="en">Infrared Reflectography of NG1171, NG168, NG3943, NG213</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300379538"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300182292"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0FJS-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0EXM-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0ECO-0001-0000-0000"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/0F8W-0001-0000-0000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RKVH-AS8S-M2DH-EQ2P">
+    <rdfs:label xml:lang="en">X-Ray Examination of PE40</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300419323"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300056058"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1f379ce0df304e8e9fa5edcb322d9554">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Raphael Catalogue Complete.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/CNZI-ZMFB-X25I-YCSA">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/MHOS-V106-8MT1-28ZD">
+    <rdfs:label xml:lang="en">X-Ray Examination of PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300419323"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300056058"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na95b3fdd5f424c7fba30e44939c818e4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2005: Mottin, Bruno. “Raphaël au Musée Condé: quelques resultats d’un examen sous l’angle du laboratoire”. Le Musée Condé 62 (2005): 4-15.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N57eb774c4ec249ef8a6bbad7df2af201">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6090047</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RBYF-H503-X8YI-Y51Y">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7ebd3286f135486194acfb880970bd4f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Renaissance Faces Raphael.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/NFVC-S1Y4-TK5N-33G1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc3d573f923dd4d28bf64881382ff033c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 5109 (B. Mottin 2004), Archives du C2RMF, Paris, F4727.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf1dc00b71a3b49c4ab7a554f9035e873">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2007: Spring, Marika. 'Raphael's Materials: Some New Discoveries and their Context within Early Sixteenth-Century Painting'. Raphael’s Painting Technique: Working Practices Before Rome. Proceedings of the Eu-ARTECH workshop, edited by Ashok Roy and Marika Spring. Florence: Nardini Editore, 2007: 77-86.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/KC3P-YFSP-QDEW-Q5IU">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/BLMM-KH1E-ESV2-IUA7"/>
+    <rdfs:label xml:lang="en">Rapport n° 16851 (M. Huot, Melles Males and Bergeon 1977), Archives du C2RMF, Paris, F4727</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N82c43411b7aa4736ab884ba584d94e26"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/AKKB-OE2W-1RR1-SJK5"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XBIP-IEU5-0HBT-0ZCC"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH"/>
+    <crm:P43_has_dimension rdf:nodeID="N8b0ac15c54694fedbcbc92db607b7bd1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300265869">
+    <rdfs:label xml:lang="en">bytes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RD4B-UIWX-DZOA-B3EM">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/7V13-VOJD-93LX-55Y3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/4I1C-AW0A-XPUH-N7DK"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 5108 (B. Mottin 2004), Archives du C2RMF, Paris, F4740</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N4b8d86067c7448869ec9b3c321b1fae9"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/768N-WSWJ-08BN-BN8K"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/Y9EW-3LA6-2FMU-MRA2"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/WAZ4-XZ2N-UZCI-0AIW"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/7BSG-MIHX-WMN9-H39Q"/>
+    <crm:P43_has_dimension rdf:nodeID="N857a783ab74f4ed2b8db954e04354679"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd90b740bac9d4fc1b6440fd4cb566c2c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49965</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N857a783ab74f4ed2b8db954e04354679">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">136027</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9361cbaea0bd46ecb46655c15974d759">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Technical_Bulletin_25_2004_4-35.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/FHN4-XLMG-KRH4-R16Q">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053463">
+    <rdfs:label xml:lang="en">infrared photography</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3a7ed5bd985b4473900e8c98ca2f0ff0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">906897</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfe7344f0bdb143ea8558fd9ee4445a36">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_MOTTIN.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5316ba7945f6471799b8b11fd45aabd1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7928118</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/JHBV-P9EI-9TCG-8G37">
+    <rdfs:label xml:lang="en">UV Examination of PE39, PE38</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300053465"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300181267"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/GS0L-Q2X4-EIPR-ORP3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfa3914ab8946454f887b9131701402b5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2007: Roy, Ashok. 'The Re-Emergence of Raphael's Madonna of the Pinks'. Raphael’s Painting Technique: Working Practices Before Rome. Proceedings of the Eu-ARTECH workshop, edited by Ashok Roy and Marika Spring. Florence: Nardini Editore, 2007: 87-92.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N10dff5ecbe61449ca1ff4efed41ebb39">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">TB_1993_NG744.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4b8d86067c7448869ec9b3c321b1fae9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 5108 (B. Mottin 2004), Archives du C2RMF, Paris, F4740.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nce81a8db5bf047b8b63019caf2447ac4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Penny_1992.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfde47ff8916540edb363bd6b79332252">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69324</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbe92c07a7cb94476840c1497f487b102">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4010226</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N204dddbacdfa45e1996505527b55d89b">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Dunkerton_Roy_2004.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5d2a28e70baa44929ef13837932213bf">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Cooper_and_Plazzotta_in_Burlington_Magazine_2004_(B1220-720-731).pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/W4VQ-LO9V-TB7B-HONP">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8cd7169c56d147399e35d83cfee827bb">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Proceedings_2007_SPRING.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N283f6e4a45c4440db5fa3b640278ac9c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2007: Mottin, Bruno. 'Raphael's Paintings in French Museums: Some New Results from Recent Technical Investigations'. Raphael’s Painting Technique: Working Practices Before Rome. Proceedings of the Eu-ARTECH workshop, edited by Ashok Roy and Marika Spring. Florence: Nardini Editore, 2007: 13-24.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/TB15-9CUQ-KXJN-NCMT">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D1_Digital_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300424602"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/crmdig/D9_Data_Object"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300266022"/>
+    <crm:P165_incorporates rdf:resource="https://data.ng-london.org.uk/W4VQ-LO9V-TB7B-HONP"/>
+    <rdfs:label xml:lang="en">TB_1993_NG744</rdfs:label>
+    <crm:P149_is_identified_by rdf:nodeID="N10dff5ecbe61449ca1ff4efed41ebb39"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/WBXU-ESX9-DG1A-C9KB"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P67_refers_to rdf:resource="https://data.ng-london.org.uk/XH6U-Q9MO-WB6Y-7UMW"/>
+    <crm:P73_refers_to rdf:resource="https://data.ng-london.org.uk/0FN9-0001-0000-0000"/>
+    <crm:P43_has_dimension rdf:nodeID="N5316ba7945f6471799b8b11fd45aabd1"/>
+    <crm:P70_is_documented_in rdf:nodeID="N7ab67b171054404ea5754de95e020955"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N47ffd3a290964470a52872d66555fbe5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2002: Henry, Tom. “Raphael’s altar-piece patrons in Città di Castello”. The Burlington Magazine 144 (2002): 270-274.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/CVG1-Z7P6-XP8I-XDGX">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/768N-WSWJ-08BN-BN8K">
+    <rdfs:label xml:lang="en">Document Digitisation relating to PE39</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E16_Measurement"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379861"/>
+    <crm:P32_used_general_technique rdf:resource="http://vocab.getty.edu/page/aat/300134547"/>
+    <crm:P125_used_object_of_type rdf:resource="http://vocab.getty.edu/page/aat/300022636"/>
+    <crm:P39_measured rdf:resource="https://data.ng-london.org.uk/8GX8-OJTH-8C5Z-BP3S"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N650a772b45194a238a6ff1399b924948">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300265863"/>
+    <crm:P90_has_value xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5761240</crm:P90_has_value>
+    <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/page/aat/300265869"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5ff76dd8465046e197973d83bd1f4203">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2004: Cooper, Donal, and Carol Plazzotta. “Raphael’s Ansidei altarpiece in the National Gallery”. The Burlington Magazine 146 (2004): 720-731.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3c0cc37789ed4074b8e8cd0663a85d8c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">1984: Braham, Allan, and Martin Wyld. “Raphael’s St John the Baptist Preaching”. National Gallery Technical Bulletin 8 (1984): 15-23.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/Y6FC-13VB-FXI8-4SIJ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd7ed7ff474204ba987cbff5a20f6b82a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2008: Campbell, Lorne, Miguel Falomir, Jennifer Fletcher, and Luke Syson. Renaissance faces: Van Eyck to Titian. Exh. cat. National Gallery, London, 15 October 2008 - 18 January 2009. London: National Gallery Company, 2008, cat. 88, p. 269.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/1CAY-TG3S-XQ9L-WZ4C">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379429">
+    <rdfs:label xml:lang="en">sampling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/L3Y0-OUVY-N5KO-EO2D">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc55d998ed4644035bc2303ff65f7a397">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Compte-rendu n° 5107 (B. Mottin 2005), Archives du C2RMF, Paris, F4738.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N824cd63193614add86df3e4d27190fe0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+    <crm:P2_has_type rdf:resource="http://www.wikidata.org/entity/Q1144928"/>
+    <rdfs:label xml:lang="en">Rapport n° 1821 (L. Faillant-Dumas 1983), Archives du C2RMF, Paris, F4738.pdf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8541cfdb090740a797c1c90700b39a2c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2007: Syson, Luke. Renaissance Siena: art for a city. Exh. cat., National Gallery, London, 24 October 2007 - 13 January 2008. London: National Gallery Company, 2007, cat. no. 78, pp. 262-267.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300056058">
+    <rdfs:label xml:lang="en">x-ray (radiation)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/QPM2-Z9MP-U50O-625C">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300419323">
+    <rdfs:label xml:lang="en">x-radiography</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300424602">
+    <rdfs:label xml:lang="en">digital document</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300181267">
+    <rdfs:label xml:lang="en">ultraviolet lamps</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd7e3675242a54321bd3d1ccdb88c9059">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2004: Roy, Ashok, Marika Spring, and Carol Plazzotta. “Raphael’s Early Work in the National Gallery: Paintings before Rome”. National Gallery Technical Bulletin 25 (2004): 4-35.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SBOG-FGZN-EPZ7-SR2R">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8f7a5aebd041433fa6b190924831c231">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E31_Document"/>
+    <rdfs:label xml:lang="en">2007: Billinge, Rachel. 'Recent Study of Raphael’s Early Paintings in the National Gallery, London, with Infrared Reflectography'. Raphael’s Painting Technique: Working Practices Before Rome. Proceedings of the Eu-ARTECH workshop, edited by Ashok Roy and Marika Spring. Florence: Nardini Editore, 2007: 67-75.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/6S6S-VTSU-PCYT-DU5M">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379538">
+    <rdfs:label xml:lang="en">infrared reflectography</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/RCGP-H2VH-JHQU-SGRJ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/38R8-8UQ9-7KS0-XKHX">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/TNAK-I6KM-2WI4-81DS">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/BLMM-KH1E-ESV2-IUA7">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/4I1C-AW0A-XPUH-N7DK">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379861">
+    <rdfs:label xml:lang="en">imaging (image making process)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300182292">
+    <rdfs:label xml:lang="en">infrared lamps</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SIKR-UEXI-MRUX-QR7G">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053465">
+    <rdfs:label xml:lang="en">ultraviolet photography</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/OLUV-K45F-VM5Z-TZTI">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E90_Symbolic_Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1144928">
+    <rdfs:label xml:lang="en">filename</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300266022">
+    <rdfs:label xml:lang="en">PDF</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

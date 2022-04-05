@@ -7,9 +7,39 @@
 @prefix wd: <http://www.wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-_:Nfa02cdc62248435f8678df8fbd0d7a9f {
-    ngo:65RH-7PJ1-60MW-OBOL crm:P108i_was_produced_by ngo:R191-RPFB-P5G5-BF5B ;
+_:Nb171e21750d04e26a04f00133a9f1aa3 {
+    ngo:0D0E-0001-0000-0000 crm:P108i_was_produced_by ngo:Z307-ZGR2-60S7-2S6A ;
+        crm:P24i_changed_ownership_through ngo:G6MC-HEEI-YJCP-MR8A .
+
+    ngo:0E50-0001-0000-0000 crm:P108i_was_produced_by ngo:A9OV-9DH7-25GD-C61F ;
+        crm:P24i_changed_ownership_through ngo:OJ3O-WKCU-IRKH-7QVE .
+
+    ngo:0ECO-0001-0000-0000 crm:P108i_was_produced_by ngo:VDYT-G4YQ-YV4W-MQDV ;
+        crm:P24i_changed_ownership_through ngo:AK56-DUMB-6IPO-X1DA .
+
+    ngo:0EWJ-0001-0000-0000 crm:P108i_was_produced_by ngo:0EW9-8C5R-LM2A-6W8D ;
+        crm:P24i_changed_ownership_through ngo:IUIR-5HBB-XWM3-0R7O .
+
+    ngo:0EXM-0001-0000-0000 crm:P108i_was_produced_by ngo:KR38-ZFKM-V7KS-ASGI ;
+        crm:P24i_changed_ownership_through ngo:FP10-I6DO-XXBL-JRE5 .
+
+    ngo:0F1A-0001-0000-0000 crm:P108i_was_produced_by ngo:87H8-J9S1-E9UF-PEJ1 ;
+        crm:P24i_changed_ownership_through ngo:QAH0-ORLK-OOLK-KU1R .
+
+    ngo:0F8W-0001-0000-0000 crm:P108i_was_produced_by ngo:LB58-56JV-IYIY-MC6X ;
+        crm:P24i_changed_ownership_through ngo:X8ZB-4D4Q-A7VI-K8VZ .
+
+    ngo:0FJS-0001-0000-0000 crm:P108i_was_produced_by ngo:Y4N0-JNGT-MOPV-GWNH ;
+        crm:P24i_changed_ownership_through ngo:4QR2-SB2I-E094-5BC0 .
+
+    ngo:0FN9-0001-0000-0000 crm:P108i_was_produced_by ngo:R191-RPFB-P5G5-BF5B ;
         crm:P24i_changed_ownership_through ngo:MPXD-AI0Y-TM5J-1JDZ .
+
+    ngo:0FVI-0001-0000-0000 crm:P108i_was_produced_by ngo:0YE9-C8EC-5I83-C7ZW ;
+        crm:P24i_changed_ownership_through ngo:A82O-66G2-NVRU-2TEL .
+
+    ngo:0GE7-0001-0000-0000 crm:P108i_was_produced_by ngo:Q5M0-Z0IQ-QJCL-MBO8 ;
+        crm:P24i_changed_ownership_through ngo:A9X7-ETDM-7N2Y-O4ZB .
 
     ngo:6MSN-3J0E-B9F3-C0FG crm:P108i_was_produced_by ngo:S840-E79A-YH1X-TKKC ;
         crm:P24i_changed_ownership_through ngo:XDQK-4ZXO-BGBA-DHN5 .
@@ -20,12 +50,6 @@ _:Nfa02cdc62248435f8678df8fbd0d7a9f {
     ngo:8JSO-Z4S8-HJ74-FZEX crm:P108i_was_produced_by ngo:DJ9F-LXKX-NTH7-YN0D ;
         crm:P24i_changed_ownership_through ngo:WS5O-FH2N-Y10M-B769 .
 
-    ngo:AVFS-5H52-QRSG-1LVU crm:P108i_was_produced_by ngo:VDYT-G4YQ-YV4W-MQDV ;
-        crm:P24i_changed_ownership_through ngo:AK56-DUMB-6IPO-X1DA .
-
-    ngo:CMCI-96U6-2X1P-VG1U crm:P108i_was_produced_by ngo:Y4N0-JNGT-MOPV-GWNH ;
-        crm:P24i_changed_ownership_through ngo:4QR2-SB2I-E094-5BC0 .
-
     ngo:FTVM-IDDL-BRDW-1AOQ crm:P108i_was_produced_by ngo:GHPB-BM2B-FT4T-K3I2 ;
         crm:P24i_changed_ownership_through ngo:NEYC-8I5J-SMH2-UFJ2 .
 
@@ -34,20 +58,8 @@ _:Nfa02cdc62248435f8678df8fbd0d7a9f {
 
     ngo:IQVW-UOUD-32BX-7J8N crm:P108i_was_produced_by ngo:T51D-X6Y0-L4WN-LLUM .
 
-    ngo:JC8J-UFQU-2GIZ-JOG0 crm:P108i_was_produced_by ngo:KR38-ZFKM-V7KS-ASGI ;
-        crm:P24i_changed_ownership_through ngo:FP10-I6DO-XXBL-JRE5 .
-
-    ngo:K6YP-L33T-W97H-NZNL crm:P108i_was_produced_by ngo:87H8-J9S1-E9UF-PEJ1 ;
-        crm:P24i_changed_ownership_through ngo:QAH0-ORLK-OOLK-KU1R .
-
     ngo:K9HN-ZRAI-ZGQK-SY5P crm:P108i_was_produced_by ngo:YE3U-OQOB-ORPB-MYEJ ;
         crm:P24i_changed_ownership_through ngo:SZ1I-C3Z4-1VQ0-3IDI .
-
-    ngo:LXIR-E3NQ-5DOK-56EP crm:P108i_was_produced_by ngo:Z307-ZGR2-60S7-2S6A ;
-        crm:P24i_changed_ownership_through ngo:G6MC-HEEI-YJCP-MR8A .
-
-    ngo:LYJC-L3IG-5P45-589S crm:P108i_was_produced_by ngo:LB58-56JV-IYIY-MC6X ;
-        crm:P24i_changed_ownership_through ngo:X8ZB-4D4Q-A7VI-K8VZ .
 
     ngo:MG2W-ZZL2-6SQU-44F1 crm:P108i_was_produced_by ngo:FVJC-XNPZ-Y4XB-S323 ;
         crm:P24i_changed_ownership_through ngo:NW7R-BDW0-HWG9-KGKE .
@@ -58,9 +70,6 @@ _:Nfa02cdc62248435f8678df8fbd0d7a9f {
     ngo:N0XM-FXBG-NVXJ-ZEUW crm:P108i_was_produced_by ngo:K9W2-1ZI2-NCRA-XFPU ;
         crm:P24i_changed_ownership_through ngo:V5T8-69D0-S9YN-VHZM .
 
-    ngo:O2QN-OI2F-22QD-XV6U crm:P108i_was_produced_by ngo:Q5M0-Z0IQ-QJCL-MBO8 ;
-        crm:P24i_changed_ownership_through ngo:A9X7-ETDM-7N2Y-O4ZB .
-
     ngo:P9B9-ZU5Y-MJPJ-29GH crm:P108i_was_produced_by ngo:BA6F-FC59-7UDZ-B1D6 ;
         crm:P24i_changed_ownership_through ngo:THG6-BX76-RMRR-6HOE .
 
@@ -70,9 +79,6 @@ _:Nfa02cdc62248435f8678df8fbd0d7a9f {
     ngo:SAAW-70N9-H32V-LL5Q crm:P108i_was_produced_by ngo:PIHO-U8IM-TGOT-KACI ;
         crm:P24i_changed_ownership_through ngo:ENKG-G0G3-QFON-H39S .
 
-    ngo:TY1I-CQ3Y-3A4P-8VUD crm:P108i_was_produced_by ngo:0YE9-C8EC-5I83-C7ZW ;
-        crm:P24i_changed_ownership_through ngo:A82O-66G2-NVRU-2TEL .
-
     ngo:U5OQ-JW5V-6YL6-DXB3 crm:P108i_was_produced_by ngo:QUTN-OYIF-UEHY-A3Y8 ;
         crm:P24i_changed_ownership_through ngo:ZGNL-63SI-L5PX-TC7T .
 
@@ -81,12 +87,6 @@ _:Nfa02cdc62248435f8678df8fbd0d7a9f {
 
     ngo:XUUK-SFAU-GWHQ-6JLH crm:P108i_was_produced_by ngo:7ZUD-PS4A-CP45-VPV9 ;
         crm:P24i_changed_ownership_through ngo:XZG6-XHAQ-LDRI-TPVS .
-
-    ngo:YILI-R5M8-IKLV-P9FT crm:P108i_was_produced_by ngo:0EW9-8C5R-LM2A-6W8D ;
-        crm:P24i_changed_ownership_through ngo:IUIR-5HBB-XWM3-0R7O .
-
-    ngo:ZXF8-VELL-I9MC-DY8H crm:P108i_was_produced_by ngo:A9OV-9DH7-25GD-C61F ;
-        crm:P24i_changed_ownership_through ngo:OJ3O-WKCU-IRKH-7QVE .
 
     rro:0FOH-OLYS-PF9K-S7H1 a crm:E5_Event ;
         rdfs:label "History of PE38"@en ;
