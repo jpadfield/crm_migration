@@ -7,223 +7,223 @@
 @prefix wd: <http://www.wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ngo:0D0E-0001-0000-0000 crm:P108i_was_produced_by ngo:Z307-ZGR2-60S7-2S6A ;
-    crm:P24i_changed_ownership_through ngo:G6MC-HEEI-YJCP-MR8A .
+ngo:0D0E-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-QCNX-0ALM-4UUK-CVFX ;
+    crm:P24i_changed_ownership_through ngo:SC-B51T-YN5J-U9KW-Z0SR .
 
-ngo:0E50-0001-0000-0000 crm:P108i_was_produced_by ngo:A9OV-9DH7-25GD-C61F ;
-    crm:P24i_changed_ownership_through ngo:OJ3O-WKCU-IRKH-7QVE .
+ngo:0E50-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-E5NG-WL0Q-WH7S-HHO0 ;
+    crm:P24i_changed_ownership_through ngo:SC-AJZ3-J4PZ-Q2KY-MUQ2 .
 
-ngo:0ECO-0001-0000-0000 crm:P108i_was_produced_by ngo:VDYT-G4YQ-YV4W-MQDV ;
-    crm:P24i_changed_ownership_through ngo:AK56-DUMB-6IPO-X1DA .
+ngo:0ECO-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-META-YLS3-SVNP-YDKT ;
+    crm:P24i_changed_ownership_through ngo:SC-ISSC-SCNA-QCPE-IRLP .
 
-ngo:0EWJ-0001-0000-0000 crm:P108i_was_produced_by ngo:0EW9-8C5R-LM2A-6W8D ;
-    crm:P24i_changed_ownership_through ngo:IUIR-5HBB-XWM3-0R7O .
+ngo:0EWJ-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-65FV-AYYK-L1UF-5347 ;
+    crm:P24i_changed_ownership_through ngo:SC-UFT0-67VV-C3HF-6P8L .
 
-ngo:0EXM-0001-0000-0000 crm:P108i_was_produced_by ngo:KR38-ZFKM-V7KS-ASGI ;
-    crm:P24i_changed_ownership_through ngo:FP10-I6DO-XXBL-JRE5 .
+ngo:0EXM-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-2XQG-MPLW-ZUTH-GYEJ ;
+    crm:P24i_changed_ownership_through ngo:SC-JOFU-UIOI-Z326-4E8C .
 
-ngo:0F1A-0001-0000-0000 crm:P108i_was_produced_by ngo:87H8-J9S1-E9UF-PEJ1 ;
-    crm:P24i_changed_ownership_through ngo:QAH0-ORLK-OOLK-KU1R .
+ngo:0F1A-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-CSK7-HDE1-H4RR-I0NQ ;
+    crm:P24i_changed_ownership_through ngo:SC-LKDM-N8IY-S5KU-T1PR .
 
-ngo:0F8W-0001-0000-0000 crm:P108i_was_produced_by ngo:LB58-56JV-IYIY-MC6X ;
-    crm:P24i_changed_ownership_through ngo:X8ZB-4D4Q-A7VI-K8VZ .
+ngo:0F8W-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-G149-U8SR-I8FN-4EB2 ;
+    crm:P24i_changed_ownership_through ngo:SC-4QDF-4PIW-C5MK-4QCG .
 
-ngo:0FJS-0001-0000-0000 crm:P108i_was_produced_by ngo:Y4N0-JNGT-MOPV-GWNH ;
-    crm:P24i_changed_ownership_through ngo:4QR2-SB2I-E094-5BC0 .
+ngo:0FJS-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-Z3QY-A82E-S0L0-OLMO ;
+    crm:P24i_changed_ownership_through ngo:SC-O18F-OMET-H72I-RG1J .
 
-ngo:0FN9-0001-0000-0000 crm:P108i_was_produced_by ngo:R191-RPFB-P5G5-BF5B ;
-    crm:P24i_changed_ownership_through ngo:MPXD-AI0Y-TM5J-1JDZ .
+ngo:0FN9-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-BMQY-E5L5-LUPI-3ENE ;
+    crm:P24i_changed_ownership_through ngo:SC-5TP1-TMTL-6ZVM-NZ17 .
 
-ngo:0FVI-0001-0000-0000 crm:P108i_was_produced_by ngo:0YE9-C8EC-5I83-C7ZW ;
-    crm:P24i_changed_ownership_through ngo:A82O-66G2-NVRU-2TEL .
+ngo:0FVI-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-7G22-1P0J-KXI5-GLCV ;
+    crm:P24i_changed_ownership_through ngo:SC-BH25-6WTX-W41C-81OH .
 
-ngo:0GE7-0001-0000-0000 crm:P108i_was_produced_by ngo:Q5M0-Z0IQ-QJCL-MBO8 ;
-    crm:P24i_changed_ownership_through ngo:A9X7-ETDM-7N2Y-O4ZB .
+ngo:0GE7-0001-0000-0000 crm:P108i_was_produced_by ngo:SC-47DR-LXY1-869D-97E4 ;
+    crm:P24i_changed_ownership_through ngo:SC-PC57-T72L-V41F-D83L .
 
-ngo:6MSN-3J0E-B9F3-C0FG crm:P108i_was_produced_by ngo:S840-E79A-YH1X-TKKC ;
-    crm:P24i_changed_ownership_through ngo:XDQK-4ZXO-BGBA-DHN5 .
+ngo:SC-27F3-X8YG-3EKR-CTZM crm:P108i_was_produced_by ngo:SC-XGXK-2PKP-Y3TI-ZXC8 ;
+    crm:P24i_changed_ownership_through ngo:SC-N1DI-ZJS3-2FST-NF7H .
 
-ngo:7BSG-MIHX-WMN9-H39Q crm:P108i_was_produced_by ngo:XCX1-9TNR-SC2L-48DY ;
-    crm:P24i_changed_ownership_through ngo:XU3M-YNP8-PQRZ-GJ5A .
+ngo:SC-43WP-5I35-253N-EXDI crm:P108i_was_produced_by ngo:SC-5GO6-3EBA-1N3V-Q0Q6 .
 
-ngo:8JSO-Z4S8-HJ74-FZEX crm:P108i_was_produced_by ngo:DJ9F-LXKX-NTH7-YN0D ;
-    crm:P24i_changed_ownership_through ngo:WS5O-FH2N-Y10M-B769 .
+ngo:SC-94JU-HGUP-CACK-9QH6 crm:P108i_was_produced_by ngo:SC-JQPI-HQZ6-H7WT-OJ6R ;
+    crm:P24i_changed_ownership_through ngo:SC-UN5O-HGDJ-17KM-EMMK .
 
-ngo:FTVM-IDDL-BRDW-1AOQ crm:P108i_was_produced_by ngo:GHPB-BM2B-FT4T-K3I2 ;
-    crm:P24i_changed_ownership_through ngo:NEYC-8I5J-SMH2-UFJ2 .
+ngo:SC-9CF8-Q2C9-NGBF-AJEL crm:P108i_was_produced_by ngo:SC-L6SG-LYJH-87A8-7IMO ;
+    crm:P24i_changed_ownership_through ngo:SC-ATCO-A6VE-HHRH-9F25 .
 
-ngo:G0LR-XHYZ-4YC6-X3UX crm:P108i_was_produced_by ngo:BLJ4-BDW3-FTFS-FKL8 ;
-    crm:P24i_changed_ownership_through ngo:9AQD-8IXW-25SV-2LP1 .
+ngo:SC-E8HD-F8K5-SVDO-LPZB crm:P108i_was_produced_by ngo:SC-8OV2-8SJC-C244-7KPV ;
+    crm:P24i_changed_ownership_through ngo:SC-T8TI-P1KI-3PED-6HI0 .
 
-ngo:IQVW-UOUD-32BX-7J8N crm:P108i_was_produced_by ngo:T51D-X6Y0-L4WN-LLUM .
+ngo:SC-GG8W-W6LJ-6PTI-1XTH crm:P108i_was_produced_by ngo:SC-YNLX-9AYO-TIEA-PT85 ;
+    crm:P24i_changed_ownership_through ngo:SC-VJDN-Q5OF-27GP-KX75 .
 
-ngo:K9HN-ZRAI-ZGQK-SY5P crm:P108i_was_produced_by ngo:YE3U-OQOB-ORPB-MYEJ ;
-    crm:P24i_changed_ownership_through ngo:SZ1I-C3Z4-1VQ0-3IDI .
+ngo:SC-KXUI-SDCD-PAUF-W1AR crm:P108i_was_produced_by ngo:SC-CM10-NNUI-W5TR-CGPG ;
+    crm:P24i_changed_ownership_through ngo:SC-7P3F-JHZJ-P611-YRQM .
 
-ngo:MG2W-ZZL2-6SQU-44F1 crm:P108i_was_produced_by ngo:FVJC-XNPZ-Y4XB-S323 ;
-    crm:P24i_changed_ownership_through ngo:NW7R-BDW0-HWG9-KGKE .
+ngo:SC-M43K-FRR4-ER9C-NBZ2 crm:P108i_was_produced_by ngo:SC-EMSF-510A-ER01-A1H5 ;
+    crm:P24i_changed_ownership_through ngo:SC-TPU5-QDEU-KHWT-6338 .
 
-ngo:MK2M-BEY1-E9MA-WALT crm:P108i_was_produced_by ngo:2E5J-KRCI-DM1Y-CAP6 ;
-    crm:P24i_changed_ownership_through ngo:DVJT-SFM1-Y0P0-Q336 .
+ngo:SC-O11V-TAEK-Q0YA-XYF9 crm:P108i_was_produced_by ngo:SC-T6JV-Y73Q-GIWB-O5LQ ;
+    crm:P24i_changed_ownership_through ngo:SC-I43K-19LN-534E-GIL7 .
 
-ngo:N0XM-FXBG-NVXJ-ZEUW crm:P108i_was_produced_by ngo:K9W2-1ZI2-NCRA-XFPU ;
-    crm:P24i_changed_ownership_through ngo:V5T8-69D0-S9YN-VHZM .
+ngo:SC-OMD1-Z27A-4SC1-IZXJ crm:P108i_was_produced_by ngo:SC-Z7SE-IIPD-O9EQ-1542 ;
+    crm:P24i_changed_ownership_through ngo:SC-6J06-HM7P-ZXFH-IPAF .
 
-ngo:P9B9-ZU5Y-MJPJ-29GH crm:P108i_was_produced_by ngo:BA6F-FC59-7UDZ-B1D6 ;
-    crm:P24i_changed_ownership_through ngo:THG6-BX76-RMRR-6HOE .
+ngo:SC-SQZH-SD0B-8UF1-IEAS crm:P108i_was_produced_by ngo:SC-9792-ZEO4-Y6WC-X7LG ;
+    crm:P24i_changed_ownership_through ngo:SC-2HEG-NPO7-7JE6-P0WU .
 
-ngo:QNK4-AQFQ-RG01-KQ23 crm:P108i_was_produced_by ngo:KTLH-ISYC-U6P7-0IUZ ;
-    crm:P24i_changed_ownership_through ngo:MY9Z-KAX2-NRMI-9T94 .
+ngo:SC-TB3A-1JGB-U01X-D9DK crm:P108i_was_produced_by ngo:SC-UITV-L5WV-BR7R-B9DS ;
+    crm:P24i_changed_ownership_through ngo:SC-VKJU-W0K1-WW0I-0AV1 .
 
-ngo:SAAW-70N9-H32V-LL5Q crm:P108i_was_produced_by ngo:PIHO-U8IM-TGOT-KACI ;
-    crm:P24i_changed_ownership_through ngo:ENKG-G0G3-QFON-H39S .
+ngo:SC-V7NZ-XB0D-IUZ6-PKXT crm:P108i_was_produced_by ngo:SC-JLFL-DL3U-O0XW-TL4E ;
+    crm:P24i_changed_ownership_through ngo:SC-PF88-FQXK-1C90-P6P7 .
 
-ngo:U5OQ-JW5V-6YL6-DXB3 crm:P108i_was_produced_by ngo:QUTN-OYIF-UEHY-A3Y8 ;
-    crm:P24i_changed_ownership_through ngo:ZGNL-63SI-L5PX-TC7T .
+ngo:SC-WMIO-D74L-MT36-RGOR crm:P108i_was_produced_by ngo:SC-51FD-68GJ-YORW-0ZB9 ;
+    crm:P24i_changed_ownership_through ngo:SC-NCYU-6RLM-64ON-P7UX .
 
-ngo:WKJ3-SNDQ-YEBV-1L13 crm:P108i_was_produced_by ngo:W9D4-918U-GG28-X44I ;
-    crm:P24i_changed_ownership_through ngo:F5N5-4GGP-MJES-CN3J .
+ngo:SC-Z9RA-Z14S-A07K-TJEQ crm:P108i_was_produced_by ngo:SC-C91Y-TY8Y-BA85-SOAH ;
+    crm:P24i_changed_ownership_through ngo:SC-K0YV-46CB-X7TL-C63P .
 
-ngo:XUUK-SFAU-GWHQ-6JLH crm:P108i_was_produced_by ngo:7ZUD-PS4A-CP45-VPV9 ;
-    crm:P24i_changed_ownership_through ngo:XZG6-XHAQ-LDRI-TPVS .
+ngo:SC-ZMD5-8ICN-7CQN-OM2P crm:P108i_was_produced_by ngo:SC-P8MR-BEI1-F1XL-G2IZ ;
+    crm:P24i_changed_ownership_through ngo:SC-TTRS-CJJS-HS8Q-BXZ9 .
 
-rro:0FOH-OLYS-PF9K-S7H1 a crm:E5_Event ;
-    rdfs:label "History of PE38"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:1927-BU6F-R9TT-5SGB a crm:E5_Event ;
-    rdfs:label "History of 65"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:353Y-U9QL-LS6J-JSEI a crm:E5_Event ;
-    rdfs:label "History of MNdAA568"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:36OL-5Q0W-QTR3-F2JK a crm:E5_Event ;
-    rdfs:label "History of NG2069"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:44V7-VJ3Q-WXCX-5C28 a crm:E5_Event ;
-    rdfs:label "History of 130"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:4NKX-VD0G-UEG7-LJMW a crm:E5_Event ;
-    rdfs:label "History of 30ab"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:4ROG-OPQS-R2CG-4PPV a crm:E5_Event ;
-    rdfs:label "History of NG2919"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:4ZXR-FA88-8COK-PSQ9 a crm:E5_Event ;
-    rdfs:label "History of NG6480"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:6MR2-7LZN-WEMB-FEHK a crm:E5_Event ;
-    rdfs:label "History of Raphael"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:7BVD-2J47-EM53-OQCD a crm:E5_Event ;
-    rdfs:label "History of 1972"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:7OE0-H9SK-RDUW-YPGK a crm:E5_Event ;
-    rdfs:label "History of NG213"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:8QKM-QG12-BS77-IXBP a crm:E5_Event ;
-    rdfs:label "History of 9"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:AZAH-V6QG-7EBZ-RO3G a crm:E5_Event ;
-    rdfs:label "History of DPG241"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:BGEJ-COJP-RXY8-Z67H a crm:E5_Event ;
-    rdfs:label "History of 1958"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:BKPI-VK2T-W9FZ-ARU3 a crm:E5_Event ;
-    rdfs:label "History of 1"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:DB2X-5CAB-NQH2-PTL1 a crm:E5_Event ;
-    rdfs:label "History of NG27"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:DOYZ-3DH8-NINK-FKT6 a crm:E5_Event ;
-    rdfs:label "History of PE39"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:EWEV-YA6H-AMT9-20L5 a crm:E5_Event ;
-    rdfs:label "History of 46"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:M1IG-8GJR-O5AX-L14A a crm:E5_Event ;
-    rdfs:label "History of NG744"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:MVQ7-BOIO-PKF4-RY14 a crm:E5_Event ;
-    rdfs:label "History of P16e3"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:NTIB-HVOV-JCZ8-SJVP a crm:E5_Event ;
-    rdfs:label "History of 4"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:PHR3-Y9VM-221F-5XVL a crm:E5_Event ;
-    rdfs:label "History of PE40"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:RIMX-RO14-JJF4-2NYN a crm:E5_Event ;
-    rdfs:label "History of NG6596"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:STPC-EL4T-GD7T-VLA9 a crm:E5_Event ;
-    rdfs:label "History of NG3943"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:WSDW-JIQU-YP85-S975 a crm:E5_Event ;
-    rdfs:label "History of NG929"@en ;
-    crm:P2_has_type aat:300055863,
-        crm:E5_Event .
-
-rro:XICE-YQUE-QBWW-XEIF a crm:E5_Event ;
+rro:SC-0B30-N4RW-S8A9-UZ4K a crm:E5_Event ;
     rdfs:label "History of NG168"@en ;
     crm:P2_has_type aat:300055863,
         crm:E5_Event .
 
-rro:XR3C-8QBO-W434-WBCL a crm:E5_Event ;
-    rdfs:label "History of DPG243"@en ;
+rro:SC-1X9L-5EXZ-BD3B-OW8A a crm:E5_Event ;
+    rdfs:label "History of NG6480"@en ;
     crm:P2_has_type aat:300055863,
         crm:E5_Event .
 
-rro:XWFJ-FNGX-ODGU-ZWC6 a crm:E5_Event ;
+rro:SC-30CQ-H7NE-QBYP-5KOC a crm:E5_Event ;
+    rdfs:label "History of MNdAA568"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-5A0H-IPUR-YDNH-NHWO a crm:E5_Event ;
+    rdfs:label "History of NG213"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-5NJ1-YG8U-G5RX-S00S a crm:E5_Event ;
+    rdfs:label "History of 9"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-5YW1-RT5V-58J9-1JV5 a crm:E5_Event ;
     rdfs:label "History of NG1171"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-70TO-JVWZ-DYNJ-7HJO a crm:E5_Event ;
+    rdfs:label "History of NG2919"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-8MT6-51LB-ETV2-WPVC a crm:E5_Event ;
+    rdfs:label "History of PE39"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-BTZJ-BD70-PHSP-Q3E1 a crm:E5_Event ;
+    rdfs:label "History of PE38"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-C4RJ-O5I5-WTND-FM8S a crm:E5_Event ;
+    rdfs:label "History of 1958"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-CN1P-1JLK-VIU8-54CH a crm:E5_Event ;
+    rdfs:label "History of PE40"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-DHZ4-FWPY-QJ88-DMEL a crm:E5_Event ;
+    rdfs:label "History of 46"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-G9CS-2ZTJ-8C7W-19WM a crm:E5_Event ;
+    rdfs:label "History of 65"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-ID48-BHZV-3RRL-ZI7N a crm:E5_Event ;
+    rdfs:label "History of DPG241"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-K0IA-AJYM-2V96-HFP0 a crm:E5_Event ;
+    rdfs:label "History of 130"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-K5NB-X7B0-CD2D-N2SN a crm:E5_Event ;
+    rdfs:label "History of 4"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-KK6J-1E58-9QCP-KQQC a crm:E5_Event ;
+    rdfs:label "History of NG744"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-KQXB-JI17-SDLE-7KR1 a crm:E5_Event ;
+    rdfs:label "History of NG3943"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-MXXZ-07H6-ZC7L-5WYW a crm:E5_Event ;
+    rdfs:label "History of Raphael"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-OOBL-GUOL-06BP-U06T a crm:E5_Event ;
+    rdfs:label "History of NG6596"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-QAPX-6A8R-GU6R-9WZY a crm:E5_Event ;
+    rdfs:label "History of NG929"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-QOEY-YTBX-60QD-9NVC a crm:E5_Event ;
+    rdfs:label "History of NG27"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-STM4-0Y2O-U3V9-ZYYO a crm:E5_Event ;
+    rdfs:label "History of 1"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-U9GB-GF5G-9Q0G-8NUA a crm:E5_Event ;
+    rdfs:label "History of NG2069"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-V72B-2FK3-1CF5-Q7FD a crm:E5_Event ;
+    rdfs:label "History of 1972"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-XNIV-I7RN-0AM7-AQQ4 a crm:E5_Event ;
+    rdfs:label "History of P16e3"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-Z9ID-N268-DWBU-Z4PS a crm:E5_Event ;
+    rdfs:label "History of 30ab"@en ;
+    crm:P2_has_type aat:300055863,
+        crm:E5_Event .
+
+rro:SC-ZCR9-ZB8Y-YRZV-NWMZ a crm:E5_Event ;
+    rdfs:label "History of DPG243"@en ;
     crm:P2_has_type aat:300055863,
         crm:E5_Event .
 
@@ -231,9 +231,81 @@ aat:300069672 rdfs:label "births"@en .
 
 aat:300151836 rdfs:label "deaths"@en .
 
-ngo:0EW9-8C5R-LM2A-6W8D a crm:E12_Production ;
-    crm:P10_falls_within ngo:4ZXR-FA88-8COK-PSQ9 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-2C1Q-C0UB-M1D4-QX9N a crm:E39_Actor ;
+    rdfs:label "After Raphael"@en ;
+    crm:P2_has_type aat:300024979,
+        crm:E39_Actor .
+
+ngo:SC-2HEG-NPO7-7JE6-P0WU a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-5NJ1-YG8U-G5RX-S00S ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-2XQG-MPLW-ZUTH-GYEJ a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-0B30-N4RW-S8A9-UZ4K ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1507"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1509-12-31"^^xsd:dateTime ] .
+
+ngo:SC-47DR-LXY1-869D-97E4 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-70TO-JVWZ-DYNJ-7HJO ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:SC-4QDF-4PIW-C5MK-4QCG a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-5A0H-IPUR-YDNH-NHWO ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1847"@en .
+
+ngo:SC-51FD-68GJ-YORW-0ZB9 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-Z9ID-N268-DWBU-Z4PS ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:SC-5GO6-3EBA-1N3V-Q0Q6 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-DHZ4-FWPY-QJ88-DMEL ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label " 1507-1508"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1508-12-31"^^xsd:dateTime ] .
+
+ngo:SC-5TP1-TMTL-6ZVM-NZ17 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-KK6J-1E58-9QCP-KQQC ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1865"@en .
+
+ngo:SC-65FV-AYYK-L1UF-5347 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-1X9L-5EXZ-BD3B-OW8A ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -243,9 +315,25 @@ ngo:0EW9-8C5R-LM2A-6W8D a crm:E12_Production ;
             crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ] .
 
-ngo:0YE9-C8EC-5I83-C7ZW a crm:E12_Production ;
-    crm:P10_falls_within ngo:36OL-5Q0W-QTR3-F2JK ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-6BQ8-FVK7-HRTW-UC0C a crm:E67_Birth ;
+    crm:P10_falls_within ngo:SC-MXXZ-07H6-ZC7L-5WYW ;
+    crm:P2_has_type aat:300069672,
+        crm:E67_Birth ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label " 1483"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1483-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1483-12-31"^^xsd:dateTime ] .
+
+ngo:SC-6J06-HM7P-ZXFH-IPAF a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-BTZJ-BD70-PHSP-Q3E1 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-7G22-1P0J-KXI5-GLCV a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-U9GB-GF5G-9Q0G-8NUA ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -256,9 +344,14 @@ ngo:0YE9-C8EC-5I83-C7ZW a crm:E12_Production ;
             crm:P82b_end_of_the_end "1513-12-31"^^xsd:dateTime ;
             owl:sameAs wd:Q6188 ] .
 
-ngo:2E5J-KRCI-DM1Y-CAP6 a crm:E12_Production ;
-    crm:P10_falls_within ngo:4NKX-VD0G-UEG7-LJMW ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-7P3F-JHZJ-P611-YRQM a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-8MT6-51LB-ETV2-WPVC ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-8OV2-8SJC-C244-7KPV a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-ID48-BHZV-3RRL-ZI7N ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -269,132 +362,9 @@ ngo:2E5J-KRCI-DM1Y-CAP6 a crm:E12_Production ;
             crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
             owl:sameAs wd:Q6153 ] .
 
-ngo:4QR2-SB2I-E094-5BC0 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:XWFJ-FNGX-ODGU-ZWC6 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1885"@en .
-
-ngo:7ZUD-PS4A-CP45-VPV9 a crm:E12_Production ;
-    crm:P10_falls_within ngo:BKPI-VK2T-W9FZ-ARU3 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1506"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1508-12-31"^^xsd:dateTime ] .
-
-ngo:87H8-J9S1-E9UF-PEJ1 a crm:E12_Production ;
-    crm:P10_falls_within ngo:WSDW-JIQU-YP85-S975 ;
-    crm:P14_carried_out_by ngo:C59B-469X-U8RF-IDKD ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production .
-
-ngo:9AQD-8IXW-25SV-2LP1 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:MVQ7-BOIO-PKF4-RY14 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:A82O-66G2-NVRU-2TEL a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:36OL-5Q0W-QTR3-F2JK ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Presented by Mrs Eve Mackintosh, 1906"@en .
-
-ngo:A9OV-9DH7-25GD-C61F a crm:E12_Production ;
-    crm:P10_falls_within ngo:RIMX-RO14-JJF4-2NYN ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1506-1507"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1509-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6161 ] .
-
-ngo:A9X7-ETDM-7N2Y-O4ZB a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:4ROG-OPQS-R2CG-4PPV ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1913"@en .
-
-ngo:AK56-DUMB-6IPO-X1DA a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:STPC-EL4T-GD7T-VLA9 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Mond Bequest, 1924"@en .
-
-ngo:BA6F-FC59-7UDZ-B1D6 a crm:E12_Production ;
-    crm:P10_falls_within ngo:PHR3-Y9VM-221F-5XVL ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1509-1510"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1509-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1510-12-31"^^xsd:dateTime ] .
-
-ngo:BLJ4-BDW3-FTFS-FKL8 a crm:E12_Production ;
-    crm:P10_falls_within ngo:MVQ7-BOIO-PKF4-RY14 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1504-1505"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6153 ] .
-
-ngo:C59B-469X-U8RF-IDKD a crm:E39_Actor ;
-    rdfs:label "After Raphael"@en ;
-    crm:P2_has_type aat:300024979,
-        crm:E39_Actor .
-
-ngo:DJ9F-LXKX-NTH7-YN0D a crm:E12_Production ;
-    crm:P10_falls_within ngo:NTIB-HVOV-JCZ8-SJVP ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1515"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1517-12-31"^^xsd:dateTime ] .
-
-ngo:DVJT-SFM1-Y0P0-Q336 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:4NKX-VD0G-UEG7-LJMW ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:ENKG-G0G3-QFON-H39S a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:44V7-VJ3Q-WXCX-5C28 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:F5N5-4GGP-MJES-CN3J a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:AZAH-V6QG-7EBZ-RO3G ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:FP10-I6DO-XXBL-JRE5 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:XICE-YQUE-QBWW-XEIF ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1839"@en .
-
-ngo:FVJC-XNPZ-Y4XB-S323 a crm:E12_Production ;
-    crm:P10_falls_within ngo:8QKM-QG12-BS77-IXBP ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-9792-ZEO4-Y6WC-X7LG a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-5NJ1-YG8U-G5RX-S00S ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -404,167 +374,32 @@ ngo:FVJC-XNPZ-Y4XB-S323 a crm:E12_Production ;
             crm:P82a_begin_of_the_begin "1503-01-01"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ] .
 
-ngo:G6MC-HEEI-YJCP-MR8A a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:DB2X-5CAB-NQH2-PTL1 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1824"@en .
-
-ngo:GHPB-BM2B-FT4T-K3I2 a crm:E12_Production ;
-    crm:P10_falls_within ngo:1927-BU6F-R9TT-5SGB ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1502-1503"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6141 ] .
-
-ngo:IUIR-5HBB-XWM3-0R7O a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:4ZXR-FA88-8COK-PSQ9 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1983"@en .
-
-ngo:JZ6Q-2KJ4-ADE6-E9WE a crm:E69_Death ;
-    crm:P10_falls_within ngo:6MR2-7LZN-WEMB-FEHK ;
-    crm:P2_has_type aat:300151836,
-        crm:E69_Death ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1520"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1520-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1520-12-31"^^xsd:dateTime ] .
-
-ngo:K9W2-1ZI2-NCRA-XFPU a crm:E12_Production ;
-    crm:P10_falls_within ngo:BGEJ-COJP-RXY8-Z67H ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1501-1502"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1499-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1504-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6137 ] .
-
-ngo:KR38-ZFKM-V7KS-ASGI a crm:E12_Production ;
-    crm:P10_falls_within ngo:XICE-YQUE-QBWW-XEIF ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1507"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1509-12-31"^^xsd:dateTime ] .
-
-ngo:KTLH-ISYC-U6P7-0IUZ a crm:E12_Production ;
-    crm:P10_falls_within ngo:7BVD-2J47-EM53-OQCD ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1502-1503"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6141 ] .
-
-ngo:LB58-56JV-IYIY-MC6X a crm:E12_Production ;
-    crm:P10_falls_within ngo:7OE0-H9SK-RDUW-YPGK ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1504"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1506-12-31"^^xsd:dateTime ] .
-
-ngo:MPXD-AI0Y-TM5J-1JDZ a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:M1IG-8GJR-O5AX-L14A ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1865"@en .
-
-ngo:MY9Z-KAX2-NRMI-9T94 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:7BVD-2J47-EM53-OQCD ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:NEYC-8I5J-SMH2-UFJ2 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:1927-BU6F-R9TT-5SGB ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:NW7R-BDW0-HWG9-KGKE a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:8QKM-QG12-BS77-IXBP ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:OJ3O-WKCU-IRKH-7QVE a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:RIMX-RO14-JJF4-2NYN ;
+ngo:SC-AJZ3-J4PZ-Q2KY-MUQ2 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-OOBL-GUOL-06BP-U06T ;
     crm:P2_has_type aat:300157782,
         crm:E8_Acquisition ;
     crm:P3_has_note "Bought with the assistance of the Heritage Lottery Fund, The Art Fund (with a contribution from the Wolfson Foundation), the American Friends of the National Gallery, the George Beaumont Group, Sir Christopher Ondaatje and through public appeal, 2004"@en .
 
-ngo:PIHO-U8IM-TGOT-KACI a crm:E12_Production ;
-    crm:P10_falls_within ngo:44V7-VJ3Q-WXCX-5C28 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1504-1505"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6153 ] .
+ngo:SC-ATCO-A6VE-HHRH-9F25 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-C4RJ-O5I5-WTND-FM8S ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
 
-ngo:Q5M0-Z0IQ-QJCL-MBO8 a crm:E12_Production ;
-    crm:P10_falls_within ngo:4ROG-OPQS-R2CG-4PPV ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1504-1505"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6153 ] .
-
-ngo:QAH0-ORLK-OOLK-KU1R a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:WSDW-JIQU-YP85-S975 ;
+ngo:SC-B51T-YN5J-U9KW-Z0SR a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-QOEY-YTBX-60QD-9NVC ;
     crm:P2_has_type aat:300157782,
         crm:E8_Acquisition ;
-    crm:P3_has_note "Wynn Ellis Bequest, 1876"@en .
+    crm:P3_has_note "Bought, 1824"@en .
 
-ngo:QUTN-OYIF-UEHY-A3Y8 a crm:E12_Production ;
-    crm:P10_falls_within ngo:353Y-U9QL-LS6J-JSEI ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label "About 1502-1503"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
-            owl:sameAs wd:Q6141 ] .
+ngo:SC-BH25-6WTX-W41C-81OH a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-U9GB-GF5G-9Q0G-8NUA ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Presented by Mrs Eve Mackintosh, 1906"@en .
 
-ngo:R191-RPFB-P5G5-BF5B a crm:E12_Production ;
-    crm:P10_falls_within ngo:M1IG-8GJR-O5AX-L14A ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-BMQY-E5L5-LUPI-3ENE a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-KK6J-1E58-9QCP-KQQC ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -575,9 +410,9 @@ ngo:R191-RPFB-P5G5-BF5B a crm:E12_Production ;
             crm:P82b_end_of_the_end "1512-12-31"^^xsd:dateTime ;
             owl:sameAs wd:Q6182 ] .
 
-ngo:S840-E79A-YH1X-TKKC a crm:E12_Production ;
-    crm:P10_falls_within ngo:XR3C-8QBO-W434-WBCL ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-C91Y-TY8Y-BA85-SOAH a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-XNIV-I7RN-0AM7-AQQ4 ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -588,36 +423,87 @@ ngo:S840-E79A-YH1X-TKKC a crm:E12_Production ;
             crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
             owl:sameAs wd:Q6153 ] .
 
-ngo:SZ1I-C3Z4-1VQ0-3IDI a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:0FOH-OLYS-PF9K-S7H1 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:T51D-X6Y0-L4WN-LLUM a crm:E12_Production ;
-    crm:P10_falls_within ngo:EWEV-YA6H-AMT9-20L5 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-CM10-NNUI-W5TR-CGPG a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-8MT6-51LB-ETV2-WPVC ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1507-1508"@en ;
+            rdfs:label " 1506"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1507-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1508-12-31"^^xsd:dateTime ] .
+            crm:P82a_begin_of_the_begin "1506-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1506-12-31"^^xsd:dateTime ] .
 
-ngo:THG6-BX76-RMRR-6HOE a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:PHR3-Y9VM-221F-5XVL ;
+ngo:SC-CSK7-HDE1-H4RR-I0NQ a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-QAPX-6A8R-GU6R-9WZY ;
+    crm:P14_carried_out_by ngo:SC-2C1Q-C0UB-M1D4-QX9N ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production .
+
+ngo:SC-E5NG-WL0Q-WH7S-HHO0 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-OOBL-GUOL-06BP-U06T ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1506-1507"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1509-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6161 ] .
+
+ngo:SC-EMSF-510A-ER01-A1H5 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-K0IA-AJYM-2V96-HFP0 ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1504-1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6153 ] .
+
+ngo:SC-G149-U8SR-I8FN-4EB2 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-5A0H-IPUR-YDNH-NHWO ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1504"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1502-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1506-12-31"^^xsd:dateTime ] .
+
+ngo:SC-G751-SGJA-F48Z-NBA2 a crm:E69_Death ;
+    crm:P10_falls_within ngo:SC-MXXZ-07H6-ZC7L-5WYW ;
+    crm:P2_has_type aat:300151836,
+        crm:E69_Death ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label " 1520"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1520-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1520-12-31"^^xsd:dateTime ] .
+
+ngo:SC-I43K-19LN-534E-GIL7 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-ZCR9-ZB8Y-YRZV-NWMZ ;
     crm:P2_has_type aat:300157782,
         crm:E8_Acquisition .
 
-ngo:V5T8-69D0-S9YN-VHZM a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:BGEJ-COJP-RXY8-Z67H ;
+ngo:SC-ISSC-SCNA-QCPE-IRLP a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-KQXB-JI17-SDLE-7KR1 ;
     crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Mond Bequest, 1924"@en .
 
-ngo:VDYT-G4YQ-YV4W-MQDV a crm:E12_Production ;
-    crm:P10_falls_within ngo:STPC-EL4T-GD7T-VLA9 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-JLFL-DL3U-O0XW-TL4E a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-G9CS-2ZTJ-8C7W-19WM ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -628,20 +514,115 @@ ngo:VDYT-G4YQ-YV4W-MQDV a crm:E12_Production ;
             crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
             owl:sameAs wd:Q6141 ] .
 
-ngo:VRGA-ZW28-95PS-6JTM a crm:E67_Birth ;
-    crm:P10_falls_within ngo:6MR2-7LZN-WEMB-FEHK ;
-    crm:P2_has_type aat:300069672,
-        crm:E67_Birth ;
+ngo:SC-JOFU-UIOI-Z326-4E8C a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-0B30-N4RW-S8A9-UZ4K ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1839"@en .
+
+ngo:SC-JQPI-HQZ6-H7WT-OJ6R a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-CN1P-1JLK-VIU8-54CH ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1483"@en ;
+            rdfs:label " 1509-1510"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1483-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1483-12-31"^^xsd:dateTime ] .
+            crm:P82a_begin_of_the_begin "1509-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1510-12-31"^^xsd:dateTime ] .
 
-ngo:W9D4-918U-GG28-X44I a crm:E12_Production ;
-    crm:P10_falls_within ngo:AZAH-V6QG-7EBZ-RO3G ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-K0YV-46CB-X7TL-C63P a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-XNIV-I7RN-0AM7-AQQ4 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-L6SG-LYJH-87A8-7IMO a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-C4RJ-O5I5-WTND-FM8S ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1501-1502"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1499-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1504-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6137 ] .
+
+ngo:SC-LKDM-N8IY-S5KU-T1PR a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-QAPX-6A8R-GU6R-9WZY ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Wynn Ellis Bequest, 1876"@en .
+
+ngo:SC-META-YLS3-SVNP-YDKT a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-KQXB-JI17-SDLE-7KR1 ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1502-1503"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
+
+ngo:SC-N1DI-ZJS3-2FST-NF7H a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-30CQ-H7NE-QBYP-5KOC ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-NCYU-6RLM-64ON-P7UX a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-Z9ID-N268-DWBU-Z4PS ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-O18F-OMET-H72I-RG1J a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-5YW1-RT5V-58J9-1JV5 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1885"@en .
+
+ngo:SC-P8MR-BEI1-F1XL-G2IZ a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-STM4-0Y2O-U3V9-ZYYO ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1506"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1504-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1508-12-31"^^xsd:dateTime ] .
+
+ngo:SC-PC57-T72L-V41F-D83L a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-70TO-JVWZ-DYNJ-7HJO ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition ;
+    crm:P3_has_note "Bought, 1913"@en .
+
+ngo:SC-PF88-FQXK-1C90-P6P7 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-G9CS-2ZTJ-8C7W-19WM ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-QCNX-0ALM-4UUK-CVFX a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-QOEY-YTBX-60QD-9NVC ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label " 1511"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1511-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1511-12-31"^^xsd:dateTime ] .
+
+ngo:SC-T6JV-Y73Q-GIWB-O5LQ a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-ZCR9-ZB8Y-YRZV-NWMZ ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -652,59 +633,30 @@ ngo:W9D4-918U-GG28-X44I a crm:E12_Production ;
             crm:P82b_end_of_the_end "1507-12-31"^^xsd:dateTime ;
             owl:sameAs wd:Q6153 ] .
 
-ngo:WS5O-FH2N-Y10M-B769 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:NTIB-HVOV-JCZ8-SJVP ;
+ngo:SC-T8TI-P1KI-3PED-6HI0 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-ID48-BHZV-3RRL-ZI7N ;
     crm:P2_has_type aat:300157782,
         crm:E8_Acquisition .
 
-ngo:X8ZB-4D4Q-A7VI-K8VZ a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:7OE0-H9SK-RDUW-YPGK ;
+ngo:SC-TPU5-QDEU-KHWT-6338 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-K0IA-AJYM-2V96-HFP0 ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-TTRS-CJJS-HS8Q-BXZ9 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-STM4-0Y2O-U3V9-ZYYO ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-UFT0-67VV-C3HF-6P8L a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-1X9L-5EXZ-BD3B-OW8A ;
     crm:P2_has_type aat:300157782,
         crm:E8_Acquisition ;
-    crm:P3_has_note "Bought, 1847"@en .
+    crm:P3_has_note "Bought, 1983"@en .
 
-ngo:XCX1-9TNR-SC2L-48DY a crm:E12_Production ;
-    crm:P10_falls_within ngo:DOYZ-3DH8-NINK-FKT6 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1506"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1506-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1506-12-31"^^xsd:dateTime ] .
-
-ngo:XDQK-4ZXO-BGBA-DHN5 a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:XR3C-8QBO-W434-WBCL ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:XU3M-YNP8-PQRZ-GJ5A a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:DOYZ-3DH8-NINK-FKT6 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:XZG6-XHAQ-LDRI-TPVS a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:BKPI-VK2T-W9FZ-ARU3 ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
-
-ngo:Y4N0-JNGT-MOPV-GWNH a crm:E12_Production ;
-    crm:P10_falls_within ngo:XWFJ-FNGX-ODGU-ZWC6 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
-    crm:P2_has_type aat:300404387,
-        crm:E12_Production ;
-    crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1505"@en ;
-            crm:P2_has_type aat:300379244,
-                crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ] .
-
-ngo:YE3U-OQOB-ORPB-MYEJ a crm:E12_Production ;
-    crm:P10_falls_within ngo:0FOH-OLYS-PF9K-S7H1 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-UITV-L5WV-BR7R-B9DS a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-K5NB-X7B0-CD2D-N2SN ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
@@ -714,33 +666,81 @@ ngo:YE3U-OQOB-ORPB-MYEJ a crm:E12_Production ;
             crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1517-12-31"^^xsd:dateTime ] .
 
-ngo:Z307-ZGR2-60S7-2S6A a crm:E12_Production ;
-    crm:P10_falls_within ngo:DB2X-5CAB-NQH2-PTL1 ;
-    crm:P14_carried_out_by ngo:X49G-D5FL-LLD5-L23X ;
+ngo:SC-UN5O-HGDJ-17KM-EMMK a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-CN1P-1JLK-VIU8-54CH ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-VJDN-Q5OF-27GP-KX75 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-V72B-2FK3-1CF5-Q7FD ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-VKJU-W0K1-WW0I-0AV1 a crm:E8_Acquisition ;
+    crm:P10_falls_within ngo:SC-K5NB-X7B0-CD2D-N2SN ;
+    crm:P2_has_type aat:300157782,
+        crm:E8_Acquisition .
+
+ngo:SC-XGXK-2PKP-Y3TI-ZXC8 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-30CQ-H7NE-QBYP-5KOC ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
     crm:P2_has_type aat:300404387,
         crm:E12_Production ;
     crm:P4_has_time_span [ a crm:E52_Time_span ;
-            rdfs:label " 1511"@en ;
+            rdfs:label "About 1502-1503"@en ;
             crm:P2_has_type aat:300379244,
                 crm:E52_Time_span ;
-            crm:P82a_begin_of_the_begin "1511-01-01"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1511-12-31"^^xsd:dateTime ] .
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
 
-ngo:ZGNL-63SI-L5PX-TC7T a crm:E8_Acquisition ;
-    crm:P10_falls_within ngo:353Y-U9QL-LS6J-JSEI ;
-    crm:P2_has_type aat:300157782,
-        crm:E8_Acquisition .
+ngo:SC-YNLX-9AYO-TIEA-PT85 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-V72B-2FK3-1CF5-Q7FD ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1502-1503"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1500-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ;
+            owl:sameAs wd:Q6141 ] .
+
+ngo:SC-Z3QY-A82E-S0L0-OLMO a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-5YW1-RT5V-58J9-1JV5 ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label " 1505"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1505-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1505-12-31"^^xsd:dateTime ] .
+
+ngo:SC-Z7SE-IIPD-O9EQ-1542 a crm:E12_Production ;
+    crm:P10_falls_within ngo:SC-BTZJ-BD70-PHSP-Q3E1 ;
+    crm:P14_carried_out_by ngo:SC-FNEP-P4L2-7O6X-UFLH ;
+    crm:P2_has_type aat:300404387,
+        crm:E12_Production ;
+    crm:P4_has_time_span [ a crm:E52_Time_span ;
+            rdfs:label "About 1515"@en ;
+            crm:P2_has_type aat:300379244,
+                crm:E52_Time_span ;
+            crm:P82a_begin_of_the_begin "1513-01-01"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1517-12-31"^^xsd:dateTime ] .
 
 aat:300024979 rdfs:label "people (agents)"@en .
 
 aat:300157782 rdfs:label "acquisition (collections management)"@en .
 
-ngo:X49G-D5FL-LLD5-L23X a crm:E39_Actor ;
+ngo:SC-FNEP-P4L2-7O6X-UFLH a crm:E39_Actor ;
     rdfs:label "Raphael"@en ;
-    crm:P100i_died_in ngo:JZ6Q-2KJ4-ADE6-E9WE ;
+    crm:P100i_died_in ngo:SC-G751-SGJA-F48Z-NBA2 ;
     crm:P2_has_type aat:300024979,
         crm:E39_Actor ;
-    crm:P98i_was_born ngo:VRGA-ZW28-95PS-6JTM .
+    crm:P98i_was_born ngo:SC-6BQ8-FVK7-HRTW-UC0C .
 
 aat:300404387 rdfs:label "creating (artistic activity)"@en .
 

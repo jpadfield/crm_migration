@@ -5,271 +5,22 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix wd: <http://www.wikidata.org/entity/> .
 
-ngo:1VBK-ZKOD-0I61-VJH4 a crm:E74_Group ;
+ngo:SC-09TR-ZMBP-G9YV-R9JT a crm:E74_Group ;
     crm:P2_has_type aat:300026004,
         aat:300403974,
         crm:E74_Group ;
     crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Museo Nazionale di Capodimonte"@en ;
+            rdfs:label "Museum Boijmans Van Beuningen"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
     crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.museo-capodimonte.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:34EP-C96Y-QPQR-FIYX a crm:E74_Group ;
-    crm:P156_occupies ngo:TM4B-5A4R-8I8V-XRTG ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The National Gallery of Scotland in Edinburgh, founded in 1850, houses the national collection of fine art from the early Renaissance to the end of the nineteenth century."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The National Gallery of Scotland"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P50i_is_current_keeper_of ngo:Z6NC-405S-9QVG-QCTP ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.nationalgalleries.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:3ABD-ZISB-CPPI-T3SM a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Archivio di Stato di Firenze"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.archiviodistato.firenze.it/nuovosito/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:3HNU-DJRH-U3CC-2VTB a crm:E74_Group ;
-    crm:P156_occupies ngo:S780-8SSR-HNF5-KW5T ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The National Gallery in London, founded in 1824, houses a rich collection of over 2,500 paintings dating from the mid-13th century to 1900 in its home on Trafalgar Square."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The National Gallery"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P50i_is_current_keeper_of ngo:ZGSO-VAD2-9Z05-06C8 ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.nationalgallery.org.uk/"@en ;
+            rdfs:label "http://www.boijmans.nl/nl/"@en ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q180788 .
+    owl:sameAs wd:Q679527 .
 
-ngo:3P8S-HHZN-LH41-SGZ8 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Biblioteca Nazionale Centrale di Firenza"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.bncf.firenze.sbn.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:4E1V-7ODI-B07Y-UCE2 a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Pinacoteca di Brera"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.brera.beniculturali.it/HomePage"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q150066 .
-
-ngo:4L0C-3SRW-SZ57-SFCY a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Graphische Sammlung, Städel Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.staedelmuseum.de/sm/index.php?StoryID=11"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:4QF4-T19K-7UZI-YUY1 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Victoria & Albert Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.vam.ac.uk/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:52RG-059M-9CMS-937V a crm:E74_Group ;
-    crm:P156_occupies ngo:MP0G-67SW-UOJ7-WC22 ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The British Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.britishmuseum.org/default.aspx"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:5T1F-ZPSH-M1DP-43PJ a crm:E74_Group ;
-    crm:P156_occupies ngo:7XCV-A3G4-2F2J-O4HE ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Isabella Stewart Gardner Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.gardnermuseum.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q49135 .
-
-ngo:62IM-I66E-XKKH-TAG4 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Archivio Capitolino di Roma"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.archiviocapitolino.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:7T2J-YLBO-N3BR-IN0H a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Réunion des musées nationaux"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.photo.rmn.fr/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:7Y54-U9HP-FRG1-S0P6 a crm:E74_Group ;
-    crm:P156_occupies ngo:BH7A-TVI4-Z00Q-T8LB ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Musée Condé"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.musee-conde.fr/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:86O6-Z6YG-YL6M-10CR a crm:E53_Place ;
-    rdfs:label "Room 8"@en ;
-    crm:P2_has_type crm:E53_Place ;
-    crm:P89_falls_within ngo:S780-8SSR-HNF5-KW5T .
-
-ngo:87EY-BE26-OO80-RDDA a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Musei Vaticani"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://mv.vatican.va/3_EN/pages/MV_Home.html"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q182955 .
-
-ngo:8SZ7-JWL0-IM66-MLOE a crm:E74_Group ;
-    crm:P156_occupies ngo:MWEP-WG5M-088C-I0MF ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Museu de Arte de São Paulo Assis Chateaubriand"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.masp.art.br/teaser/index.html"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:9FOI-JCWE-2DLS-PIC3 a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Pinacoteca Comunale di Città di Castello"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.cdcnet.net/pinacoteca/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:A3D3-JY2E-RHEN-TN44 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Archivio di Stato di Roma"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.archiviodistatoroma.beniculturali.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:CNO9-76SR-JEVK-W1H0 a crm:E74_Group ;
+ngo:SC-0FIO-ULLK-USKD-28BG a crm:E74_Group ;
     crm:P2_has_type aat:300025231,
         aat:300026004,
         aat:300403974,
@@ -285,22 +36,7 @@ ngo:CNO9-76SR-JEVK-W1H0 a crm:E74_Group ;
                 crm:E73_Information_Object ] ;
     owl:sameAs wd:Q3388589 .
 
-ngo:CPWL-BE87-2C5A-T9EH a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Galleria Nazionale dell'Umbria"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.gallerianazionaleumbria.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:CZFU-GGSJ-CSNR-HY4N a crm:E74_Group ;
+ngo:SC-14Z6-3L3Y-1JFG-OB6U a crm:E74_Group ;
     crm:P2_has_type aat:300026004,
         aat:300403974,
         crm:E74_Group ;
@@ -314,183 +50,7 @@ ngo:CZFU-GGSJ-CSNR-HY4N a crm:E74_Group ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ] .
 
-ngo:E23B-U6P5-HEVJ-KY5E a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "Located in midtown Manhattan at Madison Avenue and 36th Street, the Morgan houses one of the world's greatest collections of artistic, literary, and musical works, from ancient times to the medieval and Renaissance periods to the present day."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The Morgan Library and Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.themorgan.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:FZ0W-46N8-A3F1-2LHK a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Biblioteca Oliveriana di Pesaro"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.oliveriana.pu.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ],
-        [ a crm:E73_Information_Object ;
-            rdfs:label "© Biblioteca Oliveriana di Pesaro"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:GHUR-TVW3-9WLY-U5KN a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Brighton Museum & Art Gallery"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.virtualmuseum.info/collections/cHome_fineart.asp"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:GSW3-9GXF-TOO3-MVOS a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "Das Kunsthistorische Museum in Wien zählt zu den größten und bedeutendsten Museen der Welt. In den reichen Sammlungen befinden sich Objekte aus sieben Jahrtausenden, von der Zeit des Alten Ägypten bis zum Ende des 18. Jahrhunderts. Besondere Schwerpunkte liegen in der Kunst der Renaissance und des Barock."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Kunsthistorisches Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.khm.at/de/kunsthistorisches-museum"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q95569 .
-
-ngo:I9OH-WZXR-JF55-1PWB a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Biblioteca Comunale Augusta di Perugia"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://biblioweb.comune.perugia.it/home.php"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:JKNL-8RG6-6OTL-GRWS a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The world renown of the Gemäldegalerie Alte Meister (Old Masters Picture Gallery) in Dresden is founded in its outstanding collection of high-ranking masterpieces. Among the primary focuses of its holdings are Italian painting of the Renaissance - as exemplified by major works of Raphael, Giorgione and Titian - as well as works in the Mannerist and Baroque styles. Of equal significance is the inventory of Dutch and Flemish paintings of the seventeenth century. Not only are Rembrandt and his followers represented with a large number of works of superb quality, but the collection also comprises paintings by Vermeer and Ruysdael and the great Flemish artists Rubens, Jordaens and Van Dyck."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Staatliche Kunstsammlungen Dresden, Gemäldegalerie Alte Meister"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.skd-dresden.de/en/museen/alte_meister.html"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:JV2E-YABU-TYRW-I4TT a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Accademia Carrara di Belle Arti"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.accademiacarrara.bergamo.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:JXNZ-CS2Q-DC44-VT44 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Archivio di Stato di Modena"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.archivi.beniculturali.it/ASMO/index.html"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:KAFP-8DKA-XWLW-A1TX a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "State Hermitage Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.hermitagemuseum.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:LHV7-5QHT-FZMQ-H8P7 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Biblioteca Comunale di Città di Castello"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.cdcnet.net/infocitta/cultura/archiviocomune.asp"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:LIO8-A0GR-M7WV-88MN a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Archivio della Galleria Borghese"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.galleriaborghese.it/borghese/it/default.htm"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:MY20-RA4A-14PB-7JDR a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Archivio di Stato di Perugia"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.archivi.beniculturali.it/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:N58G-02CX-OYEW-RBHK a crm:E74_Group ;
+ngo:SC-1D59-DRKB-VD43-O93G a crm:E74_Group ;
     crm:P2_has_type aat:300026004,
         aat:300403974,
         crm:E74_Group ;
@@ -504,147 +64,8 @@ ngo:N58G-02CX-OYEW-RBHK a crm:E74_Group ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ] .
 
-ngo:NXNZ-EA7U-3APS-NC2Y a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The J. Paul Getty Museum at the Getty Center in Los Angeles houses European paintings, drawings, sculpture, illuminated manuscripts, decorative arts, and European and American photographs."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The J. Paul Getty Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.getty.edu/museum/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:NYEW-BWRG-48OL-3FP3 a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The ‘Centre de recherche et de restauration des musées de France’, abbreviated as ‘C2RMF’ (Centre of Research and Conservation of Museums in France), is located in Paris and has been created through the fusion of the ‘Laboratoire de recherche des musées de France’ (Laboratory of Research of Museums in France), founded in 1931, and the ‘Service de restauration des musées de France’ (Service of Conservation of Museums in France). It applies the policy concerning research, preventive conservation and restoration determined by the Governing board of the Museums of France . The Centre's archives comprise today 40.000 laboratory reports and 34.000 restoration dossiers, concerning more than 60.000 works of art in museums in France."@en,
-        "Né de la fusion du Laboratoire de recherche des musées de France, fondé en 1931, et du Service de restauration des musées de France, le Centre de recherche et de restauration des musées de France (C2RMF), à Paris, met en oeuvre la politique de la Direction des musées de France en matière de recherche, de conservation préventive et de restauration. Constituées dans le cadre de ses missions, les archives scientifiques du C2RMF comprennent aujourd'hui 40 000 rapports de laboratoire et 34 000 dossiers de restauration, concernant plus de 60 000 oeuvres des musées de France."@fr ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "C2RMF"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.c2rmf.fr/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:O9OE-UF06-XA9E-GX4C a crm:E74_Group ;
-    crm:P156_occupies ngo:35U3-OXQ9-JFEN-QVCO ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "When the Museum's new 127,000-square-foot building opens in April 2010, it will create a beautiful home for the permanent collection with dramatically expanded exhibition space highlighted by daylit galleries. The aluminum-clad exterior will be surrounded by exquisite outdoor gardens showcasing large-scale sculpture. Dozens of new art acquisitions will be on view for the first time as North Carolinians come together to celebrate her greatest cultural gem—the transformed North Carolina Museum of Art."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "North Carolina Museum of Art"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.ncartmuseum.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q1459878 .
-
-ngo:OEL2-UN6F-XT14-VLTB a crm:E74_Group ;
-    crm:P156_occupies ngo:SOSF-35Y1-RWG5-A69H ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The Metropolitan Museum of Art, New York, founded in 1870, houses a permanent collection containing more than two million works of art, divided into nineteen curatorial departments. The museum's collection of Old Masters numbers approximately 1,700 paintings."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The Metropolitan Museum of Art"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P50i_is_current_keeper_of ngo:V6MF-ZNCH-6AGY-ZA71 ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.metmuseum.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:OKFG-C966-YI2I-A5VX a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The Devonshire Collection"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.chatsworth.org/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:P6RO-E82F-F8HK-ETNE a crm:E74_Group ;
-    crm:P156_occupies ngo:LQ2D-NHAY-W7S5-3FLC ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "National Gallery of Art"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.nga.gov/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q214867 .
-
-ngo:RHMU-ORYO-NQ20-79KG a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "Drawings, Watercolours and Prints: The Royal Collection contains around 40,000 drawings and watercolours, and 150,000 prints. The collection is particularly strong in Old Master drawings, especially by Italian artists, and Victorian watercolours."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The Royal Collection"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.royalcollection.org.uk/default.asp?action=article&ID=34"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:RY80-A5FJ-YM4A-8OJV a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Sotheby's Picture Library"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.sothebys.com/picture-library/index.html"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:VHEA-S3MW-F1QQ-S58T a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Museo e Galleria di Villa Borghese"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.galleriaborghese.it/borghese/it/default.htm"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:VIZZ-JLTK-JX3Y-H47Q a crm:E74_Group ;
-    crm:P156_occupies ngo:FA4Z-KOWC-RP1C-90XZ ;
+ngo:SC-2536-595A-W4M2-YZOR a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-LYCL-2BCR-PCTD-EHT0 ;
     crm:P2_has_type aat:300025231,
         aat:300026004,
         aat:300403974,
@@ -660,51 +81,21 @@ ngo:VIZZ-JLTK-JX3Y-H47Q a crm:E74_Group ;
                 crm:E73_Information_Object ] ;
     owl:sameAs wd:Q212459 .
 
-ngo:WZEG-17YO-SIWI-1UXO a crm:E74_Group ;
+ngo:SC-28LS-TXUA-KYLW-5FC7 a crm:E74_Group ;
     crm:P2_has_type aat:300026004,
         aat:300403974,
         crm:E74_Group ;
     crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Museum Boijmans Van Beuningen"@en ;
+            rdfs:label "State Hermitage Museum"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
     crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.boijmans.nl/nl/"@en ;
+            rdfs:label "http://www.hermitagemuseum.org/"@en ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ] .
 
-ngo:XBQJ-R2AU-5YRY-MJA8 a crm:E74_Group ;
-    crm:P2_has_type aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note ""@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Royal Academy of Arts"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.royalacademy.org.uk/"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q270920 .
-
-ngo:Y448-X8EV-4JG5-EZ8Z a crm:E74_Group ;
-    crm:P2_has_type aat:300025231,
-        aat:300026004,
-        aat:300403974,
-        crm:E74_Group ;
-    crm:P3_has_note "The Gemäldegalerie possesses one of the world's finest collections of European art from the 13th to 18th century. After the collection was founded in 1830, it was systematically built up and perfected. The exhibition includes masterpieces by artists from every age of art history such as van Eyck, Bruegel, Dürer, Raphael, Tizian, Caravaggio, Rubens, Vermeer and Rembrandt."@en ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Gemäldegalerie, Staatliche Museen"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.smb.spk-berlin.de/smb/standorte/index.php?lang=en&p=2&objID=35&n=5"@en ;
-            crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] .
-
-ngo:YUKZ-FX80-6I3V-UPVU a crm:E74_Group ;
+ngo:SC-2LXC-X0Q6-I42G-QELL a crm:E74_Group ;
     crm:P2_has_type aat:300025231,
         aat:300026004,
         aat:300403974,
@@ -720,38 +111,65 @@ ngo:YUKZ-FX80-6I3V-UPVU a crm:E74_Group ;
                 crm:E73_Information_Object ] ;
     owl:sameAs wd:Q1752085 .
 
-ngo:Z8VP-QLSL-RS11-YCXJ a crm:E74_Group ;
+ngo:SC-36HU-GYL9-17FP-TCSN a crm:E74_Group ;
     crm:P2_has_type aat:300026004,
         aat:300403974,
         crm:E74_Group ;
     crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Galleria Nazionale delle Marche"@en ;
+            rdfs:label "Victoria & Albert Museum"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
     crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.palazzoducaleurbino.it/"@en ;
+            rdfs:label "http://www.vam.ac.uk/"@en ;
             crm:P2_has_type aat:300265431,
-                crm:E73_Information_Object ] ;
-    owl:sameAs wd:Q1080108 .
+                crm:E73_Information_Object ] .
 
-ngo:Z9YZ-NJ41-38PV-IMGT a crm:E74_Group ;
+ngo:SC-3IFE-ZDV0-SBFJ-RFC5 a crm:E74_Group ;
     crm:P2_has_type aat:300025231,
         aat:300026004,
         aat:300403974,
         crm:E74_Group ;
-    crm:P3_has_note "Old Master Paintings: The 3000 paintings offer an almost uninterrupted survey of the development of European painting from the 13th to the late 18th centuries."@en ;
+    crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Szepmuveszeti Museum"@en ;
+            rdfs:label "Réunion des musées nationaux"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
     crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
-            rdfs:label "http://www.szepmuveszeti.hu/"@en ;
+            rdfs:label "http://www.photo.rmn.fr/"@en ;
             crm:P2_has_type aat:300265431,
                 crm:E73_Information_Object ] .
 
-ngo:ZCZ4-3J9V-7PO3-USGD a crm:E74_Group ;
-    crm:P156_occupies ngo:2O3J-EAVR-TJNK-8J3B ;
+ngo:SC-3SVW-2B1A-KN3A-OVRL a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Brighton Museum & Art Gallery"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.virtualmuseum.info/collections/cHome_fineart.asp"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-4BXE-DXJ8-4DI3-3FCC a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Archivio di Stato di Roma"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.archiviodistatoroma.beniculturali.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-4WYM-KRX9-53RJ-JCAC a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-OMWI-A5NO-5RMQ-ONGC ;
     crm:P2_has_type aat:300025231,
         aat:300026004,
         aat:300403974,
@@ -767,89 +185,588 @@ ngo:ZCZ4-3J9V-7PO3-USGD a crm:E74_Group ;
                 crm:E73_Information_Object ] ;
     owl:sameAs wd:Q1241163 .
 
-ngo:2AWX-BPDG-2H2T-K6BM a crm:E53_Place ;
-    rdfs:label "Boston"@en ;
-    crm:P2_has_type crm:E53_Place .
-
-ngo:2O3J-EAVR-TJNK-8J3B a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
+ngo:SC-6DHW-SWUC-97JS-2VO0 a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-QGLA-LQ1P-K6IH-JTJP ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The National Gallery of Scotland in Edinburgh, founded in 1850, houses the national collection of fine art from the early Renaissance to the end of the nineteenth century."@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Dulwich Picture Gallery"@en ;
+            rdfs:label "The National Gallery of Scotland"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:Q84 .
+    crm:P50i_is_current_keeper_of ngo:SC-TX7F-OKMM-6OE1-RE6H ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.nationalgalleries.org/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
 
-ngo:35U3-OXQ9-JFEN-QVCO a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "North Carolina Museum of Art"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:I3YF-1ZQR-WT19-RYG4 .
-
-ngo:5ZZ6-QSTL-S56V-2DNJ a crm:E53_Place ;
-    rdfs:label "S%C3%A3o Paulo"@en ;
-    crm:P2_has_type crm:E53_Place .
-
-ngo:7XCV-A3G4-2F2J-O4HE a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
-    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Isabella Stewart Gardner Museum"@en ;
-            crm:P2_has_type aat:300404626,
-                crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:2AWX-BPDG-2H2T-K6BM .
-
-ngo:BH7A-TVI4-Z00Q-T8LB a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
+ngo:SC-6YGC-QVKC-GY18-URCU a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-L953-PK90-4FP9-K422 ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
             rdfs:label "Musée Condé"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:ZSLE-X5DH-A1ZD-AEG4 .
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.musee-conde.fr/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
 
-ngo:FA4Z-KOWC-RP1C-90XZ a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
+ngo:SC-7977-MQJ7-24ER-OYNX a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "Museu Nacional de Arte Antiga"@en ;
+            rdfs:label "Archivio di Stato di Modena"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:VZ9H-P2A5-2UCU-UWIV .
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.archivi.beniculturali.it/ASMO/index.html"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
 
-ngo:I3YF-1ZQR-WT19-RYG4 a crm:E53_Place ;
-    rdfs:label "Raleigh"@en ;
-    crm:P2_has_type crm:E53_Place .
-
-ngo:LQ2D-NHAY-W7S5-3FLC a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
+ngo:SC-7AV6-J74F-IEM2-ATP8 a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-Q4QE-MOWE-OY2C-A9D5 ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
             rdfs:label "National Gallery of Art"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:XOF6-4XHQ-VCM1-5AZE .
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.nga.gov/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q214867 .
 
-ngo:MP0G-67SW-UOJ7-WC22 a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
+ngo:SC-8T16-P25E-VITT-V9X6 a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-            rdfs:label "The British Museum"@en ;
+            rdfs:label "Biblioteca Comunale Augusta di Perugia"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:Q84 .
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://biblioweb.comune.perugia.it/home.php"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
 
-ngo:MWEP-WG5M-088C-I0MF a crm:E53_Place ;
-    crm:P2_has_type aat:300312292,
-        crm:E53_Place ;
+ngo:SC-9F2Q-VKDM-QAFG-OYW4 a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-L66P-BVX4-O99A-GRZR ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The Metropolitan Museum of Art, New York, founded in 1870, houses a permanent collection containing more than two million works of art, divided into nineteen curatorial departments. The museum's collection of Old Masters numbers approximately 1,700 paintings."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The Metropolitan Museum of Art"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P50i_is_current_keeper_of ngo:SC-T676-DZB9-T6VK-K859 ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.metmuseum.org/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-ALV3-2S8E-M61M-CK6B a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Museo Nazionale di Capodimonte"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.museo-capodimonte.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-ASKP-ECXK-EX53-0SR9 a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Archivio di Stato di Firenze"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.archiviodistato.firenze.it/nuovosito/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-BBD1-BGKK-L1QT-6OZP a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The ‘Centre de recherche et de restauration des musées de France’, abbreviated as ‘C2RMF’ (Centre of Research and Conservation of Museums in France), is located in Paris and has been created through the fusion of the ‘Laboratoire de recherche des musées de France’ (Laboratory of Research of Museums in France), founded in 1931, and the ‘Service de restauration des musées de France’ (Service of Conservation of Museums in France). It applies the policy concerning research, preventive conservation and restoration determined by the Governing board of the Museums of France . The Centre's archives comprise today 40.000 laboratory reports and 34.000 restoration dossiers, concerning more than 60.000 works of art in museums in France."@en,
+        "Né de la fusion du Laboratoire de recherche des musées de France, fondé en 1931, et du Service de restauration des musées de France, le Centre de recherche et de restauration des musées de France (C2RMF), à Paris, met en oeuvre la politique de la Direction des musées de France en matière de recherche, de conservation préventive et de restauration. Constituées dans le cadre de ses missions, les archives scientifiques du C2RMF comprennent aujourd'hui 40 000 rapports de laboratoire et 34 000 dossiers de restauration, concernant plus de 60 000 oeuvres des musées de France."@fr ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "C2RMF"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.c2rmf.fr/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-BFXW-XDMD-WB89-WZSH a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Pinacoteca di Brera"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.brera.beniculturali.it/HomePage"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q150066 .
+
+ngo:SC-BUHM-9G36-XY7U-4XCC a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Biblioteca Oliveriana di Pesaro"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "© Biblioteca Oliveriana di Pesaro"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ],
+        [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.oliveriana.pu.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-BW2Z-N3A3-I2JZ-B12Y a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Biblioteca Comunale di Città di Castello"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.cdcnet.net/infocitta/cultura/archiviocomune.asp"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-C05G-1X29-7C5U-V1S4 a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-44KV-UDGD-2DRP-RYKC ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Isabella Stewart Gardner Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.gardnermuseum.org/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q49135 .
+
+ngo:SC-C80P-JOME-V2D6-T2LF a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Galleria Nazionale delle Marche"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.palazzoducaleurbino.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q1080108 .
+
+ngo:SC-CDI9-X136-6X3Q-KR14 a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Museo e Galleria di Villa Borghese"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.galleriaborghese.it/borghese/it/default.htm"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-EDYP-S9DS-PZRN-J97H a crm:E53_Place ;
+    rdfs:label "Room 8"@en ;
+    crm:P2_has_type crm:E53_Place ;
+    crm:P89_falls_within ngo:SC-LVBN-BZW2-7L8K-4T9C .
+
+ngo:SC-F97P-B66U-OQCH-1YCH a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Archivio Capitolino di Roma"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.archiviocapitolino.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-FECE-AFKV-T26H-8DOQ a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Biblioteca Nazionale Centrale di Firenza"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.bncf.firenze.sbn.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-FZVQ-HXQ7-I47W-YDHK a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-QRAX-4DMT-C3YP-Y9MQ ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
             rdfs:label "Museu de Arte de São Paulo Assis Chateaubriand"@en ;
             crm:P2_has_type aat:300404626,
                 crm:E42_Identifier ] ;
-    crm:P53_has_former_or_current_location ngo:5ZZ6-QSTL-S56V-2DNJ .
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.masp.art.br/teaser/index.html"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-GEGW-VLVG-ICGL-9U21 a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Musei Vaticani"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://mv.vatican.va/3_EN/pages/MV_Home.html"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q182955 .
+
+ngo:SC-GIG5-2EUS-HZLJ-EQWD a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Sotheby's Picture Library"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.sothebys.com/picture-library/index.html"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-HWFV-JYYJ-TF2X-0RCD a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The Gemäldegalerie possesses one of the world's finest collections of European art from the 13th to 18th century. After the collection was founded in 1830, it was systematically built up and perfected. The exhibition includes masterpieces by artists from every age of art history such as van Eyck, Bruegel, Dürer, Raphael, Tizian, Caravaggio, Rubens, Vermeer and Rembrandt."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Gemäldegalerie, Staatliche Museen"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.smb.spk-berlin.de/smb/standorte/index.php?lang=en&p=2&objID=35&n=5"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-J0HM-PPXY-STE4-2Q5K a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-ZK2F-P46O-LZOP-EOM0 ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "When the Museum's new 127,000-square-foot building opens in April 2010, it will create a beautiful home for the permanent collection with dramatically expanded exhibition space highlighted by daylit galleries. The aluminum-clad exterior will be surrounded by exquisite outdoor gardens showcasing large-scale sculpture. Dozens of new art acquisitions will be on view for the first time as North Carolinians come together to celebrate her greatest cultural gem—the transformed North Carolina Museum of Art."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "North Carolina Museum of Art"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.ncartmuseum.org/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q1459878 .
+
+ngo:SC-JEC5-HT0G-UGY5-CDFD a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "Located in midtown Manhattan at Madison Avenue and 36th Street, the Morgan houses one of the world's greatest collections of artistic, literary, and musical works, from ancient times to the medieval and Renaissance periods to the present day."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The Morgan Library and Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.themorgan.org/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-JRXN-LP4M-KSNG-JWYH a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Archivio della Galleria Borghese"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.galleriaborghese.it/borghese/it/default.htm"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-KRB9-IAN1-MAYA-9G8E a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The J. Paul Getty Museum at the Getty Center in Los Angeles houses European paintings, drawings, sculpture, illuminated manuscripts, decorative arts, and European and American photographs."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The J. Paul Getty Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.getty.edu/museum/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-KSXD-94QZ-4TDR-UBQM a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "Drawings, Watercolours and Prints: The Royal Collection contains around 40,000 drawings and watercolours, and 150,000 prints. The collection is particularly strong in Old Master drawings, especially by Italian artists, and Victorian watercolours."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The Royal Collection"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.royalcollection.org.uk/default.asp?action=article&ID=34"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-LH55-PEZ5-29GJ-4BSY a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Accademia Carrara di Belle Arti"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.accademiacarrara.bergamo.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-P4MT-LPNF-GVYR-K252 a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Archivio di Stato di Perugia"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.archivi.beniculturali.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-SHKS-J5Y5-TYHW-61TK a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Galleria Nazionale dell'Umbria"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.gallerianazionaleumbria.it/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-T0UC-SQU5-X8P0-EW92 a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The world renown of the Gemäldegalerie Alte Meister (Old Masters Picture Gallery) in Dresden is founded in its outstanding collection of high-ranking masterpieces. Among the primary focuses of its holdings are Italian painting of the Renaissance - as exemplified by major works of Raphael, Giorgione and Titian - as well as works in the Mannerist and Baroque styles. Of equal significance is the inventory of Dutch and Flemish paintings of the seventeenth century. Not only are Rembrandt and his followers represented with a large number of works of superb quality, but the collection also comprises paintings by Vermeer and Ruysdael and the great Flemish artists Rubens, Jordaens and Van Dyck."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Staatliche Kunstsammlungen Dresden, Gemäldegalerie Alte Meister"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.skd-dresden.de/en/museen/alte_meister.html"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-UGN3-DQGD-YL8Q-GYVW a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "Das Kunsthistorische Museum in Wien zählt zu den größten und bedeutendsten Museen der Welt. In den reichen Sammlungen befinden sich Objekte aus sieben Jahrtausenden, von der Zeit des Alten Ägypten bis zum Ende des 18. Jahrhunderts. Besondere Schwerpunkte liegen in der Kunst der Renaissance und des Barock."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Kunsthistorisches Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.khm.at/de/kunsthistorisches-museum"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q95569 .
+
+ngo:SC-UM96-0HAA-L17W-C5Z8 a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Pinacoteca Comunale di Città di Castello"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.cdcnet.net/pinacoteca/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-UR0H-S3F0-PIEE-PC8V a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Royal Academy of Arts"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.royalacademy.org.uk/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q270920 .
+
+ngo:SC-VYRQ-JNPN-4ISH-HCJV a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-LVBN-BZW2-7L8K-4T9C ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "The National Gallery in London, founded in 1824, houses a rich collection of over 2,500 paintings dating from the mid-13th century to 1900 in its home on Trafalgar Square."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The National Gallery"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P50i_is_current_keeper_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.nationalgallery.org.uk/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] ;
+    owl:sameAs wd:Q180788 .
+
+ngo:SC-WVYW-2WTZ-AD6W-F4IB a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note "Old Master Paintings: The 3000 paintings offer an almost uninterrupted survey of the development of European painting from the 13th to the late 18th centuries."@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Szepmuveszeti Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.szepmuveszeti.hu/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-XY5S-ROK2-6C8O-6204 a crm:E74_Group ;
+    crm:P2_has_type aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The Devonshire Collection"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.chatsworth.org/"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-YNDK-OZQU-JHXD-S1RM a crm:E74_Group ;
+    crm:P156_occupies ngo:SC-3N16-XXNZ-4W4Q-1C6O ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The British Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.britishmuseum.org/default.aspx"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
+
+ngo:SC-ZPP2-AY7E-YCKU-Y8A6 a crm:E74_Group ;
+    crm:P2_has_type aat:300025231,
+        aat:300026004,
+        aat:300403974,
+        crm:E74_Group ;
+    crm:P3_has_note ""@en ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Graphische Sammlung, Städel Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P70i_is_documented_in [ a crm:E73_Information_Object ;
+            rdfs:label "http://www.staedelmuseum.de/sm/index.php?StoryID=11"@en ;
+            crm:P2_has_type aat:300265431,
+                crm:E73_Information_Object ] .
 
 ngo:Q23436 a crm:E53_Place ;
     rdfs:label "Edinburgh"@en ;
@@ -859,7 +776,41 @@ ngo:Q60 a crm:E53_Place ;
     rdfs:label "New York"@en ;
     crm:P2_has_type crm:E53_Place .
 
-ngo:SOSF-35Y1-RWG5-A69H a crm:E53_Place ;
+ngo:SC-034K-TC4G-3O6M-N6PU a crm:E53_Place ;
+    rdfs:label "S%C3%A3o Paulo"@en ;
+    crm:P2_has_type crm:E53_Place .
+
+ngo:SC-1VKG-F5NB-K3LQ-ZHHT a crm:E53_Place ;
+    rdfs:label "Lisbon"@en ;
+    crm:P2_has_type crm:E53_Place .
+
+ngo:SC-3HAO-TRTT-IUF8-S0DG a crm:E53_Place ;
+    rdfs:label "Raleigh"@en ;
+    crm:P2_has_type crm:E53_Place .
+
+ngo:SC-3N16-XXNZ-4W4Q-1C6O a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "The British Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:Q84 .
+
+ngo:SC-44KV-UDGD-2DRP-RYKC a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Isabella Stewart Gardner Museum"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:SC-PNTC-NVT5-0AHF-WY3N .
+
+ngo:SC-CFVS-05XO-RCQO-LL0Q a crm:E53_Place ;
+    rdfs:label "Chantilly"@en ;
+    crm:P2_has_type crm:E53_Place .
+
+ngo:SC-L66P-BVX4-O99A-GRZR a crm:E53_Place ;
     crm:P2_has_type aat:300312292,
         crm:E53_Place ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
@@ -868,7 +819,47 @@ ngo:SOSF-35Y1-RWG5-A69H a crm:E53_Place ;
                 crm:E42_Identifier ] ;
     crm:P53_has_former_or_current_location ngo:Q60 .
 
-ngo:TM4B-5A4R-8I8V-XRTG a crm:E53_Place ;
+ngo:SC-L953-PK90-4FP9-K422 a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Musée Condé"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:SC-CFVS-05XO-RCQO-LL0Q .
+
+ngo:SC-LYCL-2BCR-PCTD-EHT0 a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Museu Nacional de Arte Antiga"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:SC-1VKG-F5NB-K3LQ-ZHHT .
+
+ngo:SC-OMWI-A5NO-5RMQ-ONGC a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Dulwich Picture Gallery"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:Q84 .
+
+ngo:SC-PNTC-NVT5-0AHF-WY3N a crm:E53_Place ;
+    rdfs:label "Boston"@en ;
+    crm:P2_has_type crm:E53_Place .
+
+ngo:SC-Q4QE-MOWE-OY2C-A9D5 a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "National Gallery of Art"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:SC-USYX-K8Y2-GY5I-MD0D .
+
+ngo:SC-QGLA-LQ1P-K6IH-JTJP a crm:E53_Place ;
     crm:P2_has_type aat:300312292,
         crm:E53_Place ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
@@ -877,34 +868,44 @@ ngo:TM4B-5A4R-8I8V-XRTG a crm:E53_Place ;
                 crm:E42_Identifier ] ;
     crm:P53_has_former_or_current_location ngo:Q23436 .
 
-ngo:V6MF-ZNCH-6AGY-ZA71 a crm:E78_Curated_Holding ;
-    rdfs:label "The Metropolitan Museum Collection"@en ;
-    crm:P2_has_type aat:300443858,
-        crm:E78_Curated_Holding .
+ngo:SC-QRAX-4DMT-C3YP-Y9MQ a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "Museu de Arte de São Paulo Assis Chateaubriand"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:SC-034K-TC4G-3O6M-N6PU .
 
-ngo:VZ9H-P2A5-2UCU-UWIV a crm:E53_Place ;
-    rdfs:label "Lisbon"@en ;
-    crm:P2_has_type crm:E53_Place .
-
-ngo:XOF6-4XHQ-VCM1-5AZE a crm:E53_Place ;
-    rdfs:label "Washington"@en ;
-    crm:P2_has_type crm:E53_Place .
-
-ngo:Z6NC-405S-9QVG-QCTP a crm:E78_Curated_Holding ;
-    rdfs:label "The National Gallery of Scotland Collection"@en ;
-    crm:P2_has_type aat:300443858,
-        crm:E78_Curated_Holding .
-
-ngo:ZGSO-VAD2-9Z05-06C8 a crm:E78_Curated_Holding ;
+ngo:SC-STNC-17UK-NFCM-HKT6 a crm:E78_Curated_Holding ;
     rdfs:label "The National Gallery Collection"@en ;
     crm:P2_has_type aat:300443858,
         crm:E78_Curated_Holding .
 
-ngo:ZSLE-X5DH-A1ZD-AEG4 a crm:E53_Place ;
-    rdfs:label "Chantilly"@en ;
+ngo:SC-T676-DZB9-T6VK-K859 a crm:E78_Curated_Holding ;
+    rdfs:label "The Metropolitan Museum Collection"@en ;
+    crm:P2_has_type aat:300443858,
+        crm:E78_Curated_Holding .
+
+ngo:SC-TX7F-OKMM-6OE1-RE6H a crm:E78_Curated_Holding ;
+    rdfs:label "The National Gallery of Scotland Collection"@en ;
+    crm:P2_has_type aat:300443858,
+        crm:E78_Curated_Holding .
+
+ngo:SC-USYX-K8Y2-GY5I-MD0D a crm:E53_Place ;
+    rdfs:label "Washington"@en ;
     crm:P2_has_type crm:E53_Place .
 
-ngo:S780-8SSR-HNF5-KW5T a crm:E53_Place ;
+ngo:SC-ZK2F-P46O-LZOP-EOM0 a crm:E53_Place ;
+    crm:P2_has_type aat:300312292,
+        crm:E53_Place ;
+    crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+            rdfs:label "North Carolina Museum of Art"@en ;
+            crm:P2_has_type aat:300404626,
+                crm:E42_Identifier ] ;
+    crm:P53_has_former_or_current_location ngo:SC-3HAO-TRTT-IUF8-S0DG .
+
+ngo:SC-LVBN-BZW2-7L8K-4T9C a crm:E53_Place ;
     crm:P2_has_type aat:300312292,
         crm:E53_Place ;
     crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;

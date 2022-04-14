@@ -42,6 +42,19 @@ def query_objects(graph, subj, pred, obj, ugp=True):
             objects_list.append(o)
         return objects_list
 
+# imaging event plus connections between the sample and image added by JP 13/04/22        
+def query_subjects(graph, subj, pred, obj, ugp=True):
+        subjects_list = []
+        for s, p, o in graph.triples((subj, pred, obj)):
+            if ugp == "full":
+              s = str(get_property(s, True, True))
+            elif ugp == "str":
+              s = str(s)
+            elif ugp:
+              s = str(get_property(s))
+            subjects_list.append(s)
+        return subjects_list
+
 def sparql_query_pythonic(csv_format=True):
     qres = g.query(
         """
@@ -230,6 +243,10 @@ def generate_placeholder_PID(input_literal):
         placeholder_PID += str(res)
         placeholder_PID += '-'
     placeholder_PID = placeholder_PID[:-1]
+    
+    # Added to make them a different structure to real ones.
+    placeholder_PID = "SC-" + placeholder_PID
+    
     #input_list = [input_literal, placeholder_PID]
     #fields = ['Literal value','Placeholder PID']
     existing_pid = check_db(input_literal, table_name = 'temp_pids')

@@ -5,56 +5,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/DVJT-SFM1-Y0P0-Q336">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/4NKX-VD0G-UEG7-LJMW"/>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-C91Y-TY8Y-BA85-SOAH">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-XNIV-I7RN-0AM7-AQQ4"/>
+    <crm:P4_has_time_span rdf:nodeID="N0ecd3bd6266f4ea3a877703b8f26aa58"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/WKJ3-SNDQ-YEBV-1L13">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/W9D4-918U-GG28-X44I"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/F5N5-4GGP-MJES-CN3J"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nd4f614c906354869ac4c477accf871ed">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1511</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1511-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1511-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/QNK4-AQFQ-RG01-KQ23">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/KTLH-ISYC-U6P7-0IUZ"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/MY9Z-KAX2-NRMI-9T94"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N2b2f002789fc4fc9918e66d7dbc34eeb">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1506</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1506-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1506-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/U5OQ-JW5V-6YL6-DXB3">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/QUTN-OYIF-UEHY-A3Y8"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/ZGNL-63SI-L5PX-TC7T"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/VRGA-ZW28-95PS-6JTM">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E67_Birth"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E67_Birth"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300069672"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/6MR2-7LZN-WEMB-FEHK"/>
-    <crm:P4_has_time_span rdf:nodeID="N9560ff3eb5d14c9f803531b0f07de4c7"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nc41c6370770b4e05a14254f1787fbdf4">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1515</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1513-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1517-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N95be5e578a04412da12093d1bd33cf6b">
+  <rdf:Description rdf:nodeID="Nf04b1857deae4054a3b9e3c47654f163">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
@@ -63,254 +22,58 @@
     <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
     <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/A9X7-ETDM-7N2Y-O4ZB">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/4ROG-OPQS-R2CG-4PPV"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1913</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/XR3C-8QBO-W434-WBCL">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of DPG243</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N0e0fa5bac1134e5ab87c338e7ed5cf2c">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1504</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1506-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379244">
-    <rdfs:label xml:lang="en">years</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/XICE-YQUE-QBWW-XEIF">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG168</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Na4206f7413534e1f86f2d876b6d7c5b4">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1520</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1520-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1520-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/NW7R-BDW0-HWG9-KGKE">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/8QKM-QG12-BS77-IXBP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/QUTN-OYIF-UEHY-A3Y8">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/353Y-U9QL-LS6J-JSEI"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N98bd7cd827ec4bff94179901818f385a"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/SZ1I-C3Z4-1VQ0-3IDI">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/0FOH-OLYS-PF9K-S7H1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/SAAW-70N9-H32V-LL5Q">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/PIHO-U8IM-TGOT-KACI"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/ENKG-G0G3-QFON-H39S"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/PHR3-Y9VM-221F-5XVL">
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-CN1P-1JLK-VIU8-54CH">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
     <rdfs:label xml:lang="en">History of PE40</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/JZ6Q-2KJ4-ADE6-E9WE">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-TB3A-1JGB-U01X-D9DK">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-UITV-L5WV-BR7R-B9DS"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-VKJU-W0K1-WW0I-0AV1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-8OV2-8SJC-C244-7KPV">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-ID48-BHZV-3RRL-ZI7N"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N4861bd9dd5aa46c892037b6f93fc7837"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-ZMD5-8ICN-7CQN-OM2P">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-P8MR-BEI1-F1XL-G2IZ"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-TTRS-CJJS-HS8Q-BXZ9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-6J06-HM7P-ZXFH-IPAF">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-BTZJ-BD70-PHSP-Q3E1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-G751-SGJA-F48Z-NBA2">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E69_Death"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E69_Death"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300151836"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/6MR2-7LZN-WEMB-FEHK"/>
-    <crm:P4_has_time_span rdf:nodeID="Na4206f7413534e1f86f2d876b6d7c5b4"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-MXXZ-07H6-ZC7L-5WYW"/>
+    <crm:P4_has_time_span rdf:nodeID="Nbdb8596fd2dd41458d94d9f769a71482"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300024979"/>
-    <rdfs:label xml:lang="en">Raphael</rdfs:label>
-    <crm:P98i_was_born rdf:resource="https://data.ng-london.org.uk/VRGA-ZW28-95PS-6JTM"/>
-    <crm:P100i_died_in rdf:resource="https://data.ng-london.org.uk/JZ6Q-2KJ4-ADE6-E9WE"/>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0E50-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-E5NG-WL0Q-WH7S-HHO0"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-AJZ3-J4PZ-Q2KY-MUQ2"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/EWEV-YA6H-AMT9-20L5">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 46</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/OJ3O-WKCU-IRKH-7QVE">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/RIMX-RO14-JJF4-2NYN"/>
-    <crm:P3_has_note xml:lang="en">Bought with the assistance of the Heritage Lottery Fund, The Art Fund (with a contribution from the Wolfson Foundation), the American Friends of the National Gallery, the George Beaumont Group, Sir Christopher Ondaatje and through public appeal, 2004</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/KR38-ZFKM-V7KS-ASGI">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-EMSF-510A-ER01-A1H5">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/XICE-YQUE-QBWW-XEIF"/>
-    <crm:P4_has_time_span rdf:nodeID="N067988ea47ca4d18ad962e88b058ff5a"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-K0IA-AJYM-2V96-HFP0"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N89a4a1e21e614b82a2e04ad4d179412a"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/6MSN-3J0E-B9F3-C0FG">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/S840-E79A-YH1X-TKKC"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/XDQK-4ZXO-BGBA-DHN5"/>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-KXUI-SDCD-PAUF-W1AR">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-CM10-NNUI-W5TR-CGPG"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-7P3F-JHZJ-P611-YRQM"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N3e0d568259ee405c83249674503c3630">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1502-1503</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1500-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6141"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/Y4N0-JNGT-MOPV-GWNH">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/XWFJ-FNGX-ODGU-ZWC6"/>
-    <crm:P4_has_time_span rdf:nodeID="N2a480801aaf14d53bd0307e5a8d9a334"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/LB58-56JV-IYIY-MC6X">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/7OE0-H9SK-RDUW-YPGK"/>
-    <crm:P4_has_time_span rdf:nodeID="N0e0fa5bac1134e5ab87c338e7ed5cf2c"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N8c8019d7e14f4d88ba6f07c2bc51bbc8">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1502-1503</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1500-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6141"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N9560ff3eb5d14c9f803531b0f07de4c7">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1483</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1483-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1483-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1803ee5d9f114671b07c8faba30fe5ed">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1503-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/36OL-5Q0W-QTR3-F2JK">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG2069</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nca5aafe275044d38b3e7c064a1180288">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1501-1502</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1499-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1504-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6137"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/GHPB-BM2B-FT4T-K3I2">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/1927-BU6F-R9TT-5SGB"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N3e0d568259ee405c83249674503c3630"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/X8ZB-4D4Q-A7VI-K8VZ">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/7OE0-H9SK-RDUW-YPGK"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1847</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/AK56-DUMB-6IPO-X1DA">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/STPC-EL4T-GD7T-VLA9"/>
-    <crm:P3_has_note xml:lang="en">Mond Bequest, 1924</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/PIHO-U8IM-TGOT-KACI">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/44V7-VJ3Q-WXCX-5C28"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N530b4784a2674a3aa614903633c4f8b5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/WSDW-JIQU-YP85-S975">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG929</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/FVJC-XNPZ-Y4XB-S323">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/8QKM-QG12-BS77-IXBP"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N1803ee5d9f114671b07c8faba30fe5ed"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/BLJ4-BDW3-FTFS-FKL8">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/MVQ7-BOIO-PKF4-RY14"/>
-    <crm:P4_has_time_span rdf:nodeID="N95be5e578a04412da12093d1bd33cf6b"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/A82O-66G2-NVRU-2TEL">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/36OL-5Q0W-QTR3-F2JK"/>
-    <crm:P3_has_note xml:lang="en">Presented by Mrs Eve Mackintosh, 1906</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/MPXD-AI0Y-TM5J-1JDZ">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/M1IG-8GJR-O5AX-L14A"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1865</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N067988ea47ca4d18ad962e88b058ff5a">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1507</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1509-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N99a5171852d4499caf47a510dfcc92fa">
+  <rdf:Description rdf:nodeID="N4f08e46d62e840d69ca38252c67ccf00">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
@@ -319,247 +82,7 @@
     <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1512-12-31</crm:P82b_end_of_the_end>
     <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6182"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="N2a480801aaf14d53bd0307e5a8d9a334">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0EWJ-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/0EW9-8C5R-LM2A-6W8D"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/IUIR-5HBB-XWM3-0R7O"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/C59B-469X-U8RF-IDKD">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300024979"/>
-    <rdfs:label xml:lang="en">After Raphael</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/F5N5-4GGP-MJES-CN3J">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/AZAH-V6QG-7EBZ-RO3G"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/XDQK-4ZXO-BGBA-DHN5">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/XR3C-8QBO-W434-WBCL"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/M1IG-8GJR-O5AX-L14A">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG744</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/DOYZ-3DH8-NINK-FKT6">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of PE39</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0FJS-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/Y4N0-JNGT-MOPV-GWNH"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/4QR2-SB2I-E094-5BC0"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N369d9062b8b64f76bbeb94785cb4193f">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/W9D4-918U-GG28-X44I">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/AZAH-V6QG-7EBZ-RO3G"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N87436e7be4004311870465b83de49fae"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N87436e7be4004311870465b83de49fae">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/4ZXR-FA88-8COK-PSQ9">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG6480</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N20770114f034432bb75b76defe7c437f">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1515</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1513-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1517-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/4NKX-VD0G-UEG7-LJMW">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 30ab</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0EXM-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/KR38-ZFKM-V7KS-ASGI"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/FP10-I6DO-XXBL-JRE5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/R191-RPFB-P5G5-BF5B">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/M1IG-8GJR-O5AX-L14A"/>
-    <crm:P4_has_time_span rdf:nodeID="N99a5171852d4499caf47a510dfcc92fa"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/ZGNL-63SI-L5PX-TC7T">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/353Y-U9QL-LS6J-JSEI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/YE3U-OQOB-ORPB-MYEJ">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/0FOH-OLYS-PF9K-S7H1"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N20770114f034432bb75b76defe7c437f"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/4ROG-OPQS-R2CG-4PPV">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG2919</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/2E5J-KRCI-DM1Y-CAP6">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/4NKX-VD0G-UEG7-LJMW"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="Nbf6e31b660c046b787000a252609f446"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/9AQD-8IXW-25SV-2LP1">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/MVQ7-BOIO-PKF4-RY14"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N234ce2e90a5e4707ab7982ef22738752">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1507-1508</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1508-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/XU3M-YNP8-PQRZ-GJ5A">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/DOYZ-3DH8-NINK-FKT6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/K9HN-ZRAI-ZGQK-SY5P">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/YE3U-OQOB-ORPB-MYEJ"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SZ1I-C3Z4-1VQ0-3IDI"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/THG6-BX76-RMRR-6HOE">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/PHR3-Y9VM-221F-5XVL"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N46349e6a277441d79bcb4da2d93fbf82">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N00af89bf0c784af18fb4cbaf0645ba3a">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1506-1507</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1504-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1509-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6161"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/BA6F-FC59-7UDZ-B1D6">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/PHR3-Y9VM-221F-5XVL"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="Nca9dd36931894184a4c25aaafe20c1dc"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/XZG6-XHAQ-LDRI-TPVS">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/BKPI-VK2T-W9FZ-ARU3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/G0LR-XHYZ-4YC6-X3UX">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/BLJ4-BDW3-FTFS-FKL8"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/9AQD-8IXW-25SV-2LP1"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N016475d17b9a4faf8f734d928408d5d8">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1506</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1504-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1508-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/4QR2-SB2I-E094-5BC0">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/XWFJ-FNGX-ODGU-ZWC6"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1885</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/8JSO-Z4S8-HJ74-FZEX">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/DJ9F-LXKX-NTH7-YN0D"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/WS5O-FH2N-Y10M-B769"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/MY9Z-KAX2-NRMI-9T94">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/7BVD-2J47-EM53-OQCD"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/STPC-EL4T-GD7T-VLA9">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG3943</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0EW9-8C5R-LM2A-6W8D">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/4ZXR-FA88-8COK-PSQ9"/>
-    <crm:P4_has_time_span rdf:nodeID="N369d9062b8b64f76bbeb94785cb4193f"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0F8W-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/LB58-56JV-IYIY-MC6X"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/X8ZB-4D4Q-A7VI-K8VZ"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N760e6544e99e4bb98a14bc88ee68f8af">
+  <rdf:Description rdf:nodeID="Ndacd0f1b09bc43f780ab1b67501faad7">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
@@ -568,7 +91,182 @@
     <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
     <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6141"/>
   </rdf:Description>
-  <rdf:Description rdf:nodeID="Ne4da4b4502984ec6a38039212e6ea6d0">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-YNLX-9AYO-TIEA-PT85">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-V72B-2FK3-1CF5-Q7FD"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N6f3d5b3fa6c74d5e8aa3ce1d48c476ab"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N98ddcb5615d24929a5b7f419c234acaa">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1515</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1513-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1517-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300024979"/>
+    <rdfs:label xml:lang="en">Raphael</rdfs:label>
+    <crm:P98i_was_born rdf:resource="https://data.ng-london.org.uk/SC-6BQ8-FVK7-HRTW-UC0C"/>
+    <crm:P100i_died_in rdf:resource="https://data.ng-london.org.uk/SC-G751-SGJA-F48Z-NBA2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-BTZJ-BD70-PHSP-Q3E1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of PE38</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f3d5b3fa6c74d5e8aa3ce1d48c476ab">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1502-1503</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1500-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-O18F-OMET-H72I-RG1J">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-5YW1-RT5V-58J9-1JV5"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1885</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfa502908c06d483f9fb1364c181a3d22">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1515</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1513-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1517-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-5YW1-RT5V-58J9-1JV5">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG1171</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-QCNX-0ALM-4UUK-CVFX">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-QOEY-YTBX-60QD-9NVC"/>
+    <crm:P4_has_time_span rdf:nodeID="Ncd11393c4e2f45d4b30795b5868ccace"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-47DR-LXY1-869D-97E4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-70TO-JVWZ-DYNJ-7HJO"/>
+    <crm:P4_has_time_span rdf:nodeID="Nf04b1857deae4054a3b9e3c47654f163"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-G9CS-2ZTJ-8C7W-19WM">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 65</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-C4RJ-O5I5-WTND-FM8S">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 1958</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-AJZ3-J4PZ-Q2KY-MUQ2">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-OOBL-GUOL-06BP-U06T"/>
+    <crm:P3_has_note xml:lang="en">Bought with the assistance of the Heritage Lottery Fund, The Art Fund (with a contribution from the Wolfson Foundation), the American Friends of the National Gallery, the George Beaumont Group, Sir Christopher Ondaatje and through public appeal, 2004</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-6BQ8-FVK7-HRTW-UC0C">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E67_Birth"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E67_Birth"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300069672"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-MXXZ-07H6-ZC7L-5WYW"/>
+    <crm:P4_has_time_span rdf:nodeID="N8a80d1c8d3fa4e888711b0f704467440"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-65FV-AYYK-L1UF-5347">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-1X9L-5EXZ-BD3B-OW8A"/>
+    <crm:P4_has_time_span rdf:nodeID="N20ad4aa700094000b0c10c9a27114fd8"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-CM10-NNUI-W5TR-CGPG">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-8MT6-51LB-ETV2-WPVC"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N05c450abd2b14be182202c3654063581"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N89a4a1e21e614b82a2e04ad4d179412a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-VKJU-W0K1-WW0I-0AV1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-K5NB-X7B0-CD2D-N2SN"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-META-YLS3-SVNP-YDKT">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-KQXB-JI17-SDLE-7KR1"/>
+    <crm:P4_has_time_span rdf:nodeID="Ndacd0f1b09bc43f780ab1b67501faad7"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-Z7SE-IIPD-O9EQ-1542">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-BTZJ-BD70-PHSP-Q3E1"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="Nfa502908c06d483f9fb1364c181a3d22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-27F3-X8YG-3EKR-CTZM">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-XGXK-2PKP-Y3TI-ZXC8"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-N1DI-ZJS3-2FST-NF7H"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-QAPX-6A8R-GU6R-9WZY">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG929</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-XGXK-2PKP-Y3TI-ZXC8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-30CQ-H7NE-QBYP-5KOC"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N16af5e9fad8d48c489fbce15d1dec75c"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb2efba7fff164f4f90cc807f8f8e2c74">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N57e0b94201af49dca49d9a885f99706e">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
@@ -577,179 +275,19 @@
     <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1513-12-31</crm:P82b_end_of_the_end>
     <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6188"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/MG2W-ZZL2-6SQU-44F1">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/FVJC-XNPZ-Y4XB-S323"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/NW7R-BDW0-HWG9-KGKE"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/8QKM-QG12-BS77-IXBP">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 9</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nbf6e31b660c046b787000a252609f446">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/XCX1-9TNR-SC2L-48DY">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/DOYZ-3DH8-NINK-FKT6"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N2b2f002789fc4fc9918e66d7dbc34eeb"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/K9W2-1ZI2-NCRA-XFPU">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/BGEJ-COJP-RXY8-Z67H"/>
-    <crm:P4_has_time_span rdf:nodeID="Nca5aafe275044d38b3e7c064a1180288"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/KTLH-ISYC-U6P7-0IUZ">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/7BVD-2J47-EM53-OQCD"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N8c8019d7e14f4d88ba6f07c2bc51bbc8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/RIMX-RO14-JJF4-2NYN">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG6596</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/NTIB-HVOV-JCZ8-SJVP">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 4</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/7OE0-H9SK-RDUW-YPGK">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG213</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/1927-BU6F-R9TT-5SGB">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 65</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/Z307-ZGR2-60S7-2S6A">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/DB2X-5CAB-NQH2-PTL1"/>
-    <crm:P4_has_time_span rdf:nodeID="Nd4f614c906354869ac4c477accf871ed"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="Nca9dd36931894184a4c25aaafe20c1dc">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en"> 1509-1510</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1509-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1510-12-31</crm:P82b_end_of_the_end>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/QAH0-ORLK-OOLK-KU1R">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-PF88-FQXK-1C90-P6P7">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/WSDW-JIQU-YP85-S975"/>
-    <crm:P3_has_note xml:lang="en">Wynn Ellis Bequest, 1876</crm:P3_has_note>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-G9CS-2ZTJ-8C7W-19WM"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/7ZUD-PS4A-CP45-VPV9">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/BKPI-VK2T-W9FZ-ARU3"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N016475d17b9a4faf8f734d928408d5d8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/XWFJ-FNGX-ODGU-ZWC6">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of NG1171</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0D0E-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/Z307-ZGR2-60S7-2S6A"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/G6MC-HEEI-YJCP-MR8A"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/IUIR-5HBB-XWM3-0R7O">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-ATCO-A6VE-HHRH-9F25">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/4ZXR-FA88-8COK-PSQ9"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1983</crm:P3_has_note>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-C4RJ-O5I5-WTND-FM8S"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/NEYC-8I5J-SMH2-UFJ2">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/1927-BU6F-R9TT-5SGB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/87H8-J9S1-E9UF-PEJ1">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/WSDW-JIQU-YP85-S975"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/C59B-469X-U8RF-IDKD"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N530b4784a2674a3aa614903633c4f8b5">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
-    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
-    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
-    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/T51D-X6Y0-L4WN-LLUM">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/EWEV-YA6H-AMT9-20L5"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="N234ce2e90a5e4707ab7982ef22738752"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/FP10-I6DO-XXBL-JRE5">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/XICE-YQUE-QBWW-XEIF"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1839</crm:P3_has_note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/WS5O-FH2N-Y10M-B769">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/NTIB-HVOV-JCZ8-SJVP"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/DJ9F-LXKX-NTH7-YN0D">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/NTIB-HVOV-JCZ8-SJVP"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-    <crm:P4_has_time_span rdf:nodeID="Nc41c6370770b4e05a14254f1787fbdf4"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/BKPI-VK2T-W9FZ-ARU3">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 1</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N98bd7cd827ec4bff94179901818f385a">
+  <rdf:Description rdf:nodeID="N16af5e9fad8d48c489fbce15d1dec75c">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
@@ -758,121 +296,93 @@
     <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
     <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6141"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/FTVM-IDDL-BRDW-1AOQ">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/GHPB-BM2B-FT4T-K3I2"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/NEYC-8I5J-SMH2-UFJ2"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/7BVD-2J47-EM53-OQCD">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 1972</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0YE9-C8EC-5I83-C7ZW">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-P8MR-BEI1-F1XL-G2IZ">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/36OL-5Q0W-QTR3-F2JK"/>
-    <crm:P4_has_time_span rdf:nodeID="Ne4da4b4502984ec6a38039212e6ea6d0"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-STM4-0Y2O-U3V9-ZYYO"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N5bbd9719e93d408b98e063ceede3e8c1"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/AZAH-V6QG-7EBZ-RO3G">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0ECO-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-META-YLS3-SVNP-YDKT"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-ISSC-SCNA-QCPE-IRLP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-U9GB-GF5G-9Q0G-8NUA">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of DPG241</rdfs:label>
+    <rdfs:label xml:lang="en">History of NG2069</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/A9OV-9DH7-25GD-C61F">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/RIMX-RO14-JJF4-2NYN"/>
-    <crm:P4_has_time_span rdf:nodeID="N00af89bf0c784af18fb4cbaf0645ba3a"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/S840-E79A-YH1X-TKKC">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/XR3C-8QBO-W434-WBCL"/>
-    <crm:P4_has_time_span rdf:nodeID="N1cc0299da3d64c3c9108711f33d30ac5"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/MK2M-BEY1-E9MA-WALT">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/2E5J-KRCI-DM1Y-CAP6"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/DVJT-SFM1-Y0P0-Q336"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/44V7-VJ3Q-WXCX-5C28">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 130</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/ENKG-G0G3-QFON-H39S">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-I43K-19LN-534E-GIL7">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/44V7-VJ3Q-WXCX-5C28"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-ZCR9-ZB8Y-YRZV-NWMZ"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/BGEJ-COJP-RXY8-Z67H">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of 1958</rdfs:label>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-UITV-L5WV-BR7R-B9DS">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-K5NB-X7B0-CD2D-N2SN"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N98ddcb5615d24929a5b7f419c234acaa"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/G6MC-HEEI-YJCP-MR8A">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-2C1Q-C0UB-M1D4-QX9N">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300024979"/>
+    <rdfs:label xml:lang="en">After Raphael</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-TPU5-QDEU-KHWT-6338">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/DB2X-5CAB-NQH2-PTL1"/>
-    <crm:P3_has_note xml:lang="en">Bought, 1824</crm:P3_has_note>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-K0IA-AJYM-2V96-HFP0"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/6MR2-7LZN-WEMB-FEHK">
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-STM4-0Y2O-U3V9-ZYYO">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of Raphael</rdfs:label>
+    <rdfs:label xml:lang="en">History of 1</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/353Y-U9QL-LS6J-JSEI">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-VJDN-Q5OF-27GP-KX75">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-V72B-2FK3-1CF5-Q7FD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-BMQY-E5L5-LUPI-3ENE">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-KK6J-1E58-9QCP-KQQC"/>
+    <crm:P4_has_time_span rdf:nodeID="N4f08e46d62e840d69ca38252c67ccf00"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-E5NG-WL0Q-WH7S-HHO0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-OOBL-GUOL-06BP-U06T"/>
+    <crm:P4_has_time_span rdf:nodeID="Nec8bfcd3d55f4842ab6d3b679939fa87"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-5GO6-3EBA-1N3V-Q0Q6">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-DHZ4-FWPY-QJ88-DMEL"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N459a714cd7904290afa73671532ecc02"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-1X9L-5EXZ-BD3B-OW8A">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of MNdAA568</rdfs:label>
+    <rdfs:label xml:lang="en">History of NG6480</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/MVQ7-BOIO-PKF4-RY14">
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
-    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of P16e3</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404387">
-    <rdfs:label xml:lang="en">creating (artistic activity)</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0F1A-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/87H8-J9S1-E9UF-PEJ1"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/QAH0-ORLK-OOLK-KU1R"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/P9B9-ZU5Y-MJPJ-29GH">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/BA6F-FC59-7UDZ-B1D6"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/THG6-BX76-RMRR-6HOE"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/XUUK-SFAU-GWHQ-6JLH">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/7ZUD-PS4A-CP45-VPV9"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/XZG6-XHAQ-LDRI-TPVS"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/N0XM-FXBG-NVXJ-ZEUW">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/K9W2-1ZI2-NCRA-XFPU"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/V5T8-69D0-S9YN-VHZM"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0GE7-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/Q5M0-Z0IQ-QJCL-MBO8"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/A9X7-ETDM-7N2Y-O4ZB"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0E50-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/A9OV-9DH7-25GD-C61F"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/OJ3O-WKCU-IRKH-7QVE"/>
-  </rdf:Description>
-  <rdf:Description rdf:nodeID="N1cc0299da3d64c3c9108711f33d30ac5">
+  <rdf:Description rdf:nodeID="N0ecd3bd6266f4ea3a877703b8f26aa58">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
@@ -881,72 +391,562 @@
     <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
     <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/VDYT-G4YQ-YV4W-MQDV">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-G149-U8SR-I8FN-4EB2">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/STPC-EL4T-GD7T-VLA9"/>
-    <crm:P4_has_time_span rdf:nodeID="N760e6544e99e4bb98a14bc88ee68f8af"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-5A0H-IPUR-YDNH-NHWO"/>
+    <crm:P4_has_time_span rdf:nodeID="N02667fbf50e34079aa764440ad7e747f"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300024979">
-    <rdfs:label xml:lang="en">people (agents)</rdfs:label>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-7P3F-JHZJ-P611-YRQM">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-8MT6-51LB-ETV2-WPVC"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/Q5M0-Z0IQ-QJCL-MBO8">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-7G22-1P0J-KXI5-GLCV">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/4ROG-OPQS-R2CG-4PPV"/>
-    <crm:P4_has_time_span rdf:nodeID="N46349e6a277441d79bcb4da2d93fbf82"/>
-    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/X49G-D5FL-LLD5-L23X"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-U9GB-GF5G-9Q0G-8NUA"/>
+    <crm:P4_has_time_span rdf:nodeID="N57e0b94201af49dca49d9a885f99706e"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-OOBL-GUOL-06BP-U06T">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG6596</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a80d1c8d3fa4e888711b0f704467440">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1483</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1483-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1483-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-ISSC-SCNA-QCPE-IRLP">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-KQXB-JI17-SDLE-7KR1"/>
+    <crm:P3_has_note xml:lang="en">Mond Bequest, 1924</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4861bd9dd5aa46c892037b6f93fc7837">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-LKDM-N8IY-S5KU-T1PR">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-QAPX-6A8R-GU6R-9WZY"/>
+    <crm:P3_has_note xml:lang="en">Wynn Ellis Bequest, 1876</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-JQPI-HQZ6-H7WT-OJ6R">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-CN1P-1JLK-VIU8-54CH"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="Ne541dc5157d64309ae555b4f466d2c6c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0D0E-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-QCNX-0ALM-4UUK-CVFX"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-B51T-YN5J-U9KW-Z0SR"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N021fe78b2ae8473a845c9327c2b92ad9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-NCYU-6RLM-64ON-P7UX">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-Z9ID-N268-DWBU-Z4PS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-V72B-2FK3-1CF5-Q7FD">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 1972</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300157782">
+    <rdfs:label xml:lang="en">acquisition (collections management)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-0B30-N4RW-S8A9-UZ4K">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG168</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-5NJ1-YG8U-G5RX-S00S">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 9</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-70TO-JVWZ-DYNJ-7HJO">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG2919</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-2XQG-MPLW-ZUTH-GYEJ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-0B30-N4RW-S8A9-UZ4K"/>
+    <crm:P4_has_time_span rdf:nodeID="Nc89c0ef336e64523848ba4d005cb9e69"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-JLFL-DL3U-O0XW-TL4E">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-G9CS-2ZTJ-8C7W-19WM"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N04e6cd07148b4e5abb013933f71dbbc4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N04e6cd07148b4e5abb013933f71dbbc4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1502-1503</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1500-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-DHZ4-FWPY-QJ88-DMEL">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 46</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N02667fbf50e34079aa764440ad7e747f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1504</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1506-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-5A0H-IPUR-YDNH-NHWO">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG213</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0FN9-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-BMQY-E5L5-LUPI-3ENE"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-5TP1-TMTL-6ZVM-NZ17"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncd11393c4e2f45d4b30795b5868ccace">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1511</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1511-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1511-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-5TP1-TMTL-6ZVM-NZ17">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-KK6J-1E58-9QCP-KQQC"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1865</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbdb8596fd2dd41458d94d9f769a71482">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1520</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1520-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1520-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-Z9RA-Z14S-A07K-TJEQ">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-C91Y-TY8Y-BA85-SOAH"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-K0YV-46CB-X7TL-C63P"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-BH25-6WTX-W41C-81OH">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-U9GB-GF5G-9Q0G-8NUA"/>
+    <crm:P3_has_note xml:lang="en">Presented by Mrs Eve Mackintosh, 1906</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nec8bfcd3d55f4842ab6d3b679939fa87">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1506-1507</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1504-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1509-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0EXM-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-2XQG-MPLW-ZUTH-GYEJ"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-JOFU-UIOI-Z326-4E8C"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-51FD-68GJ-YORW-0ZB9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-Z9ID-N268-DWBU-Z4PS"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N0434178ccce744bb9c3cd4b5f87060d9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0434178ccce744bb9c3cd4b5f87060d9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1504-1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6153"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc89c0ef336e64523848ba4d005cb9e69">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1507</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1509-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-4QDF-4PIW-C5MK-4QCG">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-5A0H-IPUR-YDNH-NHWO"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1847</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-9792-ZEO4-Y6WC-X7LG">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-5NJ1-YG8U-G5RX-S00S"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+    <crm:P4_has_time_span rdf:nodeID="N8ad1efea82bd422ba6a1a46db6cce04f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-T6JV-Y73Q-GIWB-O5LQ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-ZCR9-ZB8Y-YRZV-NWMZ"/>
+    <crm:P4_has_time_span rdf:nodeID="N021fe78b2ae8473a845c9327c2b92ad9"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-ID48-BHZV-3RRL-ZI7N">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of DPG241</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-L6SG-LYJH-87A8-7IMO">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-C4RJ-O5I5-WTND-FM8S"/>
+    <crm:P4_has_time_span rdf:nodeID="N809d7d1f8d144dca834717c44145fe26"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300055863">
     <rdfs:label xml:lang="en">provenance (history of ownership)</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/0FOH-OLYS-PF9K-S7H1">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-TTRS-CJJS-HS8Q-BXZ9">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-STM4-0Y2O-U3V9-ZYYO"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N809d7d1f8d144dca834717c44145fe26">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1501-1502</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1499-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1504-12-31</crm:P82b_end_of_the_end>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6137"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-UFT0-67VV-C3HF-6P8L">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-1X9L-5EXZ-BD3B-OW8A"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1983</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-K0YV-46CB-X7TL-C63P">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-XNIV-I7RN-0AM7-AQQ4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-UN5O-HGDJ-17KM-EMMK">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-CN1P-1JLK-VIU8-54CH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-M43K-FRR4-ER9C-NBZ2">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-EMSF-510A-ER01-A1H5"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-TPU5-QDEU-KHWT-6338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-Z3QY-A82E-S0L0-OLMO">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-5YW1-RT5V-58J9-1JV5"/>
+    <crm:P4_has_time_span rdf:nodeID="Nb2efba7fff164f4f90cc807f8f8e2c74"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-FNEP-P4L2-7O6X-UFLH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-94JU-HGUP-CACK-9QH6">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-JQPI-HQZ6-H7WT-OJ6R"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-UN5O-HGDJ-17KM-EMMK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-8MT6-51LB-ETV2-WPVC">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
-    <rdfs:label xml:lang="en">History of PE38</rdfs:label>
+    <rdfs:label xml:lang="en">History of PE39</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/DB2X-5CAB-NQH2-PTL1">
+  <rdf:Description rdf:nodeID="Ne541dc5157d64309ae555b4f466d2c6c">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1509-1510</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1509-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1510-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5bbd9719e93d408b98e063ceede3e8c1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1506</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1504-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1508-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-PC57-T72L-V41F-D83L">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-70TO-JVWZ-DYNJ-7HJO"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1913</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-K0IA-AJYM-2V96-HFP0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 130</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-Z9ID-N268-DWBU-Z4PS">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 30ab</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N459a714cd7904290afa73671532ecc02">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1507-1508</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1508-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-2HEG-NPO7-7JE6-P0WU">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-5NJ1-YG8U-G5RX-S00S"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-GG8W-W6LJ-6PTI-1XTH">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-YNLX-9AYO-TIEA-PT85"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-VJDN-Q5OF-27GP-KX75"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0FVI-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-7G22-1P0J-KXI5-GLCV"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-BH25-6WTX-W41C-81OH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-K5NB-X7B0-CD2D-N2SN">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of 4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-JOFU-UIOI-Z326-4E8C">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-0B30-N4RW-S8A9-UZ4K"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1839</crm:P3_has_note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-30CQ-H7NE-QBYP-5KOC">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of MNdAA568</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-T8TI-P1KI-3PED-6HI0">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-ID48-BHZV-3RRL-ZI7N"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0GE7-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-47DR-LXY1-869D-97E4"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-PC57-T72L-V41F-D83L"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-KQXB-JI17-SDLE-7KR1">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG3943</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N20ad4aa700094000b0c10c9a27114fd8">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1505-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-OMD1-Z27A-4SC1-IZXJ">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-Z7SE-IIPD-O9EQ-1542"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-6J06-HM7P-ZXFH-IPAF"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8ad1efea82bd422ba6a1a46db6cce04f">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en">About 1505</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1503-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1507-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-ZCR9-ZB8Y-YRZV-NWMZ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of DPG243</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-CSK7-HDE1-H4RR-I0NQ">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E12_Production"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300404387"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-QAPX-6A8R-GU6R-9WZY"/>
+    <crm:P14_carried_out_by rdf:resource="https://data.ng-london.org.uk/SC-2C1Q-C0UB-M1D4-QX9N"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-9CF8-Q2C9-NGBF-AJEL">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-L6SG-LYJH-87A8-7IMO"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-ATCO-A6VE-HHRH-9F25"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N05c450abd2b14be182202c3654063581">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time_span"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300379244"/>
+    <rdfs:label xml:lang="en"> 1506</rdfs:label>
+    <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1506-01-01</crm:P82a_begin_of_the_begin>
+    <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1506-12-31</crm:P82b_end_of_the_end>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-MXXZ-07H6-ZC7L-5WYW">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of Raphael</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-KK6J-1E58-9QCP-KQQC">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of NG744</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379244">
+    <rdfs:label xml:lang="en">years</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-QOEY-YTBX-60QD-9NVC">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
     <rdfs:label xml:lang="en">History of NG27</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0ECO-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/VDYT-G4YQ-YV4W-MQDV"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/AK56-DUMB-6IPO-X1DA"/>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300151836">
+    <rdfs:label xml:lang="en">deaths</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0F1A-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-CSK7-HDE1-H4RR-I0NQ"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-LKDM-N8IY-S5KU-T1PR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://rdf.ng-london.org.uk/raphael/ontology/SC-XNIV-I7RN-0AM7-AQQ4">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300055863"/>
+    <rdfs:label xml:lang="en">History of P16e3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-E8HD-F8K5-SVDO-LPZB">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-8OV2-8SJC-C244-7KPV"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-T8TI-P1KI-3PED-6HI0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-O11V-TAEK-Q0YA-XYF9">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-T6JV-Y73Q-GIWB-O5LQ"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-I43K-19LN-534E-GIL7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0F8W-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-G149-U8SR-I8FN-4EB2"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-4QDF-4PIW-C5MK-4QCG"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300069672">
     <rdfs:label xml:lang="en">births</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/7BSG-MIHX-WMN9-H39Q">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/XCX1-9TNR-SC2L-48DY"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/XU3M-YNP8-PQRZ-GJ5A"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0FN9-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/R191-RPFB-P5G5-BF5B"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/MPXD-AI0Y-TM5J-1JDZ"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/0FVI-0001-0000-0000">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/0YE9-C8EC-5I83-C7ZW"/>
-    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/A82O-66G2-NVRU-2TEL"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/V5T8-69D0-S9YN-VHZM">
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-B51T-YN5J-U9KW-Z0SR">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
     <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
-    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/BGEJ-COJP-RXY8-Z67H"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-QOEY-YTBX-60QD-9NVC"/>
+    <crm:P3_has_note xml:lang="en">Bought, 1824</crm:P3_has_note>
   </rdf:Description>
-  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300157782">
-    <rdfs:label xml:lang="en">acquisition (collections management)</rdfs:label>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-SQZH-SD0B-8UF1-IEAS">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-9792-ZEO4-Y6WC-X7LG"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-2HEG-NPO7-7JE6-P0WU"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300151836">
-    <rdfs:label xml:lang="en">deaths</rdfs:label>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-N1DI-ZJS3-2FST-NF7H">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"/>
+    <crm:P2_has_type rdf:resource="http://vocab.getty.edu/page/aat/300157782"/>
+    <crm:P10_falls_within rdf:resource="https://data.ng-london.org.uk/SC-30CQ-H7NE-QBYP-5KOC"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://data.ng-london.org.uk/IQVW-UOUD-32BX-7J8N">
-    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/T51D-X6Y0-L4WN-LLUM"/>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300024979">
+    <rdfs:label xml:lang="en">people (agents)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-43WP-5I35-253N-EXDI">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-5GO6-3EBA-1N3V-Q0Q6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-V7NZ-XB0D-IUZ6-PKXT">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-JLFL-DL3U-O0XW-TL4E"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-PF88-FQXK-1C90-P6P7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404387">
+    <rdfs:label xml:lang="en">creating (artistic activity)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0EWJ-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-65FV-AYYK-L1UF-5347"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-UFT0-67VV-C3HF-6P8L"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/SC-WMIO-D74L-MT36-RGOR">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-51FD-68GJ-YORW-0ZB9"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-NCYU-6RLM-64ON-P7UX"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.ng-london.org.uk/0FJS-0001-0000-0000">
+    <crm:P108i_was_produced_by rdf:resource="https://data.ng-london.org.uk/SC-Z3QY-A82E-S0L0-OLMO"/>
+    <crm:P24i_changed_ownership_through rdf:resource="https://data.ng-london.org.uk/SC-O18F-OMET-H72I-RG1J"/>
   </rdf:Description>
 </rdf:RDF>

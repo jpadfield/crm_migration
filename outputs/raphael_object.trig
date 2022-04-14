@@ -4,10 +4,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-_:Ndefa76e3f20f47a0b6f277553aebd4da {
+_:N96b868a62d91499ebceff6ef5712540e {
     ngo:0D0E-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:01CE-1F84-PVN2-I0KB ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-IFG3-5LTY-VEWF-6K1G ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -22,18 +22,18 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 8.1e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:92X1-C8TT-C1MA-RNRN,
-            ngo:EKIQ-ZJ5P-V90O-7W9G ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-93FI-U7XU-MXAC-ZIEU,
+            ngo:SC-M5VG-459S-G2ED-8XN7 ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG27"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0E50-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:6Z4N-G5C3-81XL-K4IV ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-4YOA-04TU-XE9M-KA56 ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -48,19 +48,19 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.79e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:LS0T-NYCQ-PCBG-TQ4L,
-            ngo:UU86-6P6Z-RKKK-FW1Z ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-C8MQ-FQ2L-OY2U-JYFU,
+            ngo:SC-HG10-K7Z3-A6JW-DPCW ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG6596"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0ECO-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:6JSH-TJEV-2E63-Y9JE,
-            ngo:98X5-31X7-KQXV-C5A9 ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-CA4N-AI81-29PP-5760,
+            ngo:SC-US4P-2MG3-U7AP-3OR2 ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -75,18 +75,18 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 1.673e+02 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:5RYP-HXYJ-72YY-LVGQ,
-            ngo:O5TP-TWXA-6BQ6-U5BX ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-FZMN-4EK6-BB55-OEUR,
+            ngo:SC-NQD4-86D1-552A-77F6 ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG3943"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0EWJ-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:HX54-TROO-S3O9-KP6P ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-Z5MN-AKQW-B1KB-ODVF ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -101,70 +101,70 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 5.2e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:F2IT-NLLM-MGDN-VC25,
-            ngo:F9O5-R51M-3ESF-R994 ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-BMPN-X26L-W98L-58JI,
+            ngo:SC-HO5Y-0ZLJ-HJRN-6MQK ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG6480"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0EXM-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:UMF5-I5W7-MK7J-E9CW ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-AQ3T-82PW-IP2Y-EC1H ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.57e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 7.22e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 5.57e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:2Q9F-A5QT-J5NB-7FX1,
-            ngo:5K3Y-FTTH-KRIC-9OCD ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-09OP-WJM5-D49N-OKE2,
+            ngo:SC-69QE-SI8N-351G-LRAO ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG168"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0F1A-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:OA7F-5UU6-B8IC-ZOED ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-HTLX-18S0-7DM9-8TFQ ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 8.7e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
                 crm:P90_has_value 6.13e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 8.7e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:EZO7-YA12-BE0R-9A6I,
-            ngo:Z332-8T9L-H60J-3R0K ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-MAUU-LJ13-TB1X-HU9D,
+            ngo:SC-RNDW-55BG-407H-XW2X ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG929"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:ISK0-WLRM-5GLT-NN56 .
+        crm:P53_has_former_or_current_location ngo:SC-ZM24-TZER-VJL7-EPS7 .
 
     ngo:0F8W-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:8X19-B9QW-EN97-NVSO ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-SAZX-V132-C4NN-481E ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -179,46 +179,46 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 1.73e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:20IM-8BVU-VTJF-MFX5,
-            ngo:C4JR-UHPN-N83T-GGN7 ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-4TOF-Y2QB-VZRV-MHKK,
+            ngo:SC-OXQE-KOXL-28N9-AAD1 ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG213"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0FJS-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:S6N2-9YPY-XFDA-OUZ6,
-            ngo:Z9J9-LJDR-84N2-1OLS ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-89DG-NSIX-M4RL-1NLO,
+            ngo:SC-I2GE-N4JY-4Z8I-657D ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.476e+02 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.168e+02 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.476e+02 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:9H0K-1B15-6Z3B-UJY0,
-            ngo:UY42-MIGM-QTBQ-AFY3 ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-LQFS-5MRI-2AI1-NTM2,
+            ngo:SC-ZKJ7-O9XI-RBJD-KQ0O ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG1171"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0FN9-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:1RGI-3I1D-3W8U-QB8X,
-            ngo:M1PG-Q48P-7XY9-HK70 ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-BWSQ-TURF-JO9L-D1HS,
+            ngo:SC-MMWW-TDWQ-7MV4-C0JB ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -233,19 +233,19 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 3.89e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:CD1M-OAV3-J7Y5-X8T9,
-            ngo:TA2W-TDJV-KLI6-QH4N ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-2BOW-9026-NYK6-Z4R3,
+            ngo:SC-IUP5-YFSV-H701-D5Q7 ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG744"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
     ngo:0FVI-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:F0CK-AHAJ-TB3J-ZQSV,
-            ngo:K78D-NDNX-ENHG-HXBP ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-3JX2-0TD7-BJQA-AFFP,
+            ngo:SC-LZAC-3200-RJMJ-UCYU ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033799,
             aat:300410350,
@@ -260,18 +260,18 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 7.88e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:D8QS-L7QL-U077-M62R,
-            ngo:EZN5-DLY2-FXH3-P9LB ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-21JW-1J6A-P4P6-N5T6,
+            ngo:SC-N7WX-ZZ2N-KWGQ-71L3 ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG2069"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:ISK0-WLRM-5GLT-NN56 .
+        crm:P53_has_former_or_current_location ngo:SC-ZM24-TZER-VJL7-EPS7 .
 
     ngo:0GE7-0001-0000-0000 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:8OHR-ESUJ-XLGR-CW1K ;
-        crm:P109_has_current_or_former_curator ngo:SWDZ-XHEV-BX8N-72HX ;
+        crm:P102_has_title ngo:SC-7MBS-NYOA-8PPJ-A5V1 ;
+        crm:P109_has_current_or_former_curator ngo:SC-YBF1-4H1I-MWVV-6Z88 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -286,141 +286,43 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.44e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:ID84-G3HZ-41JK-JGA1,
-            ngo:P05T-VVCG-4NQ8-3WAU ;
-        crm:P46i_forms_part_of ngo:ZGSO-VAD2-9Z05-06C8 ;
+        crm:P46_is_composed_of ngo:SC-5Z31-8FWE-GEYH-V4QZ,
+            ngo:SC-PB1M-PCF3-YFHB-RR63 ;
+        crm:P46i_forms_part_of ngo:SC-STNC-17UK-NFCM-HKT6 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NG2919"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:86O6-Z6YG-YL6M-10CR .
+        crm:P53_has_former_or_current_location ngo:SC-EDYP-S9DS-PZRN-J97H .
 
-    ngo:6MSN-3J0E-B9F3-C0FG a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:PYMW-V28M-WX7T-BKJA ;
+    ngo:SC-27F3-X8YG-3EKR-CTZM a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-LOLU-F6L9-MHZB-M7TQ,
+            ngo:SC-OCMB-7OLR-BZJD-K02Y ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.64e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.56e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:FG4V-B72B-EOV8-FV8G,
-            ngo:IOCV-HBQK-6SUW-ZAA5 ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "DPG243"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:Q1241163 .
-
-    ngo:7BSG-MIHX-WMN9-H39Q a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:39VT-1OB8-XI77-7XQZ,
-            ngo:GBL2-YP4X-DK9G-QKDZ ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 3.17e+01 ;
                 crm:P91_has_unit aat:300379098 ],
             [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
-                crm:P90_has_value 2.33e+01 ;
+                crm:P90_has_value 4.39e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:5GS0-F1CB-36EE-9OBT,
-            ngo:UHPT-Z1ZO-W0LO-N5E1 ;
-        crm:P46i_forms_part_of ngo:RJKD-25LW-5GFI-XN06 ;
+        crm:P46_is_composed_of ngo:SC-4WSG-33MF-F5TO-HUWF,
+            ngo:SC-BXKR-Z238-3GQI-6HAL ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "PE39"@en ;
+                rdfs:label "MNdAA568"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:7Y54-U9HP-FRG1-S0P6 .
+        crm:P53_has_former_or_current_location ngo:Q212459 .
 
-    ngo:8JSO-Z4S8-HJ74-FZEX a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:JQ59-49A8-AT62-QJVL ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 4.38e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.97e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:BKP9-VI2C-JUGX-T1QN,
-            ngo:YOFU-16ZX-BQDN-1UIX ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "1943.4.33"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:Q214867 .
-
-    ngo:FTVM-IDDL-BRDW-1AOQ a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:9WBM-YRVT-7OVO-FRZC ;
-        crm:P109_has_current_or_former_curator ngo:IVCP-C40J-NGR5-K11V ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 4.2e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.48e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:8O7F-SH6E-BP3Q-PVYW,
-            ngo:LAJK-KY0Q-G4XJ-1PHR ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "G.65.21.1"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:Q1459878 .
-
-    ngo:G0LR-XHYZ-4YC6-X3UX a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:S4GI-47CK-ZP08-ILIN ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.35e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.88e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:DKY8-HYIZ-PYK8-JF1J,
-            ngo:X0B6-QXKQ-JY7C-2J5H ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "P16e3"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:Q49135 .
-
-    ngo:IQVW-UOUD-32BX-7J8N a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:AWLV-7UTB-BU0U-SVS5,
-            ngo:WJVS-Y0UT-17LQ-TTNB ;
+    ngo:SC-43WP-5I35-253N-EXDI a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-4R6I-RS4X-GWSV-7ZBP,
+            ngo:SC-C76V-5DQE-MSZN-BHCQ ;
         crm:P2_has_type aat:300033618,
             aat:300033799,
             aat:300410350,
@@ -435,117 +337,18 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 5.7e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:CICE-5302-U1C2-RMOO,
-            ngo:F7HF-RLR2-5OL1-ETQ3 ;
-        crm:P46i_forms_part_of ngo:LUC8-PDBX-XJW8-WBCE ;
+        crm:P46_is_composed_of ngo:SC-JFMQ-TWAR-GD4Z-GEDF,
+            ngo:SC-OP3B-2068-DGUK-YBH5 ;
+        crm:P46i_forms_part_of ngo:SC-2YXY-7JG8-C7SF-3LL9 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "NGL065.46"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:34EP-C96Y-QPQR-FIYX .
+        crm:P53_has_former_or_current_location ngo:SC-6DHW-SWUC-97JS-2VO0 .
 
-    ngo:K9HN-ZRAI-ZGQK-SY5P a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:J0SL-BSIL-4DFU-FKPK ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.76e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.78e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:DJ6Z-HO20-H00A-CYUX,
-            ngo:FCR7-P4YO-R7BT-Z78D ;
-        crm:P46i_forms_part_of ngo:RJKD-25LW-5GFI-XN06 ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "PE38"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:7Y54-U9HP-FRG1-S0P6 .
-
-    ngo:MG2W-ZZL2-6SQU-44F1 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:LWRX-Y1TL-K5TP-NTNP ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 4.4e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.95e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:G0MK-7I15-Y5ZV-P9C4,
-            ngo:VNYW-9GM6-4L78-TU9S ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "1942.9.57"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:Q214867 .
-
-    ngo:MK2M-BEY1-E9MA-WALT a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:FQPD-AMVD-1NWJ-6ODZ,
-            ngo:N2BX-Q9J6-UJ28-D38B ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value "172.40 (main panel); 74.90 (lunette)"@en ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value "172.40 (main panel); 180.00 (lunette)"@en ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:LYAK-ZMD3-07WW-FYCG,
-            ngo:V80R-AVL4-AWVC-YRGJ ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "16.30ab"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:OEL2-UN6F-XT14-VLTB .
-
-    ngo:N0XM-FXBG-NVXJ-ZEUW a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:3JKY-SE40-XEU3-GYL7 ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 4.4e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 5.2e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:1OQZ-K2BE-V8GH-J18F,
-            ngo:TEIK-T8P4-ZOOS-09LE ;
-        crm:P46i_forms_part_of ngo:GPF6-KYG8-57IU-HNWJ ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "17.1958"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:8SZ7-JWL0-IM66-MLOE .
-
-    ngo:P9B9-ZU5Y-MJPJ-29GH a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:1LK3-BVQ9-IN1I-3F45,
-            ngo:5PO3-4SJT-M70J-ZEEP ;
+    ngo:SC-94JU-HGUP-CACK-9QH6 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-T7NT-8AFK-H4BZ-BHIC,
+            ngo:SC-X4VC-O0O7-SFXB-AM51 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -560,18 +363,17 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 1.2e+02 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:BOIR-BUXJ-SXV0-EUCH,
-            ngo:CRTX-TCBB-JYJI-R916 ;
-        crm:P46i_forms_part_of ngo:RJKD-25LW-5GFI-XN06 ;
+        crm:P46_is_composed_of ngo:SC-QJVG-CQM1-T1ZU-1VOM,
+            ngo:SC-QZ0S-9OGG-WKY8-UJ60 ;
+        crm:P46i_forms_part_of ngo:SC-ODI6-Y0SM-H2S5-DPH5 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "PE40"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:7Y54-U9HP-FRG1-S0P6 .
+        crm:P53_has_former_or_current_location ngo:SC-6YGC-QVKC-GY18-URCU .
 
-    ngo:QNK4-AQFQ-RG01-KQ23 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:J9SJ-3MLO-I3YY-CAFK,
-            ngo:P0N3-LRRU-V3S4-SE6C ;
+    ngo:SC-9CF8-Q2C9-NGBF-AJEL a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-K9GB-WDLC-LY69-CQB4 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -579,23 +381,99 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
         crm:P43_has_dimension [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
-                crm:P90_has_value 5.52e+01 ;
+                crm:P90_has_value 5.2e+01 ;
                 crm:P91_has_unit aat:300379098 ],
             [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
-                crm:P90_has_value 4e+01 ;
+                crm:P90_has_value 4.4e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:XIBU-Q9RD-VF85-JUAI,
-            ngo:Y9UA-DH78-ZDIQ-A5YG ;
+        crm:P46_is_composed_of ngo:SC-187A-606B-EOOW-12WX,
+            ngo:SC-FOU0-6FZS-YECU-TMI8 ;
+        crm:P46i_forms_part_of ngo:SC-UJB7-KGQ3-95CV-83FA ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "17.1958"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:SC-FZVQ-HXQ7-I47W-YDHK .
+
+    ngo:SC-E8HD-F8K5-SVDO-LPZB a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-270M-H1UH-M9AV-QG04 ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.68e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.58e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-0DXL-8MPW-3ZSQ-NK79,
+            ngo:SC-4KXB-J7E1-F62W-082F ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "DPG241"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:Q1241163 .
+
+    ngo:SC-GG8W-W6LJ-6PTI-1XTH a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-2OMG-HOXP-M03G-8FES,
+            ngo:SC-9ZHR-SQYI-6KJH-0JRX ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 4e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 5.52e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-DAP4-LV28-8BRX-IETK,
+            ngo:SC-DBVU-5JI0-9U6Z-UGYX ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "M.1972.2.P"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:5VKS-14U8-1BOO-5TK3 .
+        crm:P53_has_former_or_current_location ngo:SC-MK0K-LUFV-KXWH-V2TA .
 
-    ngo:SAAW-70N9-H32V-LL5Q a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:WJS6-6UXR-DYRF-E75T ;
+    ngo:SC-KXUI-SDCD-PAUF-W1AR a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-AEXV-JP8V-E3GE-Z904,
+            ngo:SC-V4XZ-6UFO-68UF-WE58 ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.33e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 3.17e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-1EVG-CLSH-OAAJ-F89V,
+            ngo:SC-T7O6-K3PY-0LR4-SPTW ;
+        crm:P46i_forms_part_of ngo:SC-ODI6-Y0SM-H2S5-DPH5 ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "PE39"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:SC-6YGC-QVKC-GY18-URCU .
+
+    ngo:SC-M43K-FRR4-ER9C-NBZ2 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-KPOZ-Y8SW-TMHF-R3HS ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -610,17 +488,16 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.41e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:VUY9-O9MB-RTOX-O0LW,
-            ngo:XFO3-8GQG-VU0S-OEOK ;
+        crm:P46_is_composed_of ngo:SC-CD20-VL7U-USHX-CNZE,
+            ngo:SC-KMSJ-G3IQ-I9D4-NYZS ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "32.130.1"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:OEL2-UN6F-XT14-VLTB .
+        crm:P53_has_former_or_current_location ngo:SC-9F2Q-VKDM-QAFG-OYW4 .
 
-    ngo:U5OQ-JW5V-6YL6-DXB3 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:8N1O-ODAD-SZZK-FA6G,
-            ngo:ABFA-6VM1-1H60-IU50 ;
+    ngo:SC-O11V-TAEK-Q0YA-XYF9 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-YA93-E84V-GXOA-7B1W ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -628,47 +505,72 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
         crm:P43_has_dimension [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
-                crm:P90_has_value 4.39e+01 ;
+                crm:P90_has_value 1.64e+01 ;
                 crm:P91_has_unit aat:300379098 ],
             [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
                 crm:P90_has_value 2.56e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:BHAS-KIKM-7O5W-DB5W,
-            ngo:P9K8-A95I-PD7O-Y1NQ ;
+        crm:P46_is_composed_of ngo:SC-MC6Z-WTNZ-0Q92-ZZO8,
+            ngo:SC-Y609-H426-IEFD-8X8X ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "MNdAA568"@en ;
-                crm:P2_has_type aat:300404626,
-                    crm:E42_Identifier ] ;
-        crm:P53_has_former_or_current_location ngo:Q212459 .
-
-    ngo:WKJ3-SNDQ-YEBV-1L13 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:LOYL-L6CJ-N1JT-X5DS ;
-        crm:P2_has_type aat:300033618,
-            aat:300033656,
-            aat:300033799,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P43_has_dimension [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055644,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 2.58e+01 ;
-                crm:P91_has_unit aat:300379098 ],
-            [ a crm:E54_Dimension ;
-                crm:P2_has_type aat:300055647,
-                    crm:E54_Dimension ;
-                crm:P90_has_value 1.68e+01 ;
-                crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:CPKS-MQTT-RRY0-OMGX,
-            ngo:LOIN-GP5H-8P41-98WT ;
-        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
-                rdfs:label "DPG241"@en ;
+                rdfs:label "DPG243"@en ;
                 crm:P2_has_type aat:300404626,
                     crm:E42_Identifier ] ;
         crm:P53_has_former_or_current_location ngo:Q1241163 .
 
-    ngo:XUUK-SFAU-GWHQ-6JLH a crm:E24_Physical_Human_Made_Thing ;
-        crm:P102_has_title ngo:J5A9-OP6F-J8OR-L991 ;
+    ngo:SC-OMD1-Z27A-4SC1-IZXJ a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-RI0W-291I-TS4H-Q4NK ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.78e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 1.76e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-OWIV-4VQA-T28B-6TFJ,
+            ngo:SC-RLHM-328W-7FCH-FMKT ;
+        crm:P46i_forms_part_of ngo:SC-ODI6-Y0SM-H2S5-DPH5 ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "PE38"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:SC-6YGC-QVKC-GY18-URCU .
+
+    ngo:SC-SQZH-SD0B-8UF1-IEAS a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-QT12-8WDC-U1O2-R147 ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 5.95e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 4.4e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-AA63-SBI9-QTNQ-WM2U,
+            ngo:SC-PUAJ-CPFS-MGV7-TMWU ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "1942.9.57"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:Q214867 .
+
+    ngo:SC-TB3A-1JGB-U01X-D9DK a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-95RM-KYX3-2ROS-B6L8 ;
         crm:P2_has_type aat:300033618,
             aat:300033656,
             aat:300033799,
@@ -676,15 +578,113 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
         crm:P43_has_dimension [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055647,
                     crm:E54_Dimension ;
-                crm:P90_has_value 2.15e+01 ;
+                crm:P90_has_value 4.38e+01 ;
                 crm:P91_has_unit aat:300379098 ],
             [ a crm:E54_Dimension ;
                 crm:P2_has_type aat:300055644,
                     crm:E54_Dimension ;
-                crm:P90_has_value 2.85e+01 ;
+                crm:P90_has_value 5.97e+01 ;
                 crm:P91_has_unit aat:300379098 ] ;
-        crm:P46_is_composed_of ngo:JJ32-K39C-M4AM-XND8,
-            ngo:MLT5-MGRT-MYQG-USU7 ;
+        crm:P46_is_composed_of ngo:SC-JKOY-NEX8-I0DT-6QGM,
+            ngo:SC-YC5U-EGNR-E18S-6E54 ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "1943.4.33"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:Q214867 .
+
+    ngo:SC-V7NZ-XB0D-IUZ6-PKXT a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-PS7P-89FG-PPZY-SZIG ;
+        crm:P109_has_current_or_former_curator ngo:SC-QKC7-SNQW-2M2K-X220 ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 4.2e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.48e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-CSY4-ZAYG-HISJ-HZJC,
+            ngo:SC-FTZF-KNCA-YAQI-F2T5 ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "G.65.21.1"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:Q1459878 .
+
+    ngo:SC-WMIO-D74L-MT36-RGOR a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-BJ1C-YDIY-H1OZ-A19E,
+            ngo:SC-HTV5-3WUO-RJM2-DQB9 ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value "172.40 (main panel); 74.90 (lunette)"@en ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value "172.40 (main panel); 180.00 (lunette)"@en ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-3U1Z-C7CP-BJ6V-C36F,
+            ngo:SC-XTX2-AQYV-WDV8-I3R2 ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "16.30ab"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:SC-9F2Q-VKDM-QAFG-OYW4 .
+
+    ngo:SC-Z9RA-Z14S-A07K-TJEQ a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-DDGY-WBXL-VVOV-PNAG ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.35e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.88e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-2YV1-GHWJ-D568-VFJP,
+            ngo:SC-3H8Z-UYN7-9IT7-WFD2 ;
+        crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
+                rdfs:label "P16e3"@en ;
+                crm:P2_has_type aat:300404626,
+                    crm:E42_Identifier ] ;
+        crm:P53_has_former_or_current_location ngo:Q49135 .
+
+    ngo:SC-ZMD5-8ICN-7CQN-OM2P a crm:E24_Physical_Human_Made_Thing ;
+        crm:P102_has_title ngo:SC-6CWQ-G6KF-637Z-35PT ;
+        crm:P2_has_type aat:300033618,
+            aat:300033656,
+            aat:300033799,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P43_has_dimension [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055644,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.85e+01 ;
+                crm:P91_has_unit aat:300379098 ],
+            [ a crm:E54_Dimension ;
+                crm:P2_has_type aat:300055647,
+                    crm:E54_Dimension ;
+                crm:P90_has_value 2.15e+01 ;
+                crm:P91_has_unit aat:300379098 ] ;
+        crm:P46_is_composed_of ngo:SC-SBJX-5K9J-2LEF-08FF,
+            ngo:SC-ZVF9-4YBQ-VCA7-JL77 ;
         crm:P48_has_preferred_identifier [ a crm:E42_Identifier ;
                 rdfs:label "1937.1.26"@en ;
                 crm:P2_has_type aat:300404626,
@@ -692,402 +692,6 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
         crm:P53_has_former_or_current_location ngo:Q214867 .
 
     aat:300012774 rdfs:label "yew (wood)@en" .
-
-    ngo:01CE-1F84-PVN2-I0KB a crm:E35_Title ;
-        rdfs:label "Portrait of Pope Julius II"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:1LK3-BVQ9-IN1I-3F45 a crm:E35_Title ;
-        rdfs:label "The Loreto Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:1OQZ-K2BE-V8GH-J18F a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:1RGI-3I1D-3W8U-QB8X a crm:E35_Title ;
-        rdfs:label "The Garvagh Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:20IM-8BVU-VTJF-MFX5 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:2Q9F-A5QT-J5NB-7FX1 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:34EP-C96Y-QPQR-FIYX a crm:E53_Place ;
-        rdfs:label "The National Gallery of Scotland"@en ;
-        crm:P2_has_type crm:E53_Place .
-
-    ngo:39VT-1OB8-XI77-7XQZ a crm:E35_Title ;
-        rdfs:label "The Orléans Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:3JKY-SE40-XEU3-GYL7 a crm:E35_Title ;
-        rdfs:label "The Resurrection of Christ"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:5GS0-F1CB-36EE-9OBT a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:5K3Y-FTTH-KRIC-9OCD a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:5PO3-4SJT-M70J-ZEEP a crm:E35_Title ;
-        rdfs:label "The Holy Family (The Loreto Madonna)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:5RYP-HXYJ-72YY-LVGQ a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:5VKS-14U8-1BOO-5TK3 a crm:E53_Place ;
-        rdfs:label "Norton Simon Museum of Art"@en ;
-        crm:P2_has_type crm:E53_Place .
-
-    ngo:6JSH-TJEV-2E63-Y9JE a crm:E35_Title ;
-        rdfs:label "The Crucified Christ with the Virgin Mary, Saints and Angels (The Mond Crucifixion)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:6Z4N-G5C3-81XL-K4IV a crm:E35_Title ;
-        rdfs:label "The Madonna of the Pinks (La Madonna dei Garofani)"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:8N1O-ODAD-SZZK-FA6G a crm:E35_Title ;
-        rdfs:label "Eusebius of Cremona raising Three Men from the Dead with Saint Jeromes Cloak"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:8O7F-SH6E-BP3Q-PVYW a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:8OHR-ESUJ-XLGR-CW1K a crm:E35_Title ;
-        rdfs:label "The Procession to Calvary"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:8SZ7-JWL0-IM66-MLOE a crm:E53_Place ;
-        rdfs:label "Museu de Arte de S%C3%A3o Paulo Assis Chateaubriand"@en ;
-        crm:P2_has_type crm:E53_Place .
-
-    ngo:8X19-B9QW-EN97-NVSO a crm:E35_Title ;
-        rdfs:label "An Allegory (Vision of a Knight)"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:92X1-C8TT-C1MA-RNRN a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:98X5-31X7-KQXV-C5A9 a crm:E35_Title ;
-        rdfs:label "The Mond Crucifixion"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:9H0K-1B15-6Z3B-UJY0 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:9WBM-YRVT-7OVO-FRZC a crm:E35_Title ;
-        rdfs:label "Saint Jerome saving Silvanus and punishing the Heretic Sabinianus"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:ABFA-6VM1-1H60-IU50 a crm:E35_Title ;
-        rdfs:label "Eusebius of Cremona raising Three Men from the Dead"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:AWLV-7UTB-BU0U-SVS5 a crm:E35_Title ;
-        rdfs:label "The Virgin and Child (The Bridgewater Madonna)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:BHAS-KIKM-7O5W-DB5W a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:BKP9-VI2C-JUGX-T1QN a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:BOIR-BUXJ-SXV0-EUCH a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:C4JR-UHPN-N83T-GGN7 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:CD1M-OAV3-J7Y5-X8T9 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:CICE-5302-U1C2-RMOO a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300014078 ] .
-
-    ngo:CPKS-MQTT-RRY0-OMGX a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:CRTX-TCBB-JYJI-R916 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:D8QS-L7QL-U077-M62R a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300014078 ] .
-
-    ngo:DJ6Z-HO20-H00A-CYUX a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:DKY8-HYIZ-PYK8-JF1J a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:EKIQ-ZJ5P-V90O-7W9G a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:EZN5-DLY2-FXH3-P9LB a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:EZO7-YA12-BE0R-9A6I a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:F0CK-AHAJ-TB3J-ZQSV a crm:E35_Title ;
-        rdfs:label "The Mackintosh Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:F2IT-NLLM-MGDN-VC25 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:F7HF-RLR2-5OL1-ETQ3 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:F9O5-R51M-3ESF-R994 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:FCR7-P4YO-R7BT-Z78D a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:FG4V-B72B-EOV8-FV8G a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:FQPD-AMVD-1NWJ-6ODZ a crm:E35_Title ;
-        rdfs:label "The Colonna Altarpiece"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:G0MK-7I15-Y5ZV-P9C4 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:GBL2-YP4X-DK9G-QKDZ a crm:E35_Title ;
-        rdfs:label "The Virgin and Child (The Orléans Madonna)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:GPF6-KYG8-57IU-HNWJ a crm:E78_Curated_Holding ;
-        rdfs:label "Museu de Arte de S%C3%A3o Paulo Assis Chateaubriand Collection"@en ;
-        crm:P2_has_type aat:300443858,
-            crm:E78_Curated_Holding .
-
-    ngo:HX54-TROO-S3O9-KP6P a crm:E35_Title ;
-        rdfs:label "Saint John the Baptist Preaching"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:ID84-G3HZ-41JK-JGA1 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:IOCV-HBQK-6SUW-ZAA5 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:IVCP-C40J-NGR5-K11V a crm:E39_Actor ;
-        rdfs:label "ng-london"@en ;
-        crm:P2_has_type aat:300024979,
-            crm:E39_Actor .
-
-    ngo:J0SL-BSIL-4DFU-FKPK a crm:E35_Title ;
-        rdfs:label "The Three Graces"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:J5A9-OP6F-J8OR-L991 a crm:E35_Title ;
-        rdfs:label "Saint George and the Dragon"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:J9SJ-3MLO-I3YY-CAFK a crm:E35_Title ;
-        rdfs:label "Madonna and Child with Book (The Norton Simon Madonna)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:JJ32-K39C-M4AM-XND8 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:JQ59-49A8-AT62-QJVL a crm:E35_Title ;
-        rdfs:label "Bindo Altoviti"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:K78D-NDNX-ENHG-HXBP a crm:E35_Title ;
-        rdfs:label "The Madonna and Child (The Mackintosh Madonna)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:LAJK-KY0Q-G4XJ-1PHR a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:LOIN-GP5H-8P41-98WT a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:LOYL-L6CJ-N1JT-X5DS a crm:E35_Title ;
-        rdfs:label "Saint Francis"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:LS0T-NYCQ-PCBG-TQ4L a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:LUC8-PDBX-XJW8-WBCE a crm:E78_Curated_Holding ;
-        rdfs:label "Duke of Sutherland Collection"@en ;
-        crm:P2_has_type aat:300443858,
-            crm:E78_Curated_Holding .
-
-    ngo:LWRX-Y1TL-K5TP-NTNP a crm:E35_Title ;
-        rdfs:label "The Small Cowper Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:LYAK-ZMD3-07WW-FYCG a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:M1PG-Q48P-7XY9-HK70 a crm:E35_Title ;
-        rdfs:label "The Madonna and Child with the Infant Baptist (The Garvagh Madonna)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:MLT5-MGRT-MYQG-USU7 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
-
-    ngo:N2BX-Q9J6-UJ28-D38B a crm:E35_Title ;
-        rdfs:label "Madonna and Child enthroned with Saints (The Colonna Altarpiece)"@en ;
-        crm:P2_has_type aat:300417209,
-            crm:E35_Title .
-
-    ngo:O5TP-TWXA-6BQ6-U5BX a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:OA7F-5UU6-B8IC-ZOED a crm:E35_Title ;
-        rdfs:label "The Madonna and Child"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:P05T-VVCG-4NQ8-3WAU a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:P0N3-LRRU-V3S4-SE6C a crm:E35_Title ;
-        rdfs:label "The Norton Simon Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:P9K8-A95I-PD7O-Y1NQ a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
-
-    ngo:PYMW-V28M-WX7T-BKJA a crm:E35_Title ;
-        rdfs:label "Saint Anthony of Padua"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
 
     ngo:Q1459878 a crm:E53_Place ;
         rdfs:label "North Carolina Museum of Art"@en ;
@@ -1101,108 +705,504 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
         rdfs:label "Isabella Stewart Gardner Museum"@en ;
         crm:P2_has_type crm:E53_Place .
 
-    ngo:S4GI-47CK-ZP08-ILIN a crm:E35_Title ;
-        rdfs:label "The Pietà"@en ;
-        crm:P2_has_type aat:300417208,
-            aat:300417209,
-            crm:E35_Title .
-
-    ngo:S6N2-9YPY-XFDA-OUZ6 a crm:E35_Title ;
-        rdfs:label "The Ansidei Madonna"@en ;
-        crm:P2_has_type aat:300417208,
-            crm:E35_Title .
-
-    ngo:TA2W-TDJV-KLI6-QH4N a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-09OP-WJM5-D49N-OKE2 a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300163343,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
 
-    ngo:TEIK-T8P4-ZOOS-09LE a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-0DXL-8MPW-3ZSQ-NK79 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-187A-606B-EOOW-12WX a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300014844,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
 
-    ngo:UHPT-Z1ZO-W0LO-N5E1 a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-1EVG-CLSH-OAAJ-F89V a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300014844,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
 
-    ngo:UMF5-I5W7-MK7J-E9CW a crm:E35_Title ;
+    ngo:SC-21JW-1J6A-P4P6-N5T6 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300014078 ] .
+
+    ngo:SC-270M-H1UH-M9AV-QG04 a crm:E35_Title ;
+        rdfs:label "Saint Francis"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-2BOW-9026-NYK6-Z4R3 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-2OMG-HOXP-M03G-8FES a crm:E35_Title ;
+        rdfs:label "Madonna and Child with Book (The Norton Simon Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-2YV1-GHWJ-D568-VFJP a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-2YXY-7JG8-C7SF-3LL9 a crm:E78_Curated_Holding ;
+        rdfs:label "Duke of Sutherland Collection"@en ;
+        crm:P2_has_type aat:300443858,
+            crm:E78_Curated_Holding .
+
+    ngo:SC-3H8Z-UYN7-9IT7-WFD2 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-3JX2-0TD7-BJQA-AFFP a crm:E35_Title ;
+        rdfs:label "The Madonna and Child (The Mackintosh Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-3U1Z-C7CP-BJ6V-C36F a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-4KXB-J7E1-F62W-082F a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-4R6I-RS4X-GWSV-7ZBP a crm:E35_Title ;
+        rdfs:label "The Bridgewater Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-4TOF-Y2QB-VZRV-MHKK a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-4WSG-33MF-F5TO-HUWF a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-4YOA-04TU-XE9M-KA56 a crm:E35_Title ;
+        rdfs:label "The Madonna of the Pinks (La Madonna dei Garofani)"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-5Z31-8FWE-GEYH-V4QZ a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-69QE-SI8N-351G-LRAO a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-6CWQ-G6KF-637Z-35PT a crm:E35_Title ;
+        rdfs:label "Saint George and the Dragon"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-6DHW-SWUC-97JS-2VO0 a crm:E53_Place ;
+        rdfs:label "The National Gallery of Scotland"@en ;
+        crm:P2_has_type crm:E53_Place .
+
+    ngo:SC-7MBS-NYOA-8PPJ-A5V1 a crm:E35_Title ;
+        rdfs:label "The Procession to Calvary"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-89DG-NSIX-M4RL-1NLO a crm:E35_Title ;
+        rdfs:label "The Madonna and Child with Saint John the Baptist and Saint Nicholas of Bari (The Ansidei Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-93FI-U7XU-MXAC-ZIEU a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-95RM-KYX3-2ROS-B6L8 a crm:E35_Title ;
+        rdfs:label "Bindo Altoviti"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-9ZHR-SQYI-6KJH-0JRX a crm:E35_Title ;
+        rdfs:label "The Norton Simon Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-AA63-SBI9-QTNQ-WM2U a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-AEXV-JP8V-E3GE-Z904 a crm:E35_Title ;
+        rdfs:label "The Orléans Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-AQ3T-82PW-IP2Y-EC1H a crm:E35_Title ;
         rdfs:label "Saint Catherine of Alexandria"@en ;
         crm:P2_has_type aat:300417208,
             aat:300417209,
             crm:E35_Title .
 
-    ngo:UU86-6P6Z-RKKK-FW1Z a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-BJ1C-YDIY-H1OZ-A19E a crm:E35_Title ;
+        rdfs:label "Madonna and Child enthroned with Saints (The Colonna Altarpiece)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-BMPN-X26L-W98L-58JI a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-BWSQ-TURF-JO9L-D1HS a crm:E35_Title ;
+        rdfs:label "The Madonna and Child with the Infant Baptist (The Garvagh Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-BXKR-Z238-3GQI-6HAL a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-C76V-5DQE-MSZN-BHCQ a crm:E35_Title ;
+        rdfs:label "The Virgin and Child (The Bridgewater Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-C8MQ-FQ2L-OY2U-JYFU a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300014844,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300012774 ] .
 
-    ngo:UY42-MIGM-QTBQ-AFY3 a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300163343,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+    ngo:SC-CA4N-AI81-29PP-5760 a crm:E35_Title ;
+        rdfs:label "The Crucified Christ with the Virgin Mary, Saints and Angels (The Mond Crucifixion)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
 
-    ngo:V80R-AVL4-AWVC-YRGJ a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-CD20-VL7U-USHX-CNZE a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300014844,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
 
-    ngo:VNYW-9GM6-4L78-TU9S a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-CSY4-ZAYG-HISJ-HZJC a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300014844,
             crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
 
-    ngo:VUY9-O9MB-RTOX-O0LW a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-DAP4-LV28-8BRX-IETK a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300163343,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
 
-    ngo:WJS6-6UXR-DYRF-E75T a crm:E35_Title ;
+    ngo:SC-DBVU-5JI0-9U6Z-UGYX a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-DDGY-WBXL-VVOV-PNAG a crm:E35_Title ;
+        rdfs:label "The Pietà"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-FOU0-6FZS-YECU-TMI8 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-FTZF-KNCA-YAQI-F2T5 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-FZMN-4EK6-BB55-OEUR a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-FZVQ-HXQ7-I47W-YDHK a crm:E53_Place ;
+        rdfs:label "Museu de Arte de S%C3%A3o Paulo Assis Chateaubriand"@en ;
+        crm:P2_has_type crm:E53_Place .
+
+    ngo:SC-HG10-K7Z3-A6JW-DPCW a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-HO5Y-0ZLJ-HJRN-6MQK a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-HTLX-18S0-7DM9-8TFQ a crm:E35_Title ;
+        rdfs:label "The Madonna and Child"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-HTV5-3WUO-RJM2-DQB9 a crm:E35_Title ;
+        rdfs:label "The Colonna Altarpiece"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-I2GE-N4JY-4Z8I-657D a crm:E35_Title ;
+        rdfs:label "The Ansidei Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-IFG3-5LTY-VEWF-6K1G a crm:E35_Title ;
+        rdfs:label "Portrait of Pope Julius II"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-IUP5-YFSV-H701-D5Q7 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-JFMQ-TWAR-GD4Z-GEDF a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300014078 ] .
+
+    ngo:SC-JKOY-NEX8-I0DT-6QGM a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-K9GB-WDLC-LY69-CQB4 a crm:E35_Title ;
+        rdfs:label "The Resurrection of Christ"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-KMSJ-G3IQ-I9D4-NYZS a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-KPOZ-Y8SW-TMHF-R3HS a crm:E35_Title ;
         rdfs:label "The Agony in the Garden"@en ;
         crm:P2_has_type aat:300417208,
             aat:300417209,
             crm:E35_Title .
 
-    ngo:WJVS-Y0UT-17LQ-TTNB a crm:E35_Title ;
-        rdfs:label "The Bridgewater Madonna"@en ;
+    ngo:SC-LOLU-F6L9-MHZB-M7TQ a crm:E35_Title ;
+        rdfs:label "Eusebius of Cremona raising Three Men from the Dead"@en ;
         crm:P2_has_type aat:300417208,
             crm:E35_Title .
 
-    ngo:X0B6-QXKQ-JY7C-2J5H a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-LQFS-5MRI-2AI1-NTM2 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-LZAC-3200-RJMJ-UCYU a crm:E35_Title ;
+        rdfs:label "The Mackintosh Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-M5VG-459S-G2ED-8XN7 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-MAUU-LJ13-TB1X-HU9D a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-MC6Z-WTNZ-0Q92-ZZO8 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-MK0K-LUFV-KXWH-V2TA a crm:E53_Place ;
+        rdfs:label "Norton Simon Museum of Art"@en ;
+        crm:P2_has_type crm:E53_Place .
+
+    ngo:SC-MMWW-TDWQ-7MV4-C0JB a crm:E35_Title ;
+        rdfs:label "The Garvagh Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-N7WX-ZZ2N-KWGQ-71L3 a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300163343,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
 
-    ngo:XFO3-8GQG-VU0S-OEOK a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:XIBU-Q9RD-VF85-JUAI a crm:E24_Physical_Human_Made_Thing ;
+    ngo:SC-NQD4-86D1-552A-77F6 a crm:E24_Physical_Human_Made_Thing ;
         crm:P2_has_type aat:300163343,
             crm:E24_Physical_Human_Made_Thing ;
         crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
 
-    ngo:Y9UA-DH78-ZDIQ-A5YG a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:YOFU-16ZX-BQDN-1UIX a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:Z332-8T9L-H60J-3R0K a crm:E24_Physical_Human_Made_Thing ;
-        crm:P2_has_type aat:300014844,
-            crm:E24_Physical_Human_Made_Thing ;
-        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
-
-    ngo:Z9J9-LJDR-84N2-1OLS a crm:E35_Title ;
-        rdfs:label "The Madonna and Child with Saint John the Baptist and Saint Nicholas of Bari (The Ansidei Madonna)"@en ;
+    ngo:SC-OCMB-7OLR-BZJD-K02Y a crm:E35_Title ;
+        rdfs:label "Eusebius of Cremona raising Three Men from the Dead with Saint Jeromes Cloak"@en ;
         crm:P2_has_type aat:300417209,
             crm:E35_Title .
+
+    ngo:SC-OP3B-2068-DGUK-YBH5 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-OWIV-4VQA-T28B-6TFJ a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-OXQE-KOXL-28N9-AAD1 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-PB1M-PCF3-YFHB-RR63 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-PS7P-89FG-PPZY-SZIG a crm:E35_Title ;
+        rdfs:label "Saint Jerome saving Silvanus and punishing the Heretic Sabinianus"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-PUAJ-CPFS-MGV7-TMWU a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
+
+    ngo:SC-QJVG-CQM1-T1ZU-1VOM a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-QKC7-SNQW-2M2K-X220 a crm:E39_Actor ;
+        rdfs:label "ng-london"@en ;
+        crm:P2_has_type aat:300024979,
+            crm:E39_Actor .
+
+    ngo:SC-QT12-8WDC-U1O2-R147 a crm:E35_Title ;
+        rdfs:label "The Small Cowper Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-QZ0S-9OGG-WKY8-UJ60 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300012363 ] .
+
+    ngo:SC-RI0W-291I-TS4H-Q4NK a crm:E35_Title ;
+        rdfs:label "The Three Graces"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-RLHM-328W-7FCH-FMKT a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-RNDW-55BG-407H-XW2X a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-SAZX-V132-C4NN-481E a crm:E35_Title ;
+        rdfs:label "An Allegory (Vision of a Knight)"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-SBJX-5K9J-2LEF-08FF a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-T7NT-8AFK-H4BZ-BHIC a crm:E35_Title ;
+        rdfs:label "The Holy Family (The Loreto Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-T7O6-K3PY-0LR4-SPTW a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-UJB7-KGQ3-95CV-83FA a crm:E78_Curated_Holding ;
+        rdfs:label "Museu de Arte de S%C3%A3o Paulo Assis Chateaubriand Collection"@en ;
+        crm:P2_has_type aat:300443858,
+            crm:E78_Curated_Holding .
+
+    ngo:SC-US4P-2MG3-U7AP-3OR2 a crm:E35_Title ;
+        rdfs:label "The Mond Crucifixion"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-V4XZ-6UFO-68UF-WE58 a crm:E35_Title ;
+        rdfs:label "The Virgin and Child (The Orléans Madonna)"@en ;
+        crm:P2_has_type aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-X4VC-O0O7-SFXB-AM51 a crm:E35_Title ;
+        rdfs:label "The Loreto Madonna"@en ;
+        crm:P2_has_type aat:300417208,
+            crm:E35_Title .
+
+    ngo:SC-XTX2-AQYV-WDV8-I3R2 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-Y609-H426-IEFD-8X8X a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-YA93-E84V-GXOA-7B1W a crm:E35_Title ;
+        rdfs:label "Saint Anthony of Padua"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-YC5U-EGNR-E18S-6E54 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-Z5MN-AKQW-B1KB-ODVF a crm:E35_Title ;
+        rdfs:label "Saint John the Baptist Preaching"@en ;
+        crm:P2_has_type aat:300417208,
+            aat:300417209,
+            crm:E35_Title .
+
+    ngo:SC-ZKJ7-O9XI-RBJD-KQ0O a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300163343,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300015050 ] .
+
+    ngo:SC-ZVF9-4YBQ-VCA7-JL77 a crm:E24_Physical_Human_Made_Thing ;
+        crm:P2_has_type aat:300014844,
+            crm:E24_Physical_Human_Made_Thing ;
+        crm:P45_consists_of [ crm:P2_has_type aat:300011914 ] .
 
     aat:300014078 rdfs:label "canvas (textile material)@en" .
 
@@ -1210,46 +1210,46 @@ _:Ndefa76e3f20f47a0b6f277553aebd4da {
 
     aat:300410350 rdfs:label "canvas paintings@en" .
 
-    ngo:ISK0-WLRM-5GLT-NN56 a crm:E53_Place ;
-        rdfs:label "Room A Screen 13"@en ;
-        crm:P2_has_type crm:E53_Place .
-
-    ngo:OEL2-UN6F-XT14-VLTB a crm:E53_Place ;
-        rdfs:label "The Metropolitan Museum of Art"@en ;
-        crm:P2_has_type crm:E53_Place .
-
     ngo:Q1241163 a crm:E53_Place ;
         rdfs:label "Dulwich Picture Gallery"@en ;
         crm:P2_has_type crm:E53_Place .
 
-    ngo:7Y54-U9HP-FRG1-S0P6 a crm:E53_Place ;
-        rdfs:label "Mus%C3%A9e Cond%C3%A9"@en ;
+    ngo:SC-9F2Q-VKDM-QAFG-OYW4 a crm:E53_Place ;
+        rdfs:label "The Metropolitan Museum of Art"@en ;
+        crm:P2_has_type crm:E53_Place .
+
+    ngo:SC-ZM24-TZER-VJL7-EPS7 a crm:E53_Place ;
+        rdfs:label "Room A Screen 13"@en ;
         crm:P2_has_type crm:E53_Place .
 
     ngo:Q214867 a crm:E53_Place ;
         rdfs:label "National Gallery of Art"@en ;
         crm:P2_has_type crm:E53_Place .
 
-    ngo:RJKD-25LW-5GFI-XN06 a crm:E78_Curated_Holding ;
+    ngo:SC-6YGC-QVKC-GY18-URCU a crm:E53_Place ;
+        rdfs:label "Mus%C3%A9e Cond%C3%A9"@en ;
+        crm:P2_has_type crm:E53_Place .
+
+    ngo:SC-ODI6-Y0SM-H2S5-DPH5 a crm:E78_Curated_Holding ;
         rdfs:label "Mus%C3%A9e Cond%C3%A9 Collection"@en ;
         crm:P2_has_type aat:300443858,
             crm:E78_Curated_Holding .
 
     aat:300443858 rdfs:label "collections (repositories)"@en .
 
-    ngo:86O6-Z6YG-YL6M-10CR a crm:E53_Place ;
+    ngo:SC-EDYP-S9DS-PZRN-J97H a crm:E53_Place ;
         rdfs:label "Room 8"@en ;
         crm:P2_has_type crm:E53_Place .
 
-    ngo:SWDZ-XHEV-BX8N-72HX a crm:E39_Actor ;
-        rdfs:label "Carol Plazzotta"@en ;
-        crm:P2_has_type aat:300024979,
-            crm:E39_Actor .
-
-    ngo:ZGSO-VAD2-9Z05-06C8 a crm:E78_Curated_Holding ;
+    ngo:SC-STNC-17UK-NFCM-HKT6 a crm:E78_Curated_Holding ;
         rdfs:label "The National Gallery Collection"@en ;
         crm:P2_has_type aat:300443858,
             crm:E78_Curated_Holding .
+
+    ngo:SC-YBF1-4H1I-MWVV-6Z88 a crm:E39_Actor ;
+        rdfs:label "Carol Plazzotta"@en ;
+        crm:P2_has_type aat:300024979,
+            crm:E39_Actor .
 
     aat:300011914 rdfs:label "wood (plant material)@en" .
 

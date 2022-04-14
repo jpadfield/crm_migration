@@ -3,35 +3,99 @@
 @prefix ngo: <https://data.ng-london.org.uk/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ngo:04VV-V72B-CBV7-5DFR a crm:E21_Person ;
+ngo:N01ba560818fc4e2baa9e8a78556af010 crm:P2_has_type aat:300263369 .
+
+ngo:N05d76d73583a44189b67096f68c2bbe3 crm:P2_has_type aat:300263369 .
+
+ngo:N0adefbd1e86643cf8336912211ac0be0 crm:P2_has_type aat:300404688 .
+
+ngo:N0fcc3041f03a4a3d83bdce5548dff1c6 crm:P2_has_type aat:300404688 .
+
+ngo:N12fe8f7808254fe9a53416b274ade28d crm:P2_has_type aat:300263369 .
+
+ngo:N18a51bf17ff84f498c280bd9f95c9b5e crm:P2_has_type aat:300263369 .
+
+ngo:N1b117a9eeb59428e867b33ed3903c1b2 crm:P2_has_type aat:300404688 .
+
+ngo:N1b9c48a6a0e147ed99b10234aa32700e crm:P2_has_type aat:300404688 .
+
+ngo:N1e6b34346e924779bfbe5a218c5e0a98 crm:P2_has_type aat:300404688 .
+
+ngo:N257b77eafc2a4168a5ccd5101459e685 crm:P2_has_type aat:300404688 .
+
+ngo:N2a6eda90f5164156b08ea213798d00dc crm:P2_has_type aat:300404688 .
+
+ngo:N532a51ef331f47339e5e16e311fc9990 crm:P2_has_type aat:300263369 .
+
+ngo:N5f6e9a67770d4ccbbfed0e020ce0b4c7 crm:P2_has_type aat:300263369 .
+
+ngo:N664e2b3e70254c3e916cf51fdbc86462 crm:P2_has_type aat:300404688 .
+
+ngo:N68509c11bbc44f439f5619727f84a984 crm:P2_has_type aat:300263369 .
+
+ngo:N6f02de8241604dfbb2ecac8c49c6b41d crm:P2_has_type aat:300404688 .
+
+ngo:N7c36351e6f1540588f5ca95f3e2a7087 crm:P2_has_type aat:300404688 .
+
+ngo:N7f53c4ad974a4e23be0fd80c60a7b33a crm:P2_has_type aat:300263369 .
+
+ngo:N883654c7ffde4393836d83b4f5b6ce32 crm:P2_has_type aat:300404688 .
+
+ngo:N88801bb316f7483ca1431b9badeda3e2 crm:P2_has_type aat:300263369 .
+
+ngo:N8c10b0cdbb2d4682a97141ab71278b89 crm:P2_has_type aat:300404688 .
+
+ngo:N8ef44e8ced1149808d79b088f44e2ae7 crm:P2_has_type aat:300263369 .
+
+ngo:N91435dbb039d4291b4ff65254d7b0c23 crm:P2_has_type aat:300263369 .
+
+ngo:N9374d05ff7054197a83c1807641e05fb crm:P2_has_type aat:300404688 .
+
+ngo:N984dac39b06046cbb3634891507d28ce crm:P2_has_type aat:300404688 .
+
+ngo:Na845985dfb8643b7939004f1e248866c crm:P2_has_type aat:300263369 .
+
+ngo:Nb9f97a0fa4d047d39695f277f27922ed crm:P2_has_type aat:300263369 .
+
+ngo:Nc925da92e3284a5792d0dad4938414d0 crm:P2_has_type aat:300263369 .
+
+ngo:Nc96794298bf644b68eefb36a72c09bfb crm:P2_has_type aat:300404688 .
+
+ngo:Ncb67dac3ed294d9d893609449ca25876 crm:P2_has_type aat:300263369 .
+
+ngo:Ncc939e804b9e4b0f8f1fd1c64ee91f28 crm:P2_has_type aat:300404688 .
+
+ngo:Ncd0564a24bfb470c9799054fba76276d crm:P2_has_type aat:300263369 .
+
+ngo:Nd1b68cc7050d4a86b19cf2325b86b3a8 crm:P2_has_type aat:300404688 .
+
+ngo:Nd3906047072740cebbbf21f52e7ea5eb crm:P2_has_type aat:300263369 .
+
+ngo:Ndb6b94974eba4d77a6b52bc539005353 crm:P2_has_type aat:300404688 .
+
+ngo:Ndd9d637fe5084f8c9f84d460e80f7947 crm:P2_has_type aat:300404688 .
+
+ngo:Ne188e1dd801d43b7b9494f614adf4c1d crm:P2_has_type aat:300263369 .
+
+ngo:Necbe2c4132a641c6b7d10a88c7c74e1f crm:P2_has_type aat:300404688 .
+
+ngo:Nf87f4c5be7094109b3a4f5232134bc6a crm:P2_has_type aat:300404688 .
+
+ngo:SC-0CGH-F968-Z10H-Y5TF a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Senior Scientific Officer"@en ;
+            rdfs:label "David A. Peggie"@en ;
             crm:P2_has_type crm:E41_Appellation ],
         [ a crm:E41_Appellation ;
-            rdfs:label "Marika Spring"@en ;
+            rdfs:label "Scientific Officer - Assistant Organic Analyst"@en ;
             crm:P2_has_type crm:E41_Appellation ] ;
     crm:P2_has_type aat:300024979,
         aat:300025492,
         aat:300403974,
         crm:E21_Person ;
-    crm:P3_has_note "Marika Spring gained a BA (hons) in Natural Sciences, specialising in Chemistry (1988), from Cambridge University and a Postgraduate Diploma in the Conservation of Easel Paintings (1991) from the Hamilton Kerr Institute, Cambridge University. She has been working in the Scientific Department of the National Gallery since 1992, where she is currently a senior scientist. Her principal research interests are the study of historical painting techniques and materials, particularly the analysis of pigments, and investigation of the mechanisms of their deterioration."@en ;
+    crm:P3_has_note "David A. Peggie gained his PhD from the University of Edinburgh in 2006 on ‘The development and application of analytical methods for the identification of dyes on historical textiles’ and has an MChem (Hons) degree in Chemistry from the University of Edinburgh (2002). Since 2006 he has worked in the scientific department at the National Gallery, London, on the analysis of organic materials."@en ;
     crm:P53_has_former_or_current_location ngo:Q180788 .
 
-ngo:AUT9-EXA2-A5WD-9FS5 a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Minna Moore Ede"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Assistant Curator (Renaissance Painting)"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note "Minna Moore Ede has been Assistant Curator of Renaissance Paintings at the National Gallery since 2005, having joined the National Gallery as a Curatorial Assistant in 2002. While at the National Gallery she has curated a Room 1 exhibition on Polidoro:The Way to Calvary (2003), assisted on Raphael: From Urbino to Rome (2004) and Bosch and Brueghel (2004), as well as contributed to the catalogues of Rubens: A Master in the Making (2005) and Renaissance Faces; from Van Eyck to Titian (2008). She completed her PhD on Religious Art and Catholic Reform in Italy, 1527-1546 at Oxford University in 2002."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:C59B-469X-U8RF-IDKD a crm:E21_Person ;
+ngo:SC-2C1Q-C0UB-M1D4-QX9N a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
             rdfs:label "After Raphael"@en ;
             crm:P2_has_type crm:E41_Appellation ] ;
@@ -40,248 +104,11 @@ ngo:C59B-469X-U8RF-IDKD a crm:E21_Person ;
         crm:E21_Person ;
     crm:P3_has_note "Anonymous, artist known to have copied at least one painting by Raphael"@en .
 
-ngo:CS7P-SSR9-YSDQ-QV6J a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Ashok Roy"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Director Of Scientific Research"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note "Ashok Roy studied chemistry at the University of Manchester and gained a BSc (hons) in 1970, MSc (1971) and PhD (1973) in inorganic chemistry. He joined the Scientific Department of the National Gallery in 1977 to work with Joyce Plesters on the technical examination of Old Master paintings and became head of department in 1990. His main interests are the materials and techniques of European easel paintings of all periods, and the history and technology of the materials of painting, explored by analytical study. Publications include co-authorship of five catalogues in the Art in the Making series and many other publications on the material history of painting including contributions to the National Gallery Technical Bulletin, which he has edited since 1978. He has also co-edited five volumes of the pre-prints of international congresses of the IIC. He is now Director of Scientific Research at the National Gallery."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:E0OJ-H45V-BSN8-GG3U a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Mara Hofmann"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Mellon Fellow"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300025526,
-        aat:300025687,
-        aat:300403974,
-        aat:None,
-        crm:E21_Person ;
-    crm:P3_has_note "Mara Hofmann studied at the Friedrich-Alexander-Universität Erlangen-Nürnberg and at the Freie Universität Berlin where she gained a MA in Art History and German Literature in 1998, and a PhD in Art History in 2002 (see Jean Poyer: Das Gesamtwerk, Turnhout, 2004). In 2003/04 she worked as a Feodor-Lynen-Scholar (Post-Doc) of the Alexander von Humboldt Foundation at the Institut de recherche et d’histoire des textes in Paris. In 2005, she was hired by the University of London, Centre for Manuscript and Print Studies, to work on the British Library online Catalogue of Illuminated Manuscripts. She joined the National Gallery as a Mellon Fellow in 2007, where she worked on a pilot project to assemble a digital database of material related to the National Gallery's group of ten paintings by Raphael. Currently, she continues her work on the Raphael Research Resource. Her research interests and publications focus on Renaissance painting and book illumination."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:EHN4-SSYY-PDBZ-OC69 a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Curator Of Italian Paintings 1460-1500"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Luke Syson"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note "Luke Syson studied art history at the Courtauld Institute and joined the British Museum as curator of medals in 1991. During his time there, he co-edited (with Nicholas Mann) the volume The Image of the Individual: Portraits in the Renaissance (1998) and co-wrote (with Dora Thornton) Objects of Virtue: Art in Renaissance Italy (2001). His many publications include essays devoted to Bertoldo di Giovanni, Leonardo da Vinci, Cosimo Tura and Ercole de’ Roberti, as well considerations of portraiture in several media. In 2001, he co-curated (with Dillian Gordon) the National Gallery exhibition Pisanello: Painter to the Renaissance Court and co-wrote the accompanying publication. He left the British Museum in 2002 while working on the Enlightenment Gallery, and briefly joined the Victoria and Albert Museum as Senior Curator, Medieval and Renaissance Galleries. In 2003, he joined the National Gallery as Curator, Italian Painting, 1460-1500. His most recent work includes responsibility for the 2007 National Gallery exhibition Renaissance Siena: Art for a City and the publication of the introductory essay to the 2008 exhibition Renaissance Faces: From van Eyck to Titian."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:FXOH-RAMJ-7S9R-BHKK a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Director"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Nicholas Penny"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note """Nicholas Penny studied English at Cambridge University and then History of Art at the Courtauld Institute in London. His dissertation on English neo-classical tomb sculpture was published as a book in 1977 by when he was teaching Art History at the University of Manchester. In 1981, together with the late Francis Haskell, he published Taste and the Antique: a guide to what were once the most celebrated antique sculptures and an exploration of one of the most significant revolutions in European taste. He took up a Senior Research Fellowship at King’s College Cambridge in 1982 in order to organize the Reynolds exhibition which opened at the Royal Academy in London in 1986 and to complete a monograph on Raphael together with the late Roger Jones (published 1983).
-In 1986 Dr Penny was appointed Keeper of the Department of Western Art at the Ashmolean Museum, Oxford, where, in addition to organizing exhibitions on subjects as diverse as drawings by Ruskin and etchings by Lucian Freud, he catalogued the Western European Sculpture dating from 1540 to the present day (3 volumes, published 1992). His book The Materials of Sculpture was published in 1993.
-In 1990 he was appointed Clore Curator of Renaissance Art in the National Gallery, London where he was also, in 1998, made Keeper of the Collection. He was co-author of two books on the Renaissance Art in London: Giotto to Dürer (1991) and Dürer to Veronese (1999). In 2000 he came to the Center for Advanced Study in the Visual Arts at the National Gallery of Art, as Mellon Professor and completed work on one volume of the catalogue of Sixteenth-century Italian Paintings in the National Gallery, London (2004). In October 2003 he took up the post of Senior Curator of Sculpture and Decorative Arts at the National Gallery of Art. Since February 2008 he has been Director of the National Gallery, London. His catalogue of the later Sixteenth Century Venetian paintings in the National Gallery was published in 2008."""@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:G7G9-L6G9-SJAY-Y0SM a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Donal Cooper"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Assistant Professor"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note ""@en ;
-    crm:P53_has_former_or_current_location ngo:MWRC-0VP3-JKVA-HDTN .
-
-ngo:GENW-2XXK-D5BS-4BZF a crm:E21_Person ;
+ngo:SC-BG9H-0R1X-IYCG-H69B a crm:E21_Person ;
     crm:P2_has_type aat:300024979,
         crm:E21_Person .
 
-ngo:I890-3DLO-RZ15-CX4Y a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Assistant Keeper Prints & Drawings Department, Curator of Italian drawings before 1800"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Hugo Chapman"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note "Hugo Chapman studied at Westfield College, London University where he gained a BA in Art History. In 1985 he joined the Old Master Drawings department of Christie's. Ten years later he was appointed curator of Italian drawings from the period 1400 to 1800 at the British Museum. During his time at the museum he has put together the database for the Italian drawings (this has been available on-line since 2007) and has been involved in exhibitions on Marco Zoppo, Raphael, Michelangelo and is currently working one one dedicated to Italian quattrocento drawings in collaboration with Marzia Faietti from the Gabinetto Disegni e Stampe degli Uffizi in Florence that will open in London in Spring 2010."@en ;
-    crm:P53_has_former_or_current_location ngo:52RG-059M-9CMS-937V .
-
-ngo:J2H0-67F4-E39U-IZRL a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Rachel Morrison"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Scientific Officer"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note "Rachel Morrison gained a Masters degree in Chemistry from the University of Oxford (2002) and a Postgraduate Diploma in the Conservation of Easel Paintings from the Courtauld Institute of Art (2006). In 2006/2007 she completed internships at the Hamilton Kerr Institute, Cambridge and the Mauritshuis Museum, The Hague, where she carried out practical conservation and technical study of paintings. She joined the National Gallery Scientific Department in 2007 where she now works on organic analysis."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:J3C0-0JC8-68M0-YHN7 a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Aidan Weston-Lewis"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Chief Curator with responsibility for the Italian and Spanish collections"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note ""@en ;
-    crm:P53_has_former_or_current_location ngo:34EP-C96Y-QPQR-FIYX .
-
-ngo:KH24-DM1U-AUZI-QKVE a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Research Associate"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Rachel Billinge"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note "Rachel Billinge, gained a BA (hons) Engineering Science (1984) from Oxford University and a MA in Conservation and Restoration of Easel Paintings from Newcastle upon Tyne Polytechnic in 1990. After work as a private picture restorer she joined the conservation department of the National Gallery (London) as a Leverhulme Research Fellow in 1991 working on infrared reflectography and the examination of paintings for the Netherlandish and German Schools Catalogues. Technical examination continued as Rausing Research Associate until in 2005 she became a permanent member of the conservation department continuing the technical examination of paintings and conducting research into improvements in infrared imaging techniques."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:MYI5-E5PD-HUJ7-14TV a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Keeper of Conservation (retired)"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "John Dick"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note ""@en ;
-    crm:P53_has_former_or_current_location ngo:34EP-C96Y-QPQR-FIYX .
-
-ngo:N05dfccb28d9c402d841ba7ccdb335c2d crm:P2_has_type aat:300263369 .
-
-ngo:N0838237f8b00467e99c6cf8167eeaa7f crm:P2_has_type aat:300404688 .
-
-ngo:N08b4ae51a31d4e1eb9347c5047713a91 crm:P2_has_type aat:300263369 .
-
-ngo:N16105ea590014fc5ace9d02e5520b7c3 crm:P2_has_type aat:300404688 .
-
-ngo:N1943c954ed614e658741b512ad2d5f9e crm:P2_has_type aat:300263369 .
-
-ngo:N1e594df9971d45a9984ef7ff29356bef crm:P2_has_type aat:300404688 .
-
-ngo:N25ec4d7f14654554bc4056ff1c1991ca crm:P2_has_type aat:300404688 .
-
-ngo:N28673d44ab9843279756bdc674782baf crm:P2_has_type aat:300404688 .
-
-ngo:N31dc6260078f4c1a834fabde40bc413d crm:P2_has_type aat:300263369 .
-
-ngo:N4ed220b7a1de405ca82be525f497403f crm:P2_has_type aat:300263369 .
-
-ngo:N59dd6f7c3db2422ea07f00075303e9d4 crm:P2_has_type aat:300404688 .
-
-ngo:N59eb6af3cb73466192f628eb90f53d7f crm:P2_has_type aat:300404688 .
-
-ngo:N5Y9-IZL7-QM9F-MRFH a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Director of Conservation"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "Martin Wyld"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025492,
-        aat:300403974,
-        crm:E21_Person ;
-    crm:P3_has_note ""@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:N62a5bf377d48494e877768733d5e98ea crm:P2_has_type aat:300263369 .
-
-ngo:N6d30d547276f43cda349432e83d4cde1 crm:P2_has_type aat:300263369 .
-
-ngo:N6d570761e69e46488fbaaed6f5fb3cf0 crm:P2_has_type aat:300263369 .
-
-ngo:N72471993cfea484a9af1682c65698496 crm:P2_has_type aat:300404688 .
-
-ngo:N73f61debd4514e28bda4c95176a4dcc7 crm:P2_has_type aat:300404688 .
-
-ngo:N7716cbd288ec4affb4c6f6e1e0864ff7 crm:P2_has_type aat:300404688 .
-
-ngo:N7e916ebc38e3462e927b0847d475231d crm:P2_has_type aat:300263369 .
-
-ngo:N8182b8d3878d449282c27862f1ff75de crm:P2_has_type aat:300404688 .
-
-ngo:N81caa2d9e09a441a80a85876decad585 crm:P2_has_type aat:300263369 .
-
-ngo:N840419cd95bc42b1929b41afd9df2718 crm:P2_has_type aat:300404688 .
-
-ngo:N891c79e375c649a9bd1338c2f621e6f2 crm:P2_has_type aat:300263369 .
-
-ngo:N8cbcdb81e0b644828d2886c635e6e79b crm:P2_has_type aat:300263369 .
-
-ngo:N8df9d231ec2b4819858c4866d902f196 crm:P2_has_type aat:300263369 .
-
-ngo:N919b1971322d472a9de57c7cb3d0591f crm:P2_has_type aat:300263369 .
-
-ngo:N99ef4ea73fc64612a70a120e7d0bd2a5 crm:P2_has_type aat:300263369 .
-
-ngo:Nb8044b9ab3044243bc58b831e673cb92 crm:P2_has_type aat:300404688 .
-
-ngo:Nbddcd78c388c4f71b169b6fdb8764819 crm:P2_has_type aat:300404688 .
-
-ngo:Nc91317252f53412fad52d9e64144a779 crm:P2_has_type aat:300404688 .
-
-ngo:Ncbfaa2dba8284ac78b616924202830fa crm:P2_has_type aat:300404688 .
-
-ngo:Ncda1b0b7fa7d4e64b24b6fb93b8688c4 crm:P2_has_type aat:300404688 .
-
-ngo:Nd10425524a2d4e3abcf45aa2c5217e11 crm:P2_has_type aat:300404688 .
-
-ngo:Nd28511256702416ca3ed5eea8de5f253 crm:P2_has_type aat:300263369 .
-
-ngo:Nd35941810e1943bf8de53dc20aa412be crm:P2_has_type aat:300404688 .
-
-ngo:Nd47fb0411cf1443fa678a004d60fc349 crm:P2_has_type aat:300404688 .
-
-ngo:Nf43967c69e7049faa7cc45753d914f5b crm:P2_has_type aat:300404688 .
-
-ngo:Nfa0ff902add241afbe214b95629a501a crm:P2_has_type aat:300263369 .
-
-ngo:Nfb2b00d6174e4e119eee47da4ebd8945 crm:P2_has_type aat:300263369 .
-
-ngo:PRAO-ZGVO-21EQ-RTJO a crm:E21_Person ;
+ngo:SC-CQU1-T24Z-DKLK-SDCT a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
             rdfs:label "Jill Dunkerton"@en ;
             crm:P2_has_type crm:E41_Appellation ],
@@ -295,38 +122,78 @@ ngo:PRAO-ZGVO-21EQ-RTJO a crm:E21_Person ;
     crm:P3_has_note "Jill Dunkerton studied fine art at Winchester and Goldsmiths’ Schools of Art, history of art (MA) at the Courtauld Institute, and paintings conservation at the Tate Gallery and Courtauld Institute. She has worked as a restorer at the National Gallery since 1980, specialising in particular on the restoration of paintings from the fourteenth to the sixteenth centuries. She has also written and lectured widely on the restoration and techniques of paintings of this period. Publications include co-authorship of Art in the Making: Italian Painting before 1400 (1989), Giotto to Dürer: Early Renaissance Painting in the National Gallery (1991), Making and Meaning: The Young Michelangelo (1994), Dürer to Veronese: Sixteenth-Century Painting in the National Gallery,(1999), Art in the Making. Underdrawing in Renaissance Paintings, (2002), as well as contributions to catalogues of exhibitions at the National Gallery and in the United States and Italy, and articles in the National Gallery Technical Bulletin, The Burlington Magazine, OPD Restauro and other journals."@en ;
     crm:P53_has_former_or_current_location ngo:Q180788 .
 
-ngo:RDO1-E820-TXG4-AA1M a crm:E21_Person ;
+ngo:SC-DY3B-A52D-QAHX-3C8Y a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Joseph Padfield"@en ;
+            rdfs:label "Assistant Curator (Renaissance Painting)"@en ;
             crm:P2_has_type crm:E41_Appellation ],
         [ a crm:E41_Appellation ;
-            rdfs:label "Senior Scientific Officer"@en ;
-            crm:P2_has_type crm:E41_Appellation ] ;
-    crm:P2_has_type aat:300024979,
-        aat:300025190,
-        aat:300025819,
-        aat:300386684,
-        aat:300403974,
-        aat:None,
-        crm:E21_Person ;
-    crm:P3_has_note "Joseph Padfield gained a BSc (hons) Chemistry (1995) from Edinburgh University and a MA in Conservation of Fine Art from the University of Northumbria at Newcastle in 1998, followed by a two year post graduate internship at the Hamilton Kerr Institute: Cambridge University, where he carried out practical conservation and analytical analysis. He joined the scientific department of the National Gallery (London), as the HP Research Fellow in 2000, where he worked to improve applications for digital imaging and general computing in the fields of conservation and conservation science. In 2006 he became a permanent member of the National Gallery Scientific Department conducting research into digital imaging, preventive conservation and the digital dissemination of conservation related data."@en ;
-    crm:P53_has_former_or_current_location ngo:Q180788 .
-
-ngo:SK2E-127K-S322-LI06 a crm:E21_Person ;
-    crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Scientific Officer - Assistant Organic Analyst"@en ;
-            crm:P2_has_type crm:E41_Appellation ],
-        [ a crm:E41_Appellation ;
-            rdfs:label "David A. Peggie"@en ;
+            rdfs:label "Minna Moore Ede"@en ;
             crm:P2_has_type crm:E41_Appellation ] ;
     crm:P2_has_type aat:300024979,
         aat:300025492,
         aat:300403974,
         crm:E21_Person ;
-    crm:P3_has_note "David A. Peggie gained his PhD from the University of Edinburgh in 2006 on ‘The development and application of analytical methods for the identification of dyes on historical textiles’ and has an MChem (Hons) degree in Chemistry from the University of Edinburgh (2002). Since 2006 he has worked in the scientific department at the National Gallery, London, on the analysis of organic materials."@en ;
+    crm:P3_has_note "Minna Moore Ede has been Assistant Curator of Renaissance Paintings at the National Gallery since 2005, having joined the National Gallery as a Curatorial Assistant in 2002. While at the National Gallery she has curated a Room 1 exhibition on Polidoro:The Way to Calvary (2003), assisted on Raphael: From Urbino to Rome (2004) and Bosch and Brueghel (2004), as well as contributed to the catalogues of Rubens: A Master in the Making (2005) and Renaissance Faces; from Van Eyck to Titian (2008). She completed her PhD on Religious Art and Catholic Reform in Italy, 1527-1546 at Oxford University in 2002."@en ;
     crm:P53_has_former_or_current_location ngo:Q180788 .
 
-ngo:SOV4-VGSR-9KA7-6DFK a crm:E21_Person ;
+ngo:SC-FNEP-P4L2-7O6X-UFLH a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Raphael"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Raffaello Sanzio"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025103,
+        crm:E21_Person ;
+    crm:P3_has_note """Italian painter, draughtsman and architect. He has always been acknowledged as one of the greatest European artists. With Leonardo da Vinci, Michelangelo and Titian, he was one of the most famous painters working in Italy in the period from 1500 to 1520, often identified as the High Renaissance, and in this period he was perhaps the most important figure. His early altarpieces (of 1500–07) were made for Città di Castello and Perugia; in Florence between 1504 and 1508 he created some of his finest portraits and a series of devotional paintings of the Holy Family. In 1508 he moved to Rome, where he decorated in fresco the <i>Stanze</i> of the papal apartments in the Vatican Palace—perhaps his most celebrated works—as well as executing smaller paintings in oil (including portraits) and a series of major altarpieces, some of which were sent from Rome to other centres. In Rome, Raphael came to run a large workshop. He also diversified, working as an architect and designer of prints.
+<a href='http://www.oxfordartonline.com/subscriber/article/grove/art/T070770?goto=raphael&_start=1&type=biography&pos=1' alt=''>N. Penny, ‘Raphael’, in Grove Art Online. Oxford Art Online</a>
+By permission of Oxford University Press, Inc.
+Raphael, 'Self Portrait', Florence, Galleria degli Uffizi. © The Art Archive/Galleria degli Uffizi, Florence/Alfredo Dagli Orti."""@en .
+
+ngo:SC-IGJG-0QVO-XZSX-37PN a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Director of Conservation"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Martin Wyld"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note ""@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-ISOQ-2C06-K0TO-S9XV a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Aidan Weston-Lewis"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Chief Curator with responsibility for the Italian and Spanish collections"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note ""@en ;
+    crm:P53_has_former_or_current_location ngo:SC-6DHW-SWUC-97JS-2VO0 .
+
+ngo:SC-JN3Q-331G-YSI3-R4UO a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Keeper of Conservation (retired)"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "John Dick"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note ""@en ;
+    crm:P53_has_former_or_current_location ngo:SC-6DHW-SWUC-97JS-2VO0 .
+
+ngo:SC-KZ25-32MQ-72BE-B875 a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
             rdfs:label "Author in the History of Italian Renaissance Art"@en ;
             crm:P2_has_type crm:E41_Appellation ],
@@ -342,12 +209,132 @@ For further information and publications, see:
 <a href=http://www.casanovaumbria.eu/Art_History/Tom_Henry__past_and_current_Ar/tom_henry__past_and_current_ar.html>Tom Henry: past and current Art History Projects</a>"""@en ;
     crm:P53_has_former_or_current_location ngo:Q84 .
 
-ngo:SWDZ-XHEV-BX8N-72HX a crm:E21_Person ;
+ngo:SC-Q4JP-5M1O-5LDA-S485 a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Carol Plazzotta"@en ;
+            rdfs:label "Rachel Billinge"@en ;
             crm:P2_has_type crm:E41_Appellation ],
         [ a crm:E41_Appellation ;
+            rdfs:label "Research Associate"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note "Rachel Billinge, gained a BA (hons) Engineering Science (1984) from Oxford University and a MA in Conservation and Restoration of Easel Paintings from Newcastle upon Tyne Polytechnic in 1990. After work as a private picture restorer she joined the conservation department of the National Gallery (London) as a Leverhulme Research Fellow in 1991 working on infrared reflectography and the examination of paintings for the Netherlandish and German Schools Catalogues. Technical examination continued as Rausing Research Associate until in 2005 she became a permanent member of the conservation department continuing the technical examination of paintings and conducting research into improvements in infrared imaging techniques."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-RGRJ-OEM9-N0XT-9KTD a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Director"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Nicholas Penny"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note """Nicholas Penny studied English at Cambridge University and then History of Art at the Courtauld Institute in London. His dissertation on English neo-classical tomb sculpture was published as a book in 1977 by when he was teaching Art History at the University of Manchester. In 1981, together with the late Francis Haskell, he published Taste and the Antique: a guide to what were once the most celebrated antique sculptures and an exploration of one of the most significant revolutions in European taste. He took up a Senior Research Fellowship at King’s College Cambridge in 1982 in order to organize the Reynolds exhibition which opened at the Royal Academy in London in 1986 and to complete a monograph on Raphael together with the late Roger Jones (published 1983).
+In 1986 Dr Penny was appointed Keeper of the Department of Western Art at the Ashmolean Museum, Oxford, where, in addition to organizing exhibitions on subjects as diverse as drawings by Ruskin and etchings by Lucian Freud, he catalogued the Western European Sculpture dating from 1540 to the present day (3 volumes, published 1992). His book The Materials of Sculpture was published in 1993.
+In 1990 he was appointed Clore Curator of Renaissance Art in the National Gallery, London where he was also, in 1998, made Keeper of the Collection. He was co-author of two books on the Renaissance Art in London: Giotto to Dürer (1991) and Dürer to Veronese (1999). In 2000 he came to the Center for Advanced Study in the Visual Arts at the National Gallery of Art, as Mellon Professor and completed work on one volume of the catalogue of Sixteenth-century Italian Paintings in the National Gallery, London (2004). In October 2003 he took up the post of Senior Curator of Sculpture and Decorative Arts at the National Gallery of Art. Since February 2008 he has been Director of the National Gallery, London. His catalogue of the later Sixteenth Century Venetian paintings in the National Gallery was published in 2008."""@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-UE7F-GZ4W-IB7F-CATX a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Scientific Officer"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Rachel Morrison"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note "Rachel Morrison gained a Masters degree in Chemistry from the University of Oxford (2002) and a Postgraduate Diploma in the Conservation of Easel Paintings from the Courtauld Institute of Art (2006). In 2006/2007 she completed internships at the Hamilton Kerr Institute, Cambridge and the Mauritshuis Museum, The Hague, where she carried out practical conservation and technical study of paintings. She joined the National Gallery Scientific Department in 2007 where she now works on organic analysis."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-UUOD-VKSC-XPRZ-ZHY2 a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Mellon Fellow"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Mara Hofmann"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300025526,
+        aat:300025687,
+        aat:300403974,
+        aat:None,
+        crm:E21_Person ;
+    crm:P3_has_note "Mara Hofmann studied at the Friedrich-Alexander-Universität Erlangen-Nürnberg and at the Freie Universität Berlin where she gained a MA in Art History and German Literature in 1998, and a PhD in Art History in 2002 (see Jean Poyer: Das Gesamtwerk, Turnhout, 2004). In 2003/04 she worked as a Feodor-Lynen-Scholar (Post-Doc) of the Alexander von Humboldt Foundation at the Institut de recherche et d’histoire des textes in Paris. In 2005, she was hired by the University of London, Centre for Manuscript and Print Studies, to work on the British Library online Catalogue of Illuminated Manuscripts. She joined the National Gallery as a Mellon Fellow in 2007, where she worked on a pilot project to assemble a digital database of material related to the National Gallery's group of ten paintings by Raphael. Currently, she continues her work on the Raphael Research Resource. Her research interests and publications focus on Renaissance painting and book illumination."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-UZ9Z-01BO-H50F-RSVU a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Senior Scientific Officer"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Joseph Padfield"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025190,
+        aat:300025819,
+        aat:300386684,
+        aat:300403974,
+        aat:None,
+        crm:E21_Person ;
+    crm:P3_has_note "Joseph Padfield gained a BSc (hons) Chemistry (1995) from Edinburgh University and a MA in Conservation of Fine Art from the University of Northumbria at Newcastle in 1998, followed by a two year post graduate internship at the Hamilton Kerr Institute: Cambridge University, where he carried out practical conservation and analytical analysis. He joined the scientific department of the National Gallery (London), as the HP Research Fellow in 2000, where he worked to improve applications for digital imaging and general computing in the fields of conservation and conservation science. In 2006 he became a permanent member of the National Gallery Scientific Department conducting research into digital imaging, preventive conservation and the digital dissemination of conservation related data."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-VW27-N1M6-HMVF-6251 a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Donal Cooper"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Assistant Professor"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note ""@en ;
+    crm:P53_has_former_or_current_location ngo:SC-48N3-1K7M-7Z4V-KBBT .
+
+ngo:SC-WXKO-TESE-EAD7-L1HB a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Marika Spring"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Senior Scientific Officer"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note "Marika Spring gained a BA (hons) in Natural Sciences, specialising in Chemistry (1988), from Cambridge University and a Postgraduate Diploma in the Conservation of Easel Paintings (1991) from the Hamilton Kerr Institute, Cambridge University. She has been working in the Scientific Department of the National Gallery since 1992, where she is currently a senior scientist. Her principal research interests are the study of historical painting techniques and materials, particularly the analysis of pigments, and investigation of the mechanisms of their deterioration."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-X4V0-SPHV-F0ZR-V6S6 a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Director Of Scientific Research"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Ashok Roy"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note "Ashok Roy studied chemistry at the University of Manchester and gained a BSc (hons) in 1970, MSc (1971) and PhD (1973) in inorganic chemistry. He joined the Scientific Department of the National Gallery in 1977 to work with Joyce Plesters on the technical examination of Old Master paintings and became head of department in 1990. His main interests are the materials and techniques of European easel paintings of all periods, and the history and technology of the materials of painting, explored by analytical study. Publications include co-authorship of five catalogues in the Art in the Making series and many other publications on the material history of painting including contributions to the National Gallery Technical Bulletin, which he has edited since 1978. He has also co-edited five volumes of the pre-prints of international congresses of the IIC. He is now Director of Scientific Research at the National Gallery."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-YBF1-4H1I-MWVV-6Z88 a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
             rdfs:label "Myojin Curator Of Italian Painting 1500-1600"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Carol Plazzotta"@en ;
             crm:P2_has_type crm:E41_Appellation ] ;
     crm:P2_has_type aat:300024979,
         aat:300025492,
@@ -356,20 +343,33 @@ ngo:SWDZ-XHEV-BX8N-72HX a crm:E21_Person ;
     crm:P3_has_note "Carol Plazzotta is Myojin Curator of Italian Painting 1500-1600 at the National Gallery. She studied Modern Languages at Cambridge and History of Art at the Courtauld. She subsequently worked as Special Assistant in the Department of Prints and Drawings at the British Museum, where she co-curated an exhibition with Nicholas Turner on Drawings by Guercino in British Collections (1991). She also worked for Dulwich Picture Gallery, the Burlington Magazine and the Getty Museum, cataloguing Italian and Spanish drawings in the permanent collection catalogue European Drawings 3: The J. Paul Getty Museum (1998). She joined the National Gallery as Assistant Curator in 1996 and curated small exhibitions on Botticelli and Stubbs. In 2001, she was promoted to the post of Curator of 16th Century Italian paintings. She researched, curated and co-wrote the catalogue of the major monographic exhibition Raphael from Urbino to Rome in 2004-5. She has also contributed to National Gallery exhibitions on Underdrawing, Renaissance Siena and Renaissance Faces. She has published extensively on Bronzino, Pontormo, Beccafumi, and Raphael, among other 16th century Italian topics, and is currently preparing a catalogue of the 16th-century Tuscan and Roman paintings in the National Gallery."@en ;
     crm:P53_has_former_or_current_location ngo:Q180788 .
 
-ngo:X49G-D5FL-LLD5-L23X a crm:E21_Person ;
+ngo:SC-YWAY-NN31-PKLF-9ZSE a crm:E21_Person ;
     crm:P1_is_identified_by [ a crm:E41_Appellation ;
-            rdfs:label "Raffaello Sanzio"@en ;
+            rdfs:label "Curator Of Italian Paintings 1460-1500"@en ;
             crm:P2_has_type crm:E41_Appellation ],
         [ a crm:E41_Appellation ;
-            rdfs:label "Raphael"@en ;
+            rdfs:label "Luke Syson"@en ;
             crm:P2_has_type crm:E41_Appellation ] ;
     crm:P2_has_type aat:300024979,
-        aat:300025103,
+        aat:300025492,
+        aat:300403974,
         crm:E21_Person ;
-    crm:P3_has_note """Italian painter, draughtsman and architect. He has always been acknowledged as one of the greatest European artists. With Leonardo da Vinci, Michelangelo and Titian, he was one of the most famous painters working in Italy in the period from 1500 to 1520, often identified as the High Renaissance, and in this period he was perhaps the most important figure. His early altarpieces (of 1500–07) were made for Città di Castello and Perugia; in Florence between 1504 and 1508 he created some of his finest portraits and a series of devotional paintings of the Holy Family. In 1508 he moved to Rome, where he decorated in fresco the <i>Stanze</i> of the papal apartments in the Vatican Palace—perhaps his most celebrated works—as well as executing smaller paintings in oil (including portraits) and a series of major altarpieces, some of which were sent from Rome to other centres. In Rome, Raphael came to run a large workshop. He also diversified, working as an architect and designer of prints.
-<a href='http://www.oxfordartonline.com/subscriber/article/grove/art/T070770?goto=raphael&_start=1&type=biography&pos=1' alt=''>N. Penny, ‘Raphael’, in Grove Art Online. Oxford Art Online</a>
-By permission of Oxford University Press, Inc.
-Raphael, 'Self Portrait', Florence, Galleria degli Uffizi. © The Art Archive/Galleria degli Uffizi, Florence/Alfredo Dagli Orti."""@en .
+    crm:P3_has_note "Luke Syson studied art history at the Courtauld Institute and joined the British Museum as curator of medals in 1991. During his time there, he co-edited (with Nicholas Mann) the volume The Image of the Individual: Portraits in the Renaissance (1998) and co-wrote (with Dora Thornton) Objects of Virtue: Art in Renaissance Italy (2001). His many publications include essays devoted to Bertoldo di Giovanni, Leonardo da Vinci, Cosimo Tura and Ercole de’ Roberti, as well considerations of portraiture in several media. In 2001, he co-curated (with Dillian Gordon) the National Gallery exhibition Pisanello: Painter to the Renaissance Court and co-wrote the accompanying publication. He left the British Museum in 2002 while working on the Enlightenment Gallery, and briefly joined the Victoria and Albert Museum as Senior Curator, Medieval and Renaissance Galleries. In 2003, he joined the National Gallery as Curator, Italian Painting, 1460-1500. His most recent work includes responsibility for the 2007 National Gallery exhibition Renaissance Siena: Art for a City and the publication of the introductory essay to the 2008 exhibition Renaissance Faces: From van Eyck to Titian."@en ;
+    crm:P53_has_former_or_current_location ngo:Q180788 .
+
+ngo:SC-YYYP-0ER0-JQK1-J96I a crm:E21_Person ;
+    crm:P1_is_identified_by [ a crm:E41_Appellation ;
+            rdfs:label "Hugo Chapman"@en ;
+            crm:P2_has_type crm:E41_Appellation ],
+        [ a crm:E41_Appellation ;
+            rdfs:label "Assistant Keeper Prints & Drawings Department, Curator of Italian drawings before 1800"@en ;
+            crm:P2_has_type crm:E41_Appellation ] ;
+    crm:P2_has_type aat:300024979,
+        aat:300025492,
+        aat:300403974,
+        crm:E21_Person ;
+    crm:P3_has_note "Hugo Chapman studied at Westfield College, London University where he gained a BA in Art History. In 1985 he joined the Old Master Drawings department of Christie's. Ten years later he was appointed curator of Italian drawings from the period 1400 to 1800 at the British Museum. During his time at the museum he has put together the database for the Italian drawings (this has been available on-line since 2007) and has been involved in exhibitions on Marco Zoppo, Raphael, Michelangelo and is currently working one one dedicated to Italian quattrocento drawings in collaboration with Marzia Faietti from the Gabinetto Disegni e Stampe degli Uffizi in Florence that will open in London in Spring 2010."@en ;
+    crm:P53_has_former_or_current_location ngo:SC-YNDK-OZQU-JHXD-S1RM .
 
 aat:300025190 rdfs:label "designers" .
 
@@ -381,23 +381,23 @@ aat:300025819 rdfs:label "computer programmers" .
 
 aat:300386684 rdfs:label "software developers" .
 
-ngo:52RG-059M-9CMS-937V a crm:E53_Place ;
-    rdfs:label "The British Museum"@en ;
+ngo:Q84 a crm:E53_Place ;
+    rdfs:label "London"@en ;
     crm:P2_has_type crm:E53_Place .
 
-ngo:MWRC-0VP3-JKVA-HDTN a crm:E53_Place ;
+ngo:SC-48N3-1K7M-7Z4V-KBBT a crm:E53_Place ;
     rdfs:label "University of Warwick"@en ;
     crm:P2_has_type crm:E53_Place .
 
-ngo:Q84 a crm:E53_Place ;
-    rdfs:label "London"@en ;
+ngo:SC-YNDK-OZQU-JHXD-S1RM a crm:E53_Place ;
+    rdfs:label "The British Museum"@en ;
     crm:P2_has_type crm:E53_Place .
 
 aat:300025103 rdfs:label "artists (visual artists)" .
 
 aat:None rdfs:label "None" .
 
-ngo:34EP-C96Y-QPQR-FIYX a crm:E53_Place ;
+ngo:SC-6DHW-SWUC-97JS-2VO0 a crm:E53_Place ;
     rdfs:label "The National Gallery of Scotland"@en ;
     crm:P2_has_type crm:E53_Place .
 

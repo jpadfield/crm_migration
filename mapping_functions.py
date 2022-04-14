@@ -103,6 +103,9 @@ def map_document(new_graph, old_graph):
     docs = old_graph.triples((None, RDF.type, getattr(RRO, 'RC26.Digital_Document')))
     tdocs = sum(1 for x in docs)
     
+    ## We are missing the actual file paths for the digital files
+    ## RP96.has_file_path	-- rdfs:label has the actual path but it is an absolute path.
+    ## /pics/tmp/raphael_files/ ==> /documentation/files/ (and under https://cima
     for doc_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC26.Digital_Document'))):
         print ("DOC: [" +str(dno)+ "/"+str(tdocs)+"] - "+str(doc_name))
         
@@ -300,9 +303,7 @@ def map_image(new_graph, old_graph):
 
 def map_sample(new_graph, old_graph):
     for sample_name, _, _ in old_graph.triples((None, RDF.type, getattr(RRO, 'RC23.Sample'))):
-
-        subject_PID = generate_placeholder_PID(sample_name)
-
+        subject_PID = generate_placeholder_PID(sample_name)        
         for subj, pred, obj in old_graph.triples((sample_name, None, None)):
             new_graph = create_sampling_triples(new_graph, old_graph, subject_PID, subj, pred, obj)
             new_graph = create_examination_event_triples(new_graph, old_graph, subject_PID, subj, pred, obj, doc_type='image')

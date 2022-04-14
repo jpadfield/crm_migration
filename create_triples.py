@@ -2,7 +2,7 @@ from rdflib import Graph, Namespace, Literal, BNode
 from rdflib.namespace import RDF, RDFS, NamespaceManager, XSD
 from rdflib.serializer import Serializer
 from SPARQLWrapper import SPARQLWrapper, JSON
-from common_functions import generate_placeholder_PID, create_PID_from_triple, find_aat_value, wikidata_query, get_property, create_year_dates, query_objects, run_ruby_program
+from common_functions import generate_placeholder_PID, create_PID_from_triple, find_aat_value, wikidata_query, get_property, create_year_dates, query_objects, query_subjects, run_ruby_program
 import requests
 from pdb import set_trace as st
 import sys
@@ -1432,9 +1432,31 @@ def create_provenance_triples(new_graph, old_graph, subject_PID, subj, pred, obj
 
 def create_sampling_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
     if obj == getattr(RRO, 'RC23.Sample') or obj == getattr(RRI, 'RCL266.Unmounted_Samples'):
-        sampling_event = BNode()
+        sampling_event = BNode()        
         sampled_section = BNode()
         sampled_works = query_objects(old_graph, subj, getattr(RRO, 'RP52.was_part_of'), None)
+
+        # imaging event plus connections between the sample and image added by JP 13/04/22
+        imaging_event_name = "Imaging of " + str(Literal(get_property(subj, keep_underscores=True), lang="en"))  
+        ime_PID = generate_placeholder_PID(imaging_event_name)
+        
+        new_graph.add((getattr(NGO, ime_PID), RDFS.label, Literal(imaging_event_name, lang="en")))        
+        new_graph.add((getattr(NGO, ime_PID), CRM.P2_has_type, getattr(AAT, '300379861')))
+        new_graph.add((getattr(AAT, '300379861'), RDFS.label, Literal('imaging (image making process)', lang="en")))
+        new_graph.add((getattr(NGO, ime_PID), RDF.type, CRM.E16_Measurement))
+        new_graph.add((getattr(NGO, ime_PID), CRM.P2_has_type, CRM.E16_Measurement))        
+        new_graph.add((getattr(NGO, ime_PID), CRM.P32_used_general_technique, getattr(AAT, '300379532')))
+        new_graph.add((getattr(AAT, '300379532'), RDFS.label, Literal('optical microscopy', lang="en")))
+        new_graph.add((getattr(NGO, ime_PID), CRM.P39_measured, getattr(NGO, subject_PID)))
+        
+        sample_images = query_subjects(old_graph, None, getattr(RRO, 'RP40.is_related_to'), subj, False)
+        for image_name in sample_images:
+          image_PID = generate_placeholder_PID(image_name)
+          new_graph.add((getattr(NGO, ime_PID), CRM.P108_has_produced, getattr(NGO, image_PID))) 
+          new_graph.add((getattr(NGO, image_PID), CRM.P108i_was_produced_by, getattr(NGO, ime_PID))) 
+          new_graph.add((getattr(NGO, image_PID), CRM.P62_depicts, getattr(NGO, subject_PID)))           
+        #################################################################################
+
         ss_labels = query_objects(old_graph, subj, getattr(RRO, 'RP59.has_description'), None)
         if len(ss_labels) > 0:
             sample_site_label = ss_labels[0]
@@ -1467,8 +1489,8 @@ def create_sampling_triples(new_graph, old_graph, subject_PID, subj, pred, obj):
         new_graph.add((doc_BN, CRM.P2_has_type, CRM.E31_Document))
         new_graph.add((doc_BN, CRM.P2_has_type, getattr(WD, 'Q1710397')))
         new_graph.add((getattr(WD, 'Q1710397'), RDFS.label, Literal('reason', lang="en")))
-        new_graph.add((doc_BN, RDFS.comment, Literal('As part of a general technical examination of the painting - documenting the material and techniques used in its production.', lang="en")))
-        new_graph.add((sampling_event, RDFS.comment, Literal('Actual textual content describing the sampling process', lang="en")))
+        new_graph.add((doc_BN, RDFS.comment, Literal('EXAMPLE: As part of a general technical examination of the painting - documenting the material and techniques used in its production.', lang="en")))
+        new_graph.add((sampling_event, RDFS.comment, Literal('EXAMPLE: Actual textual content describing the sampling process', lang="en")))
         new_graph.add((getattr(NGO, subject_PID), CRM.P2_has_type, getattr(AAT, '300034254')))
         new_graph.add((getattr(NGO, subject_PID), RDFS.label, Literal(get_property(subj, keep_underscores=True), lang="en")))
 

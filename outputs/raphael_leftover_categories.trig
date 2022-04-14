@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix wd: <http://www.wikidata.org/entity/> .
 
-_:N23517a66e3d94983a55049b95f58e2ff {
+_:Ncfacb2179dc24cd8b359bf274d79013b {
     "No" a crm:E59_Primitive_Value ;
         crm:P2_has_type crm:E59_Primitive_Value .
 
@@ -10,255 +10,11 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E59_Primitive_Value .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Xenophon_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Institutions_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_01_Art_History_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Chantilly_Musee_Conde_ok_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1839_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_162%2C_ff" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Ramdohr_1787_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_14_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "nationalgallery" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Vasi_1797_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1839_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG213_Scientific_Inorganic_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Ramdohr_1787_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "4_Drawings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Borghini_1584_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1833_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1839_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Buchanan_1824_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
         rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Couche_1786_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_10_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_26_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_27_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_About_Us_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_files_2010_01_27_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Leeds_1868_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Vasi_1794_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_07_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Letters_Wills_Bequests_NG68_letters_from_dossiers_not_integrated_yet_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_10_Support_and_Preparatory_Layers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Young_Angerstein_1823_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_18_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_Manuscript_Catalogue_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Catalogue_Bryan%27s_Gallery_1800_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_not" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_24_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_16_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Waagen_1838_III_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Manilli_1650_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_03_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_06_26_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Letter_Books_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -266,51 +22,15 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_21_" ;
+        rdfs:label "_not" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Copies_" ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_FTIR_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_New_Oxford_Guide_1778_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_14_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_26_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_15_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_03_Bibliography_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_322%2C_f" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "3_Tracings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Manilli_1650_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_04_" ;
+        rdfs:label "2_Prints_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -318,47 +38,31 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
         rdfs:label "_not" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_09_Framing_Dossier_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Eastlake_Diaries_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_19_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_06_Conservation_Dossiers_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_07_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Dubois_De_Saint_Gelais_1727_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_09_Framing_Dossier_F20338_NG213_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1836_I_" ;
+        rdfs:label "_files_2010_01_27_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Ramdohr_1787_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1839_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1833_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_11_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Letter_Books_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -366,11 +70,7 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_22_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Raphael_Catalogue_2004_" ;
+        rdfs:label "2_Prints_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -378,15 +78,665 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_09_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Letter_Books_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1839_II_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Biography_Vasari_engl_1912-14_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Rome%2C_AS%2C_Odescalchi%2C_VII_E_10%2C_1st_page_r-v%2C_last_page_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Young_Angerstein_1823_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_23_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_10_Support_and_Preparatory_Layers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_05_12_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_08_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Catalogue_Bryan%27s_Gallery_1800_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Biography_Vasari_it_1976_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_19_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_15_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Ramdohr_1787_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S17_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_81%2C_p" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1833_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "3_Tracings_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Buchanan_24-05-1808_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Organic_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E56_Language ;
+        rdfs:label "fr"@en ;
+        crm:P2_has_type crm:E56_Language ;
+        crm:P72_has_language wd:Q150,
+            "French"@en .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "3_Tracings_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1839_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Waagen_1838_III_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Inorganic_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Manilli_1650_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_10_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Prints_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1836_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_23_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Santi_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "4_Drawings_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Xenophon_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Borghini_1584_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_25_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_13_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Kunstblatt_1847_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_not" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_Manuscript_Catalogue_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Borghini_1584_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_17_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_22_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_B_5%2C_f" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Leeds_1868_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1836_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1839_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_01_Art_Historical_Information_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Vasi_1794_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_03_Bibliography_Couche_1786_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1836_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_04_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
         rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_not" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Lazzari_1693_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_About_Us_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_1%2C_315v%2C_316%2C_317_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_13_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_06_29_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Buchanan_1824_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_08_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Christie_25_May_1811_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_03_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_4%2C_busta_679_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Raphael_Catalogue_2004_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Crozat_1729_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_24_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Venice_Cavalcaselle_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_X-Ray_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "nationalgallery" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_04_Exhibition_and_Loan_History_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_09_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_British_Institution_1845_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_29_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_X-Ray_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Catalogue_Pall_Mall_1816_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_15_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Vasi_1797_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1833_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_20_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_06_26_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_17%2C_ff" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_26_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_24_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Longhena_1829_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_22_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Chantilly_Musee_Conde_ok_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_6%2C_ff" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Eastlake_Diaries_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_06_30_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_02_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_files_N-0213_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_03_Bibliography_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_21_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "external" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Catalogue_Fesch_1845_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Letter_Books_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_25_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Venice_Cavalcaselle_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Wornum_Diary_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1833_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1858_III_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_07_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_files_N-0027_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Dubois_De_Saint_Gelais_1727_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Inventory_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E56_Language ;
@@ -396,35 +746,113 @@ _:N23517a66e3d94983a55049b95f58e2ff {
             "English"@en .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_24_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Vasari_1807-11_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "3_Tracings_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_10_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "2_Prints_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1833_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E56_Language ;
+        rdfs:label "lt"@en ;
+        crm:P2_has_type crm:E56_Language ;
+        crm:P72_has_language wd:Q397,
+            "Latin"@en .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Inorganic_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_10_Support_and_Preparatory_Layers_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_not" ;
+        rdfs:label "_Manuscript_Catalogue_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_01_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Couche_1786_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Venice_Cavalcaselle_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Organic_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Catalogue_Bryan%27s_Gallery_1798_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Ramdohr_1787_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_09_Framing_Dossier_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Eastlake_Diaries_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_30_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_11_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Lomazzo_1591_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_NG1171_Scientific_Organic_FTIR_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Copies_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Eastlake_Diaries_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Institutions_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -432,47 +860,83 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_10_02_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_09_Framing_Dossier_F20495_NG6596_no_file_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_26_" ;
+        rdfs:label "_files_N-6596_02_Provenance_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_348%2C_ff" ;
+        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_02_Provenance_Couche_1786_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_81%2C_p" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Venice_Cavalcaselle_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "2_Prints_" ;
+        rdfs:label "_322%2C_f" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Letter_Books_" ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG213_Scientific_Inorganic_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_02_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_01_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_01_Art_Historical_Information_" ;
+        rdfs:label "2_IRR_Images_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Vasi_1797_" ;
+        rdfs:label "_files_N-3943_02_Provenance_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_10_01_" ;
+        rdfs:label "C" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_17_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_09_Framing_Dossier_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Letter_Books_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Vasi_1797_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_18_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1833_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Inorganic_FTIR_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Vasi_1794_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Letters_Wills_Bequests_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -480,15 +944,219 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Passavant_1839_II_" ;
+        rdfs:label "_25%2C_fasc" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_FTIR_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_17_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_16_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Venice_Cavalcaselle_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_X-Ray_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_1151%2C_ff" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_not" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "3_Tracings_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Catalogue_Bryan%27s_Gallery_1798_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_Manuscript_Catalogue_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_01_Art_Historical_Information_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Venice_Cavalcaselle_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_10_06_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_3%2C_ff" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_12_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Waagen_1838_III_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_348%2C_ff" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Aretino_1609_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Buchanan_1824_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_NG744_IRRs_handbuilt_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_08_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Ramdohr_1787_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Silius_Punica_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_02_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Venice_Cavalcaselle_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Christie%27s_25-6-1892_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
         rdfs:label "_1256%2C_f" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1836_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_11_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Microscope_Details_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_GM_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_X-Ray_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_British_Institution_1819_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_01_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_26_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E56_Language ;
@@ -498,7 +1166,23 @@ _:N23517a66e3d94983a55049b95f58e2ff {
             "German"@en .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_10_01_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_more_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "nardinieditore" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_Manuscript_Catalogue_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -506,79 +1190,7 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1833_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_27_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_24_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_04_Exhibition_and_Loan_History_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_05_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_Manuscript_Catalogue_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_25_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_GM_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_files_N-6596_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_files_N-0027_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_10_28_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Waagen_1838_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Longhena_1829_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -586,11 +1198,43 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_24_" ;
+        rdfs:label "_322%2C_f" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_1%2C_315v%2C_316%2C_317_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_22_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_1%2C_4v_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_files_N-6480_02_Provenance_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -598,99 +1242,7 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_4%2C_busta_679_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Eastlake_Diaries_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "4_Drawings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Borghini_1584_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_13_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Christie%27s_25-6-1892_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Couche_1786_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_19_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_02_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_19_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1833_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_12_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_26_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Prints_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_NG6596_IRRs_handbuilt_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "nationalgallery" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_05_14_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_16_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -698,43 +1250,89 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_Manuscript_Catalogue_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Manilli_1650_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Tresham_1818_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_14_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_08_Images_of_Frames_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_12_Paint_Binding_Medium_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Ramdohr_1787_I_" ;
+        rdfs:label "_not" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_11_" ;
+        rdfs:label "1_Visible_Light_Images_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Venice_Cavalcaselle_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_09_Framing_Dossier_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Couche_1786_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "burlington" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_01_Art_History_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Christie_Manson_28-04-1856_lot_727_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_IR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_12_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Rossini_1693_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Waagen_1838_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E56_Language ;
+        rdfs:label "it"@en ;
+        crm:P2_has_type crm:E56_Language ;
+        crm:P72_has_language wd:Q652,
+            "Italian"@en .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Dubois_De_Saint_Gelais_1727_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_16_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Biography_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -746,11 +1344,67 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1836_I_" ;
+        rdfs:label "_files_N-0744_02_Provenance_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_09_Framing_Dossier_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Longhena_1829_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Prints_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_New_Oxford_Guide_1778_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "4_Drawings_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_81%2C_p" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_24_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_UV_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_19_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1839_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S9_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -758,7 +1412,47 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "2_Prints_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_01_Art_History_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_162%2C_ff" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Waagen_1838_III_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1836_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Board_Papers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_12_Paint_Binding_Medium_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_19%2C_busta_769_for_the_year_1833%2C_f" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1839_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_15_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E56_Language ;
@@ -768,801 +1462,11 @@ _:N23517a66e3d94983a55049b95f58e2ff {
             "Spanish"@en .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Lazzari_1693_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_1%2C_4v_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Kunstblatt_1847_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Buchanan_24-05-1808_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_not" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1836_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "ng-london" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Letter_Books_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1839_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Catalogue_Bryan%27s_Gallery_1798_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Dubois_De_Saint_Gelais_1727_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Borghini_1584_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_British_Institution_1819_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1839_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Vasari_1807-11_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Jameson_1844_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "4_Drawings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "C" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_29_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1839_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Letter_Books_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_Manuscript_Catalogue_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_08_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Lomazzo_1591_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Biography_Vasari_it_1976_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_19%2C_busta_769_for_the_year_1833%2C_f" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Silius_Punica_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_not" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_01_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_03_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Prints_Raphael_Invenit_1985_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1836_II_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_10_Support_and_Preparatory_Layers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Buchanan_1824_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_11_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Biography_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1839_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Passavant_1836_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Crozat_1729_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_3%2C_ff" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Catalogue_Pall_Mall_1816_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_322%2C_f" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_12_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_files_2009_10_02_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "4_Drawings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_81%2C_p" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_22_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_09_Framing_Dossier_F20338_NG213_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "c2rmf" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_23_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Christie_Manson_28-04-1856_lot_727_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_NG744_IRRs_handbuilt_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_20_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1858_III_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_NG1171_Scientific_Inorganic_GC_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Longhena_1829_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_16_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_05_12_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_04_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Eastlake_Diaries_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Studying_Raphael_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1836_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Crozat_1729_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_16_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E56_Language ;
-        rdfs:label "it"@en ;
-        crm:P2_has_type crm:E56_Language ;
-        crm:P72_has_language wd:Q652,
-            "Italian"@en .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_10_13_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_08_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_17_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1839_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_NG1171_Scientific_Organic_FTIR_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_22_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_more_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Rome%2C_AS%2C_Odescalchi%2C_VII_E_10%2C_1st_page_r-v%2C_last_page_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_13_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_02_Provenance_Couche_1786_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_British_Institution_1845_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Manilli_1650_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Santi_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Eastlake_Diaries_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_Manuscript_Catalogue_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Vasi_1794_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "3_Tracings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Christie_25_May_1811_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E56_Language ;
-        rdfs:label "fr"@en ;
-        crm:P2_has_type crm:E56_Language ;
-        crm:P72_has_language wd:Q150,
-            "French"@en .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Letter_Books_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S16_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Catalogue_Bryan%27s_Gallery_1798_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Young_1822_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_30_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Longhena_1829_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "external" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_Manuscript_Catalogue_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_06_30_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_1151%2C_ff" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E56_Language ;
-        rdfs:label "lt"@en ;
-        crm:P2_has_type crm:E56_Language ;
-        crm:P72_has_language wd:Q397,
-            "Latin"@en .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_10_06_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_not" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1839_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Catalogue_Bryans_Gallery_1798_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Inventory_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_06_29_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Biography_Vasari_engl_1912-14_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_08_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_03_Bibliography_Couche_1786_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_07_02_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Letter_Books_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "3_Tracings_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_17_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Wornum_Diary_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Pesaro%2C_Biblioteca_Oliveriana_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_01_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_01_25_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_12_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1833_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Waagen_1838_III_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_B_5%2C_f" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Vasi_1797_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Board_Papers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_files_N-6480_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1839_I_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_09_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_25_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
         rdfs:label "_pics_tmp_raphael_files_N-2069_09_Framing_Dossier_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_08_21_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Venice_Cavalcaselle_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Longhena_1829_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Waagen_1838_III_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Ramdohr_1787_I_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1570,27 +1474,27 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Eastlake_Diaries_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_24_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_15_" ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_27_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Passavant_1836_I_" ;
+        rdfs:label "_pics_tmp_raphael_files_Edinburgh_NG_Bridgewater_Madonna_02_Provenance_Passavant_1872_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_X-Ray_Images_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_03_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_files_N-3943_02_Provenance_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Vasi_1794_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
+        rdfs:label "_pics_tmp_raphael_files_2010_05_14_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1598,11 +1502,43 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_D%27Agincourt_1823_" ;
+        rdfs:label "_pics_tmp_raphael_files_2010_01_05_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_02_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_X-Ray_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_09_Framing_Dossier_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Passavant_1836_I_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_files_2009_10_02_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_18_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_IRR_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_X-Ray_Images_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1610,23 +1546,7 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_08_Images_of_Frames_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Inorganic_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_08_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1836_I_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1634,51 +1554,47 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
+        rdfs:label "4_Drawings_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Aretino_1609_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_26_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Board_Papers_" ;
+        rdfs:label "c2rmf" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Passavant_1833_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_09_Framing_Dossier_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_17%2C_ff" ;
+        rdfs:label "1_X-Ray_Images_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_06_Conservation_Dossiers_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Manilli_1650_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_files_2009_10_01_" ;
+        rdfs:label "2_IRR_Images_NG6596_IRRs_handbuilt_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_18_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Vasi_1797_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_02_17_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Catalogue_Bryans_Gallery_1798_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_10_28_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_14_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_07_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1872_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1686,143 +1602,51 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Passavant_1839_II_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Borghini_1584_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_files_N-0744_02_Provenance_" ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_25_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Visible_Light_Images_" ;
+        rdfs:label "burlington" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Board_Papers_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1839_I_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S9_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Tresham_1818_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Catalogue_Fesch_1845_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Passavant_1872_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Inventory_" ;
+        rdfs:label "ng-london" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_IR_Images_" ;
+        rdfs:label "3_Tracings_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Rossini_1693_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Couche_1786_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_11_13_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_08_Images_of_Frames_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_" ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_08_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Vasi_1794_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_23_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_01_Art_Historical_Information_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_09_Framing_Dossier_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Letters_Wills_Bequests_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_IRR_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "2_Microscope_Details_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_01_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG6480_Scientific_Inorganic_FTIR_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-2919_06_Conservation_Dossiers_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S17_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_09_10_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_25%2C_fasc" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2009_12_15_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0027_01_Art_History_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_Microscope_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_1%2C_4%2C_5%2C_5v%2C_38v_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_files_N-0213_02_Provenance_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "1_UV_Images_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-6596_09_Framing_Dossier_F20495_NG6596_no_file_" ;
+        rdfs:label "_Manuscript_Catalogue_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1830,11 +1654,19 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "1_Cross_Sections_35mm_" ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_D%27Agincourt_1823_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "nardinieditore" ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_09_Framing_Dossier_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_11_" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1842,7 +1674,195 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Inventory_" ;
+        rdfs:label "1_Visible_Light_Images_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_09_12_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "nationalgallery" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Pesaro%2C_Biblioteca_Oliveriana_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1839_II_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_02_09_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_19_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_files_2009_10_01_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Crozat_1729_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_14_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_2_HPLC_Jo_Kirby_S16_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_04_14_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_04_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "2_Prints_Raphael_Invenit_1985_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6596_02_Provenance_Venice_Cavalcaselle_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_27_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2010_03_26_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_10_13_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_10_02_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_08_13_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_Manuscript_Catalogue_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Letters_Wills_Bequests_NG68_letters_from_dossiers_not_integrated_yet_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Scientific_Do_not_use_NG1171_Scientific_Organic_NG1171_Scientific_Organic_1_NG1171_Scientific_Inorganic_GC_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2919_02_Provenance_Young_1822_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-3943_02_Provenance_Inventory_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_12_21_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_07_01_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_08_Images_of_Frames_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_02_Provenance_Passavant_1872_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_Studying_Raphael_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0027_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-6480_09_Framing_Dossier_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-2069_02_Provenance_Jameson_1844_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0168_02_Provenance_Passavant_1833_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "4_Drawings_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_Microscope_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0744_02_Provenance_Letters_Wills_Bequests_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_2009_11_30_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_1%2C_4%2C_5%2C_5v%2C_38v_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "_pics_tmp_raphael_files_N-0213_06_Conservation_Dossiers_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "1_Cross_Sections_35mm_" ;
+        crm:P2_has_type crm:E73_Information_Object .
+
+    [] a crm:E73_Information_Object ;
+        rdfs:label "nationalgallery" ;
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
@@ -1850,27 +1870,7 @@ _:N23517a66e3d94983a55049b95f58e2ff {
         crm:P2_has_type crm:E73_Information_Object .
 
     [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_12_Paint_Binding_Medium_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_03_01_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_N-1171_02_Provenance_Passavant_1872_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_pics_tmp_raphael_files_2010_04_30_" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "_6%2C_ff" ;
-        crm:P2_has_type crm:E73_Information_Object .
-
-    [] a crm:E73_Information_Object ;
-        rdfs:label "nationalgallery" ;
+        rdfs:label "2_Microscope_Details_" ;
         crm:P2_has_type crm:E73_Information_Object .
 }
 
